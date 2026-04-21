@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-21T16:34:27.776Z",
+  "lastUpdated": "2026-04-21T16:54:29.575Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
-    "total": 189,
-    "newLaunch": 155,
+    "total": 187,
+    "newLaunch": 153,
     "restock": 34
   },
   "items": [
@@ -3140,6 +3140,42 @@
       "hasIncoming": true
     },
     {
+      "parentName": "Sunglasses - Matte Black",
+      "category": "Accessory",
+      "skus": [
+        "SL-ACCESSORY-BLACKSUNGLSS"
+      ],
+      "skuCount": 1,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3341",
+      "shipment": "Air",
+      "exf": "2026-06-06",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-01",
+      "bpDeliveryDue": "2026-07-15",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Sunglasses - Tortoise Shell",
+      "category": "Accessory",
+      "skus": [
+        "SL-ACCESSORY-TORTOISESUNGLSS"
+      ],
+      "skuCount": 1,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3341",
+      "shipment": "Air",
+      "exf": "2026-06-06",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-01",
+      "bpDeliveryDue": "2026-07-15",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
       "parentName": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
       "category": "Sport Shirt",
       "skus": [
@@ -3205,6 +3241,126 @@
       "etaToStores": "Early July",
       "etaToStoresDate": "2026-07-07",
       "bpDeliveryDue": "2026-06-19",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-BRNTANWNDPN-36",
+        "SL-BLAZER-BRNTANWNDPN-38",
+        "SL-BLAZER-BRNTANWNDPN-40",
+        "SL-BLAZER-BRNTANWNDPN-42",
+        "SL-BLAZER-BRNTANWNDPN-44",
+        "SL-BLAZER-BRNTANWNDPN-46",
+        "SL-BLAZER-BRNTANWNDPN-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3513",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Cream Plaid",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-CREAMPLAID-36",
+        "SL-BLAZER-CREAMPLAID-38",
+        "SL-BLAZER-CREAMPLAID-40",
+        "SL-BLAZER-CREAMPLAID-42",
+        "SL-BLAZER-CREAMPLAID-44",
+        "SL-BLAZER-CREAMPLAID-46",
+        "SL-BLAZER-CREAMPLAID-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3513",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-LTGREYCHALK-36",
+        "SL-BLAZER-LTGREYCHALK-38",
+        "SL-BLAZER-LTGREYCHALK-40",
+        "SL-BLAZER-LTGREYCHALK-42",
+        "SL-BLAZER-LTGREYCHALK-44",
+        "SL-BLAZER-LTGREYCHALK-46",
+        "SL-BLAZER-LTGREYCHALK-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3513",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-OXBLUEPLAID-36",
+        "SL-BLAZER-OXBLUEPLAID-38",
+        "SL-BLAZER-OXBLUEPLAID-40",
+        "SL-BLAZER-OXBLUEPLAID-42",
+        "SL-BLAZER-OXBLUEPLAID-44",
+        "SL-BLAZER-OXBLUEPLAID-46",
+        "SL-BLAZER-OXBLUEPLAID-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3513",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31",
+      "lastReceivedDate": "",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-TXTTANOLIVE-48",
+        "SL-BLAZER-TXTTANOLIVE-36",
+        "SL-BLAZER-TXTTANOLIVE-38",
+        "SL-BLAZER-TXTTANOLIVE-40",
+        "SL-BLAZER-TXTTANOLIVE-42",
+        "SL-BLAZER-TXTTANOLIVE-44",
+        "SL-BLAZER-TXTTANOLIVE-46"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "poRef": "TH3513",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31",
       "lastReceivedDate": "",
       "hasIncoming": true
     },
@@ -4032,18 +4188,18 @@
       "hasIncoming": true
     },
     {
-      "parentName": "Peach Twill Pants - Navy",
+      "parentName": "Peach Twill Pants - Dark Brown",
       "category": "Casual Pants",
       "skus": [
-        "SL-CP-PEACHNAVY-29",
-        "SL-CP-PEACHNAVY-30",
-        "SL-CP-PEACHNAVY-31",
-        "SL-CP-PEACHNAVY-32",
-        "SL-CP-PEACHNAVY-33",
-        "SL-CP-PEACHNAVY-34",
-        "SL-CP-PEACHNAVY-36",
-        "SL-CP-PEACHNAVY-38",
-        "SL-CP-PEACHNAVY-40"
+        "SL-CP-PEACHDBROWN-29",
+        "SL-CP-PEACHDBROWN-30",
+        "SL-CP-PEACHDBROWN-31",
+        "SL-CP-PEACHDBROWN-32",
+        "SL-CP-PEACHDBROWN-33",
+        "SL-CP-PEACHDBROWN-34",
+        "SL-CP-PEACHDBROWN-36",
+        "SL-CP-PEACHDBROWN-38",
+        "SL-CP-PEACHDBROWN-40"
       ],
       "skuCount": 9,
       "status": "New Launch",
@@ -4058,192 +4214,18 @@
       "hasIncoming": true
     },
     {
-      "parentName": "State and Liberty Collar Stays - Stainless Steel",
-      "category": "Accessory",
-      "skus": [
-        "SL-COLLARSTAYS-ONLINE"
-      ],
-      "skuCount": 1,
-      "status": "New Launch",
-      "totalOnHand": 111322,
-      "poRef": "",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "",
-      "etaToStoresDate": "",
-      "bpDeliveryDue": "",
-      "lastReceivedDate": "",
-      "hasIncoming": false
-    },
-    {
-      "parentName": "Sunglasses - Matte Black",
-      "category": "Accessory",
-      "skus": [
-        "SL-ACCESSORY-BLACKSUNGLSS"
-      ],
-      "skuCount": 1,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3341",
-      "shipment": "Air",
-      "exf": "2026-06-06",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-01",
-      "bpDeliveryDue": "2026-07-15",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Sunglasses - Tortoise Shell",
-      "category": "Accessory",
-      "skus": [
-        "SL-ACCESSORY-TORTOISESUNGLSS"
-      ],
-      "skuCount": 1,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3341",
-      "shipment": "Air",
-      "exf": "2026-06-06",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-01",
-      "bpDeliveryDue": "2026-07-15",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-BRNTANWNDPN-36",
-        "SL-BLAZER-BRNTANWNDPN-38",
-        "SL-BLAZER-BRNTANWNDPN-40",
-        "SL-BLAZER-BRNTANWNDPN-42",
-        "SL-BLAZER-BRNTANWNDPN-44",
-        "SL-BLAZER-BRNTANWNDPN-46",
-        "SL-BLAZER-BRNTANWNDPN-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3513",
-      "shipment": "Air",
-      "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
-      "bpDeliveryDue": "2026-07-31",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Cream Plaid",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-CREAMPLAID-36",
-        "SL-BLAZER-CREAMPLAID-38",
-        "SL-BLAZER-CREAMPLAID-40",
-        "SL-BLAZER-CREAMPLAID-42",
-        "SL-BLAZER-CREAMPLAID-44",
-        "SL-BLAZER-CREAMPLAID-46",
-        "SL-BLAZER-CREAMPLAID-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3513",
-      "shipment": "Air",
-      "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
-      "bpDeliveryDue": "2026-07-31",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-LTGREYCHALK-36",
-        "SL-BLAZER-LTGREYCHALK-38",
-        "SL-BLAZER-LTGREYCHALK-40",
-        "SL-BLAZER-LTGREYCHALK-42",
-        "SL-BLAZER-LTGREYCHALK-44",
-        "SL-BLAZER-LTGREYCHALK-46",
-        "SL-BLAZER-LTGREYCHALK-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3513",
-      "shipment": "Air",
-      "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
-      "bpDeliveryDue": "2026-07-31",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-OXBLUEPLAID-36",
-        "SL-BLAZER-OXBLUEPLAID-38",
-        "SL-BLAZER-OXBLUEPLAID-40",
-        "SL-BLAZER-OXBLUEPLAID-42",
-        "SL-BLAZER-OXBLUEPLAID-44",
-        "SL-BLAZER-OXBLUEPLAID-46",
-        "SL-BLAZER-OXBLUEPLAID-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3513",
-      "shipment": "Air",
-      "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
-      "bpDeliveryDue": "2026-07-31",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-TXTTANOLIVE-48",
-        "SL-BLAZER-TXTTANOLIVE-36",
-        "SL-BLAZER-TXTTANOLIVE-38",
-        "SL-BLAZER-TXTTANOLIVE-40",
-        "SL-BLAZER-TXTTANOLIVE-42",
-        "SL-BLAZER-TXTTANOLIVE-44",
-        "SL-BLAZER-TXTTANOLIVE-46"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "poRef": "TH3513",
-      "shipment": "Air",
-      "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
-      "bpDeliveryDue": "2026-07-31",
-      "lastReceivedDate": "",
-      "hasIncoming": true
-    },
-    {
-      "parentName": "Peach Twill Pants - Dark Brown",
+      "parentName": "Peach Twill Pants - Navy",
       "category": "Casual Pants",
       "skus": [
-        "SL-CP-PEACHDBROWN-29",
-        "SL-CP-PEACHDBROWN-30",
-        "SL-CP-PEACHDBROWN-31",
-        "SL-CP-PEACHDBROWN-32",
-        "SL-CP-PEACHDBROWN-33",
-        "SL-CP-PEACHDBROWN-34",
-        "SL-CP-PEACHDBROWN-36",
-        "SL-CP-PEACHDBROWN-38",
-        "SL-CP-PEACHDBROWN-40"
+        "SL-CP-PEACHNAVY-29",
+        "SL-CP-PEACHNAVY-30",
+        "SL-CP-PEACHNAVY-31",
+        "SL-CP-PEACHNAVY-32",
+        "SL-CP-PEACHNAVY-33",
+        "SL-CP-PEACHNAVY-34",
+        "SL-CP-PEACHNAVY-36",
+        "SL-CP-PEACHNAVY-38",
+        "SL-CP-PEACHNAVY-40"
       ],
       "skuCount": 9,
       "status": "New Launch",
@@ -4394,24 +4376,6 @@
       "bpDeliveryDue": "2026-09-15",
       "lastReceivedDate": "",
       "hasIncoming": true
-    },
-    {
-      "parentName": "Travel Garment Bag",
-      "category": "Accessory",
-      "skus": [
-        "SL-ACCESSORY-TRVLGMNTBAG"
-      ],
-      "skuCount": 1,
-      "status": "New Launch",
-      "totalOnHand": 616,
-      "poRef": "",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "",
-      "etaToStoresDate": "",
-      "bpDeliveryDue": "",
-      "lastReceivedDate": "",
-      "hasIncoming": false
     }
   ]
 }
