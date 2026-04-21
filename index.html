@@ -1,0 +1,546 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Hard anti-cache: browser should never serve a stale copy of this HTML -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>New Launch &amp; Restock</title>
+  <link rel="preconnect" href="https://api.fontshare.com" crossorigin />
+  <link href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&f[]=jetbrains-mono@400,500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #ffffff;
+      --ink: #000000;
+      --ink-soft: #3a3a3a;
+      --ink-muted: #7a7a7a;
+      --ink-faint: #c4c4c4;
+      --line: #e5e5e5;
+      --row-hover: #fafafa;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+    body {
+      font-family: 'Satoshi', system-ui, -apple-system, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    .wrap { max-width: 1400px; margin: 0 auto; padding: 32px 28px 56px; }
+
+    /* ---------- header ---------- */
+    header {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 24px; flex-wrap: wrap;
+      border-bottom: 2px solid var(--ink); padding-bottom: 16px; margin-bottom: 20px;
+    }
+    .title-block { max-width: 640px; }
+    h1 {
+      font-family: 'Satoshi', sans-serif;
+      font-weight: 700; font-size: clamp(22px, 2.4vw, 28px);
+      line-height: 1.1; letter-spacing: -0.01em; margin: 0;
+    }
+    .meta {
+      display: flex; flex-direction: column; align-items: flex-end; gap: 4px;
+      font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-muted);
+      min-width: 200px;
+    }
+    .meta button {
+      margin-top: 6px; font: inherit; font-family: 'Satoshi', sans-serif; font-weight: 700;
+      background: var(--ink); color: var(--bg); border: 1px solid var(--ink);
+      padding: 6px 12px; border-radius: 0; cursor: pointer; font-size: 11px;
+      letter-spacing: .06em; text-transform: uppercase;
+      transition: background .15s ease, color .15s ease;
+    }
+    .meta button:hover { background: var(--bg); color: var(--ink); }
+    .meta button:disabled { opacity: .4; cursor: wait; }
+
+    /* ---------- stat strip ---------- */
+    .stats {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+      border: 1px solid var(--line); margin-bottom: 18px;
+    }
+    .stat {
+      padding: 14px 20px;
+      display: flex; flex-direction: column; gap: 2px;
+      border-right: 1px solid var(--line);
+    }
+    .stat:last-child { border-right: 0; }
+    .stat-label {
+      font-family: 'Satoshi', sans-serif; font-size: 10.5px;
+      font-weight: 500;
+      text-transform: uppercase; letter-spacing: .14em; color: var(--ink-muted);
+    }
+    .stat-value {
+      font-family: 'Satoshi', sans-serif; font-size: 20px; line-height: 1.2;
+      font-weight: 700; color: var(--ink); letter-spacing: -0.01em;
+    }
+
+    /* ---------- controls ---------- */
+    .controls {
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+      border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+      padding: 12px 0;
+    }
+    .segmented {
+      display: inline-flex; border: 1px solid var(--ink);
+    }
+    .segmented button {
+      font: inherit; border: 0; background: transparent; color: var(--ink);
+      padding: 6px 14px; cursor: pointer; font-weight: 700; font-size: 12px;
+      letter-spacing: .04em; text-transform: uppercase; border-right: 1px solid var(--ink);
+    }
+    .segmented button:last-child { border-right: 0; }
+    .segmented button.active { background: var(--ink); color: var(--bg); }
+    .controls select, .controls input[type="search"] {
+      font: inherit; font-family: 'Satoshi', sans-serif; font-size: 13px;
+      border: 1px solid var(--line); background: var(--bg); border-radius: 0;
+      padding: 7px 10px; color: var(--ink); min-width: 160px;
+      outline: none;
+    }
+    .controls select:focus, .controls input[type="search"]:focus {
+      border-color: var(--ink);
+    }
+    .controls input[type="search"] { min-width: 240px; flex: 1; }
+    .controls label {
+      font-family: 'Satoshi', sans-serif; font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: .14em; color: var(--ink-muted);
+    }
+    .spacer { flex: 1; }
+    .count-pill {
+      font-family: 'JetBrains Mono', monospace; font-size: 11px;
+      color: var(--ink-muted); padding: 4px 10px; border: 1px solid var(--line);
+    }
+
+    /* ---------- table ---------- */
+    .table-scroll { overflow-x: auto; border: 1px solid var(--line); border-top: 0; }
+    table { width: 100%; border-collapse: collapse; min-width: 900px; }
+    thead th {
+      position: sticky; top: 0; background: var(--bg); z-index: 1;
+      text-align: left; font-family: 'Satoshi', sans-serif;
+      font-size: 13px; font-weight: 700; letter-spacing: 0;
+      text-transform: none; color: var(--ink);
+      padding: 14px 18px; border-bottom: 2px solid var(--ink);
+      white-space: nowrap;
+    }
+    thead th.sortable { cursor: pointer; user-select: none; }
+    thead th.sortable:hover { color: var(--ink-soft); }
+    thead th .arrow { display: inline-block; width: 8px; opacity: .4; margin-left: 2px; font-weight: 400; }
+    thead th.sorted { color: var(--ink); }
+    thead th.sorted .arrow { opacity: 1; }
+
+    tbody td {
+      padding: 13px 18px; border-bottom: 1px solid var(--line);
+      vertical-align: middle; font-size: 13.5px;
+    }
+    tbody tr:hover td { background: var(--row-hover); }
+
+    /* thick divider row between ETA buckets */
+    tr.bucket-break td {
+      padding: 0; height: 0; border-bottom: 2px solid var(--ink);
+      background: var(--bg);
+    }
+
+    .product-type {
+      font-family: 'JetBrains Mono', monospace; font-size: 11px;
+      text-transform: uppercase; letter-spacing: .1em; color: var(--ink-soft);
+      white-space: nowrap;
+    }
+    .item-name { font-weight: 700; color: var(--ink); }
+    .eta-bucket {
+      font-family: 'Satoshi', sans-serif; font-weight: 500;
+      color: var(--ink); white-space: nowrap;
+    }
+    .status {
+      font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600;
+      letter-spacing: .1em; text-transform: uppercase; color: var(--ink);
+      white-space: nowrap;
+    }
+    .status.restock {
+      text-decoration: underline; text-decoration-thickness: 2px;
+      text-underline-offset: 4px;
+    }
+    .po-ref {
+      font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--ink);
+      white-space: nowrap;
+    }
+    .po-ref.received { color: var(--ink-muted); font-style: italic; }
+    .eta-date {
+      font-family: 'JetBrains Mono', monospace; font-size: 12px;
+      color: var(--ink-soft); white-space: nowrap;
+    }
+    .dash { color: var(--ink-faint); }
+
+    /* ---------- states ---------- */
+    .state {
+      padding: 48px 24px; text-align: center; color: var(--ink-muted);
+      font-family: 'Satoshi', sans-serif; font-size: 14px;
+      border: 1px solid var(--line); border-top: 0;
+    }
+    .state.error {
+      color: var(--ink); font-weight: 600;
+    }
+    .spinner {
+      width: 12px; height: 12px; border: 2px solid var(--line);
+      border-top-color: var(--ink); border-radius: 50%;
+      animation: spin 0.8s linear infinite; display: inline-block; vertical-align: middle;
+      margin-right: 8px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    footer {
+      margin-top: 28px; text-align: center; font-family: 'JetBrains Mono', monospace;
+      font-size: 10.5px; color: var(--ink-muted); letter-spacing: .08em;
+    }
+
+    @media (max-width: 860px) {
+      h1 { font-size: 40px; }
+    }
+    @media (max-width: 560px) {
+      .stats { grid-template-columns: 1fr; }
+      .stat { border-right: 0; border-bottom: 1px solid var(--line); }
+      .stat:last-child { border-bottom: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="title-block">
+        <h1>New Launch &amp; Restock</h1>
+      </div>
+      <div class="meta">
+        <div id="updated-text">&mdash;</div>
+        <button id="refresh-btn" type="button">Refresh now</button>
+      </div>
+    </header>
+
+    <section class="stats">
+      <div class="stat"><div class="stat-label">Total</div><div class="stat-value" id="stat-total">&mdash;</div></div>
+      <div class="stat"><div class="stat-label">New Launch</div><div class="stat-value" id="stat-new">&mdash;</div></div>
+      <div class="stat"><div class="stat-label">Restock</div><div class="stat-value" id="stat-restock">&mdash;</div></div>
+    </section>
+
+    <section class="controls">
+      <label>Status</label>
+      <div class="segmented" id="status-seg">
+        <button data-value="all" class="active">All</button>
+        <button data-value="New Launch">New Launch</button>
+        <button data-value="Restock">Restock</button>
+      </div>
+      <label>Product Type</label>
+      <select id="category-filter"><option value="all">All</option></select>
+      <input id="search" type="search" placeholder="Search item name or SKU&hellip;" />
+      <div class="spacer"></div>
+      <div class="count-pill" id="count-pill">&mdash;</div>
+    </section>
+
+    <section>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th class="sortable" data-sort="category">Product Type <span class="arrow"></span></th>
+              <th class="sortable" data-sort="parentName">Item Name <span class="arrow"></span></th>
+              <th class="sortable sorted" data-sort="etaToStoresDate">Estimated ETA to Stores <span class="arrow">&uarr;</span></th>
+              <th class="sortable" data-sort="status">New Launch / Restock <span class="arrow"></span></th>
+              <th>PO Ref</th>
+              <th class="sortable" data-sort="etaToStoresDate">ETA to Stores <span class="arrow"></span></th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+      <div id="empty-state" class="state" style="display:none">Nothing matches those filters.</div>
+      <div id="loading-state" class="state"><span class="spinner"></span>Fetching latest data&hellip;</div>
+      <div id="error-state" class="state error" style="display:none"></div>
+    </section>
+
+    <footer>
+      <span id="src-url"></span>
+    </footer>
+  </div>
+
+  <script>
+  (function () {
+    // =====================================================
+    // CONFIG
+    // =====================================================
+    var CONFIG = {
+      owner:  'jaysonsnl13',
+      repo:   'New-Launch',
+      branch: 'main',
+      file:   'NewLaunchJSON.json',
+      refreshMs: 60 * 60 * 1000   // 1 hour
+    };
+
+    function jsonUrl() {
+      // cache-bust with timestamp so neither browser nor GitHub raw CDN serves a stale copy
+      return 'https://raw.githubusercontent.com/' + CONFIG.owner + '/' +
+             CONFIG.repo + '/' + CONFIG.branch + '/' + CONFIG.file +
+             '?t=' + Date.now();
+    }
+
+    // =====================================================
+    // STATE
+    // =====================================================
+    var state = {
+      all: [],
+      filtered: [],
+      sortKey: 'etaToStoresDate',
+      sortDir: 'asc',
+      filters: { status: 'all', category: 'all', q: '' },
+      nextRefreshAt: 0
+    };
+
+    var $ = function (s) { return document.querySelector(s); };
+    var tbody = $('#tbody');
+
+    // =====================================================
+    // LOAD
+    // =====================================================
+    function load() {
+      var url = jsonUrl();
+      $('#loading-state').style.display = 'block';
+      $('#error-state').style.display = 'none';
+      $('#refresh-btn').disabled = true;
+
+      fetch(url, {
+        cache: 'no-store',
+        headers: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' }
+      })
+        .then(function (r) {
+          if (!r.ok) {
+            var err = new Error('HTTP ' + r.status + (r.status === 404 ? ' (file not found)' : ''));
+            err.httpStatus = r.status;
+            throw err;
+          }
+          return r.json();
+        })
+        .then(function (data) {
+          state.all = Array.isArray(data.items) ? data.items : [];
+          $('#updated-text').textContent = data.lastUpdated
+            ? 'Source updated ' + formatUpdated(data.lastUpdated)
+            : '';
+          populateCategories();
+          applyFilters();
+          $('#loading-state').style.display = 'none';
+          state.nextRefreshAt = Date.now() + CONFIG.refreshMs;
+        })
+        .catch(function (err) {
+          $('#loading-state').style.display = 'none';
+          $('#error-state').style.display = 'block';
+          var rawUrl = 'https://raw.githubusercontent.com/' + CONFIG.owner + '/' +
+                       CONFIG.repo + '/' + CONFIG.branch + '/' + CONFIG.file;
+          var hint = '';
+          if (err.httpStatus === 404) {
+            hint = '<br/><br/>The JSON file was not found. Run <code>buildAndPushNewLaunch</code> in your Apps Script editor to generate it.';
+          } else if (err.message.indexOf('Failed to fetch') !== -1) {
+            hint = '<br/><br/>Network blocked or the repo is private. Check that <strong>' + CONFIG.repo + '</strong> is public.';
+          }
+          $('#error-state').innerHTML =
+            'Could not load data &mdash; ' + escapeHtml(err.message) + hint +
+            '<br/><br/><a href="' + rawUrl + '" target="_blank" rel="noopener">Open the raw JSON URL</a> to verify it exists.';
+          state.nextRefreshAt = Date.now() + CONFIG.refreshMs;
+        })
+        .then(function () { $('#refresh-btn').disabled = false; });
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, function (c) {
+        return { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c];
+      });
+    }
+
+    function formatUpdated(iso) {
+      try {
+        var d = new Date(iso);
+        return d.toLocaleString(undefined, {
+          month: 'short', day: 'numeric', year: 'numeric',
+          hour: 'numeric', minute: '2-digit'
+        });
+      } catch (e) { return iso; }
+    }
+
+    // =====================================================
+    // FILTER + SORT
+    // =====================================================
+    function populateCategories() {
+      var cats = {};
+      state.all.forEach(function (i) { if (i.category) cats[i.category] = true; });
+      var sel = $('#category-filter');
+      var current = state.filters.category;
+      sel.innerHTML = '<option value="all">All</option>';
+      Object.keys(cats).sort().forEach(function (c) {
+        var o = document.createElement('option');
+        o.value = c; o.textContent = c;
+        if (c === current) o.selected = true;
+        sel.appendChild(o);
+      });
+    }
+
+    function applyFilters() {
+      var f = state.filters;
+      var q = f.q.trim().toLowerCase();
+      state.filtered = state.all.filter(function (i) {
+        if (f.status !== 'all' && i.status !== f.status) return false;
+        if (f.category !== 'all' && i.category !== f.category) return false;
+        if (q) {
+          var hay = (i.parentName + ' ' + (i.skus || []).join(' ')).toLowerCase();
+          if (hay.indexOf(q) === -1) return false;
+        }
+        return true;
+      });
+      sortRows();
+      render();
+      updateStats();
+    }
+
+    function sortRows() {
+      var k = state.sortKey, d = state.sortDir === 'asc' ? 1 : -1;
+      state.filtered.sort(function (a, b) {
+        var av = a[k], bv = b[k];
+        if (av == null) av = '';
+        if (bv == null) bv = '';
+        if (typeof av === 'number' && typeof bv === 'number') return (av - bv) * d;
+        var cmp = String(av).localeCompare(String(bv)) * d;
+        if (cmp !== 0) return cmp;
+        return String(a.parentName || '').localeCompare(String(b.parentName || ''));
+      });
+    }
+
+    // =====================================================
+    // RENDER
+    // =====================================================
+    function render() {
+      tbody.innerHTML = '';
+      var emptyEl = $('#empty-state');
+      if (state.filtered.length === 0) {
+        emptyEl.style.display = 'block';
+        if (state.all.length === 0) {
+          emptyEl.innerHTML = 'No items in the JSON. Run <code>buildAndPushNewLaunch</code> in Apps Script to generate data, or wait for the next scheduled push.';
+        } else {
+          emptyEl.textContent = 'Nothing matches those filters.';
+        }
+      } else {
+        emptyEl.style.display = 'none';
+      }
+      var frag = document.createDocumentFragment();
+      var prevBucket = null;
+      var isBucketSorted = state.sortKey === 'etaToStoresDate';
+
+      state.filtered.forEach(function (i, idx) {
+        // thick divider between ETA buckets (only meaningful when sorted by ETA)
+        if (isBucketSorted && idx > 0 && i.etaToStores !== prevBucket) {
+          var spacer = document.createElement('tr');
+          spacer.className = 'bucket-break';
+          var spacerTd = document.createElement('td');
+          spacerTd.colSpan = 6;
+          spacer.appendChild(spacerTd);
+          frag.appendChild(spacer);
+        }
+        prevBucket = i.etaToStores;
+        frag.appendChild(rowEl(i));
+      });
+      tbody.appendChild(frag);
+
+      $('#count-pill').textContent =
+        state.filtered.length + ' of ' + state.all.length + ' items';
+
+      document.querySelectorAll('thead th.sortable').forEach(function (th) {
+        var sorted = th.dataset.sort === state.sortKey;
+        th.classList.toggle('sorted', sorted);
+        var arr = th.querySelector('.arrow');
+        if (arr) arr.textContent = sorted
+          ? (state.sortDir === 'asc' ? '\u2191' : '\u2193')
+          : '';
+      });
+    }
+
+    function rowEl(i) {
+      var tr = document.createElement('tr');
+      tr.appendChild(td(i.category || '', 'product-type'));
+      tr.appendChild(td(i.parentName || '', 'item-name'));
+      tr.appendChild(td(i.etaToStores || '\u2014', 'eta-bucket'));
+      var statusCls = 'status' + (i.status === 'Restock' ? ' restock' : '');
+      tr.appendChild(td(i.status || '', statusCls));
+      var poCls = 'po-ref' + (i.poRef === 'Received' ? ' received' : '');
+      tr.appendChild(td(i.poRef || '\u2014', poCls));
+      tr.appendChild(td(i.etaToStoresDate ? formatShortDate(i.etaToStoresDate) : '\u2014', 'eta-date'));
+      return tr;
+    }
+
+    function td(text, cls) {
+      var d = document.createElement('td');
+      if (cls) d.className = cls;
+      d.textContent = text;
+      return d;
+    }
+
+    function formatShortDate(iso) {
+      var parts = String(iso).split('-');
+      if (parts.length !== 3) return iso;
+      // M/D/YYYY to match the sheet
+      return parseInt(parts[1], 10) + '/' + parseInt(parts[2], 10) + '/' + parts[0];
+    }
+
+    function updateStats() {
+      $('#stat-total').textContent = state.all.length;
+      $('#stat-new').textContent = state.all.filter(function (i) { return i.status === 'New Launch'; }).length;
+      $('#stat-restock').textContent = state.all.filter(function (i) { return i.status === 'Restock'; }).length;
+    }
+
+    // =====================================================
+    // AUTO-REFRESH (hourly, cache-busting, no visible timer)
+    // =====================================================
+    setInterval(load, CONFIG.refreshMs);
+
+    // If the tab has been backgrounded for a while, fetch fresh data when it comes back.
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden && state.nextRefreshAt &&
+          (state.nextRefreshAt - Date.now()) < (CONFIG.refreshMs - 5*60*1000)) {
+        load();
+      }
+    });
+
+    // =====================================================
+    // EVENTS
+    // =====================================================
+    document.querySelectorAll('#status-seg button').forEach(function (b) {
+      b.addEventListener('click', function () {
+        document.querySelectorAll('#status-seg button').forEach(function (x) { x.classList.remove('active'); });
+        b.classList.add('active');
+        state.filters.status = b.dataset.value;
+        applyFilters();
+      });
+    });
+    $('#category-filter').addEventListener('change', function (e) {
+      state.filters.category = e.target.value; applyFilters();
+    });
+    $('#search').addEventListener('input', function (e) {
+      state.filters.q = e.target.value; applyFilters();
+    });
+    document.querySelectorAll('thead th.sortable').forEach(function (th) {
+      th.addEventListener('click', function () {
+        var k = th.dataset.sort;
+        if (state.sortKey === k) {
+          state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
+        } else {
+          state.sortKey = k; state.sortDir = 'asc';
+        }
+        sortRows(); render();
+      });
+    });
+    $('#refresh-btn').addEventListener('click', load);
+
+    $('#src-url').textContent = CONFIG.owner + '/' + CONFIG.repo + '/' + CONFIG.file;
+
+    load();
+  })();
+  </script>
+</body>
+</html>
