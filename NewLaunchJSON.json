@@ -1,12 +1,92 @@
 {
-  "lastUpdated": "2026-04-21T17:58:51.558Z",
+  "lastUpdated": "2026-04-21T18:03:42.808Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
-    "total": 204,
+    "total": 238,
     "newLaunch": 158,
-    "restock": 46
+    "restock": 80
   },
   "items": [
+    {
+      "parentName": "Dress Shoe - Black",
+      "category": "Shoes",
+      "skus": [
+        "SL-SHOE-DRESSBLACK-10",
+        "SL-SHOE-DRESSBLACK-10.5",
+        "SL-SHOE-DRESSBLACK-11",
+        "SL-SHOE-DRESSBLACK-11.5",
+        "SL-SHOE-DRESSBLACK-12",
+        "SL-SHOE-DRESSBLACK-12.5",
+        "SL-SHOE-DRESSBLACK-13",
+        "SL-SHOE-DRESSBLACK-9",
+        "SL-SHOE-DRESSBLACK-9.5",
+        "SL-SHOE-DRESSBLACK-14"
+      ],
+      "skuCount": 10,
+      "status": "Restock",
+      "totalOnHand": 343,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Dress Shoe - Light Brown",
+      "category": "Shoes",
+      "skus": [
+        "SL-SHOE-DRESSLIGHTBROWN-10",
+        "SL-SHOE-DRESSLIGHTBROWN-10.5",
+        "SL-SHOE-DRESSLIGHTBROWN-11",
+        "SL-SHOE-DRESSLIGHTBROWN-11.5",
+        "SL-SHOE-DRESSLIGHTBROWN-12",
+        "SL-SHOE-DRESSLIGHTBROWN-12.5",
+        "SL-SHOE-DRESSLIGHTBROWN-13",
+        "SL-SHOE-DRESSLIGHTBROWN-9",
+        "SL-SHOE-DRESSLIGHTBROWN-9.5",
+        "SL-SHOE-DRESSLIGHTBROWN-14"
+      ],
+      "skuCount": 10,
+      "status": "Restock",
+      "totalOnHand": 326,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Low Top Sneaker - White Leather",
+      "category": "Shoes",
+      "skus": [
+        "SL-SHOE-WHITESNEAKER-10",
+        "SL-SHOE-WHITESNEAKER-10.5",
+        "SL-SHOE-WHITESNEAKER-11",
+        "SL-SHOE-WHITESNEAKER-11.5",
+        "SL-SHOE-WHITESNEAKER-12",
+        "SL-SHOE-WHITESNEAKER-12.5",
+        "SL-SHOE-WHITESNEAKER-13",
+        "SL-SHOE-WHITESNEAKER-9",
+        "SL-SHOE-WHITESNEAKER-9.5"
+      ],
+      "skuCount": 9,
+      "status": "Restock",
+      "totalOnHand": 216,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
     {
       "parentName": "Black Woven Silk Tie",
       "category": "Ties",
@@ -170,6 +250,447 @@
       "hasIncoming": false
     },
     {
+      "parentName": "Waffle Knit Quarter Zip - Solid Cream",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-WCREAM-3XL",
+        "SL-QZIP-WCREAM-L",
+        "SL-QZIP-WCREAM-M",
+        "SL-QZIP-WCREAM-S",
+        "SL-QZIP-WCREAM-XL",
+        "SL-QZIP-WCREAM-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 1117,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-04",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-25",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Patch Pocket Button Down - Light Grey",
+      "category": "Patch Pocket Button Down",
+      "skus": [
+        "SL-CBD-LIGHTGREYPPBD-3XL",
+        "SL-CBD-LIGHTGREYPPBD-L",
+        "SL-CBD-LIGHTGREYPPBD-M",
+        "SL-CBD-LIGHTGREYPPBD-S",
+        "SL-CBD-LIGHTGREYPPBD-XL",
+        "SL-CBD-LIGHTGREYPPBD-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 935,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-13",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-03",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "\"The Iris\" Solid Light Lilac",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-IRIS-3XL",
+        "SL-DS-IRIS-L",
+        "SL-DS-IRIS-M",
+        "SL-DS-IRIS-S",
+        "SL-DS-IRIS-XL",
+        "SL-DS-IRIS-XS",
+        "SL-DS-IRIS-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 278,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-17",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-07",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Navy Seersucker",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-NAVYSEERSUCKER-38",
+        "SL-BLAZER-NAVYSEERSUCKER-40",
+        "SL-BLAZER-NAVYSEERSUCKER-42",
+        "SL-BLAZER-NAVYSEERSUCKER-44",
+        "SL-BLAZER-NAVYSEERSUCKER-46",
+        "SL-BLAZER-NAVYSEERSUCKER-48"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 231,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-18",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-08",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Solid Leather Belt - Black",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-BLACKLEATHER-30",
+        "SL-BELT-BLACKLEATHER-32",
+        "SL-BELT-BLACKLEATHER-34",
+        "SL-BELT-BLACKLEATHER-36"
+      ],
+      "skuCount": 4,
+      "status": "Restock",
+      "totalOnHand": 1334,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Solid Leather Belt - Dark Brown",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-DBROWNLEATHER-30",
+        "SL-BELT-DBROWNLEATHER-32",
+        "SL-BELT-DBROWNLEATHER-34",
+        "SL-BELT-DBROWNLEATHER-36"
+      ],
+      "skuCount": 4,
+      "status": "Restock",
+      "totalOnHand": 751,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Solid Leather Belt - Light Brown",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-LBROWNLEATHER-30",
+        "SL-BELT-LBROWNLEATHER-32",
+        "SL-BELT-LBROWNLEATHER-34",
+        "SL-BELT-LBROWNLEATHER-36"
+      ],
+      "skuCount": 4,
+      "status": "Restock",
+      "totalOnHand": 1386,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Solid Leather Belt - Mid-Brown",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-MIDBROWNLEATHER-30",
+        "SL-BELT-MIDBROWNLEATHER-32",
+        "SL-BELT-MIDBROWNLEATHER-34",
+        "SL-BELT-MIDBROWNLEATHER-36"
+      ],
+      "skuCount": 4,
+      "status": "Restock",
+      "totalOnHand": 673,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Black Seersucker",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-BLACKSEERSUCKER-38",
+        "SL-BLAZER-BLACKSEERSUCKER-40",
+        "SL-BLAZER-BLACKSEERSUCKER-42",
+        "SL-BLAZER-BLACKSEERSUCKER-44",
+        "SL-BLAZER-BLACKSEERSUCKER-46",
+        "SL-BLAZER-BLACKSEERSUCKER-48"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 633,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Grey & White Seersucker",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-GREYSEERSUCKER-38",
+        "SL-BLAZER-GREYSEERSUCKER-40",
+        "SL-BLAZER-GREYSEERSUCKER-42",
+        "SL-BLAZER-GREYSEERSUCKER-44",
+        "SL-BLAZER-GREYSEERSUCKER-46",
+        "SL-BLAZER-GREYSEERSUCKER-48"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 876,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Navy & White Seersucker",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-NAVYWHITESEERSUCKER-38",
+        "SL-BLAZER-NAVYWHITESEERSUCKER-40",
+        "SL-BLAZER-NAVYWHITESEERSUCKER-42",
+        "SL-BLAZER-NAVYWHITESEERSUCKER-44",
+        "SL-BLAZER-NAVYWHITESEERSUCKER-46",
+        "SL-BLAZER-NAVYWHITESEERSUCKER-48"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 713,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-09",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Casual Stretch Belt - Black",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-BLACK-30",
+        "SL-BELT-BLACK-34"
+      ],
+      "skuCount": 2,
+      "status": "Restock",
+      "totalOnHand": 524,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Casual Stretch Belt - Brown",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-BROWN-30",
+        "SL-BELT-BROWN-34"
+      ],
+      "skuCount": 2,
+      "status": "Restock",
+      "totalOnHand": 256,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Casual Stretch Belt - Light Brown",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-LIGHTBROWN-30",
+        "SL-BELT-LIGHTBROWN-34"
+      ],
+      "skuCount": 2,
+      "status": "Restock",
+      "totalOnHand": 378,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Casual Stretch Belt - Light Grey",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-LIGHTGREY-30",
+        "SL-BELT-LIGHTGREY-34"
+      ],
+      "skuCount": 2,
+      "status": "Restock",
+      "totalOnHand": 293,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Casual Stretch Belt - Navy",
+      "category": "Belt",
+      "skus": [
+        "SL-BELT-NAVY-30",
+        "SL-BELT-NAVY-34"
+      ],
+      "skuCount": 2,
+      "status": "Restock",
+      "totalOnHand": 303,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Heathered Charcoal",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-009-36",
+        "SL-BLAZER-009-38",
+        "SL-BLAZER-009-40",
+        "SL-BLAZER-009-42",
+        "SL-BLAZER-009-44",
+        "SL-BLAZER-009-46",
+        "SL-BLAZER-009-48"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 467,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
+      "category": "Dress Pants",
+      "skus": [
+        "SL-PANT-009-28",
+        "SL-PANT-009-29",
+        "SL-PANT-009-30",
+        "SL-PANT-009-31",
+        "SL-PANT-009-32",
+        "SL-PANT-009-33",
+        "SL-PANT-009-34",
+        "SL-PANT-009-36",
+        "SL-PANT-009-38",
+        "SL-PANT-009-40",
+        "SL-PANT-009-42"
+      ],
+      "skuCount": 11,
+      "status": "Restock",
+      "totalOnHand": 868,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Lightweight Tech Short - Black",
+      "category": "Shorts",
+      "skus": [
+        "SL-SHORT-LTWTBLACK-30",
+        "SL-SHORT-LTWTBLACK-31",
+        "SL-SHORT-LTWTBLACK-32",
+        "SL-SHORT-LTWTBLACK-33",
+        "SL-SHORT-LTWTBLACK-34",
+        "SL-SHORT-LTWTBLACK-36",
+        "SL-SHORT-LTWTBLACK-38"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 430,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Lightweight Tech Short - Navy",
+      "category": "Shorts",
+      "skus": [
+        "SL-SHORT-LTWTNAVY-30",
+        "SL-SHORT-LTWTNAVY-31",
+        "SL-SHORT-LTWTNAVY-32",
+        "SL-SHORT-LTWTNAVY-33",
+        "SL-SHORT-LTWTNAVY-34",
+        "SL-SHORT-LTWTNAVY-36",
+        "SL-SHORT-LTWTNAVY-38"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 426,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
       "parentName": "Silk Pre-Tied Bow Tie - Black",
       "category": "Ties",
       "skus": [
@@ -224,6 +745,53 @@
       "hasIncoming": false
     },
     {
+      "parentName": "Quarter Zip - Solid Cream",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-CREAM-3XL",
+        "SL-QZIP-CREAM-L",
+        "SL-QZIP-CREAM-M",
+        "SL-QZIP-CREAM-S",
+        "SL-QZIP-CREAM-XL",
+        "SL-QZIP-CREAM-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 659,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-24",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-14",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "\"The Hugo\" Navy Pinstripe",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-HUGO-3XL",
+        "SL-DS-HUGO-L",
+        "SL-DS-HUGO-M",
+        "SL-DS-HUGO-S",
+        "SL-DS-HUGO-XL",
+        "SL-DS-HUGO-XS",
+        "SL-DS-HUGO-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 267,
+      "poRef": "TAL6059",
+      "shipment": "Air",
+      "exf": "2026-04-16",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-11",
+      "bpDeliveryDue": "2026-04-22",
+      "lastReceivedDate": "2026-04-07",
+      "hasIncoming": true
+    },
+    {
       "parentName": "\"The Lakewood\" White Small Windowpane",
       "category": "Dress Shirt",
       "skus": [
@@ -244,6 +812,30 @@
       "etaToStoresDate": "2026-05-11",
       "bpDeliveryDue": "2026-04-22",
       "lastReceivedDate": "2025-09-11",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-SIDNEY-3XL",
+        "SL-DS-SIDNEY-L",
+        "SL-DS-SIDNEY-M",
+        "SL-DS-SIDNEY-S",
+        "SL-DS-SIDNEY-XL",
+        "SL-DS-SIDNEY-XS",
+        "SL-DS-SIDNEY-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 269,
+      "poRef": "TAL6059",
+      "shipment": "Air",
+      "exf": "2026-04-16",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-11",
+      "bpDeliveryDue": "2026-04-22",
+      "lastReceivedDate": "2026-04-07",
       "hasIncoming": true
     },
     {
@@ -367,6 +959,84 @@
       "hasIncoming": true
     },
     {
+      "parentName": "Athletic Fit Shorts - Light Blue",
+      "category": "Shorts",
+      "skus": [
+        "SL-SHORT-BLUE-29",
+        "SL-SHORT-BLUE-30",
+        "SL-SHORT-BLUE-31",
+        "SL-SHORT-BLUE-32",
+        "SL-SHORT-BLUE-33",
+        "SL-SHORT-BLUE-34",
+        "SL-SHORT-BLUE-36",
+        "SL-SHORT-BLUE-38",
+        "SL-SHORT-BLUE-40"
+      ],
+      "skuCount": 9,
+      "status": "Restock",
+      "totalOnHand": 554,
+      "poRef": "ED2426",
+      "shipment": "Air",
+      "exf": "2026-04-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
+      "bpDeliveryDue": "2026-05-15",
+      "lastReceivedDate": "2026-04-15",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Shorts - Olive",
+      "category": "Shorts",
+      "skus": [
+        "SL-SHORT-OLIVE-29",
+        "SL-SHORT-OLIVE-30",
+        "SL-SHORT-OLIVE-31",
+        "SL-SHORT-OLIVE-32",
+        "SL-SHORT-OLIVE-33",
+        "SL-SHORT-OLIVE-34",
+        "SL-SHORT-OLIVE-36",
+        "SL-SHORT-OLIVE-38",
+        "SL-SHORT-OLIVE-40"
+      ],
+      "skuCount": 9,
+      "status": "Restock",
+      "totalOnHand": 560,
+      "poRef": "ED2426",
+      "shipment": "Air",
+      "exf": "2026-04-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
+      "bpDeliveryDue": "2026-05-15",
+      "lastReceivedDate": "2026-04-15",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Athletic Fit Shorts - White",
+      "category": "Shorts",
+      "skus": [
+        "SL-SHORT-WHITE-29",
+        "SL-SHORT-WHITE-30",
+        "SL-SHORT-WHITE-31",
+        "SL-SHORT-WHITE-32",
+        "SL-SHORT-WHITE-33",
+        "SL-SHORT-WHITE-34",
+        "SL-SHORT-WHITE-36",
+        "SL-SHORT-WHITE-38",
+        "SL-SHORT-WHITE-40"
+      ],
+      "skuCount": 9,
+      "status": "Restock",
+      "totalOnHand": 623,
+      "poRef": "ED2426",
+      "shipment": "Air",
+      "exf": "2026-04-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
+      "bpDeliveryDue": "2026-05-15",
+      "lastReceivedDate": "2026-04-15",
+      "hasIncoming": true
+    },
+    {
       "parentName": "\"The Diggs\" Solid Maroon",
       "category": "Polos",
       "skus": [
@@ -456,6 +1126,29 @@
       "etaToStoresDate": "2026-06-17",
       "bpDeliveryDue": "2026-05-19",
       "lastReceivedDate": "2025-08-26",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "\"The Palm\" Green with White Mini Dot Print",
+      "category": "SSBD",
+      "skus": [
+        "SL-SSBD-PALM-3XL",
+        "SL-SSBD-PALM-L",
+        "SL-SSBD-PALM-M",
+        "SL-SSBD-PALM-S",
+        "SL-SSBD-PALM-XL",
+        "SL-SSBD-PALM-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 755,
+      "poRef": "ED2391",
+      "shipment": "Sea",
+      "exf": "2026-04-18",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-17",
+      "bpDeliveryDue": "2026-05-12",
+      "lastReceivedDate": "2026-04-20",
       "hasIncoming": true
     },
     {
@@ -843,6 +1536,29 @@
       "hasIncoming": true
     },
     {
+      "parentName": "Patch Pocket Button Down - Navy",
+      "category": "Patch Pocket Button Down",
+      "skus": [
+        "SL-CBD-NAVYPPBD-3XL",
+        "SL-CBD-NAVYPPBD-L",
+        "SL-CBD-NAVYPPBD-M",
+        "SL-CBD-NAVYPPBD-S",
+        "SL-CBD-NAVYPPBD-XL",
+        "SL-CBD-NAVYPPBD-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 680,
+      "poRef": "TH3519",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-08-01",
+      "lastReceivedDate": "2026-04-03",
+      "hasIncoming": true
+    },
+    {
       "parentName": "3 Button Overcoat - Charcoal Herringbone",
       "category": "Overcoats",
       "skus": [
@@ -866,6 +1582,52 @@
       "hasIncoming": true
     },
     {
+      "parentName": "Quarter Zip - Heathered Grey",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-GREY-3XL",
+        "SL-QZIP-GREY-L",
+        "SL-QZIP-GREY-M",
+        "SL-QZIP-GREY-S",
+        "SL-QZIP-GREY-XL",
+        "SL-QZIP-GREY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 787,
+      "poRef": "ED2455",
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-19",
+      "bpDeliveryDue": "2026-08-25",
+      "lastReceivedDate": "2026-04-14",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Quarter Zip - Solid Black",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-BLACK-3XL",
+        "SL-QZIP-BLACK-L",
+        "SL-QZIP-BLACK-M",
+        "SL-QZIP-BLACK-S",
+        "SL-QZIP-BLACK-XL",
+        "SL-QZIP-BLACK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 581,
+      "poRef": "ED2455",
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-19",
+      "bpDeliveryDue": "2026-08-25",
+      "lastReceivedDate": "2026-04-14",
+      "hasIncoming": true
+    },
+    {
       "parentName": "Quarter Zip - Solid Dark Green",
       "category": "Quarter Zips",
       "skus": [
@@ -886,6 +1648,29 @@
       "etaToStoresDate": "2026-08-19",
       "bpDeliveryDue": "2026-08-25",
       "lastReceivedDate": "2025-09-05",
+      "hasIncoming": true
+    },
+    {
+      "parentName": "Quarter Zip - Solid Navy",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-NAVY-3XL",
+        "SL-QZIP-NAVY-L",
+        "SL-QZIP-NAVY-M",
+        "SL-QZIP-NAVY-S",
+        "SL-QZIP-NAVY-XL",
+        "SL-QZIP-NAVY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 405,
+      "poRef": "ED2455",
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-19",
+      "bpDeliveryDue": "2026-08-25",
+      "lastReceivedDate": "2026-04-14",
       "hasIncoming": true
     },
     {
