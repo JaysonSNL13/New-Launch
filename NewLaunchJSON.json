@@ -1,12 +1,228 @@
 {
-  "lastUpdated": "2026-04-21T17:15:17.721Z",
+  "lastUpdated": "2026-04-21T17:58:51.558Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
-    "total": 192,
+    "total": 204,
     "newLaunch": 158,
-    "restock": 34
+    "restock": 46
   },
   "items": [
+    {
+      "parentName": "Black Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 1791,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Champagne Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-CHAMPAGNE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 232,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Light Blue Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-LIGHTBLUE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 417,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Maroon Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-MAROON"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 938,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Navy & White Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-NAVYWHITE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 357,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Purple with Silver Dots Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-PURPLESILVERDOT"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 701,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Sage Green Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-SAGEGREEN"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 87,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Silk Tie - Dark Brown",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-DARKBROWN"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 266,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Silk Tie - Hunter Green",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-HUNTERGREEN"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 416,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Silk Pre-Tied Bow Tie - Black",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-PRETBOWTIE-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 385,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Silk Tie - Light Blue with Grey & White Stripes",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-LBGRYSTRIPE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 314,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Silk Tie - Rose Pink",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-ROSEPINK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 171,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
     {
       "parentName": "\"The Lakewood\" White Small Windowpane",
       "category": "Dress Shirt",
