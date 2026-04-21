@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-21T17:12:56.492Z",
+  "lastUpdated": "2026-04-21T17:15:17.721Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
-    "total": 187,
-    "newLaunch": 153,
+    "total": 192,
+    "newLaunch": 158,
     "restock": 34
   },
   "items": [
@@ -819,6 +819,33 @@
       "hasIncoming": false
     },
     {
+      "parentName": "Velvet Tuxedo Shoe - Black",
+      "category": "Shoes",
+      "skus": [
+        "SL-SHOE-VELVETTUXEDO-10",
+        "SL-SHOE-VELVETTUXEDO-10.5",
+        "SL-SHOE-VELVETTUXEDO-11",
+        "SL-SHOE-VELVETTUXEDO-11.5",
+        "SL-SHOE-VELVETTUXEDO-12",
+        "SL-SHOE-VELVETTUXEDO-12.5",
+        "SL-SHOE-VELVETTUXEDO-13",
+        "SL-SHOE-VELVETTUXEDO-9",
+        "SL-SHOE-VELVETTUXEDO-9.5",
+        "SL-SHOE-VELVETTUXEDO-14"
+      ],
+      "skuCount": 10,
+      "status": "New Launch",
+      "totalOnHand": 77,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-23",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": false
+    },
+    {
       "parentName": "Matching Solid Leather Belt - Light Brown",
       "category": "Belt",
       "skus": [
@@ -1001,6 +1028,52 @@
       "hasIncoming": false
     },
     {
+      "parentName": "Athletic Fit Stretch Blazer - Grey & White Seersucker - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-GREYSEERSUCKER-40SHORT",
+        "SL-BLAZER-GREYSEERSUCKER-42SHORT",
+        "SL-BLAZER-GREYSEERSUCKER-44SHORT"
+      ],
+      "skuCount": 3,
+      "status": "New Launch",
+      "totalOnHand": 44,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-12",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-02",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
+      "category": "Tuxedo Pants",
+      "skus": [
+        "SL-TUXPANTSFLAT-002-29",
+        "SL-TUXPANTSFLAT-002-30",
+        "SL-TUXPANTSFLAT-002-31",
+        "SL-TUXPANTSFLAT-002-32",
+        "SL-TUXPANTSFLAT-002-33",
+        "SL-TUXPANTSFLAT-002-34",
+        "SL-TUXPANTSFLAT-002-36",
+        "SL-TUXPANTSFLAT-002-38",
+        "SL-TUXPANTSFLAT-002-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 86,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-12",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-02",
+      "hasIncoming": false
+    },
+    {
       "parentName": "Hooded Hybrid Suede Jacket - Black",
       "category": "Jackets",
       "skus": [
@@ -1162,6 +1235,50 @@
       "skuCount": 11,
       "status": "New Launch",
       "totalOnHand": 901,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Heathered Black - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-018-38SHORT",
+        "SL-BLAZER-018-40SHORT",
+        "SL-BLAZER-018-42SHORT",
+        "SL-BLAZER-018-44SHORT",
+        "SL-BLAZER-018-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 73,
+      "poRef": "Received",
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
+      "bpDeliveryDue": "",
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": false
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-009-38SHORT",
+        "SL-BLAZER-009-40SHORT",
+        "SL-BLAZER-009-42SHORT",
+        "SL-BLAZER-009-44SHORT",
+        "SL-BLAZER-009-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 57,
       "poRef": "Received",
       "shipment": "",
       "exf": "",
