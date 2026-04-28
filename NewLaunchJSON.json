@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T14:47:18.319Z",
+  "lastUpdated": "2026-04-28T18:55:48.693Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
     "total": 248,
@@ -26,8 +26,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early April",
-      "etaToStoresDate": "2026-04-04",
+      "etaToStores": "End of March",
+      "etaToStoresDate": "2026-03-30",
       "bpDeliveryDue": ""
     },
     {
@@ -49,8 +49,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-13",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-08",
       "bpDeliveryDue": ""
     },
     {
@@ -72,8 +72,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-13",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-08",
       "bpDeliveryDue": ""
     },
     {
@@ -97,7 +97,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-17",
+      "etaToStoresDate": "2026-04-12",
       "bpDeliveryDue": ""
     },
     {
@@ -120,7 +120,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-18",
+      "etaToStoresDate": "2026-04-13",
       "bpDeliveryDue": ""
     },
     {
@@ -141,7 +141,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -162,7 +162,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -183,7 +183,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -204,7 +204,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -227,7 +227,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -250,7 +250,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -273,7 +273,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
+      "etaToStoresDate": "2026-04-14",
       "bpDeliveryDue": ""
     },
     {
@@ -292,7 +292,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -311,7 +311,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -330,7 +330,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -349,7 +349,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -368,7 +368,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -392,7 +392,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -420,7 +420,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -444,7 +444,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -468,7 +468,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -486,7 +486,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -504,7 +504,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -522,7 +522,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -544,8 +544,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -567,8 +567,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -590,8 +590,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -613,8 +613,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -639,8 +639,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-25",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
       "bpDeliveryDue": ""
     },
     {
@@ -665,8 +665,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-25",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
       "bpDeliveryDue": ""
     },
     {
@@ -691,8 +691,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-25",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-20",
       "bpDeliveryDue": ""
     },
     {
@@ -715,7 +715,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-30",
+      "etaToStoresDate": "2026-04-25",
       "bpDeliveryDue": ""
     },
     {
@@ -737,9 +737,198 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-03",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-28",
       "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "Branded No-Show Socks - Black",
+      "category": "Accessory",
+      "skus": [
+        "SL-SOCK-NOSHOW-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2025-03-07",
+      "hasIncoming": true,
+      "poRef": "ED2420",
+      "shipment": "Air",
+      "exf": "2026-04-27",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": "2026-05-04"
+    },
+    {
+      "parentName": "Dress Socks - Black",
+      "category": "Accessory",
+      "skus": [
+        "SL-SOCK-DRESS-SOLIDBLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2025-10-21",
+      "hasIncoming": true,
+      "poRef": "ED2420",
+      "shipment": "Air",
+      "exf": "2026-04-27",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": "2026-05-04"
+    },
+    {
+      "parentName": "Dress Socks - Charcoal",
+      "category": "Accessory",
+      "skus": [
+        "SL-SOCK-DRESS-SOLIDCHARCOAL"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 18,
+      "lastReceivedDate": "2025-10-21",
+      "hasIncoming": true,
+      "poRef": "ED2420",
+      "shipment": "Air",
+      "exf": "2026-04-27",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": "2026-05-04"
+    },
+    {
+      "parentName": "Dress Socks - Navy",
+      "category": "Accessory",
+      "skus": [
+        "SL-SOCK-DRESS-SOLIDNAVY"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 4,
+      "lastReceivedDate": "2025-10-21",
+      "hasIncoming": true,
+      "poRef": "ED2420",
+      "shipment": "Air",
+      "exf": "2026-04-27",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": "2026-05-04"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Heathered Forest Green",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-FORESTGREEN-36",
+        "SL-BLAZER-FORESTGREEN-38",
+        "SL-BLAZER-FORESTGREEN-40",
+        "SL-BLAZER-FORESTGREEN-42",
+        "SL-BLAZER-FORESTGREEN-44",
+        "SL-BLAZER-FORESTGREEN-46",
+        "SL-BLAZER-FORESTGREEN-48"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 16,
+      "lastReceivedDate": "2026-01-28",
+      "hasIncoming": true,
+      "poRef": "SC5016",
+      "shipment": "Air",
+      "exf": "2026-04-27",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": "2026-05-12"
+    },
+    {
+      "parentName": "\"The Springer\" Solid White - Spread Collar",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-SPREADSPRING-3XL",
+        "SL-DS-SPREADSPRING-L",
+        "SL-DS-SPREADSPRING-M",
+        "SL-DS-SPREADSPRING-S",
+        "SL-DS-SPREADSPRING-XL",
+        "SL-DS-SPREADSPRING-XS",
+        "SL-DS-SPREADSPRING-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 84,
+      "lastReceivedDate": "2025-11-10",
+      "hasIncoming": true,
+      "poRef": "TH3360",
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-31"
+    },
+    {
+      "parentName": "\"The Diggs\" Solid Maroon",
+      "category": "Polos",
+      "skus": [
+        "SL-P-DIGGS-3XL",
+        "SL-P-DIGGS-L",
+        "SL-P-DIGGS-M",
+        "SL-P-DIGGS-S",
+        "SL-P-DIGGS-XL",
+        "SL-P-DIGGS-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 3,
+      "lastReceivedDate": "2025-06-25",
+      "hasIncoming": true,
+      "poRef": "ED2434",
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-20"
+    },
+    {
+      "parentName": "\"The Fox\" Black & Grey Mini Abstract Print",
+      "category": "Polos",
+      "skus": [
+        "SL-P-FOX-3XL",
+        "SL-P-FOX-L",
+        "SL-P-FOX-M",
+        "SL-P-FOX-S",
+        "SL-P-FOX-XL",
+        "SL-P-FOX-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 2,
+      "lastReceivedDate": "2025-06-25",
+      "hasIncoming": true,
+      "poRef": "ED2434",
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-20"
+    },
+    {
+      "parentName": "\"The Sky\" Linen Light Blue",
+      "category": "Polos",
+      "skus": [
+        "SL-P-SKY-3XL",
+        "SL-P-SKY-L",
+        "SL-P-SKY-M",
+        "SL-P-SKY-S",
+        "SL-P-SKY-XL",
+        "SL-P-SKY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 2,
+      "lastReceivedDate": "2025-08-11",
+      "hasIncoming": true,
+      "poRef": "ED2434",
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-20"
     },
     {
       "parentName": "Tech Quarter Zip - Heathered Navy",
@@ -765,193 +954,196 @@
       "bpDeliveryDue": "2026-04-27"
     },
     {
-      "parentName": "Branded No-Show Socks - Black",
-      "category": "Accessory",
+      "parentName": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
+      "category": "Dress Pants",
       "skus": [
-        "SL-SOCK-NOSHOW-BLACK"
+        "SL-PANT-ASHBRNCROSS-29",
+        "SL-PANT-ASHBRNCROSS-30",
+        "SL-PANT-ASHBRNCROSS-31",
+        "SL-PANT-ASHBRNCROSS-32",
+        "SL-PANT-ASHBRNCROSS-33",
+        "SL-PANT-ASHBRNCROSS-34",
+        "SL-PANT-ASHBRNCROSS-36",
+        "SL-PANT-ASHBRNCROSS-38",
+        "SL-PANT-ASHBRNCROSS-40"
       ],
-      "skuCount": 1,
+      "skuCount": 9,
       "status": "Restock",
       "totalOnHand": 0,
-      "lastReceivedDate": "2025-03-07",
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2420",
+      "poRef": "TH3510",
       "shipment": "Air",
-      "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
-      "bpDeliveryDue": "2026-05-04"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
     },
     {
-      "parentName": "Dress Socks - Black",
-      "category": "Accessory",
+      "parentName": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
+      "category": "Dress Pants",
       "skus": [
-        "SL-SOCK-DRESS-SOLIDBLACK"
+        "SL-PANT-LBLUEPLAID-29",
+        "SL-PANT-LBLUEPLAID-30",
+        "SL-PANT-LBLUEPLAID-31",
+        "SL-PANT-LBLUEPLAID-32",
+        "SL-PANT-LBLUEPLAID-33",
+        "SL-PANT-LBLUEPLAID-34",
+        "SL-PANT-LBLUEPLAID-36",
+        "SL-PANT-LBLUEPLAID-38",
+        "SL-PANT-LBLUEPLAID-40"
       ],
-      "skuCount": 1,
+      "skuCount": 9,
       "status": "Restock",
       "totalOnHand": 0,
-      "lastReceivedDate": "2025-10-21",
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2420",
+      "poRef": "TH3510",
       "shipment": "Air",
-      "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
-      "bpDeliveryDue": "2026-05-04"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
     },
     {
-      "parentName": "Dress Socks - Charcoal",
-      "category": "Accessory",
+      "parentName": "Athletic Fit Stretch Suit Pants - Solid Grey",
+      "category": "Dress Pants",
       "skus": [
-        "SL-SOCK-DRESS-SOLIDCHARCOAL"
+        "SL-PANT-SOLIDGREY-29",
+        "SL-PANT-SOLIDGREY-30",
+        "SL-PANT-SOLIDGREY-31",
+        "SL-PANT-SOLIDGREY-32",
+        "SL-PANT-SOLIDGREY-33",
+        "SL-PANT-SOLIDGREY-34",
+        "SL-PANT-SOLIDGREY-36",
+        "SL-PANT-SOLIDGREY-38",
+        "SL-PANT-SOLIDGREY-40"
       ],
-      "skuCount": 1,
+      "skuCount": 9,
       "status": "Restock",
-      "totalOnHand": 18,
-      "lastReceivedDate": "2025-10-21",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2420",
+      "poRef": "TH3510",
       "shipment": "Air",
-      "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
-      "bpDeliveryDue": "2026-05-04"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
     },
     {
-      "parentName": "Dress Socks - Navy",
-      "category": "Accessory",
+      "parentName": "Athletic Fit Stretch Suit Pants - Solid Tan",
+      "category": "Dress Pants",
       "skus": [
-        "SL-SOCK-DRESS-SOLIDNAVY"
+        "SL-PANT-SOLIDTAN-29",
+        "SL-PANT-SOLIDTAN-30",
+        "SL-PANT-SOLIDTAN-31",
+        "SL-PANT-SOLIDTAN-32",
+        "SL-PANT-SOLIDTAN-33",
+        "SL-PANT-SOLIDTAN-34",
+        "SL-PANT-SOLIDTAN-36",
+        "SL-PANT-SOLIDTAN-38",
+        "SL-PANT-SOLIDTAN-40"
       ],
-      "skuCount": 1,
+      "skuCount": 9,
       "status": "Restock",
-      "totalOnHand": 4,
-      "lastReceivedDate": "2025-10-21",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2420",
+      "poRef": "TH3510",
       "shipment": "Air",
-      "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
-      "bpDeliveryDue": "2026-05-04"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
     },
     {
-      "parentName": "Athletic Fit Stretch Blazer - Heathered Forest Green",
-      "category": "Blazers",
+      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
+      "category": "Short Blazers",
       "skus": [
-        "SL-BLAZER-FORESTGREEN-36",
-        "SL-BLAZER-FORESTGREEN-38",
-        "SL-BLAZER-FORESTGREEN-40",
-        "SL-BLAZER-FORESTGREEN-42",
-        "SL-BLAZER-FORESTGREEN-44",
-        "SL-BLAZER-FORESTGREEN-46",
-        "SL-BLAZER-FORESTGREEN-48"
+        "SL-BLAZER-ASHBRNCROSS-38SHORT",
+        "SL-BLAZER-ASHBRNCROSS-40SHORT",
+        "SL-BLAZER-ASHBRNCROSS-42SHORT",
+        "SL-BLAZER-ASHBRNCROSS-44SHORT",
+        "SL-BLAZER-ASHBRNCROSS-46SHORT"
       ],
-      "skuCount": 7,
+      "skuCount": 5,
       "status": "Restock",
-      "totalOnHand": 16,
-      "lastReceivedDate": "2026-01-28",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "SC5016",
+      "poRef": "TH3509",
       "shipment": "Air",
-      "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
-      "bpDeliveryDue": "2026-05-12"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-07-01"
     },
     {
-      "parentName": "\"The Springer\" Solid White - Spread Collar",
-      "category": "Dress Shirt",
+      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
+      "category": "Short Blazers",
       "skus": [
-        "SL-DS-SPREADSPRING-3XL",
-        "SL-DS-SPREADSPRING-L",
-        "SL-DS-SPREADSPRING-M",
-        "SL-DS-SPREADSPRING-S",
-        "SL-DS-SPREADSPRING-XL",
-        "SL-DS-SPREADSPRING-XS",
-        "SL-DS-SPREADSPRING-XXL"
+        "SL-BLAZER-LBLUEPLAID-38SHORT",
+        "SL-BLAZER-LBLUEPLAID-40SHORT",
+        "SL-BLAZER-LBLUEPLAID-42SHORT",
+        "SL-BLAZER-LBLUEPLAID-44SHORT",
+        "SL-BLAZER-LBLUEPLAID-46SHORT"
       ],
-      "skuCount": 7,
+      "skuCount": 5,
       "status": "Restock",
-      "totalOnHand": 84,
-      "lastReceivedDate": "2025-11-10",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "TH3360",
+      "poRef": "TH3509",
       "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
-      "bpDeliveryDue": "2026-05-31"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-07-01"
     },
     {
-      "parentName": "\"The Diggs\" Solid Maroon",
-      "category": "Polos",
+      "parentName": "Athletic Fit Stretch Blazer - Solid Grey - Short",
+      "category": "Short Blazers",
       "skus": [
-        "SL-P-DIGGS-3XL",
-        "SL-P-DIGGS-L",
-        "SL-P-DIGGS-M",
-        "SL-P-DIGGS-S",
-        "SL-P-DIGGS-XL",
-        "SL-P-DIGGS-XXL"
+        "SL-BLAZER-SOLIDGREY-38SHORT",
+        "SL-BLAZER-SOLIDGREY-40SHORT",
+        "SL-BLAZER-SOLIDGREY-42SHORT",
+        "SL-BLAZER-SOLIDGREY-44SHORT",
+        "SL-BLAZER-SOLIDGREY-46SHORT"
       ],
-      "skuCount": 6,
+      "skuCount": 5,
       "status": "Restock",
-      "totalOnHand": 3,
-      "lastReceivedDate": "2025-06-25",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2434",
+      "poRef": "TH3509",
       "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
-      "bpDeliveryDue": "2026-05-20"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-07-01"
     },
     {
-      "parentName": "\"The Fox\" Black & Grey Mini Abstract Print",
-      "category": "Polos",
+      "parentName": "Athletic Fit Stretch Blazer - Solid Tan - Short",
+      "category": "Short Blazers",
       "skus": [
-        "SL-P-FOX-3XL",
-        "SL-P-FOX-L",
-        "SL-P-FOX-M",
-        "SL-P-FOX-S",
-        "SL-P-FOX-XL",
-        "SL-P-FOX-XXL"
+        "SL-BLAZER-SOLIDTAN-38SHORT",
+        "SL-BLAZER-SOLIDTAN-40SHORT",
+        "SL-BLAZER-SOLIDTAN-42SHORT",
+        "SL-BLAZER-SOLIDTAN-44SHORT",
+        "SL-BLAZER-SOLIDTAN-46SHORT"
       ],
-      "skuCount": 6,
+      "skuCount": 5,
       "status": "Restock",
-      "totalOnHand": 2,
-      "lastReceivedDate": "2025-06-25",
+      "totalOnHand": 0,
+      "lastReceivedDate": "2026-03-10",
       "hasIncoming": true,
-      "poRef": "ED2434",
+      "poRef": "TH3509",
       "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
-      "bpDeliveryDue": "2026-05-20"
-    },
-    {
-      "parentName": "\"The Sky\" Linen Light Blue",
-      "category": "Polos",
-      "skus": [
-        "SL-P-SKY-3XL",
-        "SL-P-SKY-L",
-        "SL-P-SKY-M",
-        "SL-P-SKY-S",
-        "SL-P-SKY-XL",
-        "SL-P-SKY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 2,
-      "lastReceivedDate": "2025-08-11",
-      "hasIncoming": true,
-      "poRef": "ED2434",
-      "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
-      "bpDeliveryDue": "2026-05-20"
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-07-01"
     },
     {
       "parentName": "\"The Maui\" Light Blue & Brown Stripe",
@@ -977,198 +1169,6 @@
       "bpDeliveryDue": "2026-05-19"
     },
     {
-      "parentName": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
-      "category": "Dress Pants",
-      "skus": [
-        "SL-PANT-ASHBRNCROSS-29",
-        "SL-PANT-ASHBRNCROSS-30",
-        "SL-PANT-ASHBRNCROSS-31",
-        "SL-PANT-ASHBRNCROSS-32",
-        "SL-PANT-ASHBRNCROSS-33",
-        "SL-PANT-ASHBRNCROSS-34",
-        "SL-PANT-ASHBRNCROSS-36",
-        "SL-PANT-ASHBRNCROSS-38",
-        "SL-PANT-ASHBRNCROSS-40"
-      ],
-      "skuCount": 9,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3510",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
-      "category": "Dress Pants",
-      "skus": [
-        "SL-PANT-LBLUEPLAID-29",
-        "SL-PANT-LBLUEPLAID-30",
-        "SL-PANT-LBLUEPLAID-31",
-        "SL-PANT-LBLUEPLAID-32",
-        "SL-PANT-LBLUEPLAID-33",
-        "SL-PANT-LBLUEPLAID-34",
-        "SL-PANT-LBLUEPLAID-36",
-        "SL-PANT-LBLUEPLAID-38",
-        "SL-PANT-LBLUEPLAID-40"
-      ],
-      "skuCount": 9,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3510",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Suit Pants - Solid Grey",
-      "category": "Dress Pants",
-      "skus": [
-        "SL-PANT-SOLIDGREY-29",
-        "SL-PANT-SOLIDGREY-30",
-        "SL-PANT-SOLIDGREY-31",
-        "SL-PANT-SOLIDGREY-32",
-        "SL-PANT-SOLIDGREY-33",
-        "SL-PANT-SOLIDGREY-34",
-        "SL-PANT-SOLIDGREY-36",
-        "SL-PANT-SOLIDGREY-38",
-        "SL-PANT-SOLIDGREY-40"
-      ],
-      "skuCount": 9,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3510",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Suit Pants - Solid Tan",
-      "category": "Dress Pants",
-      "skus": [
-        "SL-PANT-SOLIDTAN-29",
-        "SL-PANT-SOLIDTAN-30",
-        "SL-PANT-SOLIDTAN-31",
-        "SL-PANT-SOLIDTAN-32",
-        "SL-PANT-SOLIDTAN-33",
-        "SL-PANT-SOLIDTAN-34",
-        "SL-PANT-SOLIDTAN-36",
-        "SL-PANT-SOLIDTAN-38",
-        "SL-PANT-SOLIDTAN-40"
-      ],
-      "skuCount": 9,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3510",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-ASHBRNCROSS-38SHORT",
-        "SL-BLAZER-ASHBRNCROSS-40SHORT",
-        "SL-BLAZER-ASHBRNCROSS-42SHORT",
-        "SL-BLAZER-ASHBRNCROSS-44SHORT",
-        "SL-BLAZER-ASHBRNCROSS-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3509",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-LBLUEPLAID-38SHORT",
-        "SL-BLAZER-LBLUEPLAID-40SHORT",
-        "SL-BLAZER-LBLUEPLAID-42SHORT",
-        "SL-BLAZER-LBLUEPLAID-44SHORT",
-        "SL-BLAZER-LBLUEPLAID-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3509",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Grey - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDGREY-38SHORT",
-        "SL-BLAZER-SOLIDGREY-40SHORT",
-        "SL-BLAZER-SOLIDGREY-42SHORT",
-        "SL-BLAZER-SOLIDGREY-44SHORT",
-        "SL-BLAZER-SOLIDGREY-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3509",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Tan - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDTAN-38SHORT",
-        "SL-BLAZER-SOLIDTAN-40SHORT",
-        "SL-BLAZER-SOLIDTAN-42SHORT",
-        "SL-BLAZER-SOLIDTAN-44SHORT",
-        "SL-BLAZER-SOLIDTAN-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "Restock",
-      "totalOnHand": 0,
-      "lastReceivedDate": "2026-03-10",
-      "hasIncoming": true,
-      "poRef": "TH3509",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
       "category": "Short Blazers",
       "skus": [
@@ -1186,8 +1186,8 @@
       "poRef": "TH3506",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-01"
     },
     {
@@ -1208,8 +1208,8 @@
       "poRef": "TH3506",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-01"
     },
     {
@@ -1226,8 +1226,8 @@
       "poRef": "TH3527",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -1244,8 +1244,8 @@
       "poRef": "TH3527",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -1262,8 +1262,8 @@
       "poRef": "TH3525",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1280,8 +1280,8 @@
       "poRef": "TH3525",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1298,8 +1298,8 @@
       "poRef": "TH3525",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1316,8 +1316,8 @@
       "poRef": "TH3525",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1339,8 +1339,8 @@
       "poRef": "ED2449",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1362,8 +1362,8 @@
       "poRef": "ED2449",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1385,8 +1385,8 @@
       "poRef": "ED2449",
       "shipment": "Air",
       "exf": "2026-06-20",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-15",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
       "bpDeliveryDue": "2026-07-20"
     },
     {
@@ -1409,8 +1409,8 @@
       "poRef": "TAL6068",
       "shipment": "Air",
       "exf": "2026-06-29",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-24",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-14",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -1433,8 +1433,8 @@
       "poRef": "TAL6068",
       "shipment": "Air",
       "exf": "2026-06-29",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-24",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-14",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -1479,8 +1479,8 @@
       "poRef": "ED2458",
       "shipment": "Air",
       "exf": "2026-07-25",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-19",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -1502,8 +1502,8 @@
       "poRef": "ED2455",
       "shipment": "Air",
       "exf": "2026-07-25",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-19",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
       "bpDeliveryDue": "2026-08-25"
     },
     {
@@ -1525,8 +1525,8 @@
       "poRef": "ED2457",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -1548,8 +1548,8 @@
       "poRef": "ED2464",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-10-01"
     },
     {
@@ -1571,8 +1571,8 @@
       "poRef": "ED2464",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-10-01"
     },
     {
@@ -1594,8 +1594,8 @@
       "poRef": "ED2461",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-10-01"
     },
     {
@@ -1617,8 +1617,8 @@
       "poRef": "ED2461",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-10-01"
     },
     {
@@ -1640,8 +1640,8 @@
       "poRef": "ED2472",
       "shipment": "Air",
       "exf": "2026-08-07",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-01",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-22",
       "bpDeliveryDue": "2026-10-01"
     },
     {
@@ -1658,8 +1658,8 @@
       "poRef": "ED2481",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -1685,7 +1685,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Early April",
-      "etaToStoresDate": "2026-04-10",
+      "etaToStoresDate": "2026-04-05",
       "bpDeliveryDue": ""
     },
     {
@@ -1711,7 +1711,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Early April",
-      "etaToStoresDate": "2026-04-10",
+      "etaToStoresDate": "2026-04-05",
       "bpDeliveryDue": ""
     },
     {
@@ -1737,7 +1737,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Early April",
-      "etaToStoresDate": "2026-04-10",
+      "etaToStoresDate": "2026-04-05",
       "bpDeliveryDue": ""
     },
     {
@@ -1763,7 +1763,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Early April",
-      "etaToStoresDate": "2026-04-10",
+      "etaToStoresDate": "2026-04-05",
       "bpDeliveryDue": ""
     },
     {
@@ -1785,8 +1785,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1808,8 +1808,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1831,8 +1831,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1854,8 +1854,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1877,8 +1877,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1900,8 +1900,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1920,8 +1920,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1946,8 +1946,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-12",
+      "etaToStores": "Early April",
+      "etaToStoresDate": "2026-04-07",
       "bpDeliveryDue": ""
     },
     {
@@ -1970,7 +1970,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-16",
+      "etaToStoresDate": "2026-04-11",
       "bpDeliveryDue": ""
     },
     {
@@ -1993,7 +1993,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-16",
+      "etaToStoresDate": "2026-04-11",
       "bpDeliveryDue": ""
     },
     {
@@ -2016,7 +2016,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-18",
+      "etaToStoresDate": "2026-04-13",
       "bpDeliveryDue": ""
     },
     {
@@ -2039,7 +2039,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-18",
+      "etaToStoresDate": "2026-04-13",
       "bpDeliveryDue": ""
     },
     {
@@ -2066,7 +2066,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-18",
+      "etaToStoresDate": "2026-04-13",
       "bpDeliveryDue": ""
     },
     {
@@ -2090,7 +2090,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -2118,7 +2118,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -2140,7 +2140,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -2162,7 +2162,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-20",
+      "etaToStoresDate": "2026-04-15",
       "bpDeliveryDue": ""
     },
     {
@@ -2184,8 +2184,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -2207,8 +2207,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -2230,8 +2230,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -2253,8 +2253,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-24",
+      "etaToStores": "Mid April",
+      "etaToStoresDate": "2026-04-19",
       "bpDeliveryDue": ""
     },
     {
@@ -2277,7 +2277,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-27",
+      "etaToStoresDate": "2026-04-22",
       "bpDeliveryDue": ""
     },
     {
@@ -2302,7 +2302,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-30",
+      "etaToStoresDate": "2026-04-25",
       "bpDeliveryDue": ""
     },
     {
@@ -2327,7 +2327,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-30",
+      "etaToStoresDate": "2026-04-25",
       "bpDeliveryDue": ""
     },
     {
@@ -2350,7 +2350,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-30",
+      "etaToStoresDate": "2026-04-25",
       "bpDeliveryDue": ""
     },
     {
@@ -2373,7 +2373,7 @@
       "shipment": "",
       "exf": "",
       "etaToStores": "End of April",
-      "etaToStoresDate": "2026-04-30",
+      "etaToStoresDate": "2026-04-25",
       "bpDeliveryDue": ""
     },
     {
@@ -2395,8 +2395,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-01",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-26",
       "bpDeliveryDue": ""
     },
     {
@@ -2418,8 +2418,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-01",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-26",
       "bpDeliveryDue": ""
     },
     {
@@ -2441,8 +2441,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-01",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-26",
       "bpDeliveryDue": ""
     },
     {
@@ -2464,8 +2464,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-01",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-26",
       "bpDeliveryDue": ""
     },
     {
@@ -2487,8 +2487,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-02",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-27",
       "bpDeliveryDue": ""
     },
     {
@@ -2510,8 +2510,8 @@
       "poRef": "Received",
       "shipment": "",
       "exf": "",
-      "etaToStores": "Early May",
-      "etaToStoresDate": "2026-05-02",
+      "etaToStores": "End of April",
+      "etaToStoresDate": "2026-04-27",
       "bpDeliveryDue": ""
     },
     {
@@ -2534,8 +2534,8 @@
       "poRef": "SC5007",
       "shipment": "Air",
       "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
       "bpDeliveryDue": "2026-05-12"
     },
     {
@@ -2562,8 +2562,8 @@
       "poRef": "SC5008",
       "shipment": "Air",
       "exf": "2026-04-27",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-22",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
       "bpDeliveryDue": "2026-05-12"
     },
     {
@@ -2585,8 +2585,8 @@
       "poRef": "ED2410",
       "shipment": "Air",
       "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-06-01"
     },
     {
@@ -2608,8 +2608,8 @@
       "poRef": "ED2410",
       "shipment": "Air",
       "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-06-01"
     },
     {
@@ -2631,8 +2631,8 @@
       "poRef": "ED2410",
       "shipment": "Air",
       "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-06-01"
     },
     {
@@ -2654,8 +2654,8 @@
       "poRef": "ED2428",
       "shipment": "Air",
       "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-06-01"
     },
     {
@@ -2677,8 +2677,8 @@
       "poRef": "ED2428",
       "shipment": "Air",
       "exf": "2026-04-30",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-25",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-06-01"
     },
     {
@@ -2700,8 +2700,8 @@
       "poRef": "ED2429",
       "shipment": "Air",
       "exf": "2026-05-05",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
       "bpDeliveryDue": "2026-05-25"
     },
     {
@@ -2723,8 +2723,8 @@
       "poRef": "ED2429",
       "shipment": "Air",
       "exf": "2026-05-05",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
       "bpDeliveryDue": "2026-05-25"
     },
     {
@@ -2746,8 +2746,8 @@
       "poRef": "ED2429",
       "shipment": "Air",
       "exf": "2026-05-05",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-20",
       "bpDeliveryDue": "2026-05-25"
     },
     {
@@ -2770,8 +2770,8 @@
       "poRef": "TAL6038",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -2794,8 +2794,8 @@
       "poRef": "TAL6038",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -2818,8 +2818,8 @@
       "poRef": "TAL6038",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -2842,8 +2842,8 @@
       "poRef": "TAL6038",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -2870,8 +2870,8 @@
       "poRef": "TAL6040",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-04-30"
     },
     {
@@ -2898,8 +2898,8 @@
       "poRef": "TAL6040",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-04-30"
     },
     {
@@ -2926,8 +2926,8 @@
       "poRef": "TAL6040",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-04-30"
     },
     {
@@ -2954,8 +2954,8 @@
       "poRef": "TAL6040",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-04-30"
     },
     {
@@ -2976,8 +2976,8 @@
       "poRef": "TAL6039",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -2998,8 +2998,8 @@
       "poRef": "TAL6039",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3020,8 +3020,8 @@
       "poRef": "TAL6039",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3042,8 +3042,8 @@
       "poRef": "TAL6039",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3064,8 +3064,8 @@
       "poRef": "TAL6039",
       "shipment": "Air",
       "exf": "2026-05-13",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-07",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-28",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3087,8 +3087,8 @@
       "poRef": "TAL6066",
       "shipment": "Air",
       "exf": "2026-05-14",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-08",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-29",
       "bpDeliveryDue": "2026-06-15"
     },
     {
@@ -3110,8 +3110,8 @@
       "poRef": "TAL6066",
       "shipment": "Air",
       "exf": "2026-05-14",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-08",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-29",
       "bpDeliveryDue": "2026-06-15"
     },
     {
@@ -3133,8 +3133,8 @@
       "poRef": "TAL6066",
       "shipment": "Air",
       "exf": "2026-05-14",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-08",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-29",
       "bpDeliveryDue": "2026-06-15"
     },
     {
@@ -3156,8 +3156,8 @@
       "poRef": "TAL6066",
       "shipment": "Air",
       "exf": "2026-05-14",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-08",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-29",
       "bpDeliveryDue": "2026-06-15"
     },
     {
@@ -3179,8 +3179,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3201,8 +3201,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3224,8 +3224,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3247,8 +3247,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3271,8 +3271,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3294,8 +3294,8 @@
       "poRef": "TAL6060",
       "shipment": "Air",
       "exf": "2026-05-15",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-09",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-30",
       "bpDeliveryDue": "2026-05-31"
     },
     {
@@ -3441,6 +3441,248 @@
       "etaToStores": "Mid June",
       "etaToStoresDate": "2026-06-13",
       "bpDeliveryDue": "2026-04-30"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-ASHBRNCROSS-36",
+        "SL-BLAZER-ASHBRNCROSS-38",
+        "SL-BLAZER-ASHBRNCROSS-40",
+        "SL-BLAZER-ASHBRNCROSS-42",
+        "SL-BLAZER-ASHBRNCROSS-44",
+        "SL-BLAZER-ASHBRNCROSS-46",
+        "SL-BLAZER-ASHBRNCROSS-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-LBLUEPLAID-36",
+        "SL-BLAZER-LBLUEPLAID-38",
+        "SL-BLAZER-LBLUEPLAID-40",
+        "SL-BLAZER-LBLUEPLAID-42",
+        "SL-BLAZER-LBLUEPLAID-44",
+        "SL-BLAZER-LBLUEPLAID-46",
+        "SL-BLAZER-LBLUEPLAID-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-SOLIDGREY-36",
+        "SL-BLAZER-SOLIDGREY-38",
+        "SL-BLAZER-SOLIDGREY-40",
+        "SL-BLAZER-SOLIDGREY-42",
+        "SL-BLAZER-SOLIDGREY-44",
+        "SL-BLAZER-SOLIDGREY-46",
+        "SL-BLAZER-SOLIDGREY-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-SOLIDTAN-36",
+        "SL-BLAZER-SOLIDTAN-38",
+        "SL-BLAZER-SOLIDTAN-40",
+        "SL-BLAZER-SOLIDTAN-42",
+        "SL-BLAZER-SOLIDTAN-44",
+        "SL-BLAZER-SOLIDTAN-46",
+        "SL-BLAZER-SOLIDTAN-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-05-30",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-14",
+      "bpDeliveryDue": "2026-06-20"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-LIGHTBRNHATCH-36",
+        "SL-BLAZER-LIGHTBRNHATCH-38",
+        "SL-BLAZER-LIGHTBRNHATCH-40",
+        "SL-BLAZER-LIGHTBRNHATCH-42",
+        "SL-BLAZER-LIGHTBRNHATCH-44",
+        "SL-BLAZER-LIGHTBRNHATCH-46",
+        "SL-BLAZER-LIGHTBRNHATCH-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "JT1245",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
+      "category": "Casual Blazers",
+      "skus": [
+        "SL-BLAZER-STONEHATCH-36",
+        "SL-BLAZER-STONEHATCH-38",
+        "SL-BLAZER-STONEHATCH-40",
+        "SL-BLAZER-STONEHATCH-42",
+        "SL-BLAZER-STONEHATCH-44",
+        "SL-BLAZER-STONEHATCH-46",
+        "SL-BLAZER-STONEHATCH-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "JT1245",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
+      "category": "Casual Pants",
+      "skus": [
+        "SL-CP-LIGHTBRNHATCH-29",
+        "SL-CP-LIGHTBRNHATCH-30",
+        "SL-CP-LIGHTBRNHATCH-31",
+        "SL-CP-LIGHTBRNHATCH-32",
+        "SL-CP-LIGHTBRNHATCH-33",
+        "SL-CP-LIGHTBRNHATCH-34",
+        "SL-CP-LIGHTBRNHATCH-36",
+        "SL-CP-LIGHTBRNHATCH-38",
+        "SL-CP-LIGHTBRNHATCH-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "JT1246",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
+      "category": "Casual Pants",
+      "skus": [
+        "SL-CP-STONEHATCH-29",
+        "SL-CP-STONEHATCH-30",
+        "SL-CP-STONEHATCH-31",
+        "SL-CP-STONEHATCH-32",
+        "SL-CP-STONEHATCH-33",
+        "SL-CP-STONEHATCH-34",
+        "SL-CP-STONEHATCH-36",
+        "SL-CP-STONEHATCH-38",
+        "SL-CP-STONEHATCH-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "JT1246",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "Lightweight Knit Polo - Charcoal Herringbone",
+      "category": "Polos",
+      "skus": [
+        "SL-P-CHARCOALHERR-S",
+        "SL-P-CHARCOALHERR-M",
+        "SL-P-CHARCOALHERR-L",
+        "SL-P-CHARCOALHERR-XL",
+        "SL-P-CHARCOALHERR-XXL",
+        "SL-P-CHARCOALHERR-3XL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2425",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-15"
+    },
+    {
+      "parentName": "Lightweight Knit Polo - Light Blue Herringbone",
+      "category": "Polos",
+      "skus": [
+        "SL-P-LIGHTBLUEHERR-S",
+        "SL-P-LIGHTBLUEHERR-M",
+        "SL-P-LIGHTBLUEHERR-L",
+        "SL-P-LIGHTBLUEHERR-XL",
+        "SL-P-LIGHTBLUEHERR-XXL",
+        "SL-P-LIGHTBLUEHERR-3XL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2425",
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-15"
     },
     {
       "parentName": "\"The Flight'' Blue Micro Grid Print",
@@ -3627,248 +3869,6 @@
       "bpDeliveryDue": "2026-05-19"
     },
     {
-      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-ASHBRNCROSS-36",
-        "SL-BLAZER-ASHBRNCROSS-38",
-        "SL-BLAZER-ASHBRNCROSS-40",
-        "SL-BLAZER-ASHBRNCROSS-42",
-        "SL-BLAZER-ASHBRNCROSS-44",
-        "SL-BLAZER-ASHBRNCROSS-46",
-        "SL-BLAZER-ASHBRNCROSS-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-LBLUEPLAID-36",
-        "SL-BLAZER-LBLUEPLAID-38",
-        "SL-BLAZER-LBLUEPLAID-40",
-        "SL-BLAZER-LBLUEPLAID-42",
-        "SL-BLAZER-LBLUEPLAID-44",
-        "SL-BLAZER-LBLUEPLAID-46",
-        "SL-BLAZER-LBLUEPLAID-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDGREY-36",
-        "SL-BLAZER-SOLIDGREY-38",
-        "SL-BLAZER-SOLIDGREY-40",
-        "SL-BLAZER-SOLIDGREY-42",
-        "SL-BLAZER-SOLIDGREY-44",
-        "SL-BLAZER-SOLIDGREY-46",
-        "SL-BLAZER-SOLIDGREY-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDTAN-36",
-        "SL-BLAZER-SOLIDTAN-38",
-        "SL-BLAZER-SOLIDTAN-40",
-        "SL-BLAZER-SOLIDTAN-42",
-        "SL-BLAZER-SOLIDTAN-44",
-        "SL-BLAZER-SOLIDTAN-46",
-        "SL-BLAZER-SOLIDTAN-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-24",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
-      "category": "Casual Blazers",
-      "skus": [
-        "SL-BLAZER-LIGHTBRNHATCH-36",
-        "SL-BLAZER-LIGHTBRNHATCH-38",
-        "SL-BLAZER-LIGHTBRNHATCH-40",
-        "SL-BLAZER-LIGHTBRNHATCH-42",
-        "SL-BLAZER-LIGHTBRNHATCH-44",
-        "SL-BLAZER-LIGHTBRNHATCH-46",
-        "SL-BLAZER-LIGHTBRNHATCH-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "JT1245",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
-      "category": "Casual Blazers",
-      "skus": [
-        "SL-BLAZER-STONEHATCH-36",
-        "SL-BLAZER-STONEHATCH-38",
-        "SL-BLAZER-STONEHATCH-40",
-        "SL-BLAZER-STONEHATCH-42",
-        "SL-BLAZER-STONEHATCH-44",
-        "SL-BLAZER-STONEHATCH-46",
-        "SL-BLAZER-STONEHATCH-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "JT1245",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
-      "category": "Casual Pants",
-      "skus": [
-        "SL-CP-LIGHTBRNHATCH-29",
-        "SL-CP-LIGHTBRNHATCH-30",
-        "SL-CP-LIGHTBRNHATCH-31",
-        "SL-CP-LIGHTBRNHATCH-32",
-        "SL-CP-LIGHTBRNHATCH-33",
-        "SL-CP-LIGHTBRNHATCH-34",
-        "SL-CP-LIGHTBRNHATCH-36",
-        "SL-CP-LIGHTBRNHATCH-38",
-        "SL-CP-LIGHTBRNHATCH-40"
-      ],
-      "skuCount": 9,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "JT1246",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
-      "category": "Casual Pants",
-      "skus": [
-        "SL-CP-STONEHATCH-29",
-        "SL-CP-STONEHATCH-30",
-        "SL-CP-STONEHATCH-31",
-        "SL-CP-STONEHATCH-32",
-        "SL-CP-STONEHATCH-33",
-        "SL-CP-STONEHATCH-34",
-        "SL-CP-STONEHATCH-36",
-        "SL-CP-STONEHATCH-38",
-        "SL-CP-STONEHATCH-40"
-      ],
-      "skuCount": 9,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "JT1246",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Lightweight Knit Polo - Charcoal Herringbone",
-      "category": "Polos",
-      "skus": [
-        "SL-P-CHARCOALHERR-S",
-        "SL-P-CHARCOALHERR-M",
-        "SL-P-CHARCOALHERR-L",
-        "SL-P-CHARCOALHERR-XL",
-        "SL-P-CHARCOALHERR-XXL",
-        "SL-P-CHARCOALHERR-3XL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2425",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-15"
-    },
-    {
-      "parentName": "Lightweight Knit Polo - Light Blue Herringbone",
-      "category": "Polos",
-      "skus": [
-        "SL-P-LIGHTBLUEHERR-S",
-        "SL-P-LIGHTBLUEHERR-M",
-        "SL-P-LIGHTBLUEHERR-L",
-        "SL-P-LIGHTBLUEHERR-XL",
-        "SL-P-LIGHTBLUEHERR-XXL",
-        "SL-P-LIGHTBLUEHERR-3XL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2425",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "End of June",
-      "etaToStoresDate": "2026-06-26",
-      "bpDeliveryDue": "2026-07-15"
-    },
-    {
       "parentName": "Sunglasses - Matte Black",
       "category": "Accessory",
       "skus": [
@@ -3882,8 +3882,8 @@
       "poRef": "TH3341",
       "shipment": "Air",
       "exf": "2026-06-06",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-01",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-21",
       "bpDeliveryDue": "2026-07-15"
     },
     {
@@ -3900,8 +3900,8 @@
       "poRef": "TH3341",
       "shipment": "Air",
       "exf": "2026-06-06",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-01",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-21",
       "bpDeliveryDue": "2026-07-15"
     },
     {
@@ -3923,8 +3923,8 @@
       "poRef": "AR7007",
       "shipment": "Air",
       "exf": "2026-06-12",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-07",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-27",
       "bpDeliveryDue": "2026-06-19"
     },
     {
@@ -3946,8 +3946,8 @@
       "poRef": "AR7007",
       "shipment": "Air",
       "exf": "2026-06-12",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-07",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-27",
       "bpDeliveryDue": "2026-06-19"
     },
     {
@@ -3969,8 +3969,8 @@
       "poRef": "AR7007",
       "shipment": "Air",
       "exf": "2026-06-12",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-07",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-27",
       "bpDeliveryDue": "2026-06-19"
     },
     {
@@ -3993,8 +3993,8 @@
       "poRef": "TH3513",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4017,8 +4017,8 @@
       "poRef": "TH3513",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4041,8 +4041,8 @@
       "poRef": "TH3513",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4065,8 +4065,8 @@
       "poRef": "TH3513",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4089,8 +4089,8 @@
       "poRef": "TH3513",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4115,8 +4115,8 @@
       "poRef": "TH3515",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4141,8 +4141,8 @@
       "poRef": "TH3515",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4167,8 +4167,8 @@
       "poRef": "TH3515",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4193,8 +4193,8 @@
       "poRef": "TH3515",
       "shipment": "Air",
       "exf": "2026-06-15",
-      "etaToStores": "Early July",
-      "etaToStoresDate": "2026-07-10",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
       "bpDeliveryDue": "2026-07-31"
     },
     {
@@ -4221,9 +4221,165 @@
       "poRef": "TH3515",
       "shipment": "Air",
       "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-BRNTANWNDPN-38SHORT",
+        "SL-BLAZER-BRNTANWNDPN-40SHORT",
+        "SL-BLAZER-BRNTANWNDPN-42SHORT",
+        "SL-BLAZER-BRNTANWNDPN-44SHORT",
+        "SL-BLAZER-BRNTANWNDPN-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3514",
+      "shipment": "Air",
+      "exf": "2026-06-25",
       "etaToStores": "Early July",
       "etaToStoresDate": "2026-07-10",
       "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-CREAMPLAID-38SHORT",
+        "SL-BLAZER-CREAMPLAID-40SHORT",
+        "SL-BLAZER-CREAMPLAID-42SHORT",
+        "SL-BLAZER-CREAMPLAID-44SHORT",
+        "SL-BLAZER-CREAMPLAID-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3514",
+      "shipment": "Air",
+      "exf": "2026-06-25",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-LTGREYCHALK-38SHORT",
+        "SL-BLAZER-LTGREYCHALK-40SHORT",
+        "SL-BLAZER-LTGREYCHALK-42SHORT",
+        "SL-BLAZER-LTGREYCHALK-44SHORT",
+        "SL-BLAZER-LTGREYCHALK-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3514",
+      "shipment": "Air",
+      "exf": "2026-06-25",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-OXBLUEPLAID-38SHORT",
+        "SL-BLAZER-OXBLUEPLAID-40SHORT",
+        "SL-BLAZER-OXBLUEPLAID-42SHORT",
+        "SL-BLAZER-OXBLUEPLAID-44SHORT",
+        "SL-BLAZER-OXBLUEPLAID-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3514",
+      "shipment": "Air",
+      "exf": "2026-06-25",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
+      "category": "Short Blazers",
+      "skus": [
+        "SL-BLAZER-TXTTANOLIVE-38SHORT",
+        "SL-BLAZER-TXTTANOLIVE-40SHORT",
+        "SL-BLAZER-TXTTANOLIVE-42SHORT",
+        "SL-BLAZER-TXTTANOLIVE-44SHORT",
+        "SL-BLAZER-TXTTANOLIVE-46SHORT"
+      ],
+      "skuCount": 5,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3514",
+      "shipment": "Air",
+      "exf": "2026-06-25",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-10",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "\"The Kellen\" Light Blue Mini Patterned",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-KELLEN-3XL",
+        "SL-DS-KELLEN-L",
+        "SL-DS-KELLEN-M",
+        "SL-DS-KELLEN-S",
+        "SL-DS-KELLEN-XL",
+        "SL-DS-KELLEN-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6069",
+      "shipment": "Air",
+      "exf": "2026-06-29",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-14",
+      "bpDeliveryDue": "2026-07-22"
+    },
+    {
+      "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-PRESCOTT-3XL",
+        "SL-DS-PRESCOTT-L",
+        "SL-DS-PRESCOTT-M",
+        "SL-DS-PRESCOTT-S",
+        "SL-DS-PRESCOTT-XL",
+        "SL-DS-PRESCOTT-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6069",
+      "shipment": "Air",
+      "exf": "2026-06-29",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-14",
+      "bpDeliveryDue": "2026-07-22"
     },
     {
       "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
@@ -4249,162 +4405,6 @@
       "bpDeliveryDue": "2026-06-30"
     },
     {
-      "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-BRNTANWNDPN-38SHORT",
-        "SL-BLAZER-BRNTANWNDPN-40SHORT",
-        "SL-BLAZER-BRNTANWNDPN-42SHORT",
-        "SL-BLAZER-BRNTANWNDPN-44SHORT",
-        "SL-BLAZER-BRNTANWNDPN-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3514",
-      "shipment": "Air",
-      "exf": "2026-06-25",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-CREAMPLAID-38SHORT",
-        "SL-BLAZER-CREAMPLAID-40SHORT",
-        "SL-BLAZER-CREAMPLAID-42SHORT",
-        "SL-BLAZER-CREAMPLAID-44SHORT",
-        "SL-BLAZER-CREAMPLAID-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3514",
-      "shipment": "Air",
-      "exf": "2026-06-25",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-LTGREYCHALK-38SHORT",
-        "SL-BLAZER-LTGREYCHALK-40SHORT",
-        "SL-BLAZER-LTGREYCHALK-42SHORT",
-        "SL-BLAZER-LTGREYCHALK-44SHORT",
-        "SL-BLAZER-LTGREYCHALK-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3514",
-      "shipment": "Air",
-      "exf": "2026-06-25",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-OXBLUEPLAID-38SHORT",
-        "SL-BLAZER-OXBLUEPLAID-40SHORT",
-        "SL-BLAZER-OXBLUEPLAID-42SHORT",
-        "SL-BLAZER-OXBLUEPLAID-44SHORT",
-        "SL-BLAZER-OXBLUEPLAID-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3514",
-      "shipment": "Air",
-      "exf": "2026-06-25",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
-      "category": "Short Blazers",
-      "skus": [
-        "SL-BLAZER-TXTTANOLIVE-38SHORT",
-        "SL-BLAZER-TXTTANOLIVE-40SHORT",
-        "SL-BLAZER-TXTTANOLIVE-42SHORT",
-        "SL-BLAZER-TXTTANOLIVE-44SHORT",
-        "SL-BLAZER-TXTTANOLIVE-46SHORT"
-      ],
-      "skuCount": 5,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3514",
-      "shipment": "Air",
-      "exf": "2026-06-25",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "\"The Kellen\" Light Blue Mini Patterned",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-KELLEN-3XL",
-        "SL-DS-KELLEN-L",
-        "SL-DS-KELLEN-M",
-        "SL-DS-KELLEN-S",
-        "SL-DS-KELLEN-XL",
-        "SL-DS-KELLEN-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6069",
-      "shipment": "Air",
-      "exf": "2026-06-29",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-24",
-      "bpDeliveryDue": "2026-07-22"
-    },
-    {
-      "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-PRESCOTT-3XL",
-        "SL-DS-PRESCOTT-L",
-        "SL-DS-PRESCOTT-M",
-        "SL-DS-PRESCOTT-S",
-        "SL-DS-PRESCOTT-XL",
-        "SL-DS-PRESCOTT-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6069",
-      "shipment": "Air",
-      "exf": "2026-06-29",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-24",
-      "bpDeliveryDue": "2026-07-22"
-    },
-    {
       "parentName": "\"The Winslow\" Navy and Brown Check",
       "category": "Dress Shirt",
       "skus": [
@@ -4423,8 +4423,8 @@
       "poRef": "TAL6069",
       "shipment": "Air",
       "exf": "2026-06-29",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-24",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-14",
       "bpDeliveryDue": "2026-07-22"
     },
     {
@@ -4446,8 +4446,8 @@
       "poRef": "TH3521",
       "shipment": "Air",
       "exf": "2026-07-01",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-26",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-16",
       "bpDeliveryDue": "2026-08-15"
     },
     {
@@ -4469,8 +4469,8 @@
       "poRef": "TH3521",
       "shipment": "Air",
       "exf": "2026-07-01",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-26",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-16",
       "bpDeliveryDue": "2026-08-15"
     },
     {
@@ -4492,8 +4492,8 @@
       "poRef": "ED2446",
       "shipment": "Air",
       "exf": "2026-07-01",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-26",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-16",
       "bpDeliveryDue": "2026-08-01"
     },
     {
@@ -4515,8 +4515,8 @@
       "poRef": "ED2446",
       "shipment": "Air",
       "exf": "2026-07-01",
-      "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-26",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-16",
       "bpDeliveryDue": "2026-08-01"
     },
     {
@@ -4538,8 +4538,238 @@
       "poRef": "TH3520",
       "shipment": "Air",
       "exf": "2026-07-01",
+      "etaToStores": "Mid July",
+      "etaToStoresDate": "2026-07-16",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "Brushed Cotton Shirt Jacket - Black",
+      "category": "Jackets",
+      "skus": [
+        "SL-JACKET-BRUSHEDBLACK-3XL",
+        "SL-JACKET-BRUSHEDBLACK-L",
+        "SL-JACKET-BRUSHEDBLACK-M",
+        "SL-JACKET-BRUSHEDBLACK-S",
+        "SL-JACKET-BRUSHEDBLACK-XL",
+        "SL-JACKET-BRUSHEDBLACK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2448",
+      "shipment": "Air",
+      "exf": "2026-07-15",
       "etaToStores": "End of July",
-      "etaToStoresDate": "2026-07-26",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-01"
+    },
+    {
+      "parentName": "Brushed Cotton Shirt Jacket - Stone",
+      "category": "Jackets",
+      "skus": [
+        "SL-JACKET-BRUSHEDSTONE-3XL",
+        "SL-JACKET-BRUSHEDSTONE-L",
+        "SL-JACKET-BRUSHEDSTONE-M",
+        "SL-JACKET-BRUSHEDSTONE-S",
+        "SL-JACKET-BRUSHEDSTONE-XL",
+        "SL-JACKET-BRUSHEDSTONE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2448",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-01"
+    },
+    {
+      "parentName": "Corduroy Harrington Jacket - Dark Olive",
+      "category": "Jackets",
+      "skus": [
+        "SL-JACKET-HARRINGOLIVE-3XL",
+        "SL-JACKET-HARRINGOLIVE-L",
+        "SL-JACKET-HARRINGOLIVE-M",
+        "SL-JACKET-HARRINGOLIVE-S",
+        "SL-JACKET-HARRINGOLIVE-XL",
+        "SL-JACKET-HARRINGOLIVE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2443",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "Swim Trucks - Brown & Black",
+      "category": "Short",
+      "skus": [
+        "SL-SHORT-SWIMBROWNBLACK-3XL",
+        "SL-SHORT-SWIMBROWNBLACK-L",
+        "SL-SHORT-SWIMBROWNBLACK-M",
+        "SL-SHORT-SWIMBROWNBLACK-S",
+        "SL-SHORT-SWIMBROWNBLACK-XL",
+        "SL-SHORT-SWIMBROWNBLACK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2440",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "Swim Trucks - Navy",
+      "category": "Short",
+      "skus": [
+        "SL-SHORT-SWIMNAVY-3XL",
+        "SL-SHORT-SWIMNAVY-L",
+        "SL-SHORT-SWIMNAVY-M",
+        "SL-SHORT-SWIMNAVY-S",
+        "SL-SHORT-SWIMNAVY-XL",
+        "SL-SHORT-SWIMNAVY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2440",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-LONGSHORE-3XL",
+        "SL-SPORTSHIRT-LONGSHORE-L",
+        "SL-SPORTSHIRT-LONGSHORE-M",
+        "SL-SPORTSHIRT-LONGSHORE-S",
+        "SL-SPORTSHIRT-LONGSHORE-XL",
+        "SL-SPORTSHIRT-LONGSHORE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "AR7010",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-MYRTLE-3XL",
+        "SL-SPORTSHIRT-MYRTLE-L",
+        "SL-SPORTSHIRT-MYRTLE-M",
+        "SL-SPORTSHIRT-MYRTLE-S",
+        "SL-SPORTSHIRT-MYRTLE-XL",
+        "SL-SPORTSHIRT-MYRTLE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "AR7010",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-SAUGATUCK-3XL",
+        "SL-SPORTSHIRT-SAUGATUCK-L",
+        "SL-SPORTSHIRT-SAUGATUCK-M",
+        "SL-SPORTSHIRT-SAUGATUCK-S",
+        "SL-SPORTSHIRT-SAUGATUCK-XL",
+        "SL-SPORTSHIRT-SAUGATUCK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "AR7010",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-WELLINGTON-3XL",
+        "SL-SPORTSHIRT-WELLINGTON-L",
+        "SL-SPORTSHIRT-WELLINGTON-M",
+        "SL-SPORTSHIRT-WELLINGTON-S",
+        "SL-SPORTSHIRT-WELLINGTON-XL",
+        "SL-SPORTSHIRT-WELLINGTON-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "AR7010",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-WRIGLEY-3XL",
+        "SL-SPORTSHIRT-WRIGLEY-L",
+        "SL-SPORTSHIRT-WRIGLEY-M",
+        "SL-SPORTSHIRT-WRIGLEY-S",
+        "SL-SPORTSHIRT-WRIGLEY-XL",
+        "SL-SPORTSHIRT-WRIGLEY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "AR7010",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
       "bpDeliveryDue": "2026-08-15"
     },
     {
@@ -4566,236 +4796,6 @@
       "bpDeliveryDue": "2026-05-25"
     },
     {
-      "parentName": "Brushed Cotton Shirt Jacket - Black",
-      "category": "Jackets",
-      "skus": [
-        "SL-JACKET-BRUSHEDBLACK-3XL",
-        "SL-JACKET-BRUSHEDBLACK-L",
-        "SL-JACKET-BRUSHEDBLACK-M",
-        "SL-JACKET-BRUSHEDBLACK-S",
-        "SL-JACKET-BRUSHEDBLACK-XL",
-        "SL-JACKET-BRUSHEDBLACK-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2448",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-01"
-    },
-    {
-      "parentName": "Brushed Cotton Shirt Jacket - Stone",
-      "category": "Jackets",
-      "skus": [
-        "SL-JACKET-BRUSHEDSTONE-3XL",
-        "SL-JACKET-BRUSHEDSTONE-L",
-        "SL-JACKET-BRUSHEDSTONE-M",
-        "SL-JACKET-BRUSHEDSTONE-S",
-        "SL-JACKET-BRUSHEDSTONE-XL",
-        "SL-JACKET-BRUSHEDSTONE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2448",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-01"
-    },
-    {
-      "parentName": "Corduroy Harrington Jacket - Dark Olive",
-      "category": "Jackets",
-      "skus": [
-        "SL-JACKET-HARRINGOLIVE-3XL",
-        "SL-JACKET-HARRINGOLIVE-L",
-        "SL-JACKET-HARRINGOLIVE-M",
-        "SL-JACKET-HARRINGOLIVE-S",
-        "SL-JACKET-HARRINGOLIVE-XL",
-        "SL-JACKET-HARRINGOLIVE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2443",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "Swim Trucks - Brown & Black",
-      "category": "Short",
-      "skus": [
-        "SL-SHORT-SWIMBROWNBLACK-3XL",
-        "SL-SHORT-SWIMBROWNBLACK-L",
-        "SL-SHORT-SWIMBROWNBLACK-M",
-        "SL-SHORT-SWIMBROWNBLACK-S",
-        "SL-SHORT-SWIMBROWNBLACK-XL",
-        "SL-SHORT-SWIMBROWNBLACK-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2440",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "Swim Trucks - Navy",
-      "category": "Short",
-      "skus": [
-        "SL-SHORT-SWIMNAVY-3XL",
-        "SL-SHORT-SWIMNAVY-L",
-        "SL-SHORT-SWIMNAVY-M",
-        "SL-SHORT-SWIMNAVY-S",
-        "SL-SHORT-SWIMNAVY-XL",
-        "SL-SHORT-SWIMNAVY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2440",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-LONGSHORE-3XL",
-        "SL-SPORTSHIRT-LONGSHORE-L",
-        "SL-SPORTSHIRT-LONGSHORE-M",
-        "SL-SPORTSHIRT-LONGSHORE-S",
-        "SL-SPORTSHIRT-LONGSHORE-XL",
-        "SL-SPORTSHIRT-LONGSHORE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "AR7010",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-MYRTLE-3XL",
-        "SL-SPORTSHIRT-MYRTLE-L",
-        "SL-SPORTSHIRT-MYRTLE-M",
-        "SL-SPORTSHIRT-MYRTLE-S",
-        "SL-SPORTSHIRT-MYRTLE-XL",
-        "SL-SPORTSHIRT-MYRTLE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "AR7010",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-SAUGATUCK-3XL",
-        "SL-SPORTSHIRT-SAUGATUCK-L",
-        "SL-SPORTSHIRT-SAUGATUCK-M",
-        "SL-SPORTSHIRT-SAUGATUCK-S",
-        "SL-SPORTSHIRT-SAUGATUCK-XL",
-        "SL-SPORTSHIRT-SAUGATUCK-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "AR7010",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-WELLINGTON-3XL",
-        "SL-SPORTSHIRT-WELLINGTON-L",
-        "SL-SPORTSHIRT-WELLINGTON-M",
-        "SL-SPORTSHIRT-WELLINGTON-S",
-        "SL-SPORTSHIRT-WELLINGTON-XL",
-        "SL-SPORTSHIRT-WELLINGTON-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "AR7010",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
-      "parentName": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-WRIGLEY-3XL",
-        "SL-SPORTSHIRT-WRIGLEY-L",
-        "SL-SPORTSHIRT-WRIGLEY-M",
-        "SL-SPORTSHIRT-WRIGLEY-S",
-        "SL-SPORTSHIRT-WRIGLEY-XL",
-        "SL-SPORTSHIRT-WRIGLEY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "AR7010",
-      "shipment": "Air",
-      "exf": "2026-07-15",
-      "etaToStores": "Early August",
-      "etaToStoresDate": "2026-08-09",
-      "bpDeliveryDue": "2026-08-15"
-    },
-    {
       "parentName": "Brushed Cotton Quilted Jacket - Black",
       "category": "Jackets",
       "skus": [
@@ -4814,8 +4814,8 @@
       "poRef": "ED2447",
       "shipment": "Air",
       "exf": "2026-07-20",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-14",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-04",
       "bpDeliveryDue": "2026-08-20"
     },
     {
@@ -4837,8 +4837,8 @@
       "poRef": "ED2447",
       "shipment": "Air",
       "exf": "2026-07-20",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-14",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-04",
       "bpDeliveryDue": "2026-08-20"
     },
     {
@@ -4860,8 +4860,8 @@
       "poRef": "ED2453",
       "shipment": "Air",
       "exf": "2026-07-25",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-19",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -4883,8 +4883,8 @@
       "poRef": "ED2454",
       "shipment": "Air",
       "exf": "2026-07-25",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-19",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -4906,8 +4906,8 @@
       "poRef": "ED2454",
       "shipment": "Air",
       "exf": "2026-07-25",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-19",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -4932,8 +4932,8 @@
       "poRef": "ED2456",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -4958,8 +4958,8 @@
       "poRef": "ED2456",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -4984,8 +4984,8 @@
       "poRef": "ED2456",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5010,8 +5010,8 @@
       "poRef": "ED2456",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5033,8 +5033,8 @@
       "poRef": "ED2471",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5056,8 +5056,8 @@
       "poRef": "ED2471",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5079,8 +5079,8 @@
       "poRef": "ED2467",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5102,8 +5102,8 @@
       "poRef": "ED2467",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5125,8 +5125,8 @@
       "poRef": "ED2476",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -5148,8 +5148,8 @@
       "poRef": "ED2476",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -5171,8 +5171,8 @@
       "poRef": "ED2463",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -5194,8 +5194,8 @@
       "poRef": "ED2463",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -5217,8 +5217,8 @@
       "poRef": "ED2465",
       "shipment": "Air",
       "exf": "2026-08-01",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-26",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-16",
       "bpDeliveryDue": "2026-09-30"
     },
     {
@@ -5240,8 +5240,8 @@
       "poRef": "ED2474",
       "shipment": "Air",
       "exf": "2026-08-05",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-30",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-20",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5263,8 +5263,8 @@
       "poRef": "ED2474",
       "shipment": "Air",
       "exf": "2026-08-05",
-      "etaToStores": "End of August",
-      "etaToStoresDate": "2026-08-30",
+      "etaToStores": "Mid August",
+      "etaToStoresDate": "2026-08-20",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5286,8 +5286,8 @@
       "poRef": "ED2452",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5309,8 +5309,8 @@
       "poRef": "ED2452",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5332,8 +5332,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5355,8 +5355,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5378,8 +5378,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5401,8 +5401,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5424,8 +5424,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5447,8 +5447,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5470,8 +5470,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5493,8 +5493,8 @@
       "poRef": "TH3526",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-08-31"
     },
     {
@@ -5516,8 +5516,8 @@
       "poRef": "KA8001",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5539,8 +5539,8 @@
       "poRef": "KA8002",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5562,8 +5562,8 @@
       "poRef": "KA8003",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5585,8 +5585,8 @@
       "poRef": "KA8004",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5608,8 +5608,8 @@
       "poRef": "KA8004",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5631,8 +5631,8 @@
       "poRef": "KA8005",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5654,8 +5654,8 @@
       "poRef": "KA8005",
       "shipment": "Air",
       "exf": "2026-08-15",
-      "etaToStores": "Early September",
-      "etaToStoresDate": "2026-09-09",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-30",
       "bpDeliveryDue": "2026-09-01"
     },
     {
@@ -5677,8 +5677,8 @@
       "poRef": "ED2468",
       "shipment": "Air",
       "exf": "2026-09-01",
-      "etaToStores": "End of September",
-      "etaToStoresDate": "2026-09-26",
+      "etaToStores": "Mid September",
+      "etaToStoresDate": "2026-09-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5700,8 +5700,8 @@
       "poRef": "ED2468",
       "shipment": "Air",
       "exf": "2026-09-01",
-      "etaToStores": "End of September",
-      "etaToStoresDate": "2026-09-26",
+      "etaToStores": "Mid September",
+      "etaToStoresDate": "2026-09-16",
       "bpDeliveryDue": "2026-09-15"
     },
     {
@@ -5723,8 +5723,8 @@
       "poRef": "ED2468",
       "shipment": "Air",
       "exf": "2026-09-01",
-      "etaToStores": "End of September",
-      "etaToStoresDate": "2026-09-26",
+      "etaToStores": "Mid September",
+      "etaToStoresDate": "2026-09-16",
       "bpDeliveryDue": "2026-09-15"
     }
   ]
