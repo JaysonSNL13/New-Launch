@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-05-27T17:34:32.247Z",
+  "lastUpdated": "2026-05-27T19:09:49.761Z",
   "generatedBy": "buildAndPushNewLaunch2 (Apps Script)",
   "counts": {
-    "total": 237,
+    "total": 281,
     "newLaunch": 182,
-    "restock": 55
+    "restock": 99
   },
   "items": [
     {
@@ -191,6 +191,162 @@
       "bpDeliveryDue": ""
     },
     {
+      "parentName": "\"The Jameson\" Mini Navy Dot Print",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-JAMESON-3XL",
+        "SL-DS-JAMESON-L",
+        "SL-DS-JAMESON-M",
+        "SL-DS-JAMESON-S",
+        "SL-DS-JAMESON-XL",
+        "SL-DS-JAMESON-XS",
+        "SL-DS-JAMESON-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 912,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Javier\" Pale Blue",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-JAVIER-3XL",
+        "SL-DS-JAVIER-L",
+        "SL-DS-JAVIER-M",
+        "SL-DS-JAVIER-S",
+        "SL-DS-JAVIER-XL",
+        "SL-DS-JAVIER-XS",
+        "SL-DS-JAVIER-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 1287,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Morrison\" Blue & White Mini Pattern",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-MORRISON-3XL",
+        "SL-DS-MORRISON-L",
+        "SL-DS-MORRISON-M",
+        "SL-DS-MORRISON-S",
+        "SL-DS-MORRISON-XL",
+        "SL-DS-MORRISON-XS",
+        "SL-DS-MORRISON-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 994,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-SLE-3XL",
+        "SL-DS-SLE-L",
+        "SL-DS-SLE-M",
+        "SL-DS-SLE-S",
+        "SL-DS-SLE-XL",
+        "SL-DS-SLE-XS",
+        "SL-DS-SLE-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 3490,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-WATERTOWN-3XL",
+        "SL-DS-WATERTOWN-L",
+        "SL-DS-WATERTOWN-M",
+        "SL-DS-WATERTOWN-S",
+        "SL-DS-WATERTOWN-XL",
+        "SL-DS-WATERTOWN-XS",
+        "SL-DS-WATERTOWN-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 128,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Wylder\" Charcoal Chalked Pinstripe",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-WYLDER-3XL",
+        "SL-DS-WYLDER-L",
+        "SL-DS-WYLDER-M",
+        "SL-DS-WYLDER-S",
+        "SL-DS-WYLDER-XL",
+        "SL-DS-WYLDER-XS",
+        "SL-DS-WYLDER-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 487,
+      "lastReceivedDate": "2026-05-07",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-12",
+      "bpDeliveryDue": ""
+    },
+    {
       "parentName": "Tech Quarter Zip - Charcoal",
       "category": "Quarter Zips",
       "skus": [
@@ -286,6 +442,144 @@
       "bpDeliveryDue": "2026-06-01"
     },
     {
+      "parentName": "Black Square Cuff Links",
+      "category": "Accessory",
+      "skus": [
+        "SL-ACCESSORY-SQUARECUFFLINKS"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 130,
+      "lastReceivedDate": "2026-02-23",
+      "hasIncoming": true,
+      "poRef": "TH3366",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-06-01"
+    },
+    {
+      "parentName": "Suspenders",
+      "category": "Accessory",
+      "skus": [
+        "SL-ACCESSORY-SUSPENDERS-CLIPS"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 136,
+      "lastReceivedDate": "2026-01-12",
+      "hasIncoming": true,
+      "poRef": "TH3366",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-06-01"
+    },
+    {
+      "parentName": "Tuxedo Studs (Set of 5)",
+      "category": "Accessory",
+      "skus": [
+        "SL-ACCESSORY-TUXSTUDS"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 843,
+      "lastReceivedDate": "2026-02-23",
+      "hasIncoming": true,
+      "poRef": "TH3366",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-06-01"
+    },
+    {
+      "parentName": "\"The Boylston\" Navy with White Polka Dots",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-BOYLSTON-3XL",
+        "SL-DS-BOYLSTON-L",
+        "SL-DS-BOYLSTON-M",
+        "SL-DS-BOYLSTON-S",
+        "SL-DS-BOYLSTON-XL",
+        "SL-DS-BOYLSTON-XS",
+        "SL-DS-BOYLSTON-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 751,
+      "lastReceivedDate": "2026-03-20",
+      "hasIncoming": true,
+      "poRef": "TH3360",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-31"
+    },
+    {
+      "parentName": "\"The Cape\" Wide Navy Stripe",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-CAPE-3XL",
+        "SL-DS-CAPE-L",
+        "SL-DS-CAPE-M",
+        "SL-DS-CAPE-S",
+        "SL-DS-CAPE-XL",
+        "SL-DS-CAPE-XS",
+        "SL-DS-CAPE-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 567,
+      "lastReceivedDate": "2026-04-02",
+      "hasIncoming": true,
+      "poRef": "TH3360",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-31"
+    },
+    {
+      "parentName": "\"The Flynn\" Light Blue & White Plaid",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-FLYNN-3XL",
+        "SL-DS-FLYNN-L",
+        "SL-DS-FLYNN-M",
+        "SL-DS-FLYNN-S",
+        "SL-DS-FLYNN-XL",
+        "SL-DS-FLYNN-XS",
+        "SL-DS-FLYNN-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 442,
+      "lastReceivedDate": "2026-04-13",
+      "hasIncoming": true,
+      "poRef": "TH3360",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-04-30",
+      "etaToStores": "Mid May",
+      "etaToStoresDate": "2026-05-15",
+      "bpDeliveryDue": "2026-05-31"
+    },
+    {
       "parentName": "\"The Springer\" Solid White - Spread Collar",
       "category": "Dress Shirt",
       "skus": [
@@ -310,6 +604,84 @@
       "etaToStores": "Mid May",
       "etaToStoresDate": "2026-05-15",
       "bpDeliveryDue": "2026-05-31"
+    },
+    {
+      "parentName": "\"The Herbert\" Solid Pink",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-HERBERT-3XL",
+        "SL-DS-HERBERT-L",
+        "SL-DS-HERBERT-M",
+        "SL-DS-HERBERT-S",
+        "SL-DS-HERBERT-XL",
+        "SL-DS-HERBERT-XS",
+        "SL-DS-HERBERT-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 1093,
+      "lastReceivedDate": "2026-05-18",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-23",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Springer\" Solid White",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-SPRINGER-3XL",
+        "SL-DS-SPRINGER-L",
+        "SL-DS-SPRINGER-M",
+        "SL-DS-SPRINGER-S",
+        "SL-DS-SPRINGER-XL",
+        "SL-DS-SPRINGER-XS",
+        "SL-DS-SPRINGER-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 16570,
+      "lastReceivedDate": "2026-05-18",
+      "hasIncoming": true,
+      "poRef": "",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-23",
+      "bpDeliveryDue": ""
+    },
+    {
+      "parentName": "\"The Von\" Solid Black",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-VON-3XL",
+        "SL-DS-VON-L",
+        "SL-DS-VON-M",
+        "SL-DS-VON-S",
+        "SL-DS-VON-XL",
+        "SL-DS-VON-XS",
+        "SL-DS-VON-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 3437,
+      "lastReceivedDate": "2026-05-18",
+      "hasIncoming": true,
+      "poRef": "TH3360",
+      "isReceived": true,
+      "routingPending": false,
+      "shipment": "",
+      "exf": "",
+      "etaToStores": "End of May",
+      "etaToStoresDate": "2026-05-23",
+      "bpDeliveryDue": ""
     },
     {
       "parentName": "Corduroy Knit Zip Jacket - Tan",
@@ -383,6 +755,32 @@
       "etaToStores": "Early June",
       "etaToStoresDate": "2026-06-04",
       "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-LEONARDO-3XL",
+        "SL-DS-LEONARDO-L",
+        "SL-DS-LEONARDO-M",
+        "SL-DS-LEONARDO-S",
+        "SL-DS-LEONARDO-XL",
+        "SL-DS-LEONARDO-XS",
+        "SL-DS-LEONARDO-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 506,
+      "lastReceivedDate": "2026-03-20",
+      "hasIncoming": true,
+      "poRef": "TAL6065",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-05-22",
+      "etaToStores": "Early June",
+      "etaToStoresDate": "2026-06-06",
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "\"The Maui\" Light Blue & Brown Stripe",
@@ -504,6 +902,82 @@
       "etaToStores": "Mid June",
       "etaToStoresDate": "2026-06-14",
       "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "\"The Briggs\" Solid White with Light Blue Accents",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-BRIGGS-3XL",
+        "SL-DS-BRIGGS-L",
+        "SL-DS-BRIGGS-M",
+        "SL-DS-BRIGGS-S",
+        "SL-DS-BRIGGS-XL",
+        "SL-DS-BRIGGS-XS",
+        "SL-DS-BRIGGS-XXL"
+      ],
+      "skuCount": 7,
+      "status": "Restock",
+      "totalOnHand": 854,
+      "lastReceivedDate": "2026-04-02",
+      "hasIncoming": true,
+      "poRef": "TH3512",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-01",
+      "etaToStores": "Mid June",
+      "etaToStoresDate": "2026-06-16",
+      "bpDeliveryDue": "2026-07-15"
+    },
+    {
+      "parentName": "Textured Knit Short Sleeve Button Down - Navy",
+      "category": "SSBD",
+      "skus": [
+        "SL-SSBD-TEXTKNITNAVY-3XL",
+        "SL-SSBD-TEXTKNITNAVY-L",
+        "SL-SSBD-TEXTKNITNAVY-M",
+        "SL-SSBD-TEXTKNITNAVY-S",
+        "SL-SSBD-TEXTKNITNAVY-XL",
+        "SL-SSBD-TEXTKNITNAVY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 129,
+      "lastReceivedDate": "2026-03-11",
+      "hasIncoming": true,
+      "poRef": "ED2450",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-06",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-21",
+      "bpDeliveryDue": "2026-06-15"
+    },
+    {
+      "parentName": "Textured Knit Short Sleeve Button Down - Olive",
+      "category": "SSBD",
+      "skus": [
+        "SL-SSBD-TEXTKNITOLIVE-3XL",
+        "SL-SSBD-TEXTKNITOLIVE-L",
+        "SL-SSBD-TEXTKNITOLIVE-M",
+        "SL-SSBD-TEXTKNITOLIVE-S",
+        "SL-SSBD-TEXTKNITOLIVE-XL",
+        "SL-SSBD-TEXTKNITOLIVE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 195,
+      "lastReceivedDate": "2026-03-11",
+      "hasIncoming": true,
+      "poRef": "ED2450",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-06",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-21",
+      "bpDeliveryDue": "2026-06-15"
     },
     {
       "parentName": "Textured Knit Short Sleeve Button Down - Tan",
@@ -667,6 +1141,106 @@
       "bpDeliveryDue": "2026-07-01"
     },
     {
+      "parentName": "Black Silk Bowtie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-BOWTIE-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 1357,
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Black Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 1300,
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Light Blue Woven Silk Tie",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-LIGHTBLUE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 261,
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Silk Pre-Tied Bow Tie - Black",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-PRETBOWTIE-BLACK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 251,
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Silk Tie - Dark Brown",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-DARKBROWN"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 145,
+      "lastReceivedDate": "2026-03-13",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
       "parentName": "Silk Tie - Rose Pink",
       "category": "Ties",
       "skus": [
@@ -675,6 +1249,26 @@
       "skuCount": 1,
       "status": "Restock",
       "totalOnHand": 99,
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Silk Tie - Sea Green",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-SEAGREEN"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 189,
       "lastReceivedDate": "2026-04-10",
       "hasIncoming": true,
       "poRef": "TH3527",
@@ -727,6 +1321,46 @@
       "bpDeliveryDue": "2026-07-31"
     },
     {
+      "parentName": "Pocket Square - Black",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-VON"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 503,
+      "lastReceivedDate": "2026-02-23",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - Blue Gingham",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-BONINO"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 161,
+      "lastReceivedDate": "2025-03-25",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
       "parentName": "Pocket Square - Blue Microcheck",
       "category": "Pocket Square",
       "skus": [
@@ -736,6 +1370,46 @@
       "status": "Restock",
       "totalOnHand": 8,
       "lastReceivedDate": "2023-04-28",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - Business Blue",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-BELLAMY"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 214,
+      "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - Navy",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-HOWARD"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 175,
+      "lastReceivedDate": "2025-07-21",
       "hasIncoming": true,
       "poRef": "TH3525",
       "isReceived": false,
@@ -787,6 +1461,26 @@
       "bpDeliveryDue": "2026-07-20"
     },
     {
+      "parentName": "Pocket Square - White",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-SPRINGER"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 1630,
+      "lastReceivedDate": "2026-02-23",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
       "parentName": "Pocket Square - White With Black Edge Stitch",
       "category": "Pocket Square",
       "skus": [
@@ -796,6 +1490,26 @@
       "status": "Restock",
       "totalOnHand": 53,
       "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White With Blue Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-WBEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 368,
+      "lastReceivedDate": "2026-02-23",
       "hasIncoming": true,
       "poRef": "TH3525",
       "isReceived": false,
@@ -827,6 +1541,26 @@
       "bpDeliveryDue": "2026-07-20"
     },
     {
+      "parentName": "Pocket Square - White With Dark Grey Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-DGREYEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 126,
+      "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
       "parentName": "Pocket Square - White With Dark Olive Edge Stitch",
       "category": "Pocket Square",
       "skus": [
@@ -836,6 +1570,46 @@
       "status": "Restock",
       "totalOnHand": 57,
       "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White With Ivory Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-IVORYEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 115,
+      "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White with Light Blue Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-WLBEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 184,
+      "lastReceivedDate": "2026-02-23",
       "hasIncoming": true,
       "poRef": "TH3525",
       "isReceived": false,
@@ -875,6 +1649,66 @@
       "skuCount": 1,
       "status": "Restock",
       "totalOnHand": 83,
+      "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White With Pink Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-WPEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 134,
+      "lastReceivedDate": "2026-02-23",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White With Plum Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-PLUMEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 147,
+      "lastReceivedDate": "2025-11-19",
+      "hasIncoming": true,
+      "poRef": "TH3525",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-20"
+    },
+    {
+      "parentName": "Pocket Square - White With Yellow Edge Stitch",
+      "category": "Pocket Square",
+      "skus": [
+        "SL-PS-YELLOWEDGE"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 156,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -1184,6 +2018,81 @@
       "bpDeliveryDue": "2026-09-01"
     },
     {
+      "parentName": "3 Button Overcoat - Tan Herringbone",
+      "category": "Overcoats",
+      "skus": [
+        "SL-CT-TANBUTTON-3XL",
+        "SL-CT-TANBUTTON-L",
+        "SL-CT-TANBUTTON-M",
+        "SL-CT-TANBUTTON-S",
+        "SL-CT-TANBUTTON-XL",
+        "SL-CT-TANBUTTON-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 449,
+      "lastReceivedDate": "2025-11-11",
+      "hasIncoming": true,
+      "poRef": "ED2458",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-09-01"
+    },
+    {
+      "parentName": "Quarter Zip - Heathered Grey",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-GREY-3XL",
+        "SL-QZIP-GREY-L",
+        "SL-QZIP-GREY-M",
+        "SL-QZIP-GREY-S",
+        "SL-QZIP-GREY-XL",
+        "SL-QZIP-GREY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 705,
+      "lastReceivedDate": "2026-04-14",
+      "hasIncoming": true,
+      "poRef": "ED2455",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-08-25"
+    },
+    {
+      "parentName": "Quarter Zip - Solid Black",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-BLACK-3XL",
+        "SL-QZIP-BLACK-L",
+        "SL-QZIP-BLACK-M",
+        "SL-QZIP-BLACK-S",
+        "SL-QZIP-BLACK-XL",
+        "SL-QZIP-BLACK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 533,
+      "lastReceivedDate": "2026-04-14",
+      "hasIncoming": true,
+      "poRef": "ED2455",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-08-25"
+    },
+    {
       "parentName": "Quarter Zip - Solid Dark Green",
       "category": "Quarter Zips",
       "skus": [
@@ -1198,6 +2107,31 @@
       "status": "Restock",
       "totalOnHand": 10,
       "lastReceivedDate": "2025-09-05",
+      "hasIncoming": true,
+      "poRef": "ED2455",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-07-25",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-08-25"
+    },
+    {
+      "parentName": "Quarter Zip - Solid Navy",
+      "category": "Quarter Zips",
+      "skus": [
+        "SL-QZIP-NAVY-3XL",
+        "SL-QZIP-NAVY-L",
+        "SL-QZIP-NAVY-M",
+        "SL-QZIP-NAVY-S",
+        "SL-QZIP-NAVY-XL",
+        "SL-QZIP-NAVY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 375,
+      "lastReceivedDate": "2026-04-14",
       "hasIncoming": true,
       "poRef": "ED2455",
       "isReceived": false,
@@ -1259,6 +2193,31 @@
       "bpDeliveryDue": "2026-10-01"
     },
     {
+      "parentName": "\"The Dylan\" Sky Blue Pique Button Down",
+      "category": "Casual Button Down",
+      "skus": [
+        "SL-CBD-DYLAN-3XL",
+        "SL-CBD-DYLAN-L",
+        "SL-CBD-DYLAN-M",
+        "SL-CBD-DYLAN-S",
+        "SL-CBD-DYLAN-XL",
+        "SL-CBD-DYLAN-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 289,
+      "lastReceivedDate": "2025-10-22",
+      "hasIncoming": true,
+      "poRef": "ED2457",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-08-06",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-21",
+      "bpDeliveryDue": "2026-09-01"
+    },
+    {
       "parentName": "\"The Grover'' Olive Pique Button Down",
       "category": "Casual Button Down",
       "skus": [
@@ -1284,6 +2243,31 @@
       "bpDeliveryDue": "2026-09-01"
     },
     {
+      "parentName": "\"The Mark\" White Pique Button Down",
+      "category": "Casual Button Down",
+      "skus": [
+        "SL-CBD-MARK-3XL",
+        "SL-CBD-MARK-L",
+        "SL-CBD-MARK-M",
+        "SL-CBD-MARK-S",
+        "SL-CBD-MARK-XL",
+        "SL-CBD-MARK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 288,
+      "lastReceivedDate": "2025-12-23",
+      "hasIncoming": true,
+      "poRef": "ED2457",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-08-06",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-21",
+      "bpDeliveryDue": "2026-09-01"
+    },
+    {
       "parentName": "Mock Turtleneck - Black",
       "category": "Sweaters",
       "skus": [
@@ -1297,6 +2281,31 @@
       "skuCount": 6,
       "status": "Restock",
       "totalOnHand": 23,
+      "lastReceivedDate": "2025-09-03",
+      "hasIncoming": true,
+      "poRef": "ED2472",
+      "isReceived": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-08-07",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-22",
+      "bpDeliveryDue": "2026-10-01"
+    },
+    {
+      "parentName": "Mock Turtleneck - Cream",
+      "category": "Sweaters",
+      "skus": [
+        "SL-SWEATER-MOCKCREAM-3XL",
+        "SL-SWEATER-MOCKCREAM-L",
+        "SL-SWEATER-MOCKCREAM-M",
+        "SL-SWEATER-MOCKCREAM-S",
+        "SL-SWEATER-MOCKCREAM-XL",
+        "SL-SWEATER-MOCKCREAM-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 182,
       "lastReceivedDate": "2025-09-03",
       "hasIncoming": true,
       "poRef": "ED2472",
