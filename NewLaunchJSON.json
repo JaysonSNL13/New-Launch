@@ -1,104 +1,12 @@
 {
-  "lastUpdated": "2026-05-22T11:02:25.316Z",
+  "lastUpdated": "2026-05-27T11:08:46.199Z",
   "generatedBy": "buildAndPushNewLaunch (Apps Script)",
   "counts": {
-    "total": 243,
-    "newLaunch": 183,
-    "restock": 60
+    "total": 237,
+    "newLaunch": 182,
+    "restock": 55
   },
   "items": [
-    {
-      "parentName": "Quarter Zip - Heathered Grey",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-GREY-3XL",
-        "SL-QZIP-GREY-L",
-        "SL-QZIP-GREY-M",
-        "SL-QZIP-GREY-S",
-        "SL-QZIP-GREY-XL",
-        "SL-QZIP-GREY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 735,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": true,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Quarter Zip - Solid Black",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-BLACK-3XL",
-        "SL-QZIP-BLACK-L",
-        "SL-QZIP-BLACK-M",
-        "SL-QZIP-BLACK-S",
-        "SL-QZIP-BLACK-XL",
-        "SL-QZIP-BLACK-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 561,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": true,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Quarter Zip - Solid Cream",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-CREAM-3XL",
-        "SL-QZIP-CREAM-L",
-        "SL-QZIP-CREAM-M",
-        "SL-QZIP-CREAM-S",
-        "SL-QZIP-CREAM-XL",
-        "SL-QZIP-CREAM-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 631,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": false,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Quarter Zip - Solid Navy",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-NAVY-3XL",
-        "SL-QZIP-NAVY-L",
-        "SL-QZIP-NAVY-M",
-        "SL-QZIP-NAVY-S",
-        "SL-QZIP-NAVY-XL",
-        "SL-QZIP-NAVY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 395,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": true,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
     {
       "parentName": "\"The Lakewood\" White Small Windowpane",
       "category": "Dress Shirt",
@@ -112,7 +20,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 329,
+      "totalOnHand": 306,
       "lastReceivedDate": "2026-04-23",
       "hasIncoming": false,
       "poRef": "Received",
@@ -130,7 +38,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 276,
+      "totalOnHand": 240,
       "lastReceivedDate": "2026-05-06",
       "hasIncoming": true,
       "poRef": "Received",
@@ -148,7 +56,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 686,
+      "totalOnHand": 637,
       "lastReceivedDate": "2026-05-06",
       "hasIncoming": false,
       "poRef": "Received",
@@ -166,7 +74,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 383,
+      "totalOnHand": 361,
       "lastReceivedDate": "2026-05-06",
       "hasIncoming": false,
       "poRef": "Received",
@@ -184,7 +92,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 521,
+      "totalOnHand": 488,
       "lastReceivedDate": "2026-05-06",
       "hasIncoming": false,
       "poRef": "Received",
@@ -208,7 +116,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 197,
+      "totalOnHand": 176,
       "lastReceivedDate": "2026-05-07",
       "hasIncoming": true,
       "poRef": "Received",
@@ -232,7 +140,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 73,
+      "totalOnHand": 48,
       "lastReceivedDate": "2026-05-07",
       "hasIncoming": true,
       "poRef": "Received",
@@ -256,7 +164,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 262,
+      "totalOnHand": 239,
       "lastReceivedDate": "2026-05-07",
       "hasIncoming": true,
       "poRef": "Received",
@@ -279,7 +187,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 503,
+      "totalOnHand": 506,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -302,7 +210,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 404,
+      "totalOnHand": 405,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -325,7 +233,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 656,
+      "totalOnHand": 664,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -343,7 +251,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 53,
+      "totalOnHand": 36,
       "lastReceivedDate": "2025-12-19",
       "hasIncoming": true,
       "poRef": "TH3366",
@@ -367,7 +275,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 66,
+      "totalOnHand": 63,
       "lastReceivedDate": "2025-11-10",
       "hasIncoming": true,
       "poRef": "TH3360",
@@ -390,7 +298,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 12,
+      "totalOnHand": 13,
       "lastReceivedDate": "2025-10-23",
       "hasIncoming": true,
       "poRef": "ED2411",
@@ -412,7 +320,7 @@
       ],
       "skuCount": 5,
       "status": "Restock",
-      "totalOnHand": 1,
+      "totalOnHand": 0,
       "lastReceivedDate": "2026-02-09",
       "hasIncoming": true,
       "poRef": "TH3506",
@@ -443,6 +351,29 @@
       "etaToStores": "Early June",
       "etaToStoresDate": "2026-06-04",
       "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "\"The Maui\" Light Blue & Brown Stripe",
+      "category": "SSBD",
+      "skus": [
+        "SL-SSBD-MAUI-3XL",
+        "SL-SSBD-MAUI-L",
+        "SL-SSBD-MAUI-M",
+        "SL-SSBD-MAUI-S",
+        "SL-SSBD-MAUI-XL",
+        "SL-SSBD-MAUI-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 3,
+      "lastReceivedDate": "2025-08-26",
+      "hasIncoming": true,
+      "poRef": "TAL6041",
+      "shipment": "Air",
+      "exf": "2026-05-22",
+      "etaToStores": "Early June",
+      "etaToStoresDate": "2026-06-06",
+      "bpDeliveryDue": "2026-06-30"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
@@ -531,98 +462,6 @@
       "etaToStores": "Mid June",
       "etaToStoresDate": "2026-06-14",
       "bpDeliveryDue": "2026-07-01"
-    },
-    {
-      "parentName": "Textured Buttonless Long Sleeve Polo - Black",
-      "category": "LS Polos",
-      "skus": [
-        "SL-LSP-TEXTUREBLACK-3XL",
-        "SL-LSP-TEXTUREBLACK-L",
-        "SL-LSP-TEXTUREBLACK-M",
-        "SL-LSP-TEXTUREBLACK-S",
-        "SL-LSP-TEXTUREBLACK-XL",
-        "SL-LSP-TEXTUREBLACK-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 94,
-      "lastReceivedDate": "2026-01-28",
-      "hasIncoming": true,
-      "poRef": "ED2460",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-16",
-      "bpDeliveryDue": "2026-08-01"
-    },
-    {
-      "parentName": "Textured Buttonless Long Sleeve Polo - Tan",
-      "category": "LS Polos",
-      "skus": [
-        "SL-LSP-TEXTURETAN-3XL",
-        "SL-LSP-TEXTURETAN-L",
-        "SL-LSP-TEXTURETAN-M",
-        "SL-LSP-TEXTURETAN-S",
-        "SL-LSP-TEXTURETAN-XL",
-        "SL-LSP-TEXTURETAN-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 62,
-      "lastReceivedDate": "2026-01-28",
-      "hasIncoming": true,
-      "poRef": "ED2460",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-16",
-      "bpDeliveryDue": "2026-08-01"
-    },
-    {
-      "parentName": "Quarter Zip - Solid Dark Green",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-DARKGREEN-3XL",
-        "SL-QZIP-DARKGREEN-L",
-        "SL-QZIP-DARKGREEN-M",
-        "SL-QZIP-DARKGREEN-S",
-        "SL-QZIP-DARKGREEN-XL",
-        "SL-QZIP-DARKGREEN-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 10,
-      "lastReceivedDate": "2025-09-05",
-      "hasIncoming": true,
-      "poRef": "ED2485",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-16",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "\"The Maui\" Light Blue & Brown Stripe",
-      "category": "SSBD",
-      "skus": [
-        "SL-SSBD-MAUI-3XL",
-        "SL-SSBD-MAUI-L",
-        "SL-SSBD-MAUI-M",
-        "SL-SSBD-MAUI-S",
-        "SL-SSBD-MAUI-XL",
-        "SL-SSBD-MAUI-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 5,
-      "lastReceivedDate": "2025-08-26",
-      "hasIncoming": true,
-      "poRef": "TAL6041",
-      "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-16",
-      "bpDeliveryDue": "2026-06-30"
     },
     {
       "parentName": "Textured Knit Short Sleeve Button Down - Tan",
@@ -771,7 +610,25 @@
       "exf": "2026-06-15",
       "etaToStores": "End of June",
       "etaToStoresDate": "2026-06-30",
-      "bpDeliveryDue": "2026-06-23"
+      "bpDeliveryDue": "2026-07-01"
+    },
+    {
+      "parentName": "Silk Tie - Rose Pink",
+      "category": "Ties",
+      "skus": [
+        "SL-ACCESSORY-TIE-ROSEPINK"
+      ],
+      "skuCount": 1,
+      "status": "Restock",
+      "totalOnHand": 99,
+      "lastReceivedDate": "2026-04-10",
+      "hasIncoming": true,
+      "poRef": "TH3527",
+      "shipment": "Air",
+      "exf": "2026-06-15",
+      "etaToStores": "End of June",
+      "etaToStoresDate": "2026-06-30",
+      "bpDeliveryDue": "2026-07-31"
     },
     {
       "parentName": "Silk Tie - Solid Dark Plum",
@@ -781,7 +638,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 67,
+      "totalOnHand": 64,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3527",
@@ -799,7 +656,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 65,
+      "totalOnHand": 63,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3527",
@@ -817,7 +674,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 10,
+      "totalOnHand": 8,
       "lastReceivedDate": "2023-04-28",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -835,7 +692,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 47,
+      "totalOnHand": 32,
       "lastReceivedDate": "2025-01-31",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -853,7 +710,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 93,
+      "totalOnHand": 86,
       "lastReceivedDate": "2025-07-21",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -871,7 +728,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 54,
+      "totalOnHand": 53,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -907,7 +764,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 59,
+      "totalOnHand": 57,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -925,7 +782,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 98,
+      "totalOnHand": 97,
       "lastReceivedDate": "2025-11-19",
       "hasIncoming": true,
       "poRef": "TH3525",
@@ -966,7 +823,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 21,
+      "totalOnHand": 23,
       "lastReceivedDate": "2026-02-11",
       "hasIncoming": true,
       "poRef": "ED2449",
@@ -989,7 +846,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 22,
+      "totalOnHand": 26,
       "lastReceivedDate": "2026-02-11",
       "hasIncoming": true,
       "poRef": "ED2449",
@@ -1012,7 +869,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 11,
+      "totalOnHand": 12,
       "lastReceivedDate": "2026-02-11",
       "hasIncoming": true,
       "poRef": "ED2449",
@@ -1036,7 +893,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 8,
+      "totalOnHand": 6,
       "lastReceivedDate": "2025-12-29",
       "hasIncoming": true,
       "poRef": "TAL6068",
@@ -1060,7 +917,7 @@
       ],
       "skuCount": 7,
       "status": "Restock",
-      "totalOnHand": 5,
+      "totalOnHand": 6,
       "lastReceivedDate": "2025-12-29",
       "hasIncoming": true,
       "poRef": "TAL6068",
@@ -1147,7 +1004,7 @@
       ],
       "skuCount": 1,
       "status": "Restock",
-      "totalOnHand": 29,
+      "totalOnHand": 16,
       "lastReceivedDate": "2025-10-21",
       "hasIncoming": true,
       "poRef": "ED2481",
@@ -1156,6 +1013,52 @@
       "etaToStores": "Mid July",
       "etaToStoresDate": "2026-07-16",
       "bpDeliveryDue": "2026-08-31"
+    },
+    {
+      "parentName": "Textured Buttonless Long Sleeve Polo - Black",
+      "category": "LS Polos",
+      "skus": [
+        "SL-LSP-TEXTUREBLACK-3XL",
+        "SL-LSP-TEXTUREBLACK-L",
+        "SL-LSP-TEXTUREBLACK-M",
+        "SL-LSP-TEXTUREBLACK-S",
+        "SL-LSP-TEXTUREBLACK-XL",
+        "SL-LSP-TEXTUREBLACK-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 96,
+      "lastReceivedDate": "2026-01-28",
+      "hasIncoming": true,
+      "poRef": "ED2460",
+      "shipment": "Sea",
+      "exf": "2026-06-01",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-31",
+      "bpDeliveryDue": "2026-08-01"
+    },
+    {
+      "parentName": "Textured Buttonless Long Sleeve Polo - Tan",
+      "category": "LS Polos",
+      "skus": [
+        "SL-LSP-TEXTURETAN-3XL",
+        "SL-LSP-TEXTURETAN-L",
+        "SL-LSP-TEXTURETAN-M",
+        "SL-LSP-TEXTURETAN-S",
+        "SL-LSP-TEXTURETAN-XL",
+        "SL-LSP-TEXTURETAN-XXL"
+      ],
+      "skuCount": 6,
+      "status": "Restock",
+      "totalOnHand": 60,
+      "lastReceivedDate": "2026-01-28",
+      "hasIncoming": true,
+      "poRef": "ED2460",
+      "shipment": "Sea",
+      "exf": "2026-06-01",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-31",
+      "bpDeliveryDue": "2026-08-01"
     },
     {
       "parentName": "3 Button Overcoat - Charcoal Herringbone",
@@ -1170,7 +1073,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 79,
+      "totalOnHand": 78,
       "lastReceivedDate": "2025-11-11",
       "hasIncoming": true,
       "poRef": "ED2458",
@@ -1181,27 +1084,27 @@
       "bpDeliveryDue": "2026-09-01"
     },
     {
-      "parentName": "\"The Grover'' Olive Pique Button Down",
-      "category": "Casual Button Down",
+      "parentName": "Quarter Zip - Solid Dark Green",
+      "category": "Quarter Zips",
       "skus": [
-        "SL-CBD-GROVER-3XL",
-        "SL-CBD-GROVER-L",
-        "SL-CBD-GROVER-M",
-        "SL-CBD-GROVER-S",
-        "SL-CBD-GROVER-XL",
-        "SL-CBD-GROVER-XXL"
+        "SL-QZIP-DARKGREEN-3XL",
+        "SL-QZIP-DARKGREEN-L",
+        "SL-QZIP-DARKGREEN-M",
+        "SL-QZIP-DARKGREEN-S",
+        "SL-QZIP-DARKGREEN-XL",
+        "SL-QZIP-DARKGREEN-XXL"
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 23,
-      "lastReceivedDate": "2025-12-23",
+      "totalOnHand": 10,
+      "lastReceivedDate": "2025-09-05",
       "hasIncoming": true,
-      "poRef": "ED2457",
+      "poRef": "ED2455",
       "shipment": "Air",
-      "exf": "2026-08-01",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-16",
-      "bpDeliveryDue": "2026-09-01"
+      "exf": "2026-07-25",
+      "etaToStores": "Early August",
+      "etaToStoresDate": "2026-08-09",
+      "bpDeliveryDue": "2026-08-25"
     },
     {
       "parentName": "\"The Onyx'' Charcoal Button Down",
@@ -1216,7 +1119,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 71,
+      "totalOnHand": 70,
       "lastReceivedDate": "2025-11-10",
       "hasIncoming": true,
       "poRef": "ED2464",
@@ -1239,7 +1142,7 @@
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 26,
+      "totalOnHand": 25,
       "lastReceivedDate": "2025-11-10",
       "hasIncoming": true,
       "poRef": "ED2464",
@@ -1250,50 +1153,27 @@
       "bpDeliveryDue": "2026-10-01"
     },
     {
-      "parentName": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "category": "Sweaters",
+      "parentName": "\"The Grover'' Olive Pique Button Down",
+      "category": "Casual Button Down",
       "skus": [
-        "SL-SWEATER-RIBBEDCREWCREAM-3XL",
-        "SL-SWEATER-RIBBEDCREWCREAM-L",
-        "SL-SWEATER-RIBBEDCREWCREAM-M",
-        "SL-SWEATER-RIBBEDCREWCREAM-S",
-        "SL-SWEATER-RIBBEDCREWCREAM-XL",
-        "SL-SWEATER-RIBBEDCREWCREAM-XXL"
+        "SL-CBD-GROVER-3XL",
+        "SL-CBD-GROVER-L",
+        "SL-CBD-GROVER-M",
+        "SL-CBD-GROVER-S",
+        "SL-CBD-GROVER-XL",
+        "SL-CBD-GROVER-XXL"
       ],
       "skuCount": 6,
       "status": "Restock",
-      "totalOnHand": 96,
-      "lastReceivedDate": "2026-02-17",
+      "totalOnHand": 22,
+      "lastReceivedDate": "2025-12-23",
       "hasIncoming": true,
-      "poRef": "ED2461",
+      "poRef": "ED2457",
       "shipment": "Air",
-      "exf": "2026-08-01",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-16",
-      "bpDeliveryDue": "2026-10-01"
-    },
-    {
-      "parentName": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "category": "Sweaters",
-      "skus": [
-        "SL-SWEATER-RIBBEDCREWGREY-3XL",
-        "SL-SWEATER-RIBBEDCREWGREY-L",
-        "SL-SWEATER-RIBBEDCREWGREY-M",
-        "SL-SWEATER-RIBBEDCREWGREY-S",
-        "SL-SWEATER-RIBBEDCREWGREY-XL",
-        "SL-SWEATER-RIBBEDCREWGREY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "Restock",
-      "totalOnHand": 99,
-      "lastReceivedDate": "2026-02-17",
-      "hasIncoming": true,
-      "poRef": "ED2461",
-      "shipment": "Air",
-      "exf": "2026-08-01",
-      "etaToStores": "Mid August",
-      "etaToStoresDate": "2026-08-16",
-      "bpDeliveryDue": "2026-10-01"
+      "exf": "2026-08-06",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-21",
+      "bpDeliveryDue": "2026-09-01"
     },
     {
       "parentName": "Mock Turtleneck - Black",
@@ -1319,98 +1199,6 @@
       "bpDeliveryDue": "2026-10-01"
     },
     {
-      "parentName": "Brushed Hoodie - Heathered Navy",
-      "category": "Hoodies",
-      "skus": [
-        "SL-HOODIE-BRUSHEDHNAVY-3XL",
-        "SL-HOODIE-BRUSHEDHNAVY-L",
-        "SL-HOODIE-BRUSHEDHNAVY-M",
-        "SL-HOODIE-BRUSHEDHNAVY-S",
-        "SL-HOODIE-BRUSHEDHNAVY-XL",
-        "SL-HOODIE-BRUSHEDHNAVY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 361,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": false,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Brushed Hoodie - Heathered Olive",
-      "category": "Hoodies",
-      "skus": [
-        "SL-HOODIE-BRUSHEDHOLIVE-3XL",
-        "SL-HOODIE-BRUSHEDHOLIVE-L",
-        "SL-HOODIE-BRUSHEDHOLIVE-M",
-        "SL-HOODIE-BRUSHEDHOLIVE-S",
-        "SL-HOODIE-BRUSHEDHOLIVE-XL",
-        "SL-HOODIE-BRUSHEDHOLIVE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 371,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": false,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Brushed Quarter Zip - Heathered Navy",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-BRUSHEDHNAVY-3XL",
-        "SL-QZIP-BRUSHEDHNAVY-L",
-        "SL-QZIP-BRUSHEDHNAVY-M",
-        "SL-QZIP-BRUSHEDHNAVY-S",
-        "SL-QZIP-BRUSHEDHNAVY-XL",
-        "SL-QZIP-BRUSHEDHNAVY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 361,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": false,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "Brushed Quarter Zip - Heathered Olive",
-      "category": "Quarter Zips",
-      "skus": [
-        "SL-QZIP-BRUSHEDHOLIVE-3XL",
-        "SL-QZIP-BRUSHEDHOLIVE-L",
-        "SL-QZIP-BRUSHEDHOLIVE-M",
-        "SL-QZIP-BRUSHEDHOLIVE-S",
-        "SL-QZIP-BRUSHEDHOLIVE-XL",
-        "SL-QZIP-BRUSHEDHOLIVE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 390,
-      "lastReceivedDate": "2026-04-14",
-      "hasIncoming": false,
-      "poRef": "Received",
-      "shipment": "",
-      "exf": "",
-      "etaToStores": "Mid April",
-      "etaToStoresDate": "2026-04-19",
-      "bpDeliveryDue": ""
-    },
-    {
       "parentName": "Brushed Athletic Fit Short - Stone Crosshatch",
       "category": "Shorts",
       "skus": [
@@ -1425,7 +1213,7 @@
       ],
       "skuCount": 8,
       "status": "New Launch",
-      "totalOnHand": 373,
+      "totalOnHand": 322,
       "lastReceivedDate": "2026-04-20",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1450,7 +1238,7 @@
       ],
       "skuCount": 8,
       "status": "New Launch",
-      "totalOnHand": 379,
+      "totalOnHand": 293,
       "lastReceivedDate": "2026-04-20",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1473,7 +1261,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 774,
+      "totalOnHand": 709,
       "lastReceivedDate": "2026-04-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1496,7 +1284,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 867,
+      "totalOnHand": 820,
       "lastReceivedDate": "2026-04-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1519,7 +1307,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 558,
+      "totalOnHand": 421,
       "lastReceivedDate": "2026-04-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1542,7 +1330,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 732,
+      "totalOnHand": 652,
       "lastReceivedDate": "2026-04-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1565,7 +1353,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 326,
+      "totalOnHand": 290,
       "lastReceivedDate": "2026-04-22",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1588,7 +1376,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 385,
+      "totalOnHand": 361,
       "lastReceivedDate": "2026-04-22",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1612,7 +1400,7 @@
       ],
       "skuCount": 7,
       "status": "New Launch",
-      "totalOnHand": 378,
+      "totalOnHand": 343,
       "lastReceivedDate": "2026-05-05",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1636,7 +1424,7 @@
       ],
       "skuCount": 7,
       "status": "New Launch",
-      "totalOnHand": 364,
+      "totalOnHand": 331,
       "lastReceivedDate": "2026-05-05",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1658,7 +1446,7 @@
       ],
       "skuCount": 5,
       "status": "New Launch",
-      "totalOnHand": 58,
+      "totalOnHand": 51,
       "lastReceivedDate": "2026-05-05",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1680,7 +1468,7 @@
       ],
       "skuCount": 5,
       "status": "New Launch",
-      "totalOnHand": 53,
+      "totalOnHand": 55,
       "lastReceivedDate": "2026-05-05",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1704,7 +1492,7 @@
       ],
       "skuCount": 7,
       "status": "New Launch",
-      "totalOnHand": 463,
+      "totalOnHand": 397,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1730,7 +1518,7 @@
       ],
       "skuCount": 9,
       "status": "New Launch",
-      "totalOnHand": 482,
+      "totalOnHand": 422,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1756,7 +1544,7 @@
       ],
       "skuCount": 9,
       "status": "New Launch",
-      "totalOnHand": 470,
+      "totalOnHand": 410,
       "lastReceivedDate": "2026-05-08",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1833,7 +1621,7 @@
       "exf": "2026-04-30",
       "etaToStores": "Mid May",
       "etaToStoresDate": "2026-05-15",
-      "bpDeliveryDue": "2026-06-05"
+      "bpDeliveryDue": "2026-06-02"
     },
     {
       "parentName": "Mid-Weight Sweater Bomber - Grey",
@@ -1856,7 +1644,7 @@
       "exf": "2026-04-30",
       "etaToStores": "Mid May",
       "etaToStoresDate": "2026-05-15",
-      "bpDeliveryDue": "2026-06-05"
+      "bpDeliveryDue": "2026-06-02"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Dark Grey Crosshatch",
@@ -1876,7 +1664,7 @@
       ],
       "skuCount": 11,
       "status": "New Launch",
-      "totalOnHand": 843,
+      "totalOnHand": 757,
       "lastReceivedDate": "2026-05-14",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1885,75 +1673,6 @@
       "etaToStores": "Mid May",
       "etaToStoresDate": "2026-05-19",
       "bpDeliveryDue": ""
-    },
-    {
-      "parentName": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-GRETZKY-3XL",
-        "SL-SPORTSHIRT-GRETZKY-L",
-        "SL-SPORTSHIRT-GRETZKY-M",
-        "SL-SPORTSHIRT-GRETZKY-S",
-        "SL-SPORTSHIRT-GRETZKY-XL",
-        "SL-SPORTSHIRT-GRETZKY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2429",
-      "shipment": "Air",
-      "exf": "2026-05-05",
-      "etaToStores": "Mid May",
-      "etaToStoresDate": "2026-05-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "\"The Payton'' Sport Shirt - Solid Deep Sage",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-PAYTON-3XL",
-        "SL-SPORTSHIRT-PAYTON-L",
-        "SL-SPORTSHIRT-PAYTON-M",
-        "SL-SPORTSHIRT-PAYTON-S",
-        "SL-SPORTSHIRT-PAYTON-XL",
-        "SL-SPORTSHIRT-PAYTON-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2429",
-      "shipment": "Air",
-      "exf": "2026-05-05",
-      "etaToStores": "Mid May",
-      "etaToStoresDate": "2026-05-20",
-      "bpDeliveryDue": "2026-07-31"
-    },
-    {
-      "parentName": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
-      "category": "Sport Shirt",
-      "skus": [
-        "SL-SPORTSHIRT-RODGERS-3XL",
-        "SL-SPORTSHIRT-RODGERS-L",
-        "SL-SPORTSHIRT-RODGERS-M",
-        "SL-SPORTSHIRT-RODGERS-S",
-        "SL-SPORTSHIRT-RODGERS-XL",
-        "SL-SPORTSHIRT-RODGERS-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2429",
-      "shipment": "Air",
-      "exf": "2026-05-05",
-      "etaToStores": "Mid May",
-      "etaToStoresDate": "2026-05-20",
-      "bpDeliveryDue": "2026-07-31"
     },
     {
       "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
@@ -1968,7 +1687,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 251,
+      "totalOnHand": 371,
       "lastReceivedDate": "2026-05-19",
       "hasIncoming": false,
       "poRef": "Received",
@@ -1991,7 +1710,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 262,
+      "totalOnHand": 376,
       "lastReceivedDate": "2026-05-19",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2014,7 +1733,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 257,
+      "totalOnHand": 392,
       "lastReceivedDate": "2026-05-19",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2037,7 +1756,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 615,
+      "totalOnHand": 794,
       "lastReceivedDate": "2026-05-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2060,7 +1779,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 629,
+      "totalOnHand": 809,
       "lastReceivedDate": "2026-05-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2083,7 +1802,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 621,
+      "totalOnHand": 790,
       "lastReceivedDate": "2026-05-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2106,7 +1825,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 877,
+      "totalOnHand": 839,
       "lastReceivedDate": "2026-05-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2129,7 +1848,7 @@
       ],
       "skuCount": 6,
       "status": "New Launch",
-      "totalOnHand": 734,
+      "totalOnHand": 665,
       "lastReceivedDate": "2026-05-21",
       "hasIncoming": false,
       "poRef": "Received",
@@ -2161,7 +1880,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Olive with White Windowpane",
@@ -2185,7 +1904,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Slate Grey Houndstooth",
@@ -2209,7 +1928,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Navy with White Windowpane",
@@ -2233,7 +1952,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Crimson with Burgundy Big Windowpane",
@@ -2261,7 +1980,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-05-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Olive with White Windowpane",
@@ -2289,7 +2008,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-05-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Slate Grey Houndstooth",
@@ -2317,7 +2036,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-05-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Textured Navy with White Windowpane",
@@ -2345,7 +2064,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-05-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Crimson with Burgundy Big Windowpane - Short",
@@ -2367,7 +2086,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Dark Grey Crosshatch - Short",
@@ -2389,7 +2108,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Olive with White Windowpane - Short",
@@ -2411,7 +2130,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Slate Grey Houndstooth - Short",
@@ -2433,7 +2152,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Navy with White Windowpane - Short",
@@ -2455,30 +2174,7 @@
       "exf": "2026-05-13",
       "etaToStores": "End of May",
       "etaToStoresDate": "2026-05-28",
-      "bpDeliveryDue": "2026-06-30"
-    },
-    {
-      "parentName": "\"The Andy'' Black Diamond Geo",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-ANDY-3XL",
-        "SL-DS-ANDY-L",
-        "SL-DS-ANDY-M",
-        "SL-DS-ANDY-S",
-        "SL-DS-ANDY-XL",
-        "SL-DS-ANDY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6066",
-      "shipment": "Air",
-      "exf": "2026-05-15",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
-      "bpDeliveryDue": "2026-06-15"
+      "bpDeliveryDue": "2026-06-05"
     },
     {
       "parentName": "\"The Broadway'' Pink Mid-Stripe",
@@ -2572,52 +2268,6 @@
       "bpDeliveryDue": "2026-06-01"
     },
     {
-      "parentName": "\"The Murray'' Stone Plaid",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-MURRAY-3XL",
-        "SL-DS-MURRAY-L",
-        "SL-DS-MURRAY-M",
-        "SL-DS-MURRAY-S",
-        "SL-DS-MURRAY-XL",
-        "SL-DS-MURRAY-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6066",
-      "shipment": "Air",
-      "exf": "2026-05-15",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
-      "bpDeliveryDue": "2026-06-15"
-    },
-    {
-      "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-ROBIN-3XL",
-        "SL-DS-ROBIN-L",
-        "SL-DS-ROBIN-M",
-        "SL-DS-ROBIN-S",
-        "SL-DS-ROBIN-XL",
-        "SL-DS-ROBIN-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6066",
-      "shipment": "Air",
-      "exf": "2026-05-15",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
-      "bpDeliveryDue": "2026-06-15"
-    },
-    {
       "parentName": "\"The Rocky'' Powder Blue with White Stripes",
       "category": "Dress Shirt",
       "skus": [
@@ -2665,29 +2315,6 @@
       "bpDeliveryDue": "2026-06-01"
     },
     {
-      "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-THORPE-3XL",
-        "SL-DS-THORPE-L",
-        "SL-DS-THORPE-M",
-        "SL-DS-THORPE-S",
-        "SL-DS-THORPE-XL",
-        "SL-DS-THORPE-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6066",
-      "shipment": "Air",
-      "exf": "2026-05-15",
-      "etaToStores": "End of May",
-      "etaToStoresDate": "2026-05-30",
-      "bpDeliveryDue": "2026-06-15"
-    },
-    {
       "parentName": "Corduroy Knit Zip Jacket - Navy",
       "category": "Jackets",
       "skus": [
@@ -2711,102 +2338,6 @@
       "bpDeliveryDue": "2026-06-01"
     },
     {
-      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-ASHBRNCROSS-36",
-        "SL-BLAZER-ASHBRNCROSS-38",
-        "SL-BLAZER-ASHBRNCROSS-40",
-        "SL-BLAZER-ASHBRNCROSS-42",
-        "SL-BLAZER-ASHBRNCROSS-44",
-        "SL-BLAZER-ASHBRNCROSS-46",
-        "SL-BLAZER-ASHBRNCROSS-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-14",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-LBLUEPLAID-36",
-        "SL-BLAZER-LBLUEPLAID-38",
-        "SL-BLAZER-LBLUEPLAID-40",
-        "SL-BLAZER-LBLUEPLAID-42",
-        "SL-BLAZER-LBLUEPLAID-44",
-        "SL-BLAZER-LBLUEPLAID-46",
-        "SL-BLAZER-LBLUEPLAID-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-14",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDGREY-36",
-        "SL-BLAZER-SOLIDGREY-38",
-        "SL-BLAZER-SOLIDGREY-40",
-        "SL-BLAZER-SOLIDGREY-42",
-        "SL-BLAZER-SOLIDGREY-44",
-        "SL-BLAZER-SOLIDGREY-46",
-        "SL-BLAZER-SOLIDGREY-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-14",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
-      "category": "Blazers",
-      "skus": [
-        "SL-BLAZER-SOLIDTAN-36",
-        "SL-BLAZER-SOLIDTAN-38",
-        "SL-BLAZER-SOLIDTAN-40",
-        "SL-BLAZER-SOLIDTAN-42",
-        "SL-BLAZER-SOLIDTAN-44",
-        "SL-BLAZER-SOLIDTAN-46",
-        "SL-BLAZER-SOLIDTAN-48"
-      ],
-      "skuCount": 7,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TH3508",
-      "shipment": "Air",
-      "exf": "2026-05-30",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-14",
-      "bpDeliveryDue": "2026-06-20"
-    },
-    {
       "parentName": "\"The Cabo'' Light Blue Weave",
       "category": "SSBD",
       "skus": [
@@ -2824,9 +2355,9 @@
       "hasIncoming": true,
       "poRef": "TAL6041",
       "shipment": "Air",
-      "exf": "2026-06-01",
-      "etaToStores": "Mid June",
-      "etaToStoresDate": "2026-06-16",
+      "exf": "2026-05-22",
+      "etaToStores": "Early June",
+      "etaToStoresDate": "2026-06-06",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3285,6 +2816,102 @@
       "bpDeliveryDue": "2026-07-03"
     },
     {
+      "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-ASHBRNCROSS-36",
+        "SL-BLAZER-ASHBRNCROSS-38",
+        "SL-BLAZER-ASHBRNCROSS-40",
+        "SL-BLAZER-ASHBRNCROSS-42",
+        "SL-BLAZER-ASHBRNCROSS-44",
+        "SL-BLAZER-ASHBRNCROSS-46",
+        "SL-BLAZER-ASHBRNCROSS-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-LBLUEPLAID-36",
+        "SL-BLAZER-LBLUEPLAID-38",
+        "SL-BLAZER-LBLUEPLAID-40",
+        "SL-BLAZER-LBLUEPLAID-42",
+        "SL-BLAZER-LBLUEPLAID-44",
+        "SL-BLAZER-LBLUEPLAID-46",
+        "SL-BLAZER-LBLUEPLAID-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-SOLIDGREY-36",
+        "SL-BLAZER-SOLIDGREY-38",
+        "SL-BLAZER-SOLIDGREY-40",
+        "SL-BLAZER-SOLIDGREY-42",
+        "SL-BLAZER-SOLIDGREY-44",
+        "SL-BLAZER-SOLIDGREY-46",
+        "SL-BLAZER-SOLIDGREY-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
+      "category": "Blazers",
+      "skus": [
+        "SL-BLAZER-SOLIDTAN-36",
+        "SL-BLAZER-SOLIDTAN-38",
+        "SL-BLAZER-SOLIDTAN-40",
+        "SL-BLAZER-SOLIDTAN-42",
+        "SL-BLAZER-SOLIDTAN-44",
+        "SL-BLAZER-SOLIDTAN-46",
+        "SL-BLAZER-SOLIDTAN-48"
+      ],
+      "skuCount": 7,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3508",
+      "shipment": "Air",
+      "exf": "2026-06-20",
+      "etaToStores": "Early July",
+      "etaToStoresDate": "2026-07-05",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
       "parentName": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
       "category": "Dress Pants",
       "skus": [
@@ -3463,29 +3090,6 @@
       "bpDeliveryDue": "2026-07-22"
     },
     {
-      "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
-      "category": "Dress Shirt",
-      "skus": [
-        "SL-DS-SUMMIT-3XL",
-        "SL-DS-SUMMIT-L",
-        "SL-DS-SUMMIT-M",
-        "SL-DS-SUMMIT-S",
-        "SL-DS-SUMMIT-XL",
-        "SL-DS-SUMMIT-XXL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "TAL6060",
-      "shipment": "Sea",
-      "exf": "2026-05-15",
-      "etaToStores": "Mid July",
-      "etaToStoresDate": "2026-07-14",
-      "bpDeliveryDue": "2026-06-30"
-    },
-    {
       "parentName": "\"The Winslow\" Navy and Brown Check",
       "category": "Dress Shirt",
       "skus": [
@@ -3645,7 +3249,7 @@
       "exf": "2026-05-20",
       "etaToStores": "Mid July",
       "etaToStoresDate": "2026-07-19",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-08"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
@@ -3669,7 +3273,7 @@
       "exf": "2026-05-20",
       "etaToStores": "Mid July",
       "etaToStoresDate": "2026-07-19",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-08"
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
@@ -3695,7 +3299,7 @@
       "exf": "2026-05-20",
       "etaToStores": "Mid July",
       "etaToStoresDate": "2026-07-19",
-      "bpDeliveryDue": "2026-06-30"
+      "bpDeliveryDue": "2026-06-08"
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
@@ -3721,6 +3325,121 @@
       "exf": "2026-05-20",
       "etaToStores": "Mid July",
       "etaToStoresDate": "2026-07-19",
+      "bpDeliveryDue": "2026-06-08"
+    },
+    {
+      "parentName": "\"The Andy'' Black Diamond Geo",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-ANDY-3XL",
+        "SL-DS-ANDY-L",
+        "SL-DS-ANDY-M",
+        "SL-DS-ANDY-S",
+        "SL-DS-ANDY-XL",
+        "SL-DS-ANDY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6066",
+      "shipment": "Sea",
+      "exf": "2026-05-22",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-21",
+      "bpDeliveryDue": "2026-06-30"
+    },
+    {
+      "parentName": "\"The Murray'' Stone Plaid",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-MURRAY-3XL",
+        "SL-DS-MURRAY-L",
+        "SL-DS-MURRAY-M",
+        "SL-DS-MURRAY-S",
+        "SL-DS-MURRAY-XL",
+        "SL-DS-MURRAY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6066",
+      "shipment": "Sea",
+      "exf": "2026-05-22",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-21",
+      "bpDeliveryDue": "2026-06-30"
+    },
+    {
+      "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-ROBIN-3XL",
+        "SL-DS-ROBIN-L",
+        "SL-DS-ROBIN-M",
+        "SL-DS-ROBIN-S",
+        "SL-DS-ROBIN-XL",
+        "SL-DS-ROBIN-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6066",
+      "shipment": "Sea",
+      "exf": "2026-05-22",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-21",
+      "bpDeliveryDue": "2026-06-30"
+    },
+    {
+      "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-SUMMIT-3XL",
+        "SL-DS-SUMMIT-L",
+        "SL-DS-SUMMIT-M",
+        "SL-DS-SUMMIT-S",
+        "SL-DS-SUMMIT-XL",
+        "SL-DS-SUMMIT-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6060",
+      "shipment": "Sea",
+      "exf": "2026-05-22",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-21",
+      "bpDeliveryDue": "2026-06-30"
+    },
+    {
+      "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
+      "category": "Dress Shirt",
+      "skus": [
+        "SL-DS-THORPE-3XL",
+        "SL-DS-THORPE-L",
+        "SL-DS-THORPE-M",
+        "SL-DS-THORPE-S",
+        "SL-DS-THORPE-XL",
+        "SL-DS-THORPE-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TAL6066",
+      "shipment": "Sea",
+      "exf": "2026-05-22",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-21",
       "bpDeliveryDue": "2026-06-30"
     },
     {
@@ -3949,6 +3668,29 @@
       "bpDeliveryDue": "2026-08-15"
     },
     {
+      "parentName": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-GRETZKY-3XL",
+        "SL-SPORTSHIRT-GRETZKY-L",
+        "SL-SPORTSHIRT-GRETZKY-M",
+        "SL-SPORTSHIRT-GRETZKY-S",
+        "SL-SPORTSHIRT-GRETZKY-XL",
+        "SL-SPORTSHIRT-GRETZKY-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2429",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
       "parentName": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
       "category": "Sport Shirt",
       "skus": [
@@ -3993,6 +3735,52 @@
       "etaToStores": "End of July",
       "etaToStoresDate": "2026-07-30",
       "bpDeliveryDue": "2026-08-15"
+    },
+    {
+      "parentName": "\"The Payton'' Sport Shirt - Solid Deep Sage",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-PAYTON-3XL",
+        "SL-SPORTSHIRT-PAYTON-L",
+        "SL-SPORTSHIRT-PAYTON-M",
+        "SL-SPORTSHIRT-PAYTON-S",
+        "SL-SPORTSHIRT-PAYTON-XL",
+        "SL-SPORTSHIRT-PAYTON-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2429",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-07-31"
+    },
+    {
+      "parentName": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
+      "category": "Sport Shirt",
+      "skus": [
+        "SL-SPORTSHIRT-RODGERS-3XL",
+        "SL-SPORTSHIRT-RODGERS-L",
+        "SL-SPORTSHIRT-RODGERS-M",
+        "SL-SPORTSHIRT-RODGERS-S",
+        "SL-SPORTSHIRT-RODGERS-XL",
+        "SL-SPORTSHIRT-RODGERS-XXL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2429",
+      "shipment": "Air",
+      "exf": "2026-07-15",
+      "etaToStores": "End of July",
+      "etaToStoresDate": "2026-07-30",
+      "bpDeliveryDue": "2026-07-31"
     },
     {
       "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
@@ -4831,6 +4619,84 @@
       "lastReceivedDate": "",
       "hasIncoming": true,
       "poRef": "TH3536",
+      "shipment": "Air",
+      "exf": "2026-08-10",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-25",
+      "bpDeliveryDue": "2026-09-30"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
+      "category": "Dress Pants",
+      "skus": [
+        "SL-PANT-HLATTE-29",
+        "SL-PANT-HLATTE-30",
+        "SL-PANT-HLATTE-31",
+        "SL-PANT-HLATTE-32",
+        "SL-PANT-HLATTE-33",
+        "SL-PANT-HLATTE-34",
+        "SL-PANT-HLATTE-36",
+        "SL-PANT-HLATTE-38",
+        "SL-PANT-HLATTE-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3538",
+      "shipment": "Air",
+      "exf": "2026-08-10",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-25",
+      "bpDeliveryDue": "2026-09-30"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
+      "category": "Dress Pants",
+      "skus": [
+        "SL-PANT-CHARASHSTRIPE-29",
+        "SL-PANT-CHARASHSTRIPE-30",
+        "SL-PANT-CHARASHSTRIPE-31",
+        "SL-PANT-CHARASHSTRIPE-32",
+        "SL-PANT-CHARASHSTRIPE-33",
+        "SL-PANT-CHARASHSTRIPE-34",
+        "SL-PANT-CHARASHSTRIPE-36",
+        "SL-PANT-CHARASHSTRIPE-38",
+        "SL-PANT-CHARASHSTRIPE-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3538",
+      "shipment": "Air",
+      "exf": "2026-08-10",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-25",
+      "bpDeliveryDue": "2026-09-30"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
+      "category": "Dress Pants",
+      "skus": [
+        "SL-PANT-NAVYMIDPLAID-29",
+        "SL-PANT-NAVYMIDPLAID-30",
+        "SL-PANT-NAVYMIDPLAID-31",
+        "SL-PANT-NAVYMIDPLAID-32",
+        "SL-PANT-NAVYMIDPLAID-33",
+        "SL-PANT-NAVYMIDPLAID-34",
+        "SL-PANT-NAVYMIDPLAID-36",
+        "SL-PANT-NAVYMIDPLAID-38",
+        "SL-PANT-NAVYMIDPLAID-40"
+      ],
+      "skuCount": 9,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "TH3538",
       "shipment": "Air",
       "exf": "2026-08-10",
       "etaToStores": "End of August",
