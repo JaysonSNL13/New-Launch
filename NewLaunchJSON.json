@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T18:33:53.934Z",
+  "lastUpdated": "2026-05-29T18:38:17.324Z",
   "generatedBy": "buildAndPushNewLaunch2 (Apps Script)",
   "counts": {
     "total": 293,
@@ -3863,58 +3863,6 @@
       "bpDeliveryDue": "2026-06-30"
     },
     {
-      "parentName": "Lightweight Knit Polo - Charcoal Herringbone",
-      "category": "Polos",
-      "skus": [
-        "SL-P-CHARCOALHERR-S",
-        "SL-P-CHARCOALHERR-M",
-        "SL-P-CHARCOALHERR-L",
-        "SL-P-CHARCOALHERR-XL",
-        "SL-P-CHARCOALHERR-XXL",
-        "SL-P-CHARCOALHERR-3XL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2425",
-      "isReceived": false,
-      "isDelayed": true,
-      "routingPending": false,
-      "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-05",
-      "bpDeliveryDue": "2026-07-15"
-    },
-    {
-      "parentName": "Lightweight Knit Polo - Light Blue Herringbone",
-      "category": "Polos",
-      "skus": [
-        "SL-P-LIGHTBLUEHERR-S",
-        "SL-P-LIGHTBLUEHERR-M",
-        "SL-P-LIGHTBLUEHERR-L",
-        "SL-P-LIGHTBLUEHERR-XL",
-        "SL-P-LIGHTBLUEHERR-XXL",
-        "SL-P-LIGHTBLUEHERR-3XL"
-      ],
-      "skuCount": 6,
-      "status": "New Launch",
-      "totalOnHand": 0,
-      "lastReceivedDate": "",
-      "hasIncoming": true,
-      "poRef": "ED2425",
-      "isReceived": false,
-      "isDelayed": true,
-      "routingPending": false,
-      "shipment": "Air",
-      "exf": "2026-04-30",
-      "etaToStores": "Early June",
-      "etaToStoresDate": "2026-06-05",
-      "bpDeliveryDue": "2026-07-15"
-    },
-    {
       "parentName": "\"The Cabo'' Light Blue Weave",
       "category": "SSBD",
       "skus": [
@@ -5998,6 +5946,58 @@
       "etaToStores": "End of August",
       "etaToStoresDate": "2026-08-21",
       "bpDeliveryDue": "2026-09-01"
+    },
+    {
+      "parentName": "Lightweight Knit Polo - Charcoal Herringbone",
+      "category": "Polos",
+      "skus": [
+        "SL-P-CHARCOALHERR-S",
+        "SL-P-CHARCOALHERR-M",
+        "SL-P-CHARCOALHERR-L",
+        "SL-P-CHARCOALHERR-XL",
+        "SL-P-CHARCOALHERR-XXL",
+        "SL-P-CHARCOALHERR-3XL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2425",
+      "isReceived": false,
+      "isDelayed": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-08-01",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-21",
+      "bpDeliveryDue": "2026-07-15"
+    },
+    {
+      "parentName": "Lightweight Knit Polo - Light Blue Herringbone",
+      "category": "Polos",
+      "skus": [
+        "SL-P-LIGHTBLUEHERR-S",
+        "SL-P-LIGHTBLUEHERR-M",
+        "SL-P-LIGHTBLUEHERR-L",
+        "SL-P-LIGHTBLUEHERR-XL",
+        "SL-P-LIGHTBLUEHERR-XXL",
+        "SL-P-LIGHTBLUEHERR-3XL"
+      ],
+      "skuCount": 6,
+      "status": "New Launch",
+      "totalOnHand": 0,
+      "lastReceivedDate": "",
+      "hasIncoming": true,
+      "poRef": "ED2425",
+      "isReceived": false,
+      "isDelayed": false,
+      "routingPending": false,
+      "shipment": "Air",
+      "exf": "2026-08-01",
+      "etaToStores": "End of August",
+      "etaToStoresDate": "2026-08-21",
+      "bpDeliveryDue": "2026-07-15"
     },
     {
       "parentName": "Heavy Knit Zip Quarter Zip - Ash Olive",
