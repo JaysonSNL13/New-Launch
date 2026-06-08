@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-08T10:27:57.313Z",
+  "lastUpdated": "2026-06-08T12:37:45.282Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 147
+    "total": 146
   },
   "items": [
     {
@@ -737,32 +737,6 @@
         "SL-DS-ROBIN-S",
         "SL-DS-ROBIN-XL",
         "SL-DS-ROBIN-XXL"
-      ],
-      "bulkExf": "2026-05-22",
-      "bulkEtaDate": "2026-07-21",
-      "bulkEta": "End of July",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "\"The Rocky'' Powder Blue with White Stripes",
-      "category": "Dress Shirt",
-      "poRef": "TAL6060",
-      "skus": [
-        "SL-DS-ROCKY-3XL",
-        "SL-DS-ROCKY-L",
-        "SL-DS-ROCKY-M",
-        "SL-DS-ROCKY-S",
-        "SL-DS-ROCKY-XL",
-        "SL-DS-ROCKY-XXL",
-        "SL-DS-HOLLAND-3XL"
       ],
       "bulkExf": "2026-05-22",
       "bulkEtaDate": "2026-07-21",
