@@ -1,10 +1,118 @@
 {
-  "lastUpdated": "2026-06-09T12:12:12.902Z",
+  "lastUpdated": "2026-06-09T14:31:36.450Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 133
   },
   "items": [
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
+      "category": "Casual Blazers",
+      "poRef": "JT1245",
+      "skus": [
+        "SL-BLAZER-LIGHTBRNHATCH-36",
+        "SL-BLAZER-LIGHTBRNHATCH-38",
+        "SL-BLAZER-LIGHTBRNHATCH-40",
+        "SL-BLAZER-LIGHTBRNHATCH-42",
+        "SL-BLAZER-LIGHTBRNHATCH-44",
+        "SL-BLAZER-LIGHTBRNHATCH-46",
+        "SL-BLAZER-LIGHTBRNHATCH-48"
+      ],
+      "bulkExf": "2026-05-20",
+      "bulkEtaDate": "2026-06-09",
+      "bulkEta": "Early Summer / Mid Summer",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
+      "category": "Casual Blazers",
+      "poRef": "JT1245",
+      "skus": [
+        "SL-BLAZER-STONEHATCH-36",
+        "SL-BLAZER-STONEHATCH-38",
+        "SL-BLAZER-STONEHATCH-40",
+        "SL-BLAZER-STONEHATCH-42",
+        "SL-BLAZER-STONEHATCH-44",
+        "SL-BLAZER-STONEHATCH-46",
+        "SL-BLAZER-STONEHATCH-48"
+      ],
+      "bulkExf": "2026-05-20",
+      "bulkEtaDate": "2026-06-09",
+      "bulkEta": "Early Summer / Mid Summer",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
+      "category": "Casual Pants",
+      "poRef": "JT1246",
+      "skus": [
+        "SL-CP-LIGHTBRNHATCH-29",
+        "SL-CP-LIGHTBRNHATCH-30",
+        "SL-CP-LIGHTBRNHATCH-31",
+        "SL-CP-LIGHTBRNHATCH-32",
+        "SL-CP-LIGHTBRNHATCH-33",
+        "SL-CP-LIGHTBRNHATCH-34",
+        "SL-CP-LIGHTBRNHATCH-36",
+        "SL-CP-LIGHTBRNHATCH-38",
+        "SL-CP-LIGHTBRNHATCH-40"
+      ],
+      "bulkExf": "2026-05-20",
+      "bulkEtaDate": "2026-06-09",
+      "bulkEta": "Early Summer / Mid Summer",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
+      "category": "Casual Pants",
+      "poRef": "JT1246",
+      "skus": [
+        "SL-CP-STONEHATCH-29",
+        "SL-CP-STONEHATCH-30",
+        "SL-CP-STONEHATCH-31",
+        "SL-CP-STONEHATCH-32",
+        "SL-CP-STONEHATCH-33",
+        "SL-CP-STONEHATCH-34",
+        "SL-CP-STONEHATCH-36",
+        "SL-CP-STONEHATCH-38",
+        "SL-CP-STONEHATCH-40"
+      ],
+      "bulkExf": "2026-05-20",
+      "bulkEtaDate": "2026-06-09",
+      "bulkEta": "Early Summer / Mid Summer",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
     {
       "parentName": "Sunglasses - Matte Black",
       "category": "Accessory",
@@ -23,7 +131,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Sunglasses - Tortoise Shell",
@@ -43,7 +151,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
@@ -225,114 +333,6 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
-      "category": "Casual Blazers",
-      "poRef": "JT1245",
-      "skus": [
-        "SL-BLAZER-LIGHTBRNHATCH-36",
-        "SL-BLAZER-LIGHTBRNHATCH-38",
-        "SL-BLAZER-LIGHTBRNHATCH-40",
-        "SL-BLAZER-LIGHTBRNHATCH-42",
-        "SL-BLAZER-LIGHTBRNHATCH-44",
-        "SL-BLAZER-LIGHTBRNHATCH-46",
-        "SL-BLAZER-LIGHTBRNHATCH-48"
-      ],
-      "bulkExf": "2026-05-20",
-      "bulkEtaDate": "2026-07-19",
-      "bulkEta": "Mid July",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
-      "category": "Casual Blazers",
-      "poRef": "JT1245",
-      "skus": [
-        "SL-BLAZER-STONEHATCH-36",
-        "SL-BLAZER-STONEHATCH-38",
-        "SL-BLAZER-STONEHATCH-40",
-        "SL-BLAZER-STONEHATCH-42",
-        "SL-BLAZER-STONEHATCH-44",
-        "SL-BLAZER-STONEHATCH-46",
-        "SL-BLAZER-STONEHATCH-48"
-      ],
-      "bulkExf": "2026-05-20",
-      "bulkEtaDate": "2026-07-19",
-      "bulkEta": "Mid July",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
-      "category": "Casual Pants",
-      "poRef": "JT1246",
-      "skus": [
-        "SL-CP-LIGHTBRNHATCH-29",
-        "SL-CP-LIGHTBRNHATCH-30",
-        "SL-CP-LIGHTBRNHATCH-31",
-        "SL-CP-LIGHTBRNHATCH-32",
-        "SL-CP-LIGHTBRNHATCH-33",
-        "SL-CP-LIGHTBRNHATCH-34",
-        "SL-CP-LIGHTBRNHATCH-36",
-        "SL-CP-LIGHTBRNHATCH-38",
-        "SL-CP-LIGHTBRNHATCH-40"
-      ],
-      "bulkExf": "2026-05-20",
-      "bulkEtaDate": "2026-07-19",
-      "bulkEta": "Mid July",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
-      "category": "Casual Pants",
-      "poRef": "JT1246",
-      "skus": [
-        "SL-CP-STONEHATCH-29",
-        "SL-CP-STONEHATCH-30",
-        "SL-CP-STONEHATCH-31",
-        "SL-CP-STONEHATCH-32",
-        "SL-CP-STONEHATCH-33",
-        "SL-CP-STONEHATCH-34",
-        "SL-CP-STONEHATCH-36",
-        "SL-CP-STONEHATCH-38",
-        "SL-CP-STONEHATCH-40"
-      ],
-      "bulkExf": "2026-05-20",
-      "bulkEtaDate": "2026-07-19",
-      "bulkEta": "Mid July",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
       "parentName": "\"The Andy'' Black Diamond Geo",
       "category": "Dress Shirt",
       "poRef": "TAL6066",
@@ -355,7 +355,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Murray'' Stone Plaid",
@@ -380,7 +380,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
@@ -405,7 +405,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
@@ -430,7 +430,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
@@ -455,7 +455,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Patch Pocket Button Down - Army Green",
@@ -556,7 +556,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Cream Plaid",
@@ -582,7 +582,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
@@ -608,7 +608,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
@@ -634,7 +634,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
@@ -660,7 +660,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
@@ -716,7 +716,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
@@ -802,7 +802,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
@@ -826,7 +826,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
@@ -850,7 +850,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
@@ -898,7 +898,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
@@ -922,7 +922,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Corduroy Knit Zip Jacket - Navy",
@@ -947,7 +947,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
@@ -1197,7 +1197,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Payton'' Sport Shirt - Solid Deep Sage",
@@ -1222,7 +1222,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
@@ -1247,7 +1247,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Gino \"- Solid Dark Olive Green",
@@ -2272,7 +2272,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
@@ -2297,7 +2297,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Winslow\" Navy and Brown Check",
@@ -2322,7 +2322,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
