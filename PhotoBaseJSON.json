@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T12:15:08.057Z",
+  "lastUpdated": "2026-06-10T12:27:11.778Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 136
@@ -262,7 +262,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
