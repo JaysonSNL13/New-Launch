@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T11:03:39.147Z",
+  "lastUpdated": "2026-06-10T12:15:08.057Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 136
@@ -289,7 +289,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
@@ -316,7 +316,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
@@ -343,7 +343,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Andy'' Black Diamond Geo",
@@ -447,7 +447,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
@@ -551,7 +551,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
