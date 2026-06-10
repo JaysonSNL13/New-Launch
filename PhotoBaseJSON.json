@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T12:27:11.778Z",
+  "lastUpdated": "2026-06-10T16:59:37.462Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 136
@@ -183,7 +183,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
@@ -209,7 +209,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
@@ -262,7 +262,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
@@ -289,7 +289,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
@@ -316,7 +316,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
@@ -343,7 +343,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Andy'' Black Diamond Geo",
@@ -551,7 +551,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
