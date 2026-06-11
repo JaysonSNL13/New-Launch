@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T15:17:08.236Z",
+  "lastUpdated": "2026-06-11T15:52:49.855Z",
   "generatedBy": "Photo Shoot Tracker feed — rebuilt from PhotoBaseJSON + live SCM emails + Kaiser via Gmail 2026-06-11",
   "note": "Auto-rebuilt feed. PPS = first sample, TOPS = final sample. TOPS sizes overridden authoritatively from the Brightpearl TOPS tab at publish time.",
   "counts": {
@@ -338,7 +338,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "30, 32, 34, 38, 40",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Navy & White Pinstripe",
@@ -383,7 +383,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "30, 32, 34, 38, 40",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Dark Grey Crosshatch",
@@ -497,7 +497,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium, Small",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
@@ -554,7 +554,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "3XL, Medium, Small",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - White",
@@ -611,7 +611,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Coastal'' Blue and Stone Big Check",
@@ -662,7 +662,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "3XL, Medium, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Lotus'' Deep Brown Floral Print",
@@ -713,7 +713,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Misty'' Slate and Navy Mosaic",
@@ -764,7 +764,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Mid-Weight Sweater Bomber - Black",
@@ -821,7 +821,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "3XL, Medium, Small, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Mid-Weight Sweater Bomber - Grey",
@@ -878,7 +878,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
@@ -1163,7 +1163,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Holland'' Dark Navy Micro Houndstooth",
@@ -1220,7 +1220,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Johnny\" Mini Grey Dot Print",
@@ -1277,7 +1277,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Matty'' Dark Green & Light Blue Mini Check",
@@ -1334,7 +1334,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Small",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Rocky'' Powder Blue with White Stripes",
@@ -1391,7 +1391,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Sedona'' Sky Blue with Navy Diamond Geo",
@@ -1448,7 +1448,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
@@ -1505,7 +1505,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Small",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Flight'' Blue Micro Grid Print",
@@ -1562,7 +1562,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Steel'' Blue Floral Print",
@@ -1619,7 +1619,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "3XL, Medium, Small, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Vine'' Green & Khaki Sketch Stripe",
@@ -1676,7 +1676,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large, Medium, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Cabo'' Light Blue Weave",
@@ -1733,7 +1733,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "3XL, Medium, Small, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Rio'' Light Blue Pinstripe",
@@ -1790,7 +1790,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Crimson with Burgundy Big Windowpane",
@@ -1841,7 +1841,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "40, 42",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Olive with White Windowpane",
@@ -2688,7 +2688,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
@@ -2739,7 +2739,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Large, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
@@ -2796,7 +2796,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
@@ -2847,7 +2847,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "40, 42",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
@@ -2898,7 +2898,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "40, 44, 48",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
@@ -2949,7 +2949,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "40, 46",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
@@ -3000,7 +3000,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "36, 40",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Andy'' Black Diamond Geo",
@@ -3057,7 +3057,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Large",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Murray'' Stone Plaid",
@@ -3114,7 +3114,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Small",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
@@ -3171,7 +3171,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
@@ -3664,7 +3664,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "32, 36",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Cream Plaid",
@@ -3715,7 +3715,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "32, 34, 38",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
@@ -3766,7 +3766,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "30, 31, 32",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
@@ -3817,7 +3817,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "32, 33, 40",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
@@ -4168,7 +4168,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Small, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
@@ -4969,7 +4969,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Navy",
@@ -5020,7 +5020,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Brushed Cotton Quilted Jacket - Black",
@@ -5277,7 +5277,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Swim Trucks - Navy",
@@ -5333,7 +5333,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
@@ -5915,7 +5915,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Heavy Knit Hoodie - Deep Navy",
@@ -5971,7 +5971,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Heavy Knit Hoodie - Tan",
@@ -6027,7 +6027,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Textured Buttonless Long Sleeve Polo - Olive",
@@ -6181,7 +6181,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Mid-Weight Wool Quarter Zip - Navy",
@@ -6237,7 +6237,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Buttonless Sweater Polo - Black",
@@ -6282,7 +6282,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Large, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Buttonless Sweater Polo - Light Tan",
@@ -6333,7 +6333,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Buttonless Sweater Polo - Navy",
@@ -6378,7 +6378,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XXL, Large",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Heavy Knit Crewneck - Dark Brown",
@@ -6709,7 +6709,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Mid-Weight Ribbed Quarter Zip - Grey",
@@ -6765,7 +6765,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "\"The Kellen\" Light Blue Mini Patterned",
@@ -7502,7 +7502,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Heavy Knit Zip Quarter Zip - Tan",
@@ -7564,7 +7564,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
@@ -8935,7 +8935,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Brushed Button Down Vest - Grey",
@@ -9078,7 +9078,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XXL, 3XL",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Puffer Vest - Khaki",
@@ -9123,7 +9123,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, Large, XL",
-      "topsVerify": "BP"
+      "topsVerify": "Verified"
     }
   ]
 }
