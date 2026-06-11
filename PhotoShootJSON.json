@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T18:57:17.552Z",
+  "lastUpdated": "2026-06-11T19:05:08.015Z",
   "generatedBy": "Photo Shoot Tracker refresh (Cowork) — backfill verification run",
   "note": "Rules 1-25 verified; 5 backfill corrections confirmed present (TAL6060 ref-TOP, TH3526 Cleveland-only, ED2452 per-color split, ED2425 superseded, TAL6041 Maui). Coverage: 0 feed drops; 67/67 base POs present.",
   "counts": {
@@ -5970,7 +5970,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XL, XXL, 3XL",
-      "topsVerify": "Verified"
+      "topsVerify": "Check"
     },
     {
       "parentName": "Heavy Knit Hoodie - Tan",
