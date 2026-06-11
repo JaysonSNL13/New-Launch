@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T19:23:36.875Z",
-  "generatedBy": "photo-shoot-tracker-refresh (incremental; backfill rules 15-25 verified present)",
+  "lastUpdated": "2026-06-11T19:50:54.147Z",
+  "generatedBy": "deploy-test: posted Deep Navy WITH Large",
   "note": "Manual correction (Jayson): ED2469 Deep Navy TOPS sizes restored to email source-of-truth (S,M,L,XL,2XL,3XL) — BP fallback had dropped Large. Twice-daily refresh. Backfill rules 15-25 verified present in all entries. 5 corrections confirmed: TAL6060 Summit/Matty reference-TOP (topsLanded=false); TH3526 issue on Cleveland only; ED2452 sizes split per color (LB S/M/L/2XL, Navy M/XL/3XL); ED2425 superseded (V2 landed then fabric remake); TAL6041 Maui present (landed/QC'd). Coverage: 0 feed drops; 67/67 base POs present.",
   "counts": {
     "total": 180
