@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-11T19:19:15.446Z",
+  "lastUpdated": "2026-06-11T19:23:36.875Z",
   "generatedBy": "photo-shoot-tracker-refresh (incremental; backfill rules 15-25 verified present)",
-  "note": "Twice-daily refresh. Backfill rules 15-25 verified present in all entries. 5 corrections confirmed: TAL6060 Summit/Matty reference-TOP (topsLanded=false); TH3526 issue on Cleveland only; ED2452 sizes split per color (LB S/M/L/2XL, Navy M/XL/3XL); ED2425 superseded (V2 landed then fabric remake); TAL6041 Maui present (landed/QC'd). Coverage: 0 feed drops; 67/67 base POs present.",
+  "note": "Manual correction (Jayson): ED2469 Deep Navy TOPS sizes restored to email source-of-truth (S,M,L,XL,2XL,3XL) — BP fallback had dropped Large. Twice-daily refresh. Backfill rules 15-25 verified present in all entries. 5 corrections confirmed: TAL6060 Summit/Matty reference-TOP (topsLanded=false); TH3526 issue on Cleveland only; ED2452 sizes split per color (LB S/M/L/2XL, Navy M/XL/3XL); ED2425 superseded (V2 landed then fabric remake); TAL6041 Maui present (landed/QC'd). Coverage: 0 feed drops; 67/67 base POs present.",
   "counts": {
     "total": 180
   },
@@ -5949,7 +5949,7 @@
       "topsReceivedBy": "",
       "topsRound": 0,
       "topsRounds": [],
-      "topsSource": "TOPS req Deep Navy S-3XL; ETD 7/15",
+      "topsSource": "TOPS req Deep Navy S, M, L, XL, 2XL, 3XL (5/28 Official Sizing, tal@); ETD 7/15. Email is source of truth — BP TOPS tab omitted Large; email value kept, BP flagged Check.",
       "topsConfidence": "high",
       "sampleColor": "Deep Navy (production); Black for fit PPS",
       "sampleFabric": "52% Cotton 41% COOLMAX Polyester 7% Spandex",
@@ -5960,8 +5960,8 @@
       "ppsNa": false,
       "pushedToProduction": true,
       "notes": "Deep Navy headend approved 5/6. Production after fit approval 5/28. Awaiting TOPS (ETD 7/15).",
-      "needsConfirm": false,
-      "needsConfirmReason": "",
+      "needsConfirm": true,
+      "needsConfirmReason": "TOPS size: email lists Large for Deep Navy but Brightpearl TOPS tab omits it — email kept as source of truth, flagged for review.",
       "bulkExf": "2026-08-01",
       "bulkEtaDate": "2026-08-21",
       "bulkEta": "Late Summer / Early Fall",
@@ -5970,7 +5970,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, XL, XXL, 3XL",
-      "topsVerify": "Verified"
+      "topsVerify": "Check"
     },
     {
       "parentName": "Heavy Knit Hoodie - Tan",
