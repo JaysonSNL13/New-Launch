@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T09:28:29.762Z",
-  "count": 1441,
+  "lastUpdated": "2026-06-11T09:58:33.593Z",
+  "count": 1444,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -4097,6 +4097,24 @@
     {
       "parentName": "Brushed Hoodie - Heathered Olive",
       "category": "Hoodies",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
+      "category": "LS Crewnecks",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "category": "LS Crewnecks",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - White",
+      "category": "LS Crewnecks",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
