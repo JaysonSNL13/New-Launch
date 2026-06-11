@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-11T19:50:54.147Z",
-  "generatedBy": "deploy-test: posted Deep Navy WITH Large",
-  "note": "Manual correction (Jayson): ED2469 Deep Navy TOPS sizes restored to email source-of-truth (S,M,L,XL,2XL,3XL) — BP fallback had dropped Large. Twice-daily refresh. Backfill rules 15-25 verified present in all entries. 5 corrections confirmed: TAL6060 Summit/Matty reference-TOP (topsLanded=false); TH3526 issue on Cleveland only; ED2452 sizes split per color (LB S/M/L/2XL, Navy M/XL/3XL); ED2425 superseded (V2 landed then fabric remake); TAL6041 Maui present (landed/QC'd). Coverage: 0 feed drops; 67/67 base POs present.",
+  "lastUpdated": "2026-06-11T19:58:56.531Z",
+  "generatedBy": "deploy-test2 2026-06-11T19:58:56.531Z",
+  "note": "Manual correction (Jayson): ED2469 Deep Navy TOPS sizes restored to email source-of-truth (S,M,L,XL,2XL,3XL) â BP fallback had dropped Large. Twice-daily refresh. Backfill rules 15-25 verified present in all entries. 5 corrections confirmed: TAL6060 Summit/Matty reference-TOP (topsLanded=false); TH3526 issue on Cleveland only; ED2452 sizes split per color (LB S/M/L/2XL, Navy M/XL/3XL); ED2425 superseded (V2 landed then fabric remake); TAL6041 Maui present (landed/QC'd). Coverage: 0 feed drops; 67/67 base POs present.",
   "counts": {
     "total": 180
   },
@@ -24,7 +24,7 @@
           "date": "2026-02-11"
         }
       ],
-      "ppsSource": "2026-02-09 joycetailor@hotmail.com — 'We have shipped PPS today'",
+      "ppsSource": "2026-02-09 joycetailor@hotmail.com â 'We have shipped PPS today'",
       "ppsConfidence": "high",
       "topsSize": "38, 40, 42, 46, 48",
       "topsLanded": true,
@@ -40,7 +40,7 @@
           "date": "2026-03-23"
         }
       ],
-      "topsSource": "2026-03-23 tal@stateandliberty.com — 'JT1240 TOPS are approved'",
+      "topsSource": "2026-03-23 tal@stateandliberty.com â 'JT1240 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Navy & Black Mini Houndstooth",
       "sampleFabric": "90% Polyester 5% Viscose 5% Spandex",
@@ -81,7 +81,7 @@
           "date": "2026-02-11"
         }
       ],
-      "ppsSource": "2026-02-09 joycetailor@hotmail.com — 'We have shipped PPS today'",
+      "ppsSource": "2026-02-09 joycetailor@hotmail.com â 'We have shipped PPS today'",
       "ppsConfidence": "high",
       "topsSize": "38, 40, 42, 46, 48",
       "topsLanded": true,
@@ -97,7 +97,7 @@
           "date": "2026-03-23"
         }
       ],
-      "topsSource": "2026-03-23 tal@stateandliberty.com — 'JT1240 TOPS are approved'",
+      "topsSource": "2026-03-23 tal@stateandliberty.com â 'JT1240 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Navy & White Pinstripe",
       "sampleFabric": "90% Polyester 5% Viscose 5% Spandex",
@@ -138,7 +138,7 @@
           "date": "2026-02-12"
         }
       ],
-      "ppsSource": "2026-02-12 tal@stateandliberty.com — 'Landed these PPS'",
+      "ppsSource": "2026-02-12 tal@stateandliberty.com â 'Landed these PPS'",
       "ppsConfidence": "high",
       "topsSize": "38S, 40S, 42S, 46S",
       "topsLanded": true,
@@ -154,7 +154,7 @@
           "date": "2026-03-23"
         }
       ],
-      "topsSource": "2026-03-23 tal@stateandliberty.com — 'JT1241 TOPS are approved'",
+      "topsSource": "2026-03-23 tal@stateandliberty.com â 'JT1241 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Navy & Black Mini Houndstooth",
       "sampleFabric": "90% Polyester 5% Viscose 5% Spandex",
@@ -195,7 +195,7 @@
           "date": "2026-02-12"
         }
       ],
-      "ppsSource": "2026-02-12 tal@stateandliberty.com — 'Landed these PPS'",
+      "ppsSource": "2026-02-12 tal@stateandliberty.com â 'Landed these PPS'",
       "ppsConfidence": "high",
       "topsSize": "38S, 40S, 42S, 46S",
       "topsLanded": true,
@@ -211,7 +211,7 @@
           "date": "2026-03-23"
         }
       ],
-      "topsSource": "2026-03-23 tal@stateandliberty.com — 'JT1241 TOPS are approved'",
+      "topsSource": "2026-03-23 tal@stateandliberty.com â 'JT1241 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Navy & White Pinstripe",
       "sampleFabric": "90% Polyester 5% Viscose 5% Spandex",
@@ -252,7 +252,7 @@
           "date": "2026-02-11"
         }
       ],
-      "ppsSource": "2026-02-12 tal — 'received the SC5007 JSS submission ... very pleased'",
+      "ppsSource": "2026-02-12 tal â 'received the SC5007 JSS submission ... very pleased'",
       "ppsConfidence": "high",
       "topsSize": "36, 38, 40, 42, 46, 48",
       "topsLanded": true,
@@ -268,7 +268,7 @@
           "date": "2026-04-16"
         }
       ],
-      "topsSource": "2026-04-21 tal — 'SC5007 Blazers are approved'",
+      "topsSource": "2026-04-21 tal â 'SC5007 Blazers are approved'",
       "topsConfidence": "high",
       "sampleColor": "Dark Grey Crosshatch",
       "sampleFabric": "52% Poly / 42% Rayon / 3% Nylon / 3% Spandex",
@@ -399,7 +399,7 @@
           "date": "2025-12-22"
         }
       ],
-      "ppsSource": "2025-12-22 tal — 'received and reviewed the SC5008 PPS JSS'",
+      "ppsSource": "2025-12-22 tal â 'received and reviewed the SC5008 PPS JSS'",
       "ppsConfidence": "high",
       "topsSize": "30, 32, 34, 38, 40",
       "topsLanded": true,
@@ -415,7 +415,7 @@
           "date": "2026-04-16"
         }
       ],
-      "topsSource": "2026-04-22 tal — 'SC5008 TOPS are approved'",
+      "topsSource": "2026-04-22 tal â 'SC5008 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Dark Grey Crosshatch",
       "sampleFabric": "52% Poly / 42% Rayon / 3% Nylon / 3% Spandex",
@@ -456,7 +456,7 @@
           "date": "2026-04-07"
         }
       ],
-      "ppsSource": "2026-04-07 tal — 'These have landed'",
+      "ppsSource": "2026-04-07 tal â 'These have landed'",
       "ppsConfidence": "high",
       "topsSize": "Large, Medium, Small",
       "topsLanded": true,
@@ -472,7 +472,7 @@
           "date": "2026-04-29"
         }
       ],
-      "topsSource": "2026-04-29 tal — 'ED2410 TOPS are approved'",
+      "topsSource": "2026-04-29 tal â 'ED2410 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Black",
       "sampleFabric": "91% Polyester / 9% Spandex",
@@ -513,7 +513,7 @@
           "date": "2026-04-07"
         }
       ],
-      "ppsSource": "2026-04-07 tal — 'These have landed'",
+      "ppsSource": "2026-04-07 tal â 'These have landed'",
       "ppsConfidence": "high",
       "topsSize": "3XL, Medium, Small",
       "topsLanded": true,
@@ -529,7 +529,7 @@
           "date": "2026-04-29"
         }
       ],
-      "topsSource": "2026-04-29 tal — 'ED2410 TOPS are approved'",
+      "topsSource": "2026-04-29 tal â 'ED2410 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "Dark Brown",
       "sampleFabric": "91% Polyester / 9% Spandex",
@@ -570,7 +570,7 @@
           "date": "2026-04-07"
         }
       ],
-      "ppsSource": "2026-04-07 tal — 'These have landed'",
+      "ppsSource": "2026-04-07 tal â 'These have landed'",
       "ppsConfidence": "high",
       "topsSize": "Medium, XL, XXL",
       "topsLanded": true,
@@ -586,7 +586,7 @@
           "date": "2026-04-29"
         }
       ],
-      "topsSource": "2026-04-29 tal — 'ED2410 TOPS are approved'",
+      "topsSource": "2026-04-29 tal â 'ED2410 TOPS are approved'",
       "topsConfidence": "high",
       "sampleColor": "White",
       "sampleFabric": "91% Polyester / 9% Spandex",
@@ -1297,7 +1297,7 @@
       "ppsConfidence": "high",
       "topsSize": "Medium, Small",
       "topsLanded": false,
-      "topsDisplay": "Reference TOP only — not shoot-ready",
+      "topsDisplay": "Reference TOP only â not shoot-ready",
       "topsDate": "2026-05-16",
       "topsTracking": "1Z49103F8516358204",
       "topsReceivedBy": "Tal",
@@ -1321,7 +1321,7 @@
       "pushedToProduction": true,
       "notes": "PPS used for bulk approval; TOP kept for reference only (double-print).",
       "needsConfirm": true,
-      "needsConfirmReason": "Reference TOP (PPS used for bulk approval) — not shoot-ready; mirrors TAL6066 Robin/Thorpe.",
+      "needsConfirmReason": "Reference TOP (PPS used for bulk approval) â not shoot-ready; mirrors TAL6066 Robin/Thorpe.",
       "bulkExf": "",
       "bulkEtaDate": "2026-06-10",
       "bulkEta": "Early June",
@@ -1469,7 +1469,7 @@
       "ppsConfidence": "high",
       "topsSize": "Medium, Small",
       "topsLanded": false,
-      "topsDisplay": "Reference TOP only — not shoot-ready",
+      "topsDisplay": "Reference TOP only â not shoot-ready",
       "topsDate": "2026-05-16",
       "topsTracking": "1Z49103F8516358204",
       "topsReceivedBy": "Tal",
@@ -1493,7 +1493,7 @@
       "pushedToProduction": true,
       "notes": "PPS used for bulk approval; TOP kept for reference only (double-print).",
       "needsConfirm": true,
-      "needsConfirmReason": "Reference TOP (PPS used for bulk approval) — not shoot-ready; mirrors TAL6066 Robin/Thorpe.",
+      "needsConfirmReason": "Reference TOP (PPS used for bulk approval) â not shoot-ready; mirrors TAL6066 Robin/Thorpe.",
       "bulkExf": "2026-05-22",
       "bulkEtaDate": "2026-07-21",
       "bulkEta": "End of July",
@@ -1698,7 +1698,7 @@
       "ppsConfidence": "medium",
       "topsSize": "3XL, Medium, Small, XL",
       "topsLanded": true,
-      "topsDisplay": "Landed — QC'd Jun 4",
+      "topsDisplay": "Landed â QC'd Jun 4",
       "topsDate": "2026-03-30",
       "topsTracking": "DHL 4980564584",
       "topsReceivedBy": "Tal",
@@ -1710,14 +1710,14 @@
           "date": "2026-01-26"
         }
       ],
-      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QC’d 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap — use 3/30.",
+      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QCâd 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap â use 3/30.",
       "topsConfidence": "high",
       "sampleColor": "Light Blue Weave",
       "sampleFabric": "Sport Tech bulk fabric",
       "substitute": false,
       "substituteNote": "",
       "hasIssue": true,
-      "issue": "PPS buttonhole returned Light Blue (requested White) — corrected before production.",
+      "issue": "PPS buttonhole returned Light Blue (requested White) â corrected before production.",
       "ppsNa": false,
       "pushedToProduction": true,
       "notes": "PPS V2 in bulk fabric, M only. TOPS approved 2/2; bulk good to stock 6/5.",
@@ -1756,7 +1756,7 @@
       "ppsConfidence": "medium",
       "topsSize": "Small, XL, XXL",
       "topsLanded": true,
-      "topsDisplay": "Landed — QC'd Jun 4",
+      "topsDisplay": "Landed â QC'd Jun 4",
       "topsDate": "2026-03-30",
       "topsTracking": "DHL 4980564584",
       "topsReceivedBy": "Tal",
@@ -1768,7 +1768,7 @@
           "date": "2026-01-26"
         }
       ],
-      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QC’d 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap — use 3/30.",
+      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QCâd 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap â use 3/30.",
       "topsConfidence": "high",
       "sampleColor": "Light Blue Pinstripe",
       "sampleFabric": "Sport Tech bulk fabric",
@@ -2442,7 +2442,7 @@
       "issue": "",
       "ppsNa": false,
       "pushedToProduction": true,
-      "notes": "No explicit PPS receipt for Slate Grey Short; TOPS (42S) approved 5/13, bulk landed 6/8, good to stock — final sample present, not a blocker.",
+      "notes": "No explicit PPS receipt for Slate Grey Short; TOPS (42S) approved 5/13, bulk landed 6/8, good to stock â final sample present, not a blocker.",
       "needsConfirm": true,
       "needsConfirmReason": "Slate Grey Houndstooth Short PPS receipt not explicitly stated in emails.",
       "bulkExf": "",
@@ -2654,7 +2654,7 @@
       "ppsConfidence": "high",
       "topsSize": "Small, Medium, XL",
       "topsLanded": false,
-      "topsDisplay": "TOPS landed 6/8 — cuffs too loose (fit issue)",
+      "topsDisplay": "TOPS landed 6/8 â cuffs too loose (fit issue)",
       "topsDate": "2026-06-08",
       "topsTracking": "735759127953",
       "topsReceivedBy": "Tal",
@@ -2711,13 +2711,13 @@
       "ppsConfidence": "high",
       "topsSize": "Medium, Large, XXL",
       "topsLanded": false,
-      "topsDisplay": "TOPS not shipped — blocked by fabric shading",
+      "topsDisplay": "TOPS not shipped â blocked by fabric shading",
       "topsDate": "",
       "topsTracking": "",
       "topsReceivedBy": "",
       "topsRound": 0,
       "topsRounds": [],
-      "topsSource": "Miantsa 5/26 — Lawrence affected by fabric shading on every roll; TOPS not shipped; revised EXF pending relaunched fabric",
+      "topsSource": "Miantsa 5/26 â Lawrence affected by fabric shading on every roll; TOPS not shipped; revised EXF pending relaunched fabric",
       "topsConfidence": "high",
       "sampleColor": "Light Blue with Navy Windowpane",
       "sampleFabric": "Madagascar sport shirt fabric",
@@ -2762,7 +2762,7 @@
       "ppsConfidence": "high",
       "topsSize": "Small, Medium, Large",
       "topsLanded": false,
-      "topsDisplay": "TOPS landed 6/8 — cuffs too loose (fit issue)",
+      "topsDisplay": "TOPS landed 6/8 â cuffs too loose (fit issue)",
       "topsDate": "2026-06-08",
       "topsTracking": "735759127953",
       "topsReceivedBy": "Tal",
@@ -4204,12 +4204,12 @@
       "substitute": false,
       "substituteNote": "",
       "hasIssue": true,
-      "issue": "Buttonhole stitching to be updated navy → white (BOM update requested 6/10).",
+      "issue": "Buttonhole stitching to be updated navy â white (BOM update requested 6/10).",
       "ppsNa": false,
       "pushedToProduction": false,
-      "notes": "Buttonhole stitching navy→white requested (Cleveland only).",
+      "notes": "Buttonhole stitching navyâwhite requested (Cleveland only).",
       "needsConfirm": true,
-      "needsConfirmReason": "Cleveland buttonhole color change requested 6/10 — confirm corrected sample before shooting.",
+      "needsConfirmReason": "Cleveland buttonhole color change requested 6/10 â confirm corrected sample before shooting.",
       "bulkExf": "2026-07-15",
       "bulkEtaDate": "2026-08-04",
       "bulkEta": "Late Summer / Early Fall",
@@ -5284,7 +5284,7 @@
       "poRef": "ED2440",
       "ppsSize": "M (landed); remaining shipped 5/22",
       "ppsLanded": true,
-      "ppsDisplay": "Landed May 13 (M) — logo issue",
+      "ppsDisplay": "Landed May 13 (M) â logo issue",
       "ppsDate": "2026-05-13",
       "ppsTracking": "FedEx (PPS 5/22; M rec 5/13)",
       "ppsReceivedBy": "Tal",
@@ -5318,7 +5318,7 @@
       "substitute": false,
       "substituteNote": "",
       "hasIssue": true,
-      "issue": "Navy logo on landed PPS Medium slanted, not approved (5/18) — must be centered. Correction needed for TOPS/bulk.",
+      "issue": "Navy logo on landed PPS Medium slanted, not approved (5/18) â must be centered. Correction needed for TOPS/bulk.",
       "ppsNa": false,
       "pushedToProduction": false,
       "notes": "PPS M landed 5/13; remaining 5/22. Navy logo positioning slanted - requires correction. TOPS ETD 6/22.",
@@ -5606,7 +5606,7 @@
       "ppsConfidence": "high",
       "topsSize": "S, M, L, XL, 2XL, 3XL",
       "topsLanded": false,
-      "topsDisplay": "Requested — ETD pending",
+      "topsDisplay": "Requested â ETD pending",
       "topsDate": "",
       "topsTracking": "",
       "topsReceivedBy": "",
@@ -5949,7 +5949,7 @@
       "topsReceivedBy": "",
       "topsRound": 0,
       "topsRounds": [],
-      "topsSource": "TOPS req Deep Navy S, M, L, XL, 2XL, 3XL (5/28 Official Sizing, tal@); ETD 7/15. Email is source of truth — BP TOPS tab omitted Large; email value kept, BP flagged Check.",
+      "topsSource": "TOPS req Deep Navy S, M, L, XL, 2XL, 3XL (5/28 Official Sizing, tal@); ETD 7/15. Email is source of truth â BP TOPS tab omitted Large; email value kept, BP flagged Check.",
       "topsConfidence": "high",
       "sampleColor": "Deep Navy (production); Black for fit PPS",
       "sampleFabric": "52% Cotton 41% COOLMAX Polyester 7% Spandex",
@@ -5961,7 +5961,7 @@
       "pushedToProduction": true,
       "notes": "Deep Navy headend approved 5/6. Production after fit approval 5/28. Awaiting TOPS (ETD 7/15).",
       "needsConfirm": true,
-      "needsConfirmReason": "TOPS size: email lists Large for Deep Navy but Brightpearl TOPS tab omits it — email kept as source of truth, flagged for review.",
+      "needsConfirmReason": "TOPS size: email lists Large for Deep Navy but Brightpearl TOPS tab omits it â email kept as source of truth, flagged for review.",
       "bulkExf": "2026-08-01",
       "bulkEtaDate": "2026-08-21",
       "bulkEta": "Late Summer / Early Fall",
@@ -7890,7 +7890,7 @@
       "poRef": "ED2425",
       "ppsSize": "S, M, L",
       "ppsLanded": true,
-      "ppsDisplay": "Landed Apr 13 (V2) — superseded",
+      "ppsDisplay": "Landed Apr 13 (V2) â superseded",
       "ppsDate": "2026-04-13",
       "ppsTracking": "FedEx 8705-1269-5377",
       "ppsReceivedBy": "S&L",
@@ -7927,9 +7927,9 @@
       "issue": "Fabric shrinkage failure (5-6 inconsistent wash tests); fabric being fully re-made; order qty revised.",
       "ppsNa": false,
       "pushedToProduction": false,
-      "notes": "Mixed colorway (Charcoal + Light Blue) — sizes not attributed per color in thread; unsplit, needs confirm.",
+      "notes": "Mixed colorway (Charcoal + Light Blue) â sizes not attributed per color in thread; unsplit, needs confirm.",
       "needsConfirm": true,
-      "needsConfirmReason": "Severe herringbone fabric shrinkage → full fabric remake, new EXF 8/30; landed V2 no longer a valid shoot/approval sample. Sizes not tied per color (rule 24).",
+      "needsConfirmReason": "Severe herringbone fabric shrinkage â full fabric remake, new EXF 8/30; landed V2 no longer a valid shoot/approval sample. Sizes not tied per color (rule 24).",
       "bulkExf": "2026-08-30",
       "bulkEtaDate": "2026-09-19",
       "bulkEta": "Early Fall / Mid Fall",
@@ -7945,7 +7945,7 @@
       "poRef": "ED2425",
       "ppsSize": "S, M, L",
       "ppsLanded": true,
-      "ppsDisplay": "Landed Apr 13 (V2) — superseded",
+      "ppsDisplay": "Landed Apr 13 (V2) â superseded",
       "ppsDate": "2026-04-13",
       "ppsTracking": "FedEx 8705-1269-5377",
       "ppsReceivedBy": "S&L",
@@ -7982,9 +7982,9 @@
       "issue": "Fabric shrinkage failure (5-6 inconsistent wash tests); fabric being fully re-made; order qty revised.",
       "ppsNa": false,
       "pushedToProduction": false,
-      "notes": "Mixed colorway (Charcoal + Light Blue) — sizes not attributed per color in thread; unsplit, needs confirm.",
+      "notes": "Mixed colorway (Charcoal + Light Blue) â sizes not attributed per color in thread; unsplit, needs confirm.",
       "needsConfirm": true,
-      "needsConfirmReason": "Severe herringbone fabric shrinkage → full fabric remake, new EXF 8/30; landed V2 no longer a valid shoot/approval sample. Sizes not tied per color (rule 24).",
+      "needsConfirmReason": "Severe herringbone fabric shrinkage â full fabric remake, new EXF 8/30; landed V2 no longer a valid shoot/approval sample. Sizes not tied per color (rule 24).",
       "bulkExf": "2026-08-30",
       "bulkEtaDate": "2026-09-19",
       "bulkEta": "Early Fall / Mid Fall",
@@ -9148,7 +9148,7 @@
       "ppsConfidence": "medium",
       "topsSize": "S, M, L, 2XL, 3XL",
       "topsLanded": true,
-      "topsDisplay": "Landed — QC'd Jun 4",
+      "topsDisplay": "Landed â QC'd Jun 4",
       "topsDate": "2026-03-30",
       "topsTracking": "DHL 4980564584",
       "topsReceivedBy": "Tal",
@@ -9160,17 +9160,17 @@
           "date": "2026-01-26"
         }
       ],
-      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QC’d 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap — use 3/30.",
+      "topsSource": "TOPS approved 3/30 (\"Tops for TAL6041 and TAL6042 were already approved\"); bulk landed & QCâd 6/4. 2/2 \"TAL6041 TOPS approved\" line is bundled-sibling trap â use 3/30.",
       "topsConfidence": "high",
       "sampleColor": "Light Blue & Brown Stripe",
       "sampleFabric": "Sport Tech bulk fabric",
       "substitute": false,
       "substituteNote": "",
       "hasIssue": true,
-      "issue": "PPS buttonhole returned Brown (requested White) — corrected before production.",
+      "issue": "PPS buttonhole returned Brown (requested White) â corrected before production.",
       "ppsNa": false,
       "pushedToProduction": true,
-      "notes": "Ordered in 3 colors (Rio/Cabo/Maui); Maui retained as its own item — landed 6/4 (570 units), wash test met standard.",
+      "notes": "Ordered in 3 colors (Rio/Cabo/Maui); Maui retained as its own item â landed 6/4 (570 units), wash test met standard.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "bulkExf": "",
