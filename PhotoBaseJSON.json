@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-11T09:28:25.990Z",
+  "lastUpdated": "2026-06-11T09:58:29.707Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 176
+    "total": 179
   },
   "items": [
     {
@@ -4726,6 +4726,90 @@
       "bulkExf": "2026-09-01",
       "bulkEtaDate": "2026-09-21",
       "bulkEta": "Early Fall / Mid Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
+      "category": "LS Crewnecks",
+      "poRef": "ED2490",
+      "skus": [
+        "SL-CREW-LSBRUSHEDBLACK-3XL",
+        "SL-CREW-LSBRUSHEDBLACK-L",
+        "SL-CREW-LSBRUSHEDBLACK-M",
+        "SL-CREW-LSBRUSHEDBLACK-S",
+        "SL-CREW-LSBRUSHEDBLACK-XL",
+        "SL-CREW-LSBRUSHEDBLACK-XXL"
+      ],
+      "bulkExf": "2026-10-05",
+      "bulkEtaDate": "2026-10-25",
+      "bulkEta": "Late Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "category": "LS Crewnecks",
+      "poRef": "ED2490",
+      "skus": [
+        "SL-CREW-LSBRUSHEDOLIVE-3XL",
+        "SL-CREW-LSBRUSHEDOLIVE-L",
+        "SL-CREW-LSBRUSHEDOLIVE-M",
+        "SL-CREW-LSBRUSHEDOLIVE-S",
+        "SL-CREW-LSBRUSHEDOLIVE-XL",
+        "SL-CREW-LSBRUSHEDOLIVE-XXL"
+      ],
+      "bulkExf": "2026-10-05",
+      "bulkEtaDate": "2026-10-25",
+      "bulkEta": "Late Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - White",
+      "category": "LS Crewnecks",
+      "poRef": "ED2490",
+      "skus": [
+        "SL-CREW-LSBRUSHEDWHITE-3XL",
+        "SL-CREW-LSBRUSHEDWHITE-L",
+        "SL-CREW-LSBRUSHEDWHITE-M",
+        "SL-CREW-LSBRUSHEDWHITE-S",
+        "SL-CREW-LSBRUSHEDWHITE-XL",
+        "SL-CREW-LSBRUSHEDWHITE-XXL"
+      ],
+      "bulkExf": "2026-10-05",
+      "bulkEtaDate": "2026-10-25",
+      "bulkEta": "Late Fall",
       "shipment": "",
       "received": false,
       "landedDate": "",
