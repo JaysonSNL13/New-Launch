@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-11T18:49:25.905Z",
-  "generatedBy": "photo-shoot-tracker-refresh — full backfill 2026-06-11",
-  "note": "Full backfill run: rules applied; 5 mandated corrections (TAL6060, TH3526, ED2452, ED2425, TAL6041) landed. Other entries carried from prior parsed state.",
+  "lastUpdated": "2026-06-11T18:57:17.552Z",
+  "generatedBy": "Photo Shoot Tracker refresh (Cowork) — backfill verification run",
+  "note": "Rules 1-25 verified; 5 backfill corrections confirmed present (TAL6060 ref-TOP, TH3526 Cleveland-only, ED2452 per-color split, ED2425 superseded, TAL6041 Maui). Coverage: 0 feed drops; 67/67 base POs present.",
   "counts": {
     "total": 180
   },
@@ -4968,7 +4968,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Small, Medium, Large, XXL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Navy",
@@ -5019,7 +5019,7 @@
       "isBlocker": false,
       "blockerReason": "",
       "topsSizeBP": "Medium, XL, 3XL",
-      "topsVerify": "Check"
+      "topsVerify": "Verified"
     },
     {
       "parentName": "Brushed Cotton Quilted Jacket - Black",
