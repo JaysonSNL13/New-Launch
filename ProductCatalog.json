@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T09:28:22.007Z",
-  "count": 1444,
+  "lastUpdated": "2026-06-15T11:21:22.832Z",
+  "count": 1445,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -6274,6 +6274,12 @@
     },
     {
       "parentName": "Suede Belt - Black",
+      "category": "Belt",
+      "poRef": "",
+      "sizes": "28-32, 32-34, 34-36, 36-40"
+    },
+    {
+      "parentName": "Suede Belt - Brown",
       "category": "Belt",
       "poRef": "",
       "sizes": "28-32, 32-34, 34-36, 36-40"
