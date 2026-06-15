@@ -1,5 +1,5 @@
 {
-  "generatedBy": "Photo Shoot Tracker — one-time full backfill + validation (rules 1-25 full re-parse, 2026-06-15)",
+  "generatedBy": "Photo Shoot Tracker — 1pm incremental run (2026-06-15): backfill already applied at 12:25Z; no new email activity, carried forward unchanged; coverage + 5 corrections verified",
   "counts": {
     "total": 177
   },
