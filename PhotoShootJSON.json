@@ -1,9 +1,9 @@
 {
-  "generatedBy": "Photo Shoot Tracker — 2026-06-17 incremental run. Added AR7011 (4 sport-shirt styles, strike-off stage / no sample). Corrected JT1245+JT1246 TOPS (approved 5/13; SI18850 is the bulk shipment, not the sample). Backfill already applied 6/15. Coverage: 1 drop (AR7011) re-added.",
+  "generatedBy": "Photo Shoot Tracker — 2026-06-17 13:00 incremental run. No new email activity since prior run (09:07Z): all 66 POs / 181 styles carried forward unchanged. Rule-26 carrier check: 4 TAL6060/TAL6066 reference TOPs (UPS 1Z49103F8516358204 delivered 5/18) stay not-shoot-ready per rule 17 — no flip. Holds honored (0 active holds, 30 Approved untouched). Coverage: 0 feed drops; source coverage checked vs AT RISK+WATCHLIST+NO RISK buckets. SC5007 & JT1242 no longer in PhotoBaseJSON — carried forward.",
   "counts": {
     "total": 181
   },
-  "lastUpdated": "2026-06-17T09:07:52.679Z",
+  "lastUpdated": "2026-06-17T18:33:04.799Z",
   "items": [
     {
       "parentName": "Athletic Fit Stretch Blazer - Dark Grey Crosshatch",
@@ -4858,7 +4858,7 @@
       "topsSource": "",
       "topsConfidence": "high",
       "topsSizeBP": "Small, Medium, Large, XL, 3XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "Solid Pale Blue",
       "sampleFabric": "Sport shirt (collar interlining under revision)",
       "substitute": false,
@@ -4914,7 +4914,7 @@
       "topsSource": "",
       "topsConfidence": "high",
       "topsSizeBP": "Small, Medium, Large, XL, 3XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "Solid Deep Sage",
       "sampleFabric": "Sport shirt (collar interlining under revision)",
       "substitute": false,
@@ -4970,7 +4970,7 @@
       "topsSource": "",
       "topsConfidence": "high",
       "topsSizeBP": "Small, Medium, Large, XL, 3XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "Maroon Mini Grid",
       "sampleFabric": "Sport shirt (collar interlining under revision)",
       "substitute": false,
@@ -5866,7 +5866,7 @@
       "topsSource": "",
       "topsConfidence": "low",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "Black",
       "sampleFabric": "100% cotton knit Zhicai #C068, Nylon #89",
       "substitute": false,
@@ -5922,7 +5922,7 @@
       "topsSource": "",
       "topsConfidence": "low",
       "topsSizeBP": "Small, Medium, Large, XL, XXL, 3XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "Olive",
       "sampleFabric": "100% cotton knit Zhicai #C564, Nylon #73",
       "substitute": false,
