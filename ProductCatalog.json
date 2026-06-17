@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T10:33:06.613Z",
-  "count": 1445,
+  "lastUpdated": "2026-06-17T08:57:21.509Z",
+  "count": 1449,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -471,6 +471,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
+      "category": "Sport Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Dexter\" Black Casual Button Down",
       "category": "Casual Button Down",
       "poRef": "",
@@ -521,6 +527,12 @@
     {
       "parentName": "\"The Dylan\" Sky Blue Pique Button Down",
       "category": "Casual Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Eddie'' Sport Shirt - Maroon and Grey Big Gingham",
+      "category": "Sport Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -647,6 +659,12 @@
     {
       "parentName": "\"The Frank'' Mini Navy Dot",
       "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Frankfort'' Sport Shirt - Navy with White Plaid",
+      "category": "Sport Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -1451,6 +1469,12 @@
     {
       "parentName": "\"The Raymond\" Storm Blue Short Sleeve Crewneck",
       "category": "SS Crewnecks",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Renegade'' Sport Shirt - Black & Grey Mini Geo Print",
+      "category": "Sport Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
