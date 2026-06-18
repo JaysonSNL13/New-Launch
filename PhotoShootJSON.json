@@ -1,9 +1,9 @@
 {
-  "generatedBy": "Photo Shoot Tracker refresh (scheduled, incremental) - 2026-06-18",
+  "generatedBy": "photo-shoot-tracker-refresh (incremental 1pm 2026-06-18) — carried forward; AR7007 activity non-material",
   "counts": {
     "total": 184
   },
-  "lastUpdated": "2026-06-18T10:27:39.451Z",
+  "lastUpdated": "2026-06-18T15:02:38.184Z",
   "items": [
     {
       "parentName": "Athletic Fit Stretch Blazer - Dark Grey Crosshatch",
@@ -2446,7 +2446,8 @@
       "needsConfirm": true,
       "needsConfirmReason": "TOPS landed but open cuff-too-loose fit issue",
       "isBlocker": false,
-      "blockerReason": ""
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-18"
     },
     {
       "parentName": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
@@ -2498,11 +2499,12 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "TOPS requested 5/12 (M,L,2XL) but never made",
+      "notes": "TOPS requested 5/12 (M,L,2XL) but never made | 6/17 Tal chasing Lawrence TOPS ship timing; 6/18 vendor confirms parcel received, TOPS shipment pending S&L feedback. Still shading-blocked, not shipped.",
       "needsConfirm": true,
       "needsConfirmReason": "TOPS not produced/shipped; blocked by fabric shading, no revised EXF",
       "isBlocker": false,
-      "blockerReason": ""
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-18"
     },
     {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
@@ -2558,7 +2560,8 @@
       "needsConfirm": true,
       "needsConfirmReason": "TOPS landed but open cuff-too-loose fit issue",
       "isBlocker": false,
-      "blockerReason": ""
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-18"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
