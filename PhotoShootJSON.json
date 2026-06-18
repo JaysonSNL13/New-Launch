@@ -1,9 +1,9 @@
 {
-  "generatedBy": "photo-shoot-tracker-refresh (incremental, Cowork) — carried forward + coverage re-adds",
+  "generatedBy": "Photo Shoot Tracker refresh (scheduled, incremental) - 2026-06-18",
   "counts": {
     "total": 184
   },
-  "lastUpdated": "2026-06-18T10:26:52.228Z",
+  "lastUpdated": "2026-06-18T10:27:39.451Z",
   "items": [
     {
       "parentName": "Athletic Fit Stretch Blazer - Dark Grey Crosshatch",
@@ -8591,12 +8591,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order (EXF 9/1). PPS ETD 6/27, not yet submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order (EXF 9/1). PPS ETD 6/27, not yet submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Midnight Charcoal with Light Grey Windowpane",
@@ -8649,12 +8648,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Spruce Green and White Windowpane",
@@ -8707,12 +8705,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Open trim query: thread color (process-level). Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Open trim query: thread color (process-level). Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Stone Blue with Navy Windowpane",
@@ -8765,12 +8762,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Navy button locked (process). Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not yet submitted. Navy button locked (process). Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Grey and Charcoal Microcheck",
@@ -8825,12 +8821,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Midnight Charcoal with Light Grey Windowpane",
@@ -8885,12 +8880,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Spruce Green and White Windowpane",
@@ -8945,12 +8939,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Stone Blue with Navy Windowpane",
@@ -9005,12 +8998,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New suit-set order. PPS ETD 6/27, not submitted. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Grey and Charcoal Microcheck - Short",
@@ -9061,12 +9053,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New short-blazer order. Full PPS ETD 7/4. Only a 40S Stone Blue substitute fit sample sent; this style nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New short-blazer order. Full PPS ETD 7/4. Only a 40S Stone Blue substitute fit sample sent; this style nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Midnight Charcoal with Light Grey Windowpane - Short",
@@ -9117,12 +9108,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New short-blazer order. Full PPS ETD 7/4. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New short-blazer order. Full PPS ETD 7/4. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Spruce Green and White Windowpane - Short",
@@ -9173,12 +9163,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "New short-blazer order. Full PPS ETD 7/4. Nothing landed. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "New short-blazer order. Full PPS ETD 7/4. Nothing landed.",
       "needsConfirm": false,
       "needsConfirmReason": "",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Stone Blue with Navy Windowpane - Short",
@@ -9229,12 +9218,11 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "40S substitute fit sample landed ~6/5. Only physical SC5018 sample in hand. Full PPS ETD 7/4. [6/18: vendor (Silvercrest) reclassified PO fabric Woven→Knitted in records; label switch after ~7,200 pcs remaining stock used. PO-level update — no sample milestone change.]",
+      "notes": "40S substitute fit sample landed ~6/5. Only physical SC5018 sample in hand. Full PPS ETD 7/4.",
       "needsConfirm": true,
       "needsConfirmReason": "Substitute-fabric 40S fit sample with open front-length spec discrepancy; bulk-fabric PPS (ETD 7/4) not landed",
       "isBlocker": false,
-      "blockerReason": "",
-      "lastActivityAt": "2026-06-18"
+      "blockerReason": ""
     },
     {
       "parentName": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
@@ -10231,16 +10219,16 @@
       "bulkEta": "Late Summer / Early Fall",
       "shipment": "",
       "shotStatus": "Not Shot",
-      "ppsSize": "",
+      "ppsSize": "38,40,42,46,48",
       "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
+      "ppsDisplay": "PPS requested - ETD ~Jun 22",
+      "ppsDate": "2026-06-22",
       "ppsTracking": "",
       "ppsReceivedBy": "",
-      "ppsRound": "",
+      "ppsRound": "V1 PPS",
       "ppsRounds": "",
-      "ppsSource": "",
-      "ppsConfidence": "",
+      "ppsSource": "PPS REQUEST (Tal 6/8): sizes per TH3539 = 38,40,42,46,48; Catherine 6/9: PPS finished ~6/22",
+      "ppsConfidence": "medium",
       "ppsNa": false,
       "topsSize": "",
       "topsLanded": false,
@@ -10251,11 +10239,11 @@
       "topsRound": "",
       "topsRounds": "",
       "topsSource": "",
-      "topsConfidence": "",
+      "topsConfidence": "low",
       "topsSizeBP": "",
-      "topsVerify": "",
-      "sampleColor": "",
-      "sampleFabric": "",
+      "topsVerify": false,
+      "sampleColor": "Heathered Olive",
+      "sampleFabric": "Sourced via Steven Ma / Wechaoi sizing",
       "substitute": false,
       "substituteNote": "",
       "hasIssue": false,
@@ -10264,12 +10252,12 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "Re-added by coverage check 6/18. New suit-set blazer order (EXF 8/1, ETA late summer). Awaiting BP product sheet creation (per 6/4 Kayli note: TH3539/3540/3541 need new sheets). No sampling email parsed yet.",
-      "needsConfirm": true,
-      "needsConfirmReason": "in base list, no sampling parsed (feed-coverage re-add)",
-      "isBlocker": true,
-      "blockerReason": "No PPS/TOPS signal parsed — new suit-set blazer, BP product sheet pending",
-      "lastActivityAt": "2026-06-18"
+      "notes": "New launch (PO created 5/28). Suit Set (ships w/ TH3540 short blazer + TH3541 pants). Wechaoi sizing. EXF 8/1/26. No sample landed - PPS requested, ETD ~6/22.",
+      "needsConfirm": false,
+      "needsConfirmReason": "",
+      "isBlocker": false,
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-17"
     },
     {
       "parentName": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
@@ -10289,16 +10277,16 @@
       "bulkEta": "Late Summer / Early Fall",
       "shipment": "",
       "shotStatus": "Not Shot",
-      "ppsSize": "",
+      "ppsSize": "38,40,42,46,48",
       "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
+      "ppsDisplay": "PPS requested - ETD ~Jun 22",
+      "ppsDate": "2026-06-22",
       "ppsTracking": "",
       "ppsReceivedBy": "",
-      "ppsRound": "",
+      "ppsRound": "V1 PPS",
       "ppsRounds": "",
-      "ppsSource": "",
-      "ppsConfidence": "",
+      "ppsSource": "PPS REQUEST (Tal 6/8): sizes per TH3539 = 38,40,42,46,48; Catherine 6/9: PPS finished ~6/22",
+      "ppsConfidence": "medium",
       "ppsNa": false,
       "topsSize": "",
       "topsLanded": false,
@@ -10309,11 +10297,11 @@
       "topsRound": "",
       "topsRounds": "",
       "topsSource": "",
-      "topsConfidence": "",
+      "topsConfidence": "low",
       "topsSizeBP": "",
-      "topsVerify": "",
-      "sampleColor": "",
-      "sampleFabric": "",
+      "topsVerify": false,
+      "sampleColor": "Grey Plaid",
+      "sampleFabric": "JECA 7 / Gan Xing sizing",
       "substitute": false,
       "substituteNote": "",
       "hasIssue": false,
@@ -10322,12 +10310,12 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "Re-added by coverage check 6/18. New suit-set blazer order (EXF 8/1, ETA late summer). Awaiting BP product sheet creation (per 6/4 Kayli note: TH3539/3540/3541 need new sheets). No sampling email parsed yet.",
-      "needsConfirm": true,
-      "needsConfirmReason": "in base list, no sampling parsed (feed-coverage re-add)",
-      "isBlocker": true,
-      "blockerReason": "No PPS/TOPS signal parsed — new suit-set blazer, BP product sheet pending",
-      "lastActivityAt": "2026-06-18"
+      "notes": "New launch (PO created 5/28). Suit Set (ships w/ TH3540 short blazer + TH3541 pants). Gan Xing sizing. EXF 8/1/26. No sample landed - PPS requested, ETD ~6/22.",
+      "needsConfirm": false,
+      "needsConfirmReason": "",
+      "isBlocker": false,
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-17"
     },
     {
       "parentName": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
@@ -10347,16 +10335,16 @@
       "bulkEta": "Late Summer / Early Fall",
       "shipment": "",
       "shotStatus": "Not Shot",
-      "ppsSize": "",
+      "ppsSize": "38,40,42,46,48",
       "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
+      "ppsDisplay": "PPS requested - ETD ~Jun 22",
+      "ppsDate": "2026-06-22",
       "ppsTracking": "",
       "ppsReceivedBy": "",
-      "ppsRound": "",
+      "ppsRound": "V1 PPS",
       "ppsRounds": "",
-      "ppsSource": "",
-      "ppsConfidence": "",
+      "ppsSource": "PPS REQUEST (Tal 6/8): sizes per TH3539 = 38,40,42,46,48; Catherine 6/9: PPS finished ~6/22",
+      "ppsConfidence": "medium",
       "ppsNa": false,
       "topsSize": "",
       "topsLanded": false,
@@ -10367,11 +10355,11 @@
       "topsRound": "",
       "topsRounds": "",
       "topsSource": "",
-      "topsConfidence": "",
+      "topsConfidence": "low",
       "topsSizeBP": "",
-      "topsVerify": "",
-      "sampleColor": "",
-      "sampleFabric": "",
+      "topsVerify": false,
+      "sampleColor": "Navy & Black Microcheck",
+      "sampleFabric": "JECA 7 / Gan Xing sizing",
       "substitute": false,
       "substituteNote": "",
       "hasIssue": false,
@@ -10380,12 +10368,12 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "Re-added by coverage check 6/18. New suit-set blazer order (EXF 8/1, ETA late summer). Awaiting BP product sheet creation (per 6/4 Kayli note: TH3539/3540/3541 need new sheets). No sampling email parsed yet.",
-      "needsConfirm": true,
-      "needsConfirmReason": "in base list, no sampling parsed (feed-coverage re-add)",
-      "isBlocker": true,
-      "blockerReason": "No PPS/TOPS signal parsed — new suit-set blazer, BP product sheet pending",
-      "lastActivityAt": "2026-06-18"
+      "notes": "New launch (PO created 5/28). Suit Set (ships w/ TH3540 short blazer + TH3541 pants). Gan Xing sizing. EXF 8/1/26. No sample landed - PPS requested, ETD ~6/22.",
+      "needsConfirm": false,
+      "needsConfirmReason": "",
+      "isBlocker": false,
+      "blockerReason": "",
+      "lastActivityAt": "2026-06-17"
     }
   ]
 }
