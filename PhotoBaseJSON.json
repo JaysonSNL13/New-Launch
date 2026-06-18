@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T09:28:22.892Z",
+  "lastUpdated": "2026-06-18T09:28:50.987Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 177
@@ -1337,7 +1337,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-01-20",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Air",
       "received": false,
@@ -1360,7 +1360,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-01-20",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Air",
       "received": false,
@@ -1388,7 +1388,7 @@
         "SL-JACKET-CORDUROYKNITNAVY-3XL"
       ],
       "bulkExf": "2026-04-15",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Sea",
       "received": false,
@@ -1416,7 +1416,7 @@
         "SL-SPORTSHIRT-ARLINGTON-XXL"
       ],
       "bulkExf": "2026-04-22",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Air",
       "received": false,
@@ -1444,7 +1444,7 @@
         "SL-SPORTSHIRT-LAWRENCE-XXL"
       ],
       "bulkExf": "2026-04-22",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Air",
       "received": false,
@@ -1472,7 +1472,7 @@
         "SL-SPORTSHIRT-PORTLAND-XXL"
       ],
       "bulkExf": "2026-04-22",
-      "bulkEtaDate": "2026-06-24",
+      "bulkEtaDate": "2026-06-25",
       "bulkEta": "End of June",
       "shipment": "Air",
       "received": false,
