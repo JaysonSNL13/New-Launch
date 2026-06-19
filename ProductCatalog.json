@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T09:28:40.173Z",
-  "count": 1452,
+  "lastUpdated": "2026-06-19T10:23:59.863Z",
+  "count": 1455,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -2577,6 +2577,12 @@
       "sizes": "36, 38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
+    },
+    {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Sand",
       "category": "Blazers",
       "poRef": "",
@@ -3885,10 +3891,22 @@
       "sizes": "36, 38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
+    },
+    {
       "parentName": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
       "category": "Blazers",
       "poRef": "",
       "sizes": "36, 38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
     },
     {
       "parentName": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
