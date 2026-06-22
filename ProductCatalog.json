@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T09:28:21.759Z",
-  "count": 1455,
+  "lastUpdated": "2026-06-22T09:22:35.263Z",
+  "count": 1463,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -465,6 +465,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Delancey'' Navy Gingham",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
       "parentName": "\"The Delray\" Navy & Pink Cross Stitch",
       "category": "Polos",
       "poRef": "",
@@ -873,6 +879,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Irvington'' Green with White Polka Dot",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
       "parentName": "\"The Iverson'' Mini Dot Print",
       "category": "SSBD",
       "poRef": "",
@@ -1227,6 +1239,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Midtown'' Dark Maroon Windowpane",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
       "parentName": "\"The Midway'' Solid Charcoal",
       "category": "Polos",
       "poRef": "",
@@ -1249,6 +1267,12 @@
       "category": "Casual Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Monroe'' Black Mini Lock",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
       "parentName": "\"The Montana'' Bengal Mini Stripe",
@@ -1575,6 +1599,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Royal'' Light Grey Mini Check",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
       "parentName": "\"The Royce\" Geo Light Blue & White Diamond Polo",
       "category": "Polos",
       "poRef": "",
@@ -1747,6 +1777,12 @@
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Sullivan'' Brown and Taupe Big Gingham",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
       "parentName": "\"The Summers'' Pink & Navy Check",
@@ -3679,6 +3715,18 @@
       "category": "Vests",
       "poRef": "",
       "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Athletic Fit Stretch Tech Chino - Black",
