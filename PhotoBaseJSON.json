@@ -1,43 +1,10 @@
 {
-  "lastUpdated": "2026-06-22T13:04:54.237Z",
+  "lastUpdated": "2026-06-23T09:28:56.692Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 191
+    "total": 190
   },
   "items": [
-    {
-      "parentName": "Athletic Fit Stretch Suit Pants - Dark Grey Crosshatch",
-      "category": "Dress Pants",
-      "poRef": "SC5008",
-      "skus": [
-        "SL-PANT-GREYCROSS-28",
-        "SL-PANT-GREYCROSS-29",
-        "SL-PANT-GREYCROSS-30",
-        "SL-PANT-GREYCROSS-31",
-        "SL-PANT-GREYCROSS-32",
-        "SL-PANT-GREYCROSS-33",
-        "SL-PANT-GREYCROSS-34",
-        "SL-PANT-GREYCROSS-36",
-        "SL-PANT-GREYCROSS-38",
-        "SL-PANT-GREYCROSS-40",
-        "SL-PANT-GREYCROSS-42"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-05-19",
-      "bulkEta": "Mid May",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-05-19",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
     {
       "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "category": "SS Crewnecks",
