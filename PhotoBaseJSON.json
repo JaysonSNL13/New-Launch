@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-24T09:28:21.699Z",
+  "lastUpdated": "2026-06-24T11:05:01.385Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 190
+    "total": 191
   },
   "items": [
     {
@@ -2733,6 +2733,34 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Waffle Patch Pocket Button Down - Deep Espresso",
+      "category": "Casual Button Down",
+      "poRef": "ED2446",
+      "skus": [
+        "SL-CBD-WAFFLEESPRESSOPPBD-3XL",
+        "SL-CBD-WAFFLEESPRESSOPPBD-L",
+        "SL-CBD-WAFFLEESPRESSOPPBD-M",
+        "SL-CBD-WAFFLEESPRESSOPPBD-S",
+        "SL-CBD-WAFFLEESPRESSOPPBD-XL",
+        "SL-CBD-WAFFLEESPRESSOPPBD-XXL"
+      ],
+      "bulkExf": "2026-07-30",
+      "bulkEtaDate": "2026-08-19",
+      "bulkEta": "Late Summer / Early Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Heathered White",
