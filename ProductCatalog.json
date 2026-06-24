@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T09:28:25.441Z",
-  "count": 1463,
+  "lastUpdated": "2026-06-24T11:05:05.822Z",
+  "count": 1464,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -8735,6 +8735,12 @@
     {
       "parentName": "Waffle Patch Pocket Button Down - Black",
       "category": "Patch Pocket Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Waffle Patch Pocket Button Down - Deep Espresso",
+      "category": "Casual Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
