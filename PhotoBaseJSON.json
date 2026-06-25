@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T11:05:01.385Z",
+  "lastUpdated": "2026-06-25T09:28:34.021Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 191
@@ -1719,7 +1719,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Harrington'' Green with White & Black Plaid",
@@ -1747,7 +1747,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Hoover'' Lilac and White Mini Check",
@@ -1943,7 +1943,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
@@ -2307,7 +2307,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
