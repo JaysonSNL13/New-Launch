@@ -1,94 +1,10 @@
 {
-  "lastUpdated": "2026-06-27T09:28:40.521Z",
+  "lastUpdated": "2026-06-28T09:28:41.667Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 191
+    "total": 188
   },
   "items": [
-    {
-      "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
-      "category": "SS Crewnecks",
-      "poRef": "ED2410",
-      "skus": [
-        "SL-CREW-BRUSHEDBLACK-3XL",
-        "SL-CREW-BRUSHEDBLACK-L",
-        "SL-CREW-BRUSHEDBLACK-M",
-        "SL-CREW-BRUSHEDBLACK-S",
-        "SL-CREW-BRUSHEDBLACK-XL",
-        "SL-CREW-BRUSHEDBLACK-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-05-24",
-      "bulkEta": "End of May",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-05-24",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
-      "category": "SS Crewnecks",
-      "poRef": "ED2410",
-      "skus": [
-        "SL-CREW-BRUSHEDDARKBRN-3XL",
-        "SL-CREW-BRUSHEDDARKBRN-L",
-        "SL-CREW-BRUSHEDDARKBRN-M",
-        "SL-CREW-BRUSHEDDARKBRN-S",
-        "SL-CREW-BRUSHEDDARKBRN-XL",
-        "SL-CREW-BRUSHEDDARKBRN-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-05-24",
-      "bulkEta": "End of May",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-05-24",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - White",
-      "category": "SS Crewnecks",
-      "poRef": "ED2410",
-      "skus": [
-        "SL-CREW-BRUSHEDWHITE-3XL",
-        "SL-CREW-BRUSHEDWHITE-L",
-        "SL-CREW-BRUSHEDWHITE-M",
-        "SL-CREW-BRUSHEDWHITE-S",
-        "SL-CREW-BRUSHEDWHITE-XL",
-        "SL-CREW-BRUSHEDWHITE-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-05-24",
-      "bulkEta": "End of May",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-05-24",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
     {
       "parentName": "\"The Coastal'' Blue and Stone Big Check",
       "category": "SSBD",
@@ -1048,7 +964,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-04",
+      "bulkEtaDate": "2026-07-05",
       "bulkEta": "Early July",
       "shipment": "Air",
       "received": false,
@@ -1071,7 +987,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-04",
+      "bulkEtaDate": "2026-07-05",
       "bulkEta": "Early July",
       "shipment": "Air",
       "received": false,
