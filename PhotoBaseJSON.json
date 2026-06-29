@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-28T09:28:41.667Z",
+  "lastUpdated": "2026-06-29T09:28:21.713Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 188
+    "total": 191
   },
   "items": [
     {
@@ -964,7 +964,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-05",
+      "bulkEtaDate": "2026-07-06",
       "bulkEta": "Early July",
       "shipment": "Air",
       "received": false,
@@ -987,7 +987,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-05",
+      "bulkEtaDate": "2026-07-06",
       "bulkEta": "Early July",
       "shipment": "Air",
       "received": false,
@@ -4877,6 +4877,90 @@
       "bulkExf": "2026-09-01",
       "bulkEtaDate": "2026-09-21",
       "bulkEta": "Early Fall / Mid Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "3 Button Overcoat - Brown",
+      "category": "Overcoats",
+      "poRef": "TH3559",
+      "skus": [
+        "SL-CT-BROWNBUTTON-3XL",
+        "SL-CT-BROWNBUTTON-L",
+        "SL-CT-BROWNBUTTON-M",
+        "SL-CT-BROWNBUTTON-S",
+        "SL-CT-BROWNBUTTON-XL",
+        "SL-CT-BROWNBUTTON-XXL"
+      ],
+      "bulkExf": "2026-09-07",
+      "bulkEtaDate": "2026-09-27",
+      "bulkEta": "Mid Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "3 Button Overcoat - Light Grey",
+      "category": "Overcoats",
+      "poRef": "TH3559",
+      "skus": [
+        "SL-CT-LIGHTGREYBUTTON-3XL",
+        "SL-CT-LIGHTGREYBUTTON-L",
+        "SL-CT-LIGHTGREYBUTTON-M",
+        "SL-CT-LIGHTGREYBUTTON-S",
+        "SL-CT-LIGHTGREYBUTTON-XL",
+        "SL-CT-LIGHTGREYBUTTON-XXL"
+      ],
+      "bulkExf": "2026-09-07",
+      "bulkEtaDate": "2026-09-27",
+      "bulkEta": "Mid Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Open Button Overcoat - Charcoal Olive",
+      "category": "Overcoats",
+      "poRef": "TH3558",
+      "skus": [
+        "SL-CT-CHARCOALOLIVEOB-3XL",
+        "SL-CT-CHARCOALOLIVEOB-L",
+        "SL-CT-CHARCOALOLIVEOB-M",
+        "SL-CT-CHARCOALOLIVEOB-S",
+        "SL-CT-CHARCOALOLIVEOB-XL",
+        "SL-CT-CHARCOALOLIVEOB-XXL"
+      ],
+      "bulkExf": "2026-09-07",
+      "bulkEtaDate": "2026-09-27",
+      "bulkEta": "Mid Fall",
       "shipment": "",
       "received": false,
       "landedDate": "",
