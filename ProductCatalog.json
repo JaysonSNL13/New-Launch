@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-28T09:28:44.822Z",
-  "count": 1464,
+  "lastUpdated": "2026-06-29T09:28:25.308Z",
+  "count": 1467,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -2007,7 +2007,19 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "3 Button Overcoat - Brown",
+      "category": "Overcoats",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "3 Button Overcoat - Charcoal Herringbone",
+      "category": "Overcoats",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "3 Button Overcoat - Light Grey",
       "category": "Overcoats",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
@@ -5710,6 +5722,12 @@
     },
     {
       "parentName": "Open Button Overcoat - Brushed Brown & Taupe",
+      "category": "Overcoats",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Open Button Overcoat - Charcoal Olive",
       "category": "Overcoats",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
