@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T09:30:03.262Z",
-  "count": 1467,
+  "lastUpdated": "2026-06-30T09:53:21.686Z",
+  "count": 1469,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -4929,6 +4929,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Knit Sweater Bomber - Taupe",
+      "category": "Sweaters",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Knit Zip Jacket - Black",
       "category": "Jackets",
       "poRef": "",
@@ -5974,6 +5980,12 @@
     },
     {
       "parentName": "Pocket Square - Pink",
+      "category": "Pocket Square",
+      "poRef": "",
+      "sizes": "One Size"
+    },
+    {
+      "parentName": "Pocket Square - Solid Brown",
       "category": "Pocket Square",
       "poRef": "",
       "sizes": "One Size"
