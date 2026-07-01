@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T10:45:36.838Z",
+  "lastUpdated": "2026-07-01T15:28:21.202Z",
   "count": 1469,
   "products": [
     {
@@ -1551,6 +1551,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Robert\" - Pale Blue",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
       "category": "Dress Shirt",
       "poRef": "",
@@ -1990,12 +1996,6 @@
     },
     {
       "parentName": "\"The Zingerman'' Navy With White Geo Squares",
-      "category": "SSBD",
-      "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
-    },
-    {
-      "parentName": "\"The\" Robert - Pale Blue",
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
