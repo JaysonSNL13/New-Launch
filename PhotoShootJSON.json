@@ -1,6 +1,6 @@
 {
-  "generatedBy": "photo-shoot-tracker-refresh (incremental) 2026-07-02T18:07:01.155Z",
-  "lastUpdated": "2026-07-02T18:07:01.155Z",
+  "generatedBy": "photo-shoot-tracker-refresh (incremental) 2026-07-03T11:06:30.468Z",
+  "lastUpdated": "2026-07-03T11:06:30.468Z",
   "counts": {
     "total": 192
   },
@@ -11388,7 +11388,7 @@
       "topsSource": "",
       "topsConfidence": "",
       "topsSizeBP": "Medium, Large, XL",
-      "topsVerify": "BP",
+      "topsVerify": "Verified",
       "sampleColor": "",
       "sampleFabric": "",
       "substitute": false,
