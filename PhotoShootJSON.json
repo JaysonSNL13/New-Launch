@@ -1,6 +1,6 @@
 {
-  "generatedBy": "photo-shoot-tracker-refresh (scheduled) 2026-07-06T17:33:36.426Z",
-  "lastUpdated": "2026-07-06T17:33:36.426Z",
+  "generatedBy": "photo-shoot-tracker-refresh (scheduled) 2026-07-07T11:13:23.851Z",
+  "lastUpdated": "2026-07-07T11:13:23.851Z",
   "counts": {
     "total": 192
   },
@@ -63,7 +63,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-08",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Mid-Weight Sweater Bomber - Grey",
@@ -123,7 +125,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-08",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Broadway'' Pink Mid-Stripe",
@@ -181,7 +185,9 @@
       "lastActivityAt": "2026-06-04",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Holland'' Dark Navy Micro Houndstooth",
@@ -238,7 +244,9 @@
       "lastActivityAt": "2026-06-04",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Johnny\" Mini Grey Dot Print",
@@ -296,7 +304,9 @@
       "lastActivityAt": "2026-06-04",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Matty'' Dark Green & Light Blue Mini Check",
@@ -354,7 +364,9 @@
       "lastActivityAt": "2026-05-16",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Rocky'' Powder Blue with White Stripes",
@@ -413,7 +425,9 @@
       "lastActivityAt": "2026-06-04",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Sedona'' Sky Blue with Navy Diamond Geo",
@@ -471,7 +485,9 @@
       "lastActivityAt": "2026-06-04",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Flight'' Blue Micro Grid Print",
@@ -531,7 +547,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Steel'' Blue Floral Print",
@@ -591,7 +609,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Vine'' Green & Khaki Sketch Stripe",
@@ -651,7 +671,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Cabo'' Light Blue Weave",
@@ -711,7 +733,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Rio'' Light Blue Pinstripe",
@@ -771,7 +795,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-06-10",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Crimson with Burgundy Big Windowpane",
@@ -1383,7 +1409,10 @@
       "blockerReason": "",
       "lastActivityAt": "",
       "received": true,
-      "landedDate": "2026-06-13"
+      "landedDate": "2026-06-13",
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Olive with White Windowpane - Short",
@@ -1618,7 +1647,9 @@
       "lastActivityAt": "2026-06-18",
       "received": true,
       "landedDate": "2026-06-24",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
@@ -1679,7 +1710,9 @@
       "lastActivityAt": "2026-06-18",
       "received": true,
       "landedDate": "2026-06-24",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
@@ -1742,7 +1775,9 @@
       "lastActivityAt": "2026-06-18",
       "received": true,
       "landedDate": "2026-06-24",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Stone Crosshatch",
@@ -1805,7 +1840,9 @@
       "lastActivityAt": "2026-06-18",
       "received": true,
       "landedDate": "2026-06-24",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Sunglasses - Matte Black",
@@ -1860,7 +1897,9 @@
       "lastActivityAt": "2026-06-17",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Sunglasses - Tortoise Shell",
@@ -1915,7 +1954,9 @@
       "lastActivityAt": "2026-06-17",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Summit'' Graphite Blue and Grey Textured Grid",
@@ -1973,7 +2014,9 @@
       "lastActivityAt": "2026-05-16",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Andy'' Black Diamond Geo",
@@ -2033,7 +2076,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Murray'' Stone Plaid",
@@ -2093,7 +2138,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Robin'' Light Blue Mini Diamond Jacquard",
@@ -2153,7 +2200,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
@@ -2213,7 +2262,9 @@
       "lastActivityAt": "",
       "received": true,
       "landedDate": "2026-07-06",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
@@ -2272,7 +2323,10 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false,
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Blue Plaid",
@@ -2331,7 +2385,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Grey",
@@ -2390,7 +2446,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Solid Tan",
@@ -2449,7 +2507,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Corduroy Knit Zip Jacket - Navy",
@@ -2509,7 +2569,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Suede Belt - Brown",
@@ -2564,7 +2626,7 @@
       "needsConfirmReason": "Black belt PPS ships first (~next week); Brown reference stuck in customs (FedEx two-parcels-one-label issue)",
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-07-02",
+      "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": ""
     },
@@ -2687,7 +2749,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
@@ -2870,7 +2934,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
@@ -2928,7 +2994,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Fairway'' Abstract Grey and White Houndstooth",
@@ -2986,7 +3054,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Founder'' Wide Black Stripe",
@@ -3044,7 +3114,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Harrington'' Green with White & Black Plaid",
@@ -3102,7 +3174,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Hoover'' Lilac and White Mini Check",
@@ -3160,7 +3234,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Kona'' Light Blue with Navy Dots",
@@ -3218,7 +3294,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Legacy'' Dark Brown with White Dots",
@@ -3276,7 +3354,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Skyline'' Carolina Blue Pinstripe",
@@ -3334,7 +3414,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Corduroy Harrington Jacket - Dark Olive",
@@ -3392,7 +3474,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Swim Trucks - Brown & Black",
@@ -3452,7 +3536,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Swim Trucks - Navy",
@@ -3512,7 +3598,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
@@ -3579,7 +3667,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Payton'' Sport Shirt - Solid Deep Sage",
@@ -3646,7 +3736,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
@@ -3713,7 +3805,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Gino \"- Solid Dark Olive Green",
@@ -3777,7 +3871,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782230948616",
-      "returnsAt": "1782835748616"
+      "returnsAt": "1782835748616",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Kirkway\" - Solid Sage Green",
@@ -3841,7 +3937,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782231021178",
-      "returnsAt": "1782835821178"
+      "returnsAt": "1782835821178",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The\" Robert - Pale Blue",
@@ -3905,7 +4003,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782230952228",
-      "returnsAt": "1782835752228"
+      "returnsAt": "1782835752228",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Light Blue",
@@ -3965,7 +4065,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Navy",
@@ -4025,7 +4127,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Cotton Quilted Jacket - Black",
@@ -4092,7 +4196,9 @@
         "talRecSize": "PPS"
       },
       "ppsRounds": "Medium fit 5/15; combined PPS shipped 6/16",
-      "topsRounds": ""
+      "topsRounds": "",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Cotton Quilted Jacket - Charcoal",
@@ -4159,7 +4265,9 @@
         "talRecSize": ""
       },
       "ppsRounds": "Medium fit 5/15; combined PPS shipped 6/16",
-      "topsRounds": ""
+      "topsRounds": "",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Cotton Shirt Jacket - Black",
@@ -4217,7 +4325,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Cotton Shirt Jacket - Stone",
@@ -4275,7 +4385,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
@@ -4337,7 +4449,9 @@
       "holdReason": "Other",
       "holdNote": "Do not Have",
       "heldAt": "1782420038820",
-      "returnsAt": "1783024838820"
+      "returnsAt": "1783024838820",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
@@ -4397,7 +4511,9 @@
       "lastActivityAt": "2026-06-18",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
@@ -4457,7 +4573,9 @@
       "lastActivityAt": "2026-06-18",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": true
     },
     {
       "parentName": "Quilted Hybrid Hooded Jacket - Black",
@@ -4515,7 +4633,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Lightweight Knit Down Vest - Black",
@@ -4573,7 +4693,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Lightweight Knit Down Vest - Olive",
@@ -4631,7 +4753,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
@@ -4690,7 +4814,9 @@
       "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Cream Plaid",
@@ -4749,7 +4875,9 @@
       "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
@@ -4808,7 +4936,9 @@
       "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
@@ -4867,7 +4997,9 @@
       "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
@@ -4926,7 +5058,9 @@
       "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Deep Espresso",
@@ -4982,7 +5116,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Heathered White",
@@ -5040,7 +5176,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
@@ -5097,7 +5235,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
@@ -5154,7 +5294,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
@@ -5267,7 +5409,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
@@ -5324,7 +5468,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Low Top Sneaker - White & Tan",
@@ -5620,7 +5766,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Heathered Olive",
@@ -5858,7 +6006,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782231017482",
-      "returnsAt": "1782835817482"
+      "returnsAt": "1782835817482",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Heavy Knit Hoodie - Deep Navy",
@@ -5916,7 +6066,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Heavy Knit Hoodie - Tan",
@@ -5980,7 +6132,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782230958786",
-      "returnsAt": "1782835758786"
+      "returnsAt": "1782835758786",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Textured Buttonless Long Sleeve Polo - Olive",
@@ -6040,7 +6194,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Textured Buttonless Long Sleeve Polo - Stone",
@@ -6100,7 +6256,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Patch Pocket Button Down - Army Green",
@@ -6158,7 +6316,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Patch Pocket Button Down - Black",
@@ -6216,7 +6376,9 @@
       "lastActivityAt": "2026-07-02",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Pocket Square - Solid Brown",
@@ -6266,7 +6428,7 @@
       "issueResolved": false,
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-06-30",
+      "lastActivityAt": "2026-07-06",
       "topsRounds": "",
       "referenceTop": false
     },
@@ -6387,7 +6549,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Mid-Weight Wool Quarter Zip - Cream",
@@ -6445,7 +6609,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Mid-Weight Wool Quarter Zip - Navy",
@@ -6503,7 +6669,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "ppsSize": "38S, 40S, 42S, 46S",
@@ -6725,7 +6893,9 @@
       "lastActivityAt": "2026-06-18",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": true
     },
     {
       "parentName": "Buttonless Sweater Polo - Black",
@@ -6780,7 +6950,7 @@
       "needsConfirmReason": "No Black-specific PP landed",
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-06-23",
+      "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": ""
     },
@@ -6837,10 +7007,12 @@
       "needsConfirmReason": "",
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-06-23",
+      "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Buttonless Sweater Polo - Navy",
@@ -6895,7 +7067,7 @@
       "needsConfirmReason": "No Navy-specific PP landed",
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-06-23",
+      "lastActivityAt": "2026-07-06",
       "received": false,
       "landedDate": ""
     },
@@ -7027,7 +7199,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Knit Sweater Bomber - Taupe",
@@ -7082,7 +7256,10 @@
       "issueResolved": false,
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": ""
+      "lastActivityAt": "",
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Brown",
@@ -7140,7 +7317,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Cream",
@@ -7373,7 +7552,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Kellen\" Light Blue Mini Patterned",
@@ -7431,7 +7612,9 @@
       "lastActivityAt": "2026-06-24",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
@@ -7489,7 +7672,9 @@
       "lastActivityAt": "2026-06-24",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Winslow\" Navy and Brown Check",
@@ -7547,7 +7732,9 @@
       "lastActivityAt": "2026-06-24",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
@@ -8202,7 +8389,9 @@
       "holdReason": "Try-on review needed",
       "holdNote": "",
       "heldAt": "1782313541680",
-      "returnsAt": "1782918341680"
+      "returnsAt": "1782918341680",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
@@ -8264,7 +8453,9 @@
       "holdReason": "Try-on review needed",
       "holdNote": "",
       "heldAt": "1782313561046",
-      "returnsAt": "1782918361046"
+      "returnsAt": "1782918361046",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
@@ -8326,7 +8517,9 @@
       "holdReason": "Try-on review needed",
       "holdNote": "",
       "heldAt": "1782313555513",
-      "returnsAt": "1782918355513"
+      "returnsAt": "1782918355513",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
@@ -8388,7 +8581,9 @@
       "holdReason": "Try-on review needed",
       "holdNote": "",
       "heldAt": "1782313558442",
-      "returnsAt": "1782918358442"
+      "returnsAt": "1782918358442",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
@@ -8450,7 +8645,9 @@
       "holdReason": "Try-on review needed",
       "holdNote": "",
       "heldAt": "1782313561046",
-      "returnsAt": "1782918361046"
+      "returnsAt": "1782918361046",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Peach Twill Pants - Black",
@@ -8482,7 +8679,7 @@
       "ppsSource": "Evan 7/1 15:09 — PPS 20pcs shipped FedEx 8738 0693 9778",
       "ppsConfidence": "high",
       "ppsNa": false,
-      "topsSize": "",
+      "topsSize": "30, 32, 34, 38, 40",
       "topsLanded": false,
       "topsDisplay": "No TOPS yet",
       "topsDate": "",
@@ -8491,8 +8688,8 @@
       "topsRound": "",
       "topsSource": "",
       "topsConfidence": "medium",
-      "topsSizeBP": "",
-      "topsVerify": false,
+      "topsSizeBP": "30, 32, 34, 38, 40",
+      "topsVerify": "BP",
       "sampleColor": "Black (TCX 19-4203)",
       "sampleFabric": "Peach twill (bulk headend approved 6/16)",
       "substitute": false,
@@ -8544,7 +8741,7 @@
       "ppsSource": "Evan 7/1 15:09 — PPS 20pcs shipped FedEx 8738 0693 9778",
       "ppsConfidence": "high",
       "ppsNa": false,
-      "topsSize": "",
+      "topsSize": "30, 32, 34, 38, 40",
       "topsLanded": false,
       "topsDisplay": "No TOPS yet",
       "topsDate": "",
@@ -8553,8 +8750,8 @@
       "topsRound": "",
       "topsSource": "",
       "topsConfidence": "medium",
-      "topsSizeBP": "",
-      "topsVerify": false,
+      "topsSizeBP": "30, 32, 34, 38, 40",
+      "topsVerify": "BP",
       "sampleColor": "Charcoal (TCX 19-3917; zipper S7725 approved 4/24)",
       "sampleFabric": "Peach twill",
       "substitute": false,
@@ -8606,7 +8803,7 @@
       "ppsSource": "Evan 7/1 15:09 — PPS 20pcs shipped FedEx 8738 0693 9778",
       "ppsConfidence": "high",
       "ppsNa": false,
-      "topsSize": "",
+      "topsSize": "30, 32, 34, 38, 40",
       "topsLanded": false,
       "topsDisplay": "No TOPS yet",
       "topsDate": "",
@@ -8615,8 +8812,8 @@
       "topsRound": "",
       "topsSource": "",
       "topsConfidence": "medium",
-      "topsSizeBP": "",
-      "topsVerify": false,
+      "topsSizeBP": "30, 32, 34, 38, 40",
+      "topsVerify": "BP",
       "sampleColor": "Dark Brown (TCX 19-0915; zipper YKK868)",
       "sampleFabric": "Peach twill",
       "substitute": false,
@@ -8668,7 +8865,7 @@
       "ppsSource": "Evan 7/1 15:09 — PPS 20pcs shipped FedEx 8738 0693 9778",
       "ppsConfidence": "high",
       "ppsNa": false,
-      "topsSize": "",
+      "topsSize": "30, 32, 34, 38, 40",
       "topsLanded": false,
       "topsDisplay": "No TOPS yet",
       "topsDate": "",
@@ -8677,8 +8874,8 @@
       "topsRound": "",
       "topsSource": "",
       "topsConfidence": "medium",
-      "topsSizeBP": "",
-      "topsVerify": false,
+      "topsSizeBP": "30, 32, 34, 38, 40",
+      "topsVerify": "BP",
       "sampleColor": "Navy (TCX 19-4011; zipper YKK158)",
       "sampleFabric": "Peach twill - Navy bulk headend queried for truer navy 6/9",
       "substitute": false,
@@ -9284,7 +9481,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Lightweight Knit Polo - Light Blue Herringbone",
@@ -9351,7 +9550,9 @@
         "holdNote": "",
         "talNote": "",
         "talRecSize": ""
-      }
+      },
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Grey and Charcoal Microcheck",
@@ -10819,7 +11020,9 @@
       "lastActivityAt": "2026-06-22",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Button Down Vest - Grey",
@@ -10879,7 +11082,9 @@
       "lastActivityAt": "2026-07-01",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Brushed Button Down Vest - Navy",
@@ -10939,7 +11144,9 @@
       "lastActivityAt": "2026-07-01",
       "received": false,
       "landedDate": "",
-      "talStatus": "Approved"
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Puffer Vest - Black",
@@ -11003,7 +11210,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782230991207",
-      "returnsAt": "1782835791207"
+      "returnsAt": "1782835791207",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Puffer Vest - Khaki",
@@ -11067,7 +11276,9 @@
       "holdReason": "Waiting on TOPS / next sample",
       "holdNote": "",
       "heldAt": "1782230997341",
-      "returnsAt": "1782835797341"
+      "returnsAt": "1782835797341",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
@@ -11127,7 +11338,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Long Sleeve Textured Knit Cashmere Polo - Navy",
@@ -11187,7 +11400,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Long Sleeve Textured Knit Cashmere Polo - Sand",
@@ -11247,7 +11462,9 @@
       "lastActivityAt": "",
       "received": false,
       "landedDate": "",
-      "talStatus": "Pending"
+      "talStatus": "Pending",
+      "shotStatusTal": "Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Black",
@@ -11304,7 +11521,10 @@
       "needsConfirmReason": "In published feed (PPS landed) but dropped from base roster — confirm color cut vs roster miss (rule 19).",
       "isBlocker": false,
       "blockerReason": "",
-      "lastActivityAt": "2026-06-19"
+      "lastActivityAt": "2026-06-19",
+      "talStatus": "Approved",
+      "shotStatusTal": "Not Shot",
+      "ppsConfirmed": false
     },
     {
       "parentName": "\"The Maui'' Light Blue & Brown Stripe",
