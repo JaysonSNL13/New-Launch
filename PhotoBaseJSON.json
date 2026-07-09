@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T10:55:33.006Z",
+  "lastUpdated": "2026-07-09T09:29:20.457Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 189
@@ -1076,7 +1076,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-15",
+      "bulkEtaDate": "2026-07-16",
       "bulkEta": "Mid July",
       "shipment": "Air",
       "received": false,
@@ -1099,7 +1099,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-06-06",
-      "bulkEtaDate": "2026-07-15",
+      "bulkEtaDate": "2026-07-16",
       "bulkEta": "Mid July",
       "shipment": "Air",
       "received": false,
@@ -1168,7 +1168,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
