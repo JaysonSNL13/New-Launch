@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T09:28:41.608Z",
-  "count": 1469,
+  "lastUpdated": "2026-07-14T10:45:46.250Z",
+  "count": 1475,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -3933,6 +3933,18 @@
       "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
+      "category": "Blazers",
+      "poRef": "",
+      "sizes": "36, 38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
+    },
+    {
       "parentName": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
       "category": "Blazers",
       "poRef": "",
@@ -3945,6 +3957,18 @@
       "sizes": "38S, 40S, 42S, 44S, 46S"
     },
     {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
+      "category": "Blazers",
+      "poRef": "",
+      "sizes": "36, 38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
+    },
+    {
       "parentName": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
       "category": "Blazers",
       "poRef": "",
@@ -3952,6 +3976,18 @@
     },
     {
       "parentName": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
+      "category": "Blazers",
+      "poRef": "",
+      "sizes": "36, 38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
       "category": "Short Blazers",
       "poRef": "",
       "sizes": "38S, 40S, 42S, 44S, 46S"
