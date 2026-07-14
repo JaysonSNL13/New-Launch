@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T09:30:03.770Z",
-  "count": 403,
+  "lastUpdated": "2026-07-14T10:45:52.646Z",
+  "count": 410,
   "products": [
     {
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
@@ -584,21 +584,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Slate Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Corduroy Knit Zip Jacket - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -620,21 +605,6 @@
     },
     {
       "name": "\"The Mercury\" Black Pique Polo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -970,21 +940,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1729,6 +1684,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Heavy Knit Crewneck - Deep Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1774,6 +1734,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1800,6 +1775,21 @@
     },
     {
       "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1879,6 +1869,11 @@
       "hasPO": true
     },
     {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Casual Stretch Belt - Brown",
       "recentRestock": false,
       "hasPO": true
@@ -1945,6 +1940,11 @@
     },
     {
       "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2054,6 +2054,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Jeans - Slate Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
       "recentRestock": false,
       "hasPO": true
@@ -2065,6 +2070,36 @@
     },
     {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
       "recentRestock": false,
       "hasPO": true
     },
