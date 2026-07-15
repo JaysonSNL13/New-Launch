@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-15T09:28:46.826Z",
+  "lastUpdated": "2026-07-15T10:46:01.829Z",
   "count": 406,
   "products": [
+    {
+      "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Slate Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
+    {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-13"
+    },
     {
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
       "recentRestock": true,
@@ -549,12 +585,7 @@
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -580,6 +611,86 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Von\" Solid Black - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
       "recentRestock": false,
       "hasPO": true
     },
@@ -684,77 +795,27 @@
       "hasPO": true
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Tan",
+      "name": "\"The Hampton\" White with Navy Accents",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Black",
+      "name": "\"The Robert\" - Pale Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Black",
+      "name": "\"The Kirkway\" - Solid Sage Green",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Brown",
+      "name": "\"The Gino \"- Solid Dark Olive Green",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Von\" Solid Black - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -869,31 +930,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Solid Tan",
       "recentRestock": false,
       "hasPO": true
@@ -910,46 +946,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -974,32 +970,17 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "name": "Cotton Denim Dress Shirt - Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
+      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1015,21 +996,6 @@
     },
     {
       "name": "\"The Kellen\" Light Blue Mini Patterned",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1069,6 +1035,56 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Cream Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Shorts - Light Khaki",
       "recentRestock": false,
       "hasPO": true
@@ -1100,11 +1116,6 @@
     },
     {
       "name": "Swim Trucks - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1155,16 +1166,6 @@
     },
     {
       "name": "Branded No-Show Socks - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1604,21 +1605,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Robert\" - Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kirkway\" - Solid Sage Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Gino \"- Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Heavy Knit Hoodie - Deep Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1650,11 +1636,6 @@
     },
     {
       "name": "Low Top Sneaker - White Leather",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1704,21 +1685,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tech Chino - Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1749,27 +1715,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Suspenders",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hampton\" White with Navy Accents",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1809,17 +1755,72 @@
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "name": "Casual Stretch Belt - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "name": "Casual Stretch Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "name": "Casual Stretch Belt - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1914,11 +1915,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Stone Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1979,6 +1975,21 @@
       "hasPO": true
     },
     {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -2020,11 +2031,6 @@
     },
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Slate Grey",
       "recentRestock": false,
       "hasPO": true
     },
