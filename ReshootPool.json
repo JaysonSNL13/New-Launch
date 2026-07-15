@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T10:45:52.646Z",
-  "count": 410,
+  "lastUpdated": "2026-07-15T09:28:46.826Z",
+  "count": 406,
   "products": [
     {
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
@@ -519,66 +519,6 @@
       "restock": "2026-06-17"
     },
     {
-      "name": "Athletic fit Stretch Jeans - Light Blue",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Seersucker Polo - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Seersucker Polo - White",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-15"
-    },
-    {
-      "name": "Seersucker Polo - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-15"
-    },
-    {
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -620,6 +560,21 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -744,12 +699,27 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
     },
