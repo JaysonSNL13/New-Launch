@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-16T09:28:42.253Z",
-  "count": 1475,
+  "lastUpdated": "2026-07-16T10:40:20.841Z",
+  "count": 1478,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -3729,7 +3729,25 @@
       "sizes": "38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
       "category": "Dress Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
