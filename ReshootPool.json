@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-07-16T09:29:04.296Z",
-  "count": 406,
+  "lastUpdated": "2026-07-16T10:40:28.689Z",
+  "count": 409,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-06-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-06-17"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-03"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-06-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-06-19"
+    },
     {
       "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": true,
@@ -171,12 +201,6 @@
       "restock": "2026-07-01"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
       "recentRestock": true,
       "hasPO": true,
@@ -184,30 +208,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-03"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-17"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-07-03"
@@ -2046,6 +2046,21 @@
     },
     {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
       "recentRestock": false,
       "hasPO": true
     },
