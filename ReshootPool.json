@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-17T09:28:37.128Z",
-  "count": 409,
+  "lastUpdated": "2026-07-17T10:42:39.607Z",
+  "count": 410,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
@@ -548,11 +548,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -568,22 +563,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -814,6 +794,26 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1974,6 +1974,11 @@
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kelce\" Solid Dark Olive Green",
       "recentRestock": false,
       "hasPO": true
     },
