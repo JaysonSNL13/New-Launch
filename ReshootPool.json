@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-18T09:29:11.288Z",
-  "count": 408,
+  "lastUpdated": "2026-07-19T09:28:44.563Z",
+  "count": 401,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-06-19"
+      "restock": "2026-07-03"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
@@ -24,13 +24,13 @@
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-06-19"
+      "restock": "2026-07-03"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-06-19"
+      "restock": "2026-07-03"
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -405,90 +405,6 @@
       "restock": "2026-06-24"
     },
     {
-      "name": "Athletic Fit Stretch Pants - Stone Crosshatch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Pants - Light Brown Crosshatch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Unstructured Stone Crosshatch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Unstructured Light Brown Crosshatch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Stone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-06-19"
-    },
-    {
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -585,6 +501,16 @@
     },
     {
       "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -750,6 +676,11 @@
     },
     {
       "name": "\"The Gino \"- Solid Dark Olive Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1004,6 +935,21 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1055,6 +1001,11 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
