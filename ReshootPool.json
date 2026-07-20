@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T09:28:58.328Z",
-  "count": 401,
+  "lastUpdated": "2026-07-20T10:50:31.669Z",
+  "count": 402,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
@@ -440,32 +440,27 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -501,6 +496,21 @@
     },
     {
       "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -556,6 +566,16 @@
     },
     {
       "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -711,26 +731,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -900,36 +900,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Corduroy Harrington Jacket - Dark Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -1045,46 +1015,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Kona'' Light Blue with Navy Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hoover'' Lilac and White Mini Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Founder'' Wide Black Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Harrington'' Green with White & Black Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1185,7 +1115,52 @@
       "hasPO": true
     },
     {
+      "name": "Corduroy Harrington Jacket - Dark Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Wool Bomber - Beige",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kona'' Light Blue with Navy Dots",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hoover'' Lilac and White Mini Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Founder'' Wide Black Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Harrington'' Green with White & Black Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1640,6 +1615,31 @@
       "hasPO": true
     },
     {
+      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Suspenders",
       "recentRestock": false,
       "hasPO": true
@@ -1731,6 +1731,11 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
