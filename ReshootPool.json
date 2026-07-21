@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T09:29:27.870Z",
+  "lastUpdated": "2026-07-21T10:44:42.199Z",
   "count": 402,
   "products": [
     {
@@ -1640,11 +1640,6 @@
       "hasPO": true
     },
     {
-      "name": "Suspenders",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Low Top Sneaker - White & Tan",
       "recentRestock": false,
       "hasPO": true
@@ -1676,6 +1671,11 @@
     },
     {
       "name": "Mock Turtleneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Suspenders",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1766,11 +1766,6 @@
     },
     {
       "name": "\"The Aston\" Navy Pique Casual Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Pink, Purple, & White Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1916,6 +1911,11 @@
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
