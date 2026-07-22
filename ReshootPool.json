@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-22T09:28:22.076Z",
+  "lastUpdated": "2026-07-22T10:38:57.096Z",
   "count": 402,
   "products": [
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-02"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-21"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
@@ -285,12 +297,6 @@
       "restock": "2026-07-02"
     },
     {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
       "name": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
       "recentRestock": true,
       "hasPO": false,
@@ -403,11 +409,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-06-24"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
     },
     {
       "name": "Corduroy Knit Zip Jacket - Tan",
@@ -576,6 +577,16 @@
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Swim Trucks - Brown & Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Swim Trucks - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -800,31 +811,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Solid Tan",
       "recentRestock": false,
       "hasPO": true
@@ -920,6 +906,16 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -941,6 +937,31 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -970,21 +991,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Quarter Zip - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1005,12 +1011,7 @@
       "hasPO": true
     },
     {
-      "name": "Swim Trucks - Brown & Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Swim Trucks - Navy",
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1640,6 +1641,11 @@
       "hasPO": true
     },
     {
+      "name": "Suspenders",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Low Top Sneaker - White & Tan",
       "recentRestock": false,
       "hasPO": true
@@ -1671,11 +1677,6 @@
     },
     {
       "name": "Mock Turtleneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Suspenders",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1766,6 +1767,11 @@
     },
     {
       "name": "\"The Aston\" Navy Pique Casual Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1911,11 +1917,6 @@
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Pink, Purple, & White Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
