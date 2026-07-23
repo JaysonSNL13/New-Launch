@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T09:28:36.265Z",
-  "count": 402,
+  "lastUpdated": "2026-07-23T10:58:19.747Z",
+  "count": 400,
   "products": [
     {
       "name": "\"The Springer\" Solid White - Classic Fit",
@@ -411,16 +411,6 @@
       "restock": "2026-06-24"
     },
     {
-      "name": "Corduroy Knit Zip Jacket - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Corduroy Knit Zip Jacket - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -432,36 +422,6 @@
     },
     {
       "name": "\"The Mercury\" Black Pique Polo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -496,11 +456,6 @@
       "hasPO": true
     },
     {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -512,6 +467,11 @@
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
       "recentRestock": false,
       "hasPO": true
     },
@@ -551,12 +511,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -567,26 +522,6 @@
     },
     {
       "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Swim Trucks - Brown & Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Swim Trucks - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -691,7 +626,112 @@
       "hasPO": true
     },
     {
+      "name": "Textured Buttonless Long Sleeve Polo - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Solid Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Tan - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Swim Trucks - Brown & Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Swim Trucks - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Hampton\" White with Navy Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -722,26 +762,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Solid Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -811,61 +831,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Solid Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Tan - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Grey - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -882,6 +847,16 @@
     },
     {
       "name": "\"The Kellen\" Light Blue Mini Patterned",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1016,6 +991,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1072,11 +1052,6 @@
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Stone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1181,42 +1156,12 @@
       "hasPO": true
     },
     {
-      "name": "Peach Twill Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Peach Twill Pants - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Peach Twill Pants - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Peach Twill Pants - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Mid-Weight Ribbed Quarter Zip - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Mid-Weight Ribbed Quarter Zip - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Light Blue Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1247,6 +1192,16 @@
     },
     {
       "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1721,6 +1676,31 @@
       "hasPO": true
     },
     {
+      "name": "Quilted Hybrid Hooded Jacket - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1737,6 +1717,16 @@
     },
     {
       "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Polo - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Polo - Light Blue Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
