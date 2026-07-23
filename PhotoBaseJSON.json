@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T10:38:48.558Z",
+  "lastUpdated": "2026-07-23T09:28:21.043Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 172
@@ -337,7 +337,7 @@
         "SL-PANT-BRNTANWNDPN-40"
       ],
       "bulkExf": "2026-06-25",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -368,7 +368,7 @@
         "SL-PANT-CREAMPLAID-40"
       ],
       "bulkExf": "2026-06-25",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -399,7 +399,7 @@
         "SL-PANT-LTGREYCHALK-40"
       ],
       "bulkExf": "2026-06-25",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -430,7 +430,7 @@
         "SL-PANT-OXBLUEPLAID-40"
       ],
       "bulkExf": "2026-06-25",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -463,7 +463,7 @@
         "SL-PANT-TANOLIVEWINDOW-42"
       ],
       "bulkExf": "2026-06-25",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -491,7 +491,7 @@
         "SL-SHORT-SWIMBROWNBLACK-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
@@ -519,7 +519,7 @@
         "SL-SHORT-SWIMNAVY-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-07-29",
+      "bulkEtaDate": "2026-07-30",
       "bulkEta": "End of July",
       "shipment": "Air",
       "received": false,
