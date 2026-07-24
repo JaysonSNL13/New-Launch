@@ -1,7 +1,85 @@
 {
-  "lastUpdated": "2026-07-24T09:28:45.977Z",
-  "count": 400,
+  "lastUpdated": "2026-07-24T10:56:26.184Z",
+  "count": 402,
   "products": [
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-23"
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-23"
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-23"
+    },
+    {
+      "name": "Corduroy Knit Zip Jacket - Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-23"
+    },
+    {
+      "name": "Corduroy Knit Zip Jacket - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
     {
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
@@ -432,21 +510,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "The Solid White Tuxedo Shirt",
       "recentRestock": false,
       "hasPO": true
@@ -688,41 +751,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -983,11 +1011,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
