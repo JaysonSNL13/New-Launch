@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T10:56:17.561Z",
+  "lastUpdated": "2026-07-25T09:28:33.711Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 172
@@ -291,7 +291,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
@@ -408,8 +408,8 @@
         "SL-SHORT-SWIMBROWNBLACK-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-07-31",
-      "bulkEta": "End of July",
+      "bulkEtaDate": "2026-08-01",
+      "bulkEta": "Early August",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -436,8 +436,8 @@
         "SL-SHORT-SWIMNAVY-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-07-31",
-      "bulkEta": "End of July",
+      "bulkEtaDate": "2026-08-01",
+      "bulkEta": "Early August",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -619,7 +619,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Brushed Cotton Shirt Jacket - Stone",
@@ -647,7 +647,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Gino \"- Solid Dark Olive Green",
@@ -759,7 +759,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Patch Pocket Button Down - Army Green",
@@ -815,7 +815,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Light Blue",
@@ -843,7 +843,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Cotton Denim Dress Shirt - Navy",
@@ -899,7 +899,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Heathered White",
@@ -927,7 +927,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Heavy Knit Hoodie - Ash Olive",
@@ -1039,7 +1039,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Textured Buttonless Long Sleeve Polo - Stone",
@@ -1174,7 +1174,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Mid-Weight Wool Quarter Zip - Navy",
@@ -1202,7 +1202,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Buttonless Sweater Polo - Black",
@@ -1258,7 +1258,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Buttonless Sweater Polo - Navy",
@@ -1370,7 +1370,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Brown",
@@ -2010,7 +2010,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Wool Bomber - Beige",
@@ -2929,7 +2929,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Fairway'' Abstract Grey and White Houndstooth",
@@ -2957,7 +2957,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Founder'' Wide Black Stripe",
@@ -2985,7 +2985,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Harrington'' Green with White & Black Plaid",
@@ -3013,7 +3013,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Hoover'' Lilac and White Mini Check",
@@ -3041,7 +3041,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Kona'' Light Blue with Navy Dots",
@@ -3069,7 +3069,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Legacy'' Dark Brown with White Dots",
@@ -3097,7 +3097,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Skyline'' Carolina Blue Pinstripe",
@@ -3125,7 +3125,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Lightweight Knit Down Vest - Black",
@@ -3181,7 +3181,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
@@ -3875,7 +3875,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Grey and Charcoal Microcheck - Short",
