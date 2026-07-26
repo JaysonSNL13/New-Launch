@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T09:28:33.711Z",
+  "lastUpdated": "2026-07-26T09:28:38.839Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 172
@@ -408,7 +408,7 @@
         "SL-SHORT-SWIMBROWNBLACK-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-08-01",
+      "bulkEtaDate": "2026-08-02",
       "bulkEta": "Early August",
       "shipment": "Air",
       "received": false,
@@ -436,7 +436,7 @@
         "SL-SHORT-SWIMNAVY-XXL"
       ],
       "bulkExf": "2026-06-30",
-      "bulkEtaDate": "2026-08-01",
+      "bulkEtaDate": "2026-08-02",
       "bulkEta": "Early August",
       "shipment": "Air",
       "received": false,
