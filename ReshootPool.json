@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T09:28:37.490Z",
+  "lastUpdated": "2026-07-28T10:47:20.689Z",
   "count": 402,
   "products": [
     {
@@ -245,19 +245,19 @@
     {
       "name": "Textured Knit Short Sleeve Button Down - Olive",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-07-06"
     },
     {
       "name": "Textured Knit Short Sleeve Button Down - Navy",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-07-06"
     },
     {
       "name": "Textured Knit Short Sleeve Button Down - Tan",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-07-06"
     },
     {
@@ -885,6 +885,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -1115,6 +1130,36 @@
       "hasPO": true
     },
     {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Wool Bomber - Beige",
       "recentRestock": false,
       "hasPO": true
@@ -1221,21 +1266,6 @@
     },
     {
       "name": "\"The Jones\" Sport Shirt - White & Grey Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1670,31 +1700,6 @@
       "hasPO": true
     },
     {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Quilted Hybrid Hooded Jacket - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1735,11 +1740,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Lightweight Knit Polo - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
@@ -1776,21 +1776,6 @@
     },
     {
       "name": "\"The Aston\" Navy Pique Casual Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Pink, Purple, & White Cross Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1930,11 +1915,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Kelce\" Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1970,6 +1950,11 @@
       "hasPO": true
     },
     {
+      "name": "Casual Stretch Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
       "recentRestock": false,
       "hasPO": true
@@ -1981,6 +1966,21 @@
     },
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kelce\" Solid Dark Olive Green",
       "recentRestock": false,
       "hasPO": true
     },
