@@ -1,7 +1,85 @@
 {
-  "lastUpdated": "2026-07-29T09:29:13.085Z",
+  "lastUpdated": "2026-07-29T11:12:12.823Z",
   "count": 402,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Grey",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Solid Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Swim Trucks - Brown & Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Swim Trucks - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-28"
+    },
+    {
+      "name": "Textured Knit Short Sleeve Button Down - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-06"
+    },
+    {
+      "name": "Textured Knit Short Sleeve Button Down - Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-06"
+    },
+    {
+      "name": "Textured Knit Short Sleeve Button Down - Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-06"
+    },
     {
       "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
       "recentRestock": true,
@@ -238,24 +316,6 @@
     },
     {
       "name": "\"The Sky\" Linen Light Blue",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Short Sleeve Button Down - Olive",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Short Sleeve Button Down - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Short Sleeve Button Down - Tan",
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-07-06"
@@ -670,46 +730,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Solid Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Solid Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Ash Brown Crosshatch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Solid Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Solid Tan - Short",
       "recentRestock": false,
       "hasPO": true
@@ -726,16 +746,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Solid Grey - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Swim Trucks - Brown & Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Swim Trucks - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -775,11 +785,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Hampton\" White with Navy Accents",
       "recentRestock": false,
       "hasPO": true
@@ -811,6 +816,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -925,11 +935,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1021,6 +1026,11 @@
     },
     {
       "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
