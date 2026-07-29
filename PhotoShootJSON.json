@@ -1,6 +1,6 @@
 {
-  "generatedBy": "photo-shoot-tracker-refresh (manual Run now) 2026-07-29T17:25:40.398Z",
-  "lastUpdated": "2026-07-29T17:25:40.398Z",
+  "generatedBy": "photo-shoot-tracker-refresh (manual Run now, topsDisplay fix) 2026-07-29T17:26:35.458Z",
+  "lastUpdated": "2026-07-29T17:26:35.458Z",
   "counts": {
     "total": 199
   },
@@ -3982,7 +3982,7 @@
       "ppsNa": false,
       "topsSize": "S,M,L,2XL,3XL",
       "topsLanded": true,
-      "topsDisplay": "Ready to shoot · via TOPS",
+      "topsDisplay": "Landed Jul 16 (RIELEY) · tracking",
       "topsDate": "2026-07-16",
       "topsTracking": "1Z5AE2278519980441",
       "topsReceivedBy": "RIELEY",
@@ -4055,7 +4055,7 @@
       "ppsNa": false,
       "topsSize": "S,M,L,2XL,3XL",
       "topsLanded": true,
-      "topsDisplay": "Ready to shoot · via TOPS",
+      "topsDisplay": "Landed Jul 16 (RIELEY) · tracking",
       "topsDate": "2026-07-16",
       "topsTracking": "1Z5AE2278519980441",
       "topsReceivedBy": "RIELEY",
@@ -4128,7 +4128,7 @@
       "ppsNa": false,
       "topsSize": "S,M,L,2XL,3XL",
       "topsLanded": true,
-      "topsDisplay": "Ready to shoot · via TOPS",
+      "topsDisplay": "Landed Jul 16 (RIELEY) · tracking",
       "topsDate": "2026-07-16",
       "topsTracking": "1Z5AE2278519980441",
       "topsReceivedBy": "RIELEY",
