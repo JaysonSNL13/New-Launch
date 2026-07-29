@@ -265,7 +265,6 @@
   function topsLanded(i){return !!i.topsLanded;}
   function topsShipped(i){if(topsLanded(i))return true;var d=(i.topsDisplay||'');if(/label created|not yet received|not yet shipped|ETD|to ship|awaiting/i.test(d))return false;if(/ship|transit|landing|out for delivery|deliver|picked up|en route/i.test(d))return true;return !!i.topsTracking;}
   function sampleOn(i){return i.isSuit?i.suitReady:(ppsLanded(i)||topsLanded(i));}
-  function ppsRetired(i){return !!i.ppsRetired||(!!i.substitute&&topsLanded(i));}
   function talApproved(i){return (state.flags[key(i)]||{}).talStatus==='Approved';}
   function shootWithOf(i){if(i.isSuit)return 'per piece';var man=((state.flags[key(i)]||{}).talRecSize||'');if(man==='PPS'||man==='TOPS')return man;if(topsShipped(i))return 'TOPS';if(i.substitute)return 'TOPS';if(ppsLanded(i))return 'PPS';return i.topsSize?'TOPS':'PPS';}
   function chosenLanded(i){if(i.isSuit)return !!i.suitReady;var sw=shootWithOf(i);if(sw==='TOPS')return topsLanded(i);if(sw==='PPS')return ppsLanded(i)&&!i.substitute;return false;}
@@ -373,7 +372,7 @@
     var tr=document.createElement('tr');
     var c=document.createElement('td');c.className='c-cat';c.textContent=i.category||'';tr.appendChild(c);
     var n=document.createElement('td');var dot=document.createElement('span');dot.className='dot '+((inSuit?sampleOn(i):isReady(i))?'r':'w');n.appendChild(dot);n.appendChild(document.createTextNode(i.parentName||''));var _nt=(F(i).talNote)||'';if(_nt){var _nd=document.createElement('div');_nd.style.cssText='font-size:11px;color:var(--amber);margin-top:2px;';_nd.textContent='Product note: '+_nt;n.appendChild(_nd);}var _sn=(F(i).shootNote)||'';if(_sn){var _sd=document.createElement('div');_sd.style.cssText='font-size:11px;color:var(--teal);margin-top:2px;';_sd.textContent='Shoot note: '+_sn;n.appendChild(_sd);}tr.appendChild(n);
-    tr.appendChild(sizeCell(ppsRetired(i)?'':((F(i).manualPpsSize)||i.ppsSize||(ppsLanded(i)?'one size':''))));
+    tr.appendChild(sizeCell((F(i).manualPpsSize)||i.ppsSize||(ppsLanded(i)?'one size':'')));
     tr.appendChild(whenCell(ppsLanded(i)&&!i.substitute,i.ppsDisplay||''));
     tr.appendChild(sizeCell((F(i).manualTopsSize)||i.topsSize||(topsLanded(i)?'one size':'')));
     tr.appendChild(whenCell(topsLanded(i),i.topsDisplay||''));
