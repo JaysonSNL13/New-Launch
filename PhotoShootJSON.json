@@ -1,6 +1,6 @@
 {
-  "generatedBy": "photo-shoot-tracker-refresh (manual: Tal/Aryan review fixes) 2026-07-29T12:46:11.271Z",
-  "lastUpdated": "2026-07-29T12:46:11.271Z",
+  "generatedBy": "photo-shoot-tracker-refresh (manual Run now) 2026-07-29T17:25:40.398Z",
+  "lastUpdated": "2026-07-29T17:25:40.398Z",
   "counts": {
     "total": 199
   },
@@ -1359,7 +1359,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "TOPS",
       "heldBy": ""
     },
     {
@@ -2478,7 +2478,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -2671,7 +2671,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-27",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "PPS"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
@@ -3056,7 +3060,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3122,7 +3126,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3188,7 +3192,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3254,7 +3258,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3320,7 +3324,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3386,7 +3390,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3452,7 +3456,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3518,7 +3522,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3584,7 +3588,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -3720,7 +3724,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4232,7 +4236,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4300,7 +4304,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4375,7 +4379,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4516,7 +4520,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4582,7 +4586,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4641,9 +4645,9 @@
       "lastActivityAt": "2026-06-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Other",
-      "holdNote": "Do not Have",
+      "talStatus": "Pending",
+      "holdReason": "",
+      "holdNote": "",
       "heldAt": "1782420038820",
       "returnsAt": "1783024838820",
       "shotStatusTal": "Not Shot",
@@ -4716,7 +4720,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "TOPS",
       "heldBy": ""
     },
     {
@@ -4850,7 +4854,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4916,7 +4920,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -4982,7 +4986,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -5381,7 +5385,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -5447,7 +5451,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -5830,7 +5834,7 @@
       "talStatus": "Approved",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "TOPS",
       "holdReason": "",
       "holdNote": "",
       "heldAt": "",
@@ -6317,14 +6321,14 @@
       "lastActivityAt": "2026-07-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Waiting on TOPS / next sample",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782231017482",
       "returnsAt": "1782835817482",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "TOPS",
       "heldBy": "",
       "ppsRetired": true
     },
@@ -6391,7 +6395,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6452,14 +6456,14 @@
       "lastActivityAt": "2026-07-23",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Waiting on TOPS / next sample",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782230958786",
       "returnsAt": "1782835758786",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "TOPS",
       "heldBy": "",
       "ppsRetired": true
     },
@@ -6528,7 +6532,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6596,7 +6600,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6662,7 +6666,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6728,7 +6732,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6907,7 +6911,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -6973,7 +6977,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -7039,7 +7043,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -7275,7 +7279,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -7333,7 +7337,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-15T12:00:00.000Z",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Buttonless Sweater Polo - Light Tan",
@@ -7398,7 +7406,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -7456,7 +7464,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-15T12:00:00.000Z",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Heavy Knit Crewneck - Dark Brown",
@@ -7515,7 +7527,11 @@
       "received": false,
       "landedDate": "",
       "ppsRounds": "",
-      "topsRounds": ""
+      "topsRounds": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Heavy Knit Crewneck - Deep Navy",
@@ -7575,8 +7591,8 @@
       "lastActivityAt": "2026-07-27",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Waiting on TOPS / next sample",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782241560449",
       "returnsAt": "1782846360449",
@@ -7589,7 +7605,7 @@
       },
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "TOPS",
       "heldBy": "",
       "ppsRetired": true
     },
@@ -7654,7 +7670,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": "",
       "referenceTop": false
     },
@@ -7721,7 +7737,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -7779,7 +7795,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-17",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Tan",
@@ -7836,7 +7856,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-17",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Mid-Weight Ribbed Quarter Zip - Black",
@@ -7895,7 +7919,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-23",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "TOPS"
     },
     {
       "parentName": "Mid-Weight Ribbed Quarter Zip - Grey",
@@ -7962,7 +7990,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -8586,7 +8614,11 @@
       "blockerReason": "",
       "lastActivityAt": "2026-07-24",
       "received": false,
-      "landedDate": ""
+      "landedDate": "",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "PPS"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
@@ -8812,14 +8844,14 @@
       "lastActivityAt": "2026-07-27",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Try-on review needed",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782313541680",
       "returnsAt": "1782918341680",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -8951,7 +8983,7 @@
       "returnsAt": "",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -9017,7 +9049,7 @@
       "returnsAt": "",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -9218,7 +9250,7 @@
       "landedDate": "",
       "ppsRounds": "Size set 4/24; PPS to follow",
       "topsRounds": "",
-      "talStatus": "Approved",
+      "talStatus": "Pending",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
       "shootWith": "",
@@ -11512,7 +11544,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -11580,7 +11612,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -11648,7 +11680,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -11709,14 +11741,14 @@
       "lastActivityAt": "2026-07-27",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Waiting on TOPS / next sample",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782230991207",
       "returnsAt": "1782835791207",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -11777,14 +11809,14 @@
       "lastActivityAt": "2026-07-27",
       "received": false,
       "landedDate": "",
-      "talStatus": "Hold",
-      "holdReason": "Waiting on TOPS / next sample",
+      "talStatus": "Approved",
+      "holdReason": "",
       "holdNote": "",
       "heldAt": "1782230997341",
       "returnsAt": "1782835797341",
       "shotStatusTal": "Not Shot",
       "ppsConfirmed": false,
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -12054,7 +12086,7 @@
       "holdNote": "",
       "heldAt": "",
       "returnsAt": "",
-      "shootWith": "",
+      "shootWith": "PPS",
       "heldBy": ""
     },
     {
@@ -12508,7 +12540,11 @@
       "superseded": false,
       "isBlocker": false,
       "ppsNa": false,
-      "ppsReceivedBy": "ROB"
+      "ppsReceivedBy": "ROB",
+      "talStatus": "Approved",
+      "holdReason": "",
+      "holdNote": "",
+      "shootWith": "PPS"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
