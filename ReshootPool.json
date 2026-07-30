@@ -1,7 +1,151 @@
 {
-  "lastUpdated": "2026-07-30T09:28:29.303Z",
+  "lastUpdated": "2026-07-30T10:56:39.643Z",
   "count": 402,
   "products": [
+    {
+      "name": "Pocket Square - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Blue Gingham",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Blue Microcheck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Business Blue",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Pink",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Blue Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White with Light Blue Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Pink Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Black Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Dark Brown Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Dark Grey Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Dark Olive Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Ivory Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Light Brown Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Light Purple Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Plum Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Pocket Square - White With Yellow Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Tan - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Solid Grey - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-29"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Solid Tan",
       "recentRestock": true,
@@ -620,132 +764,12 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Blue Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Blue Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Business Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Blue Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Light Blue Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Pink Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Black Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Grey Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Olive Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Ivory Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Light Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Light Purple Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Plum Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Yellow Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Textured Buttonless Long Sleeve Polo - Tan",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Tan - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Ash Brown Crosshatch - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Solid Grey - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1290,6 +1314,31 @@
       "hasPO": true
     },
     {
+      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1626,31 +1675,6 @@
     },
     {
       "name": "Athletic Fit Shorts - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
       "recentRestock": false,
       "hasPO": true
     },
