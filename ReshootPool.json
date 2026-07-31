@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T10:56:39.643Z",
-  "count": 402,
+  "lastUpdated": "2026-07-31T09:28:27.622Z",
+  "count": 394,
   "products": [
     {
       "name": "Pocket Square - Black",
@@ -486,13 +486,13 @@
       "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-01"
+      "restock": "2026-07-06"
     },
     {
       "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-01"
+      "restock": "2026-07-06"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
@@ -591,84 +591,6 @@
       "restock": "2026-07-02"
     },
     {
-      "name": "\"The Rocky'' Powder Blue with White Stripes",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Summit'' Graphite Blue and Grey Textured Grid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink - Classic fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Javier\" Pale Blue - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Cappuccino",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "Athletic Fit Stretch Pants - Heathered Stone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Andy'' Black Diamond Geo",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Robin'' Light Blue Mini Diamond Jacquard",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Thorpe'' Light Blue & Brown Faded Cross Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
-      "name": "\"The Murray'' Stone Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-01"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -729,7 +651,27 @@
       "hasPO": true
     },
     {
+      "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Von\" Solid Black - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -740,6 +682,11 @@
     },
     {
       "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Javier\" Pale Blue - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
