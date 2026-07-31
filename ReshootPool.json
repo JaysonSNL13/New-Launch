@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-31T09:28:27.622Z",
-  "count": 394,
+  "lastUpdated": "2026-07-31T11:05:22.496Z",
+  "count": 396,
   "products": [
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-30"
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-07-30"
+    },
     {
       "name": "Pocket Square - Black",
       "recentRestock": true,
@@ -711,16 +723,6 @@
       "hasPO": true
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -732,21 +734,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -877,6 +864,21 @@
     },
     {
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1681,11 +1683,6 @@
       "hasPO": true
     },
     {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Performance Brushed Cotton Chino - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1717,6 +1714,11 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quilted Hybrid Hooded Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2041,6 +2043,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Puffer Vest - Black",
       "recentRestock": false,
       "hasPO": true
@@ -2067,6 +2074,11 @@
     },
     {
       "name": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy & Black Mini Houndstooth",
       "recentRestock": false,
       "hasPO": true
     }
