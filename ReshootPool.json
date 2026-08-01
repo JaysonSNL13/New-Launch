@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T11:05:22.496Z",
-  "count": 396,
+  "lastUpdated": "2026-08-01T09:28:38.283Z",
+  "count": 392,
   "products": [
     {
       "name": "Textured Buttonless Long Sleeve Polo - Tan",
@@ -318,7 +318,7 @@
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-21"
     },
     {
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
@@ -396,43 +396,43 @@
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Morrison\" Blue & White Mini Pattern",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-02"
+      "restock": "2026-07-08"
     },
     {
       "name": "\"The Ashen'' Solid Dark Grey",
@@ -519,90 +519,6 @@
       "restock": "2026-07-03"
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Bellamy\" Business Blue",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Boylston\" Navy with White Polka Dots",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Howard\" Solid Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-02"
-    },
-    {
-      "name": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-02"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -648,7 +564,52 @@
       "hasPO": true
     },
     {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
       "recentRestock": false,
       "hasPO": true
     },
@@ -899,6 +860,11 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
