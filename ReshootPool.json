@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T09:28:38.283Z",
+  "lastUpdated": "2026-08-02T09:28:48.444Z",
   "count": 392,
   "products": [
     {
@@ -330,31 +330,31 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-03"
+      "restock": "2026-07-15"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-03"
+      "restock": "2026-07-15"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-03"
+      "restock": "2026-07-15"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-03"
+      "restock": "2026-07-15"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-03"
+      "restock": "2026-07-15"
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -505,18 +505,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-07-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-03"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-03"
     },
     {
       "name": "\"The Matt\" Sky Blue Pique Polo",
@@ -735,6 +723,16 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
       "recentRestock": false,
       "hasPO": true
     },
