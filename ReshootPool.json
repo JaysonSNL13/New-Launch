@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:28:46.388Z",
+  "lastUpdated": "2026-08-03T10:56:35.995Z",
   "count": 392,
   "products": [
     {
@@ -677,17 +677,17 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
@@ -723,21 +723,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -783,6 +768,21 @@
     },
     {
       "name": "Silk Tie - Solid Dark Plum",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -838,11 +838,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -997,12 +992,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Hawkins\" Navy Short Sleeve Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Roth\" Black Short Sleeve Button Down",
+      "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1678,6 +1668,16 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hawkins\" Navy Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Roth\" Black Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
     },
