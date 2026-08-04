@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026-08-04T09:28:47.717Z",
-  "count": 392,
+  "lastUpdated": "2026-08-04T10:51:23.909Z",
+  "count": 393,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-03"
+    },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Tan",
       "recentRestock": true,
@@ -522,36 +528,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": false,
       "hasPO": true
@@ -672,11 +648,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
@@ -778,11 +749,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -942,6 +908,16 @@
       "hasPO": true
     },
     {
+      "name": "\"The Paul'' Stone Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Onyx'' Charcoal Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Quarter Zip - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -972,22 +948,32 @@
       "hasPO": true
     },
     {
-      "name": "Branded No-Show Socks - Black",
+      "name": "Athletic Fit Stretch Tech Chino - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Branded No-Show Socks - White",
+      "name": "Athletic Fit Stretch Tech Chino - Brown",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Black",
+      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Army Green",
+      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1063,6 +1049,21 @@
     },
     {
       "name": "Corduroy Harrington Jacket - Dark Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1187,12 +1188,12 @@
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Brown",
+      "name": "Patch Pocket Button Down - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Navy",
+      "name": "Patch Pocket Button Down - Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1592,16 +1593,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Paul'' Stone Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Heavy Knit Hoodie - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1687,6 +1678,16 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Army Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Lightweight Knit Polo - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
@@ -1723,6 +1724,21 @@
     },
     {
       "name": "\"The Aston\" Navy Pique Casual Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1843,21 +1859,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Grey and Charcoal Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2003,6 +2004,11 @@
     },
     {
       "name": "3 Button Peak Lapel Overcoat - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": false,
       "hasPO": true
     },
