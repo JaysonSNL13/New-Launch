@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T10:56:35.995Z",
+  "lastUpdated": "2026-08-04T09:28:47.717Z",
   "count": 392,
   "products": [
     {
@@ -1232,16 +1232,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1578,6 +1568,16 @@
     },
     {
       "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
       "recentRestock": false,
       "hasPO": true
     },
