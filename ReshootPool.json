@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T10:51:23.909Z",
-  "count": 393,
+  "lastUpdated": "2026-08-05T09:28:46.626Z",
+  "count": 389,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
@@ -228,19 +228,19 @@
       "name": "Textured Knit Short Sleeve Button Down - Navy",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-07-06"
+      "restock": "2026-07-27"
     },
     {
       "name": "Textured Knit Short Sleeve Button Down - Olive",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-07-06"
+      "restock": "2026-07-27"
     },
     {
       "name": "Textured Knit Short Sleeve Button Down - Tan",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-07-06"
+      "restock": "2026-07-27"
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
@@ -465,54 +465,6 @@
       "restock": "2026-07-08"
     },
     {
-      "name": "\"The Fox\" Black & Grey Mini Abstract Print",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "\"The Diggs\" Solid Maroon",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "\"The Sky\" Linen Light Blue",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Sand",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-06"
-    },
-    {
-      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-06"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -609,6 +561,16 @@
     },
     {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1524,6 +1486,16 @@
     },
     {
       "name": "Mid-Weight Wool Quarter Zip - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
