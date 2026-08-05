@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026-08-05T09:28:46.626Z",
+  "lastUpdated": "2026-08-05T10:56:15.343Z",
   "count": 389,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Black - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": true,
@@ -339,12 +345,6 @@
       "restock": "2026-07-15"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
@@ -480,6 +480,41 @@
       "hasPO": true
     },
     {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": false,
       "hasPO": true
@@ -590,41 +625,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Hampton\" White with Navy Accents",
       "recentRestock": false,
       "hasPO": true
@@ -730,16 +730,6 @@
       "hasPO": true
     },
     {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -791,6 +781,16 @@
     },
     {
       "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1010,11 +1010,6 @@
       "hasPO": true
     },
     {
-      "name": "Corduroy Harrington Jacket - Dark Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1025,7 +1020,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
+      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1156,16 +1156,6 @@
     },
     {
       "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1600,6 +1590,21 @@
       "hasPO": true
     },
     {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Performance Brushed Cotton Chino - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1645,7 +1650,17 @@
       "hasPO": true
     },
     {
+      "name": "Corduroy Harrington Jacket - Dark Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Quilted Hybrid Hooded Jacket - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1696,21 +1711,6 @@
     },
     {
       "name": "\"The Aston\" Navy Pique Casual Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
