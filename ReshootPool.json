@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-06T09:29:04.011Z",
+  "lastUpdated": "2026-08-06T10:05:41.222Z",
   "count": 389,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-05"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-05"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-05"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
       "recentRestock": true,
@@ -490,21 +508,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "recentRestock": false,
       "hasPO": true
@@ -650,11 +653,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
       "recentRestock": false,
       "hasPO": true
@@ -730,6 +728,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -746,16 +749,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -795,77 +788,12 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -896,16 +824,6 @@
     },
     {
       "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1006,6 +924,91 @@
     },
     {
       "name": "\"The Grover'' Olive Pique Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Cream Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
