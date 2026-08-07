@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-07T09:29:04.751Z",
+  "lastUpdated": "2026-08-07T11:05:05.878Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 168
+    "total": 165
   },
   "items": [
     {
@@ -402,90 +402,6 @@
       "shotStatus": "Shot"
     },
     {
-      "parentName": "\"The Gino \"- Solid Dark Olive Green",
-      "category": "SSBD",
-      "poRef": "TH3531",
-      "skus": [
-        "SL-SSBD-GINO-3XL",
-        "SL-SSBD-GINO-L",
-        "SL-SSBD-GINO-M",
-        "SL-SSBD-GINO-S",
-        "SL-SSBD-GINO-XL",
-        "SL-SSBD-GINO-XXL"
-      ],
-      "bulkExf": "2026-07-23",
-      "bulkEtaDate": "2026-08-12",
-      "bulkEta": "Mid August",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "\"The Kirkway\" - Solid Sage Green",
-      "category": "SSBD",
-      "poRef": "TH3531",
-      "skus": [
-        "SL-SSBD-KIRKWAY-3XL",
-        "SL-SSBD-KIRKWAY-L",
-        "SL-SSBD-KIRKWAY-M",
-        "SL-SSBD-KIRKWAY-S",
-        "SL-SSBD-KIRKWAY-XL",
-        "SL-SSBD-KIRKWAY-XXL"
-      ],
-      "bulkExf": "2026-07-23",
-      "bulkEtaDate": "2026-08-12",
-      "bulkEta": "Mid August",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "\"The Robert\" - Pale Blue",
-      "category": "SSBD",
-      "poRef": "TH3531",
-      "skus": [
-        "SL-SSBD-ROBERT-3XL",
-        "SL-SSBD-ROBERT-L",
-        "SL-SSBD-ROBERT-M",
-        "SL-SSBD-ROBERT-S",
-        "SL-SSBD-ROBERT-XL",
-        "SL-SSBD-ROBERT-XXL"
-      ],
-      "bulkExf": "2026-07-23",
-      "bulkEtaDate": "2026-08-12",
-      "bulkEta": "Mid August",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
       "parentName": "Sunglasses - Matte Black",
       "category": "Accessory",
       "poRef": "TH3341",
@@ -642,29 +558,6 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Pocket Square - Solid Brown",
-      "category": "Pocket Square",
-      "poRef": "TH3555",
-      "skus": [
-        "SL-PS-SOLIDBROWN"
-      ],
-      "bulkExf": "2026-08-01",
-      "bulkEtaDate": "2026-08-21",
-      "bulkEta": "Late Summer / Early Fall",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Heavy Knit Crewneck - Dark Brown",
@@ -2899,6 +2792,29 @@
       ],
       "bulkExf": "2026-08-15",
       "bulkEtaDate": "2026-09-04",
+      "bulkEta": "Early Fall / Mid Fall",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Pocket Square - Solid Brown",
+      "category": "Pocket Square",
+      "poRef": "TH3555",
+      "skus": [
+        "SL-PS-SOLIDBROWN"
+      ],
+      "bulkExf": "2026-08-20",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early Fall / Mid Fall",
       "shipment": "",
       "received": false,
