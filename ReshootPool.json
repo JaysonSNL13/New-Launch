@@ -1,7 +1,355 @@
 {
-  "lastUpdated": "2026-08-10T09:29:20.270Z",
-  "count": 377,
+  "lastUpdated": "2026-08-10T11:19:50.623Z",
+  "count": 385,
   "products": [
+    {
+      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-21"
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-21"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Black Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Light Blue Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Black Silk Bowtie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Pre-Tied Bow Tie - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Tie - Dark Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Tie - Sea Green",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Tie - Rose Pink",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Tie - Solid Dark Purple",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Silk Tie - Solid Dark Plum",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot Print",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Von\" Solid Black - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Hampton\" White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Robert\" - Pale Blue",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Kirkway\" - Solid Sage Green",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Gino \"- Solid Dark Olive Green",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Pants - Heathered Forest Green",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-06"
+    },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": true,
@@ -19,12 +367,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-05"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
@@ -297,25 +639,7 @@
       "restock": "2026-07-23"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-07-22"
@@ -331,54 +655,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-21"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-21"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-15"
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -452,131 +728,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Javier\" Pale Blue - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Light Blue Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Silk Bowtie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Pre-Tied Bow Tie - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Sea Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Rose Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Solid Dark Purple",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Solid Dark Plum",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Winslow\" Navy and Brown Check",
       "recentRestock": false,
       "hasPO": true
@@ -597,22 +748,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": false,
       "hasPO": true
     },
@@ -643,16 +784,6 @@
     },
     {
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
       "recentRestock": false,
       "hasPO": true
     },
@@ -742,7 +873,42 @@
       "hasPO": true
     },
     {
+      "name": "Low Top Sneaker - White & Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Classic Tuxedo Shoe - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Shoe - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Shoe - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Low Top Sneaker - White Leather",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -777,16 +943,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "3 Button Overcoat - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
@@ -808,11 +964,6 @@
     },
     {
       "name": "\"The Grover'' Olive Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Von\" Solid Black - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1062,21 +1213,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Jameson\" Mini Navy Dot Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1088,16 +1224,6 @@
     },
     {
       "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1232,16 +1358,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Peter'' Light Blue Weave - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1357,26 +1473,6 @@
       "hasPO": true
     },
     {
-      "name": "Classic Tuxedo Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Low Top Sneaker - White Leather",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Heavy Knit Crewneck - Deep Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1473,11 +1569,6 @@
     },
     {
       "name": "Suspenders",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Low Top Sneaker - White & Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1648,11 +1739,6 @@
     },
     {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
       "recentRestock": false,
       "hasPO": true
     },
