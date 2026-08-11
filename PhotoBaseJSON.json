@@ -1,66 +1,10 @@
 {
-  "lastUpdated": "2026-08-10T11:19:38.399Z",
+  "lastUpdated": "2026-08-11T09:28:28.504Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 163
+    "total": 161
   },
   "items": [
-    {
-      "parentName": "\"The Arlington'' Sport Shirt - White with Lilac Stripe",
-      "category": "Sport Shirt",
-      "poRef": "AR7007",
-      "skus": [
-        "SL-SPORTSHIRT-ARLINGTON-3XL",
-        "SL-SPORTSHIRT-ARLINGTON-L",
-        "SL-SPORTSHIRT-ARLINGTON-M",
-        "SL-SPORTSHIRT-ARLINGTON-S",
-        "SL-SPORTSHIRT-ARLINGTON-XL",
-        "SL-SPORTSHIRT-ARLINGTON-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-07-07",
-      "bulkEta": "Early July",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-07-07",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
-      "category": "Sport Shirt",
-      "poRef": "AR7007",
-      "skus": [
-        "SL-SPORTSHIRT-PORTLAND-3XL",
-        "SL-SPORTSHIRT-PORTLAND-L",
-        "SL-SPORTSHIRT-PORTLAND-M",
-        "SL-SPORTSHIRT-PORTLAND-S",
-        "SL-SPORTSHIRT-PORTLAND-XL",
-        "SL-SPORTSHIRT-PORTLAND-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-07-07",
-      "bulkEta": "Early July",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-07-07",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
     {
       "parentName": "Corduroy Knit Zip Jacket - Navy",
       "category": "Jackets",
@@ -315,7 +259,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Robert\" - Pale Blue",
@@ -343,7 +287,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Patch Pocket Button Down - Army Green",
@@ -409,7 +353,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-17",
+      "bulkEtaDate": "2026-08-18",
       "bulkEta": "Mid August",
       "shipment": "Air",
       "received": false,
@@ -432,7 +376,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-17",
+      "bulkEtaDate": "2026-08-18",
       "bulkEta": "Mid August",
       "shipment": "Air",
       "received": false,
@@ -641,7 +585,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Buttonless Sweater Polo - Light Tan",
@@ -697,7 +641,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Brown",
@@ -753,7 +697,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Mid-Weight Wool Crewneck Sweater - Tan",
@@ -1337,7 +1281,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Mid-Weight Ribbed Quarter Zip - Grey",
@@ -1365,7 +1309,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
@@ -1555,7 +1499,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
@@ -1639,7 +1583,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
@@ -1695,7 +1639,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Heavy Knit Crewneck - Deep Navy",
@@ -1723,7 +1667,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
@@ -2244,7 +2188,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Heavy Knit Hoodie - Deep Navy",
@@ -2300,7 +2244,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Heavy Knit Zip Quarter Zip - Ash Olive",
@@ -2356,7 +2300,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
@@ -2786,7 +2730,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Pocket Square - Solid Brown",
