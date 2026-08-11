@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-11T09:28:38.248Z",
+  "lastUpdated": "2026-08-11T10:42:20.461Z",
   "count": 385,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-10"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-05"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-10"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-05"
+    },
     {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
       "recentRestock": true,
@@ -349,18 +373,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-05"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-05"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
@@ -718,12 +730,22 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -743,22 +765,37 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "name": "\"The Mark\" White Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "name": "\"The Grover'' Olive Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -803,12 +840,12 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -819,26 +856,6 @@
     },
     {
       "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -949,21 +966,6 @@
     },
     {
       "name": "3 Button Overcoat - Tan Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Dylan\" Sky Blue Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Mark\" White Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Grover'' Olive Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1213,6 +1215,11 @@
       "hasPO": true
     },
     {
+      "name": "Black Circle Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1339,11 +1346,6 @@
     },
     {
       "name": "Black Square Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
