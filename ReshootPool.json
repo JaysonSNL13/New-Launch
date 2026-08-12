@@ -1,12 +1,126 @@
 {
-  "lastUpdated": "2026-08-12T09:28:41.614Z",
+  "lastUpdated": "2026-08-12T10:48:05.991Z",
   "count": 385,
   "products": [
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-10"
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-22"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-03"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-11"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-07-21"
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-11"
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-11"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-11"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-05"
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
@@ -15,16 +129,16 @@
       "restock": "2026-08-05"
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-10"
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-05"
+      "hasPO": false,
+      "restock": "2026-08-10"
     },
     {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
@@ -49,12 +163,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-21"
     },
     {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
@@ -177,36 +285,6 @@
       "restock": "2026-07-15"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
       "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": true,
       "hasPO": true,
@@ -231,19 +309,7 @@
       "restock": "2026-08-06"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
       "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -261,12 +327,6 @@
       "restock": "2026-08-06"
     },
     {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
       "name": "The Solid White Tuxedo Shirt",
       "recentRestock": true,
       "hasPO": true,
@@ -274,18 +334,6 @@
     },
     {
       "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -316,12 +364,6 @@
     },
     {
       "name": "\"The Von\" Solid Black - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -379,12 +421,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-05"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-03"
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Tan",
@@ -657,18 +693,6 @@
       "restock": "2026-07-22"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -690,26 +714,6 @@
     },
     {
       "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
