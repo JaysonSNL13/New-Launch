@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T09:28:31.415Z",
+  "lastUpdated": "2026-08-12T10:47:56.214Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 161
@@ -1500,62 +1500,6 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Shot"
-    },
-    {
-      "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "category": "Sport Shirt",
-      "poRef": "AR7010",
-      "skus": [
-        "SL-SPORTSHIRT-MYRTLE-3XL",
-        "SL-SPORTSHIRT-MYRTLE-L",
-        "SL-SPORTSHIRT-MYRTLE-M",
-        "SL-SPORTSHIRT-MYRTLE-S",
-        "SL-SPORTSHIRT-MYRTLE-XL",
-        "SL-SPORTSHIRT-MYRTLE-XXL"
-      ],
-      "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-08-30",
-      "bulkEta": "Early Fall",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "category": "Sport Shirt",
-      "poRef": "AR7010",
-      "skus": [
-        "SL-SPORTSHIRT-SAUGATUCK-3XL",
-        "SL-SPORTSHIRT-SAUGATUCK-L",
-        "SL-SPORTSHIRT-SAUGATUCK-M",
-        "SL-SPORTSHIRT-SAUGATUCK-S",
-        "SL-SPORTSHIRT-SAUGATUCK-XL",
-        "SL-SPORTSHIRT-SAUGATUCK-XXL"
-      ],
-      "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-08-30",
-      "bulkEta": "Early Fall",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
     },
     {
       "parentName": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
@@ -3269,6 +3213,62 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Shot"
+    },
+    {
+      "parentName": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "category": "Sport Shirt",
+      "poRef": "AR7010",
+      "skus": [
+        "SL-SPORTSHIRT-MYRTLE-3XL",
+        "SL-SPORTSHIRT-MYRTLE-L",
+        "SL-SPORTSHIRT-MYRTLE-M",
+        "SL-SPORTSHIRT-MYRTLE-S",
+        "SL-SPORTSHIRT-MYRTLE-XL",
+        "SL-SPORTSHIRT-MYRTLE-XXL"
+      ],
+      "bulkExf": "2026-08-10",
+      "bulkEtaDate": "2026-10-09",
+      "bulkEta": "Early October",
+      "shipment": "Sea",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "category": "Sport Shirt",
+      "poRef": "AR7010",
+      "skus": [
+        "SL-SPORTSHIRT-SAUGATUCK-3XL",
+        "SL-SPORTSHIRT-SAUGATUCK-L",
+        "SL-SPORTSHIRT-SAUGATUCK-M",
+        "SL-SPORTSHIRT-SAUGATUCK-S",
+        "SL-SPORTSHIRT-SAUGATUCK-XL",
+        "SL-SPORTSHIRT-SAUGATUCK-XXL"
+      ],
+      "bulkExf": "2026-08-10",
+      "bulkEtaDate": "2026-10-09",
+      "bulkEta": "Early October",
+      "shipment": "Sea",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Heavy Knit Crewneck - Dark Brown",
