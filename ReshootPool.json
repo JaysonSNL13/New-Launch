@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T09:30:28.630Z",
-  "count": 385,
+  "lastUpdated": "2026-08-13T10:48:01.151Z",
+  "count": 384,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Black",
@@ -718,21 +718,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Winslow\" Navy and Brown Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kellen\" Light Blue Mini Patterned",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -764,6 +749,21 @@
     },
     {
       "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winslow\" Navy and Brown Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kellen\" Light Blue Mini Patterned",
       "recentRestock": false,
       "hasPO": true
     },
@@ -804,6 +804,36 @@
     },
     {
       "name": "Cotton Denim Dress Shirt - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Heathered White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
       "recentRestock": false,
       "hasPO": true
     },
@@ -854,6 +884,16 @@
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1169,16 +1209,6 @@
     },
     {
       "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Heathered White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1514,36 +1544,6 @@
     },
     {
       "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2034,11 +2034,6 @@
     },
     {
       "name": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy & Black Mini Houndstooth",
       "recentRestock": false,
       "hasPO": true
     }
