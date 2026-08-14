@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T10:47:51.648Z",
+  "lastUpdated": "2026-08-14T09:28:45.360Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 161
@@ -465,8 +465,8 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-20",
-      "bulkEta": "Mid August",
+      "bulkEtaDate": "2026-08-21",
+      "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -488,8 +488,8 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-20",
-      "bulkEta": "Mid August",
+      "bulkEtaDate": "2026-08-21",
+      "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
