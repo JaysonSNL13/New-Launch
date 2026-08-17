@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T09:28:37.237Z",
+  "lastUpdated": "2026-08-17T09:28:30.110Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 161
@@ -409,7 +409,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-23",
+      "bulkEtaDate": "2026-08-24",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
@@ -432,7 +432,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-23",
+      "bulkEtaDate": "2026-08-24",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
@@ -460,7 +460,7 @@
         "SL-CBD-ARMYGREENPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-23",
+      "bulkEtaDate": "2026-08-24",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
@@ -488,7 +488,7 @@
         "SL-CBD-BLACKPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-23",
+      "bulkEtaDate": "2026-08-24",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
