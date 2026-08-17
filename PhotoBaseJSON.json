@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T09:28:30.110Z",
+  "lastUpdated": "2026-08-17T10:31:43.646Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 161
@@ -999,8 +999,8 @@
       ],
       "bulkExf": "2026-08-10",
       "bulkEtaDate": "2026-08-30",
-      "bulkEta": "Early Fall",
-      "shipment": "",
+      "bulkEta": "End of August",
+      "shipment": "Air",
       "received": false,
       "landedDate": "",
       "ppsSize": "",
