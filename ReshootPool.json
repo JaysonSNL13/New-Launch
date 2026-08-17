@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T09:29:23.144Z",
-  "count": 387,
+  "lastUpdated": "2026-08-17T10:31:55.721Z",
+  "count": 384,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Black",
@@ -718,41 +718,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Dylan\" Sky Blue Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Mark\" White Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Grover'' Olive Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Winslow\" Navy and Brown Check",
       "recentRestock": false,
       "hasPO": true
@@ -928,6 +893,16 @@
       "hasPO": true
     },
     {
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Heavy Knit Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -964,16 +939,6 @@
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Stone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1784,6 +1749,26 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
       "recentRestock": false,
       "hasPO": true
     },
