@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:29:19.348Z",
+  "lastUpdated": "2026-08-18T10:49:02.635Z",
   "count": 387,
   "products": [
     {
@@ -760,47 +760,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Winslow\" Navy and Brown Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kellen\" Light Blue Mini Patterned",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Khaki",
       "recentRestock": false,
       "hasPO": true
     },
@@ -835,6 +795,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": false,
       "hasPO": true
@@ -845,22 +810,27 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Paul'' Stone Button Down",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Onyx'' Charcoal Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winslow\" Navy and Brown Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kellen\" Light Blue Mini Patterned",
       "recentRestock": false,
       "hasPO": true
     },
@@ -930,17 +900,27 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -965,6 +945,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Heavy Knit Zip Quarter Zip - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -981,6 +976,16 @@
     },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1070,6 +1075,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1080,87 +1090,37 @@
       "hasPO": true
     },
     {
+      "name": "Mid-Weight Ribbed Quarter Zip - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Jones\" Sport Shirt - White & Grey Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Wool Bomber - Beige",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kona'' Light Blue with Navy Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hoover'' Lilac and White Mini Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Founder'' Wide Black Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Harrington'' Green with White & Black Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1180,22 +1140,22 @@
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Quarter Zip - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Cotton Shirt Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1395,16 +1355,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
       "recentRestock": false,
       "hasPO": true
@@ -1480,11 +1430,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Heavy Knit Crewneck - Deep Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1526,31 +1471,6 @@
     },
     {
       "name": "Knit Sweater Bomber - Taupe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1620,22 +1540,12 @@
       "hasPO": true
     },
     {
-      "name": "Performance Brushed Cotton Chino - Black",
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Performance Brushed Cotton Chino - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Performance Brushed Cotton Chino - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Performance Brushed Cotton Chino - Charcoal",
+      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1665,17 +1575,67 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Wool Bomber - Beige",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Brushed Cotton Chino - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Corduroy Harrington Jacket - Dark Olive",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1730,17 +1690,7 @@
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Charcoal Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1775,22 +1725,7 @@
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Grey Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Brushed Brown & Taupe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Westfield'' Solid Sage Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1855,11 +1790,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1875,6 +1805,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "3 Button Overcoat - Brown",
       "recentRestock": false,
       "hasPO": true
@@ -1885,12 +1820,37 @@
       "hasPO": true
     },
     {
+      "name": "Open Button Overcoat - Grey Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Brushed Brown & Taupe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
+      "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Casual Stretch Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1910,7 +1870,52 @@
       "hasPO": true
     },
     {
+      "name": "\"The Howard\" Solid Navy - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Silk Tie - Pink, Purple, & White Cross Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kona'' Light Blue with Navy Dots",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hoover'' Lilac and White Mini Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Founder'' Wide Black Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Harrington'' Green with White & Black Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2006,11 +2011,6 @@
     },
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
