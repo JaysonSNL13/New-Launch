@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-08-17T10:31:55.721Z",
-  "count": 384,
+  "lastUpdated": "2026-08-18T09:29:19.348Z",
+  "count": 387,
   "products": [
+    {
+      "name": "\"The Dylan\" Sky Blue Pique Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "\"The Mark\" White Pique Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "\"The Grover'' Olive Pique Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-14"
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-14"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
@@ -1749,26 +1791,6 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
       "recentRestock": false,
       "hasPO": true
     },
