@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T09:29:58.000Z",
+  "lastUpdated": "2026-08-19T11:16:16.397Z",
   "count": 387,
   "products": [
     {
@@ -185,7 +185,7 @@
     {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-07"
     },
     {
@@ -760,11 +760,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Cotton Denim Dress Shirt - Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -896,6 +891,11 @@
     },
     {
       "name": "Low Top Sneaker - White Leather",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1540,6 +1540,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Howard\" Solid Navy - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1866,11 +1871,6 @@
     },
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
