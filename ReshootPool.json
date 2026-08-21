@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:55:55.876Z",
+  "lastUpdated": "2026-08-21T09:29:35.731Z",
   "count": 394,
   "products": [
     {
@@ -48,43 +48,43 @@
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-11"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-11"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-07-22"
+      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
@@ -729,12 +729,6 @@
       "restock": "2026-07-23"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-07-22"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -866,6 +860,11 @@
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
