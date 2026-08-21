@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T09:29:05.782Z",
-  "count": 1489,
+  "lastUpdated": "2026-08-21T10:55:26.776Z",
+  "count": 1494,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -349,6 +349,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Cannes'' Light Blue Mosaic Micro Print",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Cape\" Wide Navy Stripe",
@@ -843,6 +849,12 @@
       "sizes": "Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Holmes'' Light Blue and Grey Windowpane",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Hoover'' Lilac and White Mini Check",
       "category": "Dress Shirt",
       "poRef": "",
@@ -1117,6 +1129,12 @@
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Lombardi'' Navy Print Stripe",
@@ -1509,6 +1527,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Richie'' Purple Mini Houndstooth",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Ridgefield\" Navy Long Sleeve Crewneck",
       "category": "LS Crewnecks",
       "poRef": "",
@@ -1825,6 +1849,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Topper'' Navy Bengal Stripe",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Troy\" Navy Printed Linen Short Sleeve Button Down",
