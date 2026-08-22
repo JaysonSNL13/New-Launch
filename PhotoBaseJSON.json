@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T10:55:20.453Z",
+  "lastUpdated": "2026-08-22T09:28:21.919Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 173
@@ -626,52 +626,6 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Sunglasses - Matte Black",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-BLACKSUNGLSS"
-      ],
-      "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-28",
-      "bulkEta": "End of August",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Sunglasses - Tortoise Shell",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-TORTOISESUNGLSS"
-      ],
-      "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-28",
-      "bulkEta": "End of August",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "\"The Kellen\" Light Blue Mini Patterned",
       "category": "Dress Shirt",
       "poRef": "TAL6069",
@@ -756,6 +710,52 @@
       "shotStatus": "Not Shot"
     },
     {
+      "parentName": "Sunglasses - Matte Black",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-BLACKSUNGLSS"
+      ],
+      "bulkExf": "2026-07-11",
+      "bulkEtaDate": "2026-08-29",
+      "bulkEta": "End of August",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Sunglasses - Tortoise Shell",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-TORTOISESUNGLSS"
+      ],
+      "bulkExf": "2026-07-11",
+      "bulkEtaDate": "2026-08-29",
+      "bulkEta": "End of August",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
       "parentName": "Patch Pocket Button Down - Army Green",
       "category": "Patch Pocket Button Down",
       "poRef": "TH3521",
@@ -768,7 +768,7 @@
         "SL-CBD-ARMYGREENPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-28",
+      "bulkEtaDate": "2026-08-29",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
@@ -796,7 +796,7 @@
         "SL-CBD-BLACKPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-28",
+      "bulkEtaDate": "2026-08-29",
       "bulkEta": "End of August",
       "shipment": "Air",
       "received": false,
