@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-08-24T09:28:47.256Z",
-  "count": 396,
+  "lastUpdated": "2026-08-24T11:03:57.564Z",
+  "count": 397,
   "products": [
+    {
+      "name": "Athletic Fit Shorts - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "Athletic Fit Shorts - Charcoal",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Grey",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
+    {
+      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-21"
+    },
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": true,
@@ -359,7 +407,7 @@
     {
       "name": "\"The Howard\" Solid Navy",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-06"
     },
     {
@@ -734,37 +782,27 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Shorts - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Waffle Patch Pocket Button Down - Deep Espresso",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tuxedo Studs (Set of 5)",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Square Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Knot Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -784,32 +822,17 @@
       "hasPO": true
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Paul'' Stone Button Down",
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winslow\" Navy and Brown Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kellen\" Light Blue Mini Patterned",
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -829,6 +852,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
       "recentRestock": false,
       "hasPO": true
@@ -839,17 +867,52 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "name": "\"The Paul'' Stone Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Onyx'' Charcoal Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mock Turtleneck - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mock Turtleneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winslow\" Navy and Brown Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kellen\" Light Blue Mini Patterned",
       "recentRestock": false,
       "hasPO": true
     },
@@ -920,21 +983,6 @@
     },
     {
       "name": "Brushed Button Down Vest - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1064,16 +1112,6 @@
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Quarter Zip - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1150,21 +1188,6 @@
     },
     {
       "name": "Black Circle Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1270,21 +1293,6 @@
     },
     {
       "name": "Suede Belt - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Tuxedo Studs (Set of 5)",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Square Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Knot Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1459,22 +1467,22 @@
       "hasPO": true
     },
     {
+      "name": "Mid-Weight Ribbed Quarter Zip - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Heavy Knit Hoodie - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Heavy Knit Hoodie - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mock Turtleneck - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mock Turtleneck - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1610,6 +1618,16 @@
     },
     {
       "name": "\"The Richie'' Purple Mini Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rocky'' Powder Blue with White Stripes",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2045,11 +2063,6 @@
     },
     {
       "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": false,
       "hasPO": true
     },
