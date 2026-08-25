@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T11:03:47.541Z",
+  "lastUpdated": "2026-08-25T09:28:33.115Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 173
@@ -1267,8 +1267,8 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-31",
-      "bulkEta": "End of August",
+      "bulkEtaDate": "2026-09-01",
+      "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -1290,8 +1290,8 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-08-31",
-      "bulkEta": "End of August",
+      "bulkEtaDate": "2026-09-01",
+      "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -1318,8 +1318,8 @@
         "SL-CBD-ARMYGREENPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-31",
-      "bulkEta": "End of August",
+      "bulkEtaDate": "2026-09-01",
+      "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -1346,8 +1346,8 @@
         "SL-CBD-BLACKPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-08-31",
-      "bulkEta": "End of August",
+      "bulkEtaDate": "2026-09-01",
+      "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
