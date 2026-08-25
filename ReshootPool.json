@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T09:28:46.375Z",
-  "count": 397,
+  "lastUpdated": "2026-08-25T10:46:43.247Z",
+  "count": 402,
   "products": [
     {
       "name": "Athletic Fit Shorts - Black",
@@ -227,7 +227,7 @@
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-10"
     },
     {
@@ -317,7 +317,7 @@
     {
       "name": "Silk Tie - Solid Dark Plum",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-07"
     },
     {
@@ -551,13 +551,13 @@
     {
       "name": "Pocket Square - Navy",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
       "name": "Pocket Square - Pink",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
@@ -581,7 +581,7 @@
     {
       "name": "Pocket Square - White With Pink Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
@@ -593,13 +593,13 @@
     {
       "name": "Pocket Square - White With Black Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
       "name": "Pocket Square - White With Dark Brown Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
@@ -611,7 +611,7 @@
     {
       "name": "Pocket Square - White With Dark Olive Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
@@ -623,19 +623,19 @@
     {
       "name": "Pocket Square - White With Light Brown Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
       "name": "Pocket Square - White With Light Purple Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
       "name": "Pocket Square - White With Plum Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-07-29"
     },
     {
@@ -807,17 +807,17 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "name": "Buttonless Sweater Polo - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "name": "Buttonless Sweater Polo - Light Tan",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "name": "Buttonless Sweater Polo - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -833,6 +833,46 @@
     },
     {
       "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mock Turtleneck - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mock Turtleneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -888,16 +928,6 @@
     },
     {
       "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mock Turtleneck - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mock Turtleneck - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1132,21 +1162,6 @@
       "hasPO": true
     },
     {
-      "name": "Buttonless Sweater Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Light Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Cotton Shirt Jacket - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1183,6 +1198,21 @@
     },
     {
       "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester'' Pink Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1293,21 +1323,6 @@
     },
     {
       "name": "Suede Belt - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester'' Pink Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1502,21 +1517,6 @@
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1628,6 +1628,36 @@
     },
     {
       "name": "\"The Rocky'' Powder Blue with White Stripes",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy Silk Bowtie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Maroon Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Hunter Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Purple with Silver Dots Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1942,17 +1972,7 @@
       "hasPO": true
     },
     {
-      "name": "Silk Tie - Pink, Purple, & White Cross Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Kona'' Light Blue with Navy Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1967,12 +1987,17 @@
       "hasPO": true
     },
     {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "name": "\"The Harrington'' Green with White & Black Plaid",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Harrington'' Green with White & Black Plaid",
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
       "recentRestock": false,
       "hasPO": true
     },
