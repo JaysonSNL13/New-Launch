@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-08-26T09:28:47.435Z",
+  "lastUpdated": "2026-08-26T11:08:14.465Z",
   "count": 399,
   "products": [
+    {
+      "name": "Buttonless Sweater Polo - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Buttonless Sweater Polo - Light Tan",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Buttonless Sweater Polo - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Mock Turtleneck - Cream",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Mock Turtleneck - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
     {
       "name": "Athletic Fit Shorts - Black",
       "recentRestock": true,
@@ -145,12 +217,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-11"
-    },
-    {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
     },
     {
       "name": "\"The Melrose'' Light Purple - Classic Fit",
@@ -754,16 +820,6 @@
       "hasPO": true
     },
     {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": false,
       "hasPO": true
@@ -789,21 +845,6 @@
       "hasPO": true
     },
     {
-      "name": "Buttonless Sweater Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Light Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Westport\" Black Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
@@ -819,42 +860,7 @@
       "hasPO": true
     },
     {
-      "name": "Mock Turtleneck - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mock Turtleneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -925,11 +931,6 @@
     },
     {
       "name": "\"The Kellen\" Light Blue Mini Patterned",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1140,6 +1141,16 @@
     },
     {
       "name": "\"The Jones\" Sport Shirt - White & Grey Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1614,6 +1625,21 @@
       "hasPO": true
     },
     {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Navy Silk Bowtie",
       "recentRestock": false,
       "hasPO": true
@@ -1640,6 +1666,21 @@
     },
     {
       "name": "Pocket Square - Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1874,21 +1915,6 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
@@ -1995,21 +2021,6 @@
     },
     {
       "name": "\"The Kelce\" Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
       "recentRestock": false,
       "hasPO": true
     },
