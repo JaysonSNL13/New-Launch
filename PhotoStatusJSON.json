@@ -532,7 +532,7 @@
     "shootNote": ""
   },
   "TAL6069|\"The Winslow\" Navy and Brown Check": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -1786,7 +1786,7 @@
     "shootNote": ""
   },
   "ED2466|Mid-Weight Wool Crewneck Sweater - Brown": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2128,7 +2128,7 @@
     "shootNote": ""
   },
   "ED2469|Heavy Knit Hoodie - Deep Navy": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2375,7 +2375,7 @@
     "shootNote": ""
   },
   "KA8003|Stretch Puffer Coat - Navy": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2432,7 +2432,7 @@
     "shootNote": ""
   },
   "KA8005|Puffer Vest - Black": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2451,7 +2451,7 @@
     "shootNote": ""
   },
   "KA8005|Puffer Vest - Khaki": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2527,7 +2527,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Navy and Midnight Plaid|Suit — Navy and Midnight Plaid": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -2907,7 +2907,7 @@
     "shootNote": ""
   },
   "TH3552|Black Suede Belt": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3059,7 +3059,7 @@
     "shootNote": ""
   },
   "ED2466|Mid-Weight Wool Crewneck Sweater - Tan": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3249,7 +3249,7 @@
     "shootNote": ""
   },
   "TH3558|Open Button Overcoat - Charcoal Olive": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3268,7 +3268,7 @@
     "shootNote": ""
   },
   "ED2467|Heavy Knit Zip Quarter Zip - Ash Olive": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3287,7 +3287,7 @@
     "shootNote": ""
   },
   "TH3531|\"The Gino\" - Solid Dark Olive Green": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3306,7 +3306,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Brushed Walnut|Suit — Brushed Walnut": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3526,6 +3526,44 @@
     "talSampleType": "",
     "talRecSize": "",
     "talNote": "Tops Try on 8/25",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "ED2490|Brushed Mid-Weight Long Sleeve Crewneck - Black": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "PPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "ED2490|Brushed Mid-Weight Long Sleeve Crewneck - White": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
     "holdReason": "",
     "holdNote": "",
     "heldAt": "",
