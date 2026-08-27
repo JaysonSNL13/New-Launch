@@ -1,7 +1,97 @@
 {
-  "lastUpdated": "2026-08-27T09:28:39.418Z",
-  "count": 389,
+  "lastUpdated": "2026-08-27T11:04:39.812Z",
+  "count": 392,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
     {
       "name": "Buttonless Sweater Polo - Black",
       "recentRestock": true,
@@ -165,12 +255,6 @@
       "restock": "2026-08-14"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
@@ -193,12 +277,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
@@ -237,31 +315,7 @@
       "restock": "2026-08-11"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
       "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -387,12 +441,6 @@
       "restock": "2026-08-07"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
       "recentRestock": true,
       "hasPO": true,
@@ -403,12 +451,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-07"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
@@ -429,12 +471,6 @@
       "restock": "2026-08-04"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": true,
       "hasPO": true,
@@ -442,12 +478,6 @@
     },
     {
       "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -478,12 +508,6 @@
     },
     {
       "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -770,21 +794,6 @@
       "hasPO": true
     },
     {
-      "name": "Tuxedo Studs (Set of 5)",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Square Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Knot Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Westport\" Black Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
@@ -796,11 +805,6 @@
     },
     {
       "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -845,11 +849,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Paul'' Stone Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -871,6 +870,46 @@
     },
     {
       "name": "\"The Kellen\" Light Blue Mini Patterned",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tuxedo Studs (Set of 5)",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Square Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Knot Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -920,16 +959,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Button Down Vest - Navy",
       "recentRestock": false,
       "hasPO": true
@@ -946,16 +975,6 @@
     },
     {
       "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Stone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1105,16 +1124,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Cotton Quilted Jacket - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1131,6 +1140,16 @@
     },
     {
       "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Deep Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Ash Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1336,21 +1355,6 @@
     },
     {
       "name": "Mid-Weight Wool Crewneck Sweater - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Ash Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1580,11 +1584,6 @@
       "hasPO": true
     },
     {
-      "name": "Navy Silk Bowtie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Maroon Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
@@ -1636,6 +1635,26 @@
     },
     {
       "name": "\"The Roth\" Black Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy & Light Blue Knot Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Navy",
       "recentRestock": false,
       "hasPO": true
     },
