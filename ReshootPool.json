@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-28T09:28:29.665Z",
+  "lastUpdated": "2026-08-28T10:56:02.873Z",
   "count": 384,
   "products": [
+    {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-27"
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-27"
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-08-27"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-07"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-27"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
@@ -58,12 +124,6 @@
     },
     {
       "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -141,12 +201,6 @@
       "restock": "2026-08-25"
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": true,
       "hasPO": true,
@@ -157,12 +211,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-25"
-    },
-    {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
     },
     {
       "name": "Athletic Fit Shorts - Black",
@@ -357,12 +405,6 @@
       "restock": "2026-08-07"
     },
     {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-07"
-    },
-    {
       "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
@@ -370,12 +412,6 @@
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-06"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-06"
@@ -650,21 +686,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tech Chino - Black",
       "recentRestock": false,
       "hasPO": true
@@ -791,21 +812,6 @@
     },
     {
       "name": "Low Top Sneaker - White Leather",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": false,
       "hasPO": true
     },
