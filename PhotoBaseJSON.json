@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T09:28:27.135Z",
+  "lastUpdated": "2026-08-30T09:28:20.515Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 173
@@ -1872,7 +1872,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1895,7 +1895,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1923,7 +1923,7 @@
         "SL-DS-KELLEN-XXL"
       ],
       "bulkExf": "2026-06-29",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Sea",
       "received": false,
@@ -1951,7 +1951,7 @@
         "SL-DS-PRESCOTT-XXL"
       ],
       "bulkExf": "2026-06-29",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Sea",
       "received": false,
@@ -1979,7 +1979,7 @@
         "SL-DS-WINSLOW-XXL"
       ],
       "bulkExf": "2026-06-29",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Sea",
       "received": false,
@@ -2007,7 +2007,7 @@
         "SL-CBD-ARMYGREENPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -2035,7 +2035,7 @@
         "SL-CBD-BLACKPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-09-05",
+      "bulkEtaDate": "2026-09-06",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
