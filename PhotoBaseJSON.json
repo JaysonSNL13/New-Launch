@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-31T10:49:44.115Z",
+  "lastUpdated": "2026-08-31T12:30:46.771Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 170
+    "total": 173
   },
   "items": [
     {
@@ -1411,6 +1411,90 @@
       "shipment": "Fast Boat",
       "received": false,
       "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "\"The Kellen\" Light Blue Mini Patterned",
+      "category": "Dress Shirt",
+      "poRef": "TAL6069",
+      "skus": [
+        "SL-DS-KELLEN-3XL",
+        "SL-DS-KELLEN-L",
+        "SL-DS-KELLEN-M",
+        "SL-DS-KELLEN-S",
+        "SL-DS-KELLEN-XL",
+        "SL-DS-KELLEN-XXL"
+      ],
+      "bulkExf": "",
+      "bulkEtaDate": "2026-09-02",
+      "bulkEta": "Early September",
+      "shipment": "",
+      "received": true,
+      "landedDate": "2026-09-02",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
+      "category": "Dress Shirt",
+      "poRef": "TAL6069",
+      "skus": [
+        "SL-DS-PRESCOTT-3XL",
+        "SL-DS-PRESCOTT-L",
+        "SL-DS-PRESCOTT-M",
+        "SL-DS-PRESCOTT-S",
+        "SL-DS-PRESCOTT-XL",
+        "SL-DS-PRESCOTT-XXL"
+      ],
+      "bulkExf": "",
+      "bulkEtaDate": "2026-09-02",
+      "bulkEta": "Early September",
+      "shipment": "",
+      "received": true,
+      "landedDate": "2026-09-02",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "\"The Winslow\" Navy and Brown Check",
+      "category": "Dress Shirt",
+      "poRef": "TAL6069",
+      "skus": [
+        "SL-DS-WINSLOW-3XL",
+        "SL-DS-WINSLOW-L",
+        "SL-DS-WINSLOW-M",
+        "SL-DS-WINSLOW-S",
+        "SL-DS-WINSLOW-XL",
+        "SL-DS-WINSLOW-XXL"
+      ],
+      "bulkExf": "",
+      "bulkEtaDate": "2026-09-02",
+      "bulkEta": "Early September",
+      "shipment": "",
+      "received": true,
+      "landedDate": "2026-09-02",
       "ppsSize": "",
       "ppsLanded": false,
       "ppsDisplay": "",
