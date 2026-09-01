@@ -713,7 +713,7 @@
     "talStatus": "Approved",
     "talSampleType": "",
     "talRecSize": "TOPS",
-    "talNote": "",
+    "talNote": "ZZPROBE_1788295504180",
     "holdReason": "",
     "holdNote": "",
     "heldAt": "",
@@ -3612,7 +3612,7 @@
   "_meta": {
     "lastUpdate": {
       "action": "updated \"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
-      "at": "2026-09-01T20:44:22.146Z"
+      "at": "2026-09-01T20:45:05.997Z"
     }
   }
 }
