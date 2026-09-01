@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-01T09:28:42.401Z",
+  "lastUpdated": "2026-09-01T10:51:35.292Z",
   "count": 382,
   "products": [
+    {
+      "name": "Waffle Patch Pocket Button Down - Heathered White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-31"
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-31"
+    },
     {
       "name": "Athletic Fit Stretch Tech Chino - Black",
       "recentRestock": true,
@@ -119,13 +131,13 @@
     {
       "name": "\"The Westport\" Black Short Sleeve Crewneck",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-27"
     },
     {
       "name": "\"The Taylor\" White Short Sleeve Crewneck",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-08-27"
     },
     {
@@ -730,16 +742,6 @@
       "hasPO": true
     },
     {
-      "name": "Waffle Patch Pocket Button Down - Heathered White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Paul'' Stone Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -790,26 +792,6 @@
       "hasPO": true
     },
     {
-      "name": "Classic Tuxedo Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Low Top Sneaker - White Leather",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -846,6 +828,46 @@
     },
     {
       "name": "Low Top Sneaker - White & Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Classic Tuxedo Shoe - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Shoe - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Shoe - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Low Top Sneaker - White Leather",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -981,6 +1003,16 @@
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Deep Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Dark Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1240,16 +1272,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Crewneck - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Lightweight Knit Down Vest - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1266,16 +1288,6 @@
     },
     {
       "name": "Mid-Weight Wool Quarter Zip - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1321,16 +1333,6 @@
     },
     {
       "name": "Mid-Weight Ribbed Quarter Zip - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Cream",
       "recentRestock": false,
       "hasPO": true
     },
