@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T20:39:05.904Z",
+  "lastUpdated": "2026-09-01T20:41:42.942Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 172
@@ -147,7 +147,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Swim Trucks - Navy",
@@ -343,7 +343,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Buttonless Sweater Polo - Black",
@@ -1583,7 +1583,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Patch Pocket Button Down - Black",
@@ -1639,7 +1639,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Lightweight Knit Down Vest - Olive",
@@ -2501,7 +2501,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
@@ -2889,7 +2889,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Brushed Cotton Quilted Jacket - Charcoal",
@@ -2917,7 +2917,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "3 Button Peak Lapel Overcoat - Navy",
