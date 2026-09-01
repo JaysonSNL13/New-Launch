@@ -665,7 +665,7 @@
     "shootNote": ""
   },
   "TH3520|Athletic Fit Stretch Suit Vest - Heathered Blue": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3612,7 +3612,7 @@
   "_meta": {
     "lastUpdate": {
       "action": "updated Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "at": "2026-09-01T20:50:39.274Z"
+      "at": "2026-09-01T20:52:48.573Z"
     }
   }
 }
