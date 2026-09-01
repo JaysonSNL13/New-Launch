@@ -665,7 +665,7 @@
     "shootNote": ""
   },
   "TH3520|Athletic Fit Stretch Suit Vest - Heathered Blue": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated \"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
-      "at": "2026-09-01T20:49:45.047Z"
+      "action": "marked Athletic Fit Stretch Suit Vest - Heathered Blue Shot",
+      "at": "2026-09-01T20:50:03.776Z"
     }
   }
 }
