@@ -703,7 +703,7 @@
     "shootNote": ""
   },
   "AR7007|\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check": {
-    "shot": "Shot",
+    "shot": "Not Shot",
     "ppsConfirmed": true,
     "shootWith": "",
     "manualPps": false,
@@ -3612,7 +3612,7 @@
   "_meta": {
     "lastUpdate": {
       "action": "updated \"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
-      "at": "2026-09-01T20:45:17.576Z"
+      "at": "2026-09-01T20:46:11.548Z"
     }
   }
 }
