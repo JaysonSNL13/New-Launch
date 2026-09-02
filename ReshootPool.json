@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-02T09:28:35.850Z",
+  "lastUpdated": "2026-09-02T10:19:53.930Z",
   "count": 382,
   "products": [
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Olive",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-01"
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Stone",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-01"
+    },
+    {
+      "name": "Heavy Knit Crewneck - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-01"
+    },
+    {
+      "name": "Heavy Knit Crewneck - Tan",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-01"
+    },
     {
       "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": true,
@@ -742,6 +766,16 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Paul'' Stone Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -768,26 +802,6 @@
     },
     {
       "name": "Heavy Knit Hoodie - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Stone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1023,16 +1037,6 @@
     },
     {
       "name": "Brushed Cotton Quilted Jacket - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Brown",
       "recentRestock": false,
       "hasPO": true
     },
