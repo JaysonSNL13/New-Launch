@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T20:41:42.942Z",
+  "lastUpdated": "2026-09-02T09:28:19.756Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 172
@@ -679,7 +679,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Not Shot"
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Waffle Patch Pocket Button Down - Deep Espresso",
@@ -829,7 +829,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -852,7 +852,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -881,7 +881,7 @@
         "SL-BLAZER-BRNTANWNDPN-48"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -910,7 +910,7 @@
         "SL-BLAZER-CREAMPLAID-48"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -939,7 +939,7 @@
         "SL-BLAZER-HOLIVE-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -968,7 +968,7 @@
         "SL-BLAZER-LTGREYCHALK-48"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -997,7 +997,7 @@
         "SL-BLAZER-HLATTE-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1026,7 +1026,7 @@
         "SL-BLAZER-OXBLUEPLAID-48"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1055,7 +1055,7 @@
         "SL-BLAZER-TXTTANOLIVE-46"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1084,7 +1084,7 @@
         "SL-BLAZER-CHARASHSTRIPE-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1113,7 +1113,7 @@
         "SL-BLAZER-WOOLGREYPLAID-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1142,7 +1142,7 @@
         "SL-BLAZER-NAVYBLKMICRO-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1171,7 +1171,7 @@
         "SL-BLAZER-NAVYMIDPLAID-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1199,7 +1199,7 @@
         "SL-CLASSIC-WESTFIELD-48"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1230,7 +1230,7 @@
         "SL-PANT-BRNTANWNDPN-40"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1261,7 +1261,7 @@
         "SL-PANT-CREAMPLAID-40"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1292,7 +1292,7 @@
         "SL-PANT-HOLIVE-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1323,7 +1323,7 @@
         "SL-PANT-LTGREYCHALK-40"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1354,7 +1354,7 @@
         "SL-PANT-HLATTE-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1385,7 +1385,7 @@
         "SL-PANT-OXBLUEPLAID-40"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1418,7 +1418,7 @@
         "SL-PANT-TANOLIVEWINDOW-42"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1449,7 +1449,7 @@
         "SL-PANT-WOOLGREYPLAID-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1480,7 +1480,7 @@
         "SL-PANT-NAVYBLACKMICRO-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1511,7 +1511,7 @@
         "SL-PANT-CHARASHSTRIPE-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1542,7 +1542,7 @@
         "SL-PANT-NAVYMIDPLAID-40"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1570,7 +1570,7 @@
         "SL-CBD-ARMYGREENPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1598,7 +1598,7 @@
         "SL-CBD-BLACKPPBD-XXL"
       ],
       "bulkExf": "2026-07-25",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1626,7 +1626,7 @@
         "SL-VEST-LWKNITDOWNBLK-XXL"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1654,7 +1654,7 @@
         "SL-VEST-LWKNITDOWNOLIVE-XXL"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1682,7 +1682,7 @@
         "SL-QZIP-RIBBEDBLACK-XXL"
       ],
       "bulkExf": "2026-08-06",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1710,7 +1710,7 @@
         "SL-QZIP-RIBBEDGREY-XXL"
       ],
       "bulkExf": "2026-08-06",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1737,7 +1737,7 @@
         "SL-BLAZER-BRNTANWNDPN-46SHORT"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1764,7 +1764,7 @@
         "SL-BLAZER-CREAMPLAID-46SHORT"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1791,7 +1791,7 @@
         "SL-BLAZER-HOLIVE-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1818,7 +1818,7 @@
         "SL-BLAZER-LTGREYCHALK-46SHORT"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1845,7 +1845,7 @@
         "SL-BLAZER-HLATTE-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1872,7 +1872,7 @@
         "SL-BLAZER-OXBLUEPLAID-46SHORT"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1899,7 +1899,7 @@
         "SL-BLAZER-TXTTANOLIVE-46SHORT"
       ],
       "bulkExf": "2026-07-24",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1926,7 +1926,7 @@
         "SL-BLAZER-CHARASHSTRIPE-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1953,7 +1953,7 @@
         "SL-BLAZER-WOOLGREYPLAID-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -1980,7 +1980,7 @@
         "SL-BLAZER-NAVYBLKMICRO-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -2007,7 +2007,7 @@
         "SL-BLAZER-NAVYMIDPLAID-46SHORT"
       ],
       "bulkExf": "2026-08-10",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -2035,7 +2035,7 @@
         "SL-SWEATER-BROWNCREWNECK-XXL"
       ],
       "bulkExf": "2026-08-07",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -2063,7 +2063,7 @@
         "SL-SWEATER-CREAMCREWNECK-XXL"
       ],
       "bulkExf": "2026-08-07",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
@@ -2091,7 +2091,7 @@
         "SL-SWEATER-TANCREWNECK-XXL"
       ],
       "bulkExf": "2026-08-07",
-      "bulkEtaDate": "2026-09-08",
+      "bulkEtaDate": "2026-09-09",
       "bulkEta": "Early September",
       "shipment": "Air",
       "received": false,
