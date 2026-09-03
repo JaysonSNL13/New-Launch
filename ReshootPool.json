@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-03T09:28:40.366Z",
+  "lastUpdated": "2026-09-03T11:15:59.679Z",
   "count": 382,
   "products": [
+    {
+      "name": "Tuxedo Studs (Set of 5)",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-02"
+    },
+    {
+      "name": "Black Square Cuff Links",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-02"
+    },
+    {
+      "name": "Black Knot Cuff Links",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-02"
+    },
+    {
+      "name": "Heavy Knit Hoodie - Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-02"
+    },
     {
       "name": "Textured Buttonless Long Sleeve Polo - Olive",
       "recentRestock": true,
@@ -766,51 +790,6 @@
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Paul'' Stone Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Tuxedo Studs (Set of 5)",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Square Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Knot Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Button Down Vest - Navy",
       "recentRestock": false,
       "hasPO": true
@@ -882,6 +861,16 @@
     },
     {
       "name": "Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -971,6 +960,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
@@ -986,11 +980,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
       "recentRestock": false,
       "hasPO": true
@@ -1001,12 +990,22 @@
       "hasPO": true
     },
     {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "name": "Patch Pocket Button Down - Brown",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Cotton Denim Dress Shirt - Navy",
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Paul'' Stone Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Onyx'' Charcoal Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1017,6 +1016,11 @@
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1062,56 +1066,6 @@
     },
     {
       "name": "\"The Peter'' Light Blue Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Circle Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1311,6 +1265,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Suspenders",
       "recentRestock": false,
       "hasPO": true
@@ -1422,11 +1381,6 @@
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1582,6 +1536,11 @@
     },
     {
       "name": "\"The Roth\" Black Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1867,6 +1826,51 @@
     },
     {
       "name": "Open Button Overcoat - Charcoal Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
       "recentRestock": false,
       "hasPO": true
     },
