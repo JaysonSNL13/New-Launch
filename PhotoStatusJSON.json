@@ -3363,7 +3363,7 @@
     "shootNote": ""
   },
   "ED2462|\"The Aston\" Navy Pique Casual Button Down": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Performance Brushed Cotton Chino - Navy Shot",
-      "at": "2026-09-04T12:40:25.210Z"
+      "action": "marked \"The Aston\" Navy Pique Casual Button Down Shot",
+      "at": "2026-09-04T12:40:32.463Z"
     }
   }
 }
