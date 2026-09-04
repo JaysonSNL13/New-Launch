@@ -3211,7 +3211,7 @@
     "shootNote": ""
   },
   "TH3559|3 Button Overcoat - Brown": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked \"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid Shot",
-      "at": "2026-09-04T12:40:41.443Z"
+      "action": "marked 3 Button Overcoat - Brown Shot",
+      "at": "2026-09-04T12:40:57.048Z"
     }
   }
 }
