@@ -1900,7 +1900,7 @@
     "shootNote": ""
   },
   "TH3531|\"The Gino \"- Solid Dark Olive Green": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "at": "2026-09-01T20:52:48.573Z"
+      "action": "marked \"The Gino \"- Solid Dark Olive Green Shot",
+      "at": "2026-09-04T12:40:04.407Z"
     }
   }
 }
