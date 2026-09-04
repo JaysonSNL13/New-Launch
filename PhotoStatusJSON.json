@@ -3325,7 +3325,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Dark Forest Green|Suit — Dark Forest Green": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Suit — Stone Blue with Navy Windowpane Shot",
-      "at": "2026-09-04T12:41:47.038Z"
+      "action": "marked Suit — Dark Forest Green Shot",
+      "at": "2026-09-04T12:41:51.982Z"
     }
   }
 }
