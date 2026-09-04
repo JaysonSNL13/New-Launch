@@ -2603,7 +2603,7 @@
     "shootNote": ""
   },
   "AR7010|\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked \"The Aston\" Navy Pique Casual Button Down Shot",
-      "at": "2026-09-04T12:40:32.463Z"
+      "action": "marked \"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid Shot",
+      "at": "2026-09-04T12:40:41.443Z"
     }
   }
 }
