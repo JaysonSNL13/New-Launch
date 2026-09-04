@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T11:15:59.679Z",
-  "count": 382,
+  "lastUpdated": "2026-09-04T09:29:23.635Z",
+  "count": 381,
   "products": [
     {
       "name": "Tuxedo Studs (Set of 5)",
@@ -522,13 +522,13 @@
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-05"
+      "restock": "2026-08-10"
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-05"
+      "restock": "2026-08-10"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
@@ -757,12 +757,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-05"
     },
     {
       "name": "\"The Matt\" Sky Blue Pique Polo",
