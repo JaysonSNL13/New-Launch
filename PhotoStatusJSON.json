@@ -3192,7 +3192,7 @@
     "shootNote": ""
   },
   "KA8001|3 Button Peak Lapel Overcoat - Navy": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked 3 Button Overcoat - Light Grey Shot",
-      "at": "2026-09-04T12:41:00.034Z"
+      "action": "marked 3 Button Peak Lapel Overcoat - Navy Shot",
+      "at": "2026-09-04T12:41:03.574Z"
     }
   }
 }
