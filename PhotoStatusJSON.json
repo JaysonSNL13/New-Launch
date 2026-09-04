@@ -3116,7 +3116,7 @@
     "shootNote": ""
   },
   "ED2456|Performance Brushed Cotton Chino - Navy": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Performance Brushed Cotton Chino - Dark Brown Shot",
-      "at": "2026-09-04T12:40:21.613Z"
+      "action": "marked Performance Brushed Cotton Chino - Navy Shot",
+      "at": "2026-09-04T12:40:25.210Z"
     }
   }
 }
