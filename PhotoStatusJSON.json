@@ -3173,7 +3173,7 @@
     "shootNote": ""
   },
   "KA8002|Double Breasted Peacoat - Grey": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked 3 Button Peak Lapel Overcoat - Navy Shot",
-      "at": "2026-09-04T12:41:03.574Z"
+      "action": "marked Double Breasted Peacoat - Grey Shot",
+      "at": "2026-09-04T12:41:06.404Z"
     }
   }
 }
