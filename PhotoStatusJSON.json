@@ -3078,7 +3078,7 @@
     "shootNote": ""
   },
   "ED2456|Performance Brushed Cotton Chino - Charcoal": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked \"The Gino \"- Solid Dark Olive Green Shot",
-      "at": "2026-09-04T12:40:04.407Z"
+      "action": "marked Performance Brushed Cotton Chino - Charcoal Shot",
+      "at": "2026-09-04T12:40:20.730Z"
     }
   }
 }
