@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-04T09:28:37.129Z",
-  "count": 1494,
+  "lastUpdated": "2026-09-04T11:01:22.267Z",
+  "count": 1495,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -6178,6 +6178,12 @@
     },
     {
       "parentName": "Pocket Square - White With Plum Edge Stitch",
+      "category": "Pocket Square",
+      "poRef": "",
+      "sizes": "One Size"
+    },
+    {
+      "parentName": "Pocket Square - White With Purple Edge Stitch",
       "category": "Pocket Square",
       "poRef": "",
       "sizes": "One Size"
