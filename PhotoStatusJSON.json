@@ -2983,7 +2983,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Grey and Charcoal Microcheck|Suit — Grey and Charcoal Microcheck": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Textured Buttonless Long Sleeve Polo - Stone Shot",
-      "at": "2026-09-04T12:42:06.296Z"
+      "action": "marked Suit — Grey and Charcoal Microcheck Shot",
+      "at": "2026-09-04T12:42:30.580Z"
     }
   }
 }
