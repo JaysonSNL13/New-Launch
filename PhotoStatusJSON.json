@@ -1957,7 +1957,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Stone Blue with Navy Windowpane|Suit — Stone Blue with Navy Windowpane": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Suit — Spruce Green and White Windowpane Shot",
-      "at": "2026-09-04T12:41:40.721Z"
+      "action": "marked Suit — Stone Blue with Navy Windowpane Shot",
+      "at": "2026-09-04T12:41:47.038Z"
     }
   }
 }
