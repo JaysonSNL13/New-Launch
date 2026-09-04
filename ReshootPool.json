@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-04T09:29:23.635Z",
+  "lastUpdated": "2026-09-04T11:01:30.841Z",
   "count": 381,
   "products": [
+    {
+      "name": "Heavy Knit Hoodie - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-03"
+    },
+    {
+      "name": "Heavy Knit Hoodie - Cream",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-03"
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-03"
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-03"
+    },
     {
       "name": "Tuxedo Studs (Set of 5)",
       "recentRestock": true,
@@ -839,26 +863,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Hoodie - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Cotton Denim Dress Shirt - Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1494,12 +1498,12 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White With Light Purple Edge Stitch",
+      "name": "Pocket Square - White With Plum Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White With Plum Edge Stitch",
+      "name": "Pocket Square - White With Purple Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
