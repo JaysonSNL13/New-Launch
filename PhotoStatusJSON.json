@@ -672,9 +672,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "TOPS",
     "talNote": "Don't have it yet",
     "holdReason": "",
     "holdNote": "",
@@ -3611,8 +3611,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "marked Suit — Grey and Charcoal Microcheck Shot",
-      "at": "2026-09-04T12:42:30.580Z"
+      "action": "approved Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "at": "2026-09-08T18:12:10.752Z"
     }
   }
 }
