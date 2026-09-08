@@ -3609,10 +3609,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "ED2490|Brushed Mid-Weight Long Sleeve Crewneck - Olive": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "PPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "at": "2026-09-08T18:12:10.752Z"
+      "action": "approved Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "at": "2026-09-08T18:12:27.691Z"
     }
   }
 }
