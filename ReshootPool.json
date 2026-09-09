@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T11:00:22.916Z",
-  "count": 373,
+  "lastUpdated": "2026-09-09T09:28:51.915Z",
+  "count": 372,
   "products": [
     {
       "name": "Heavy Knit Hoodie - Black",
@@ -546,25 +546,13 @@
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-10"
+      "restock": "2026-08-11"
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-10"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-10"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-10"
+      "restock": "2026-08-11"
     },
     {
       "name": "\"The Matt\" Sky Blue Pique Polo",
@@ -1428,6 +1416,11 @@
     },
     {
       "name": "Pocket Square - White With Purple Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
