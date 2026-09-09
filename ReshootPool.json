@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-09T09:28:51.915Z",
+  "lastUpdated": "2026-09-09T11:18:23.493Z",
   "count": 372,
   "products": [
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-11"
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-08"
+    },
     {
       "name": "Heavy Knit Hoodie - Black",
       "recentRestock": true,
@@ -177,12 +195,6 @@
       "restock": "2026-08-11"
     },
     {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
       "name": "\"The Winslow\" Navy and Brown Check",
       "recentRestock": true,
       "hasPO": false,
@@ -298,12 +310,6 @@
     },
     {
       "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-26"
@@ -590,16 +596,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Zip Quarter Zip - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Low Top Sneaker - White & Tan",
       "recentRestock": false,
       "hasPO": true
@@ -625,47 +621,12 @@
       "hasPO": true
     },
     {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Von\" Solid Black - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -745,26 +706,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Jameson\" Mini Navy Dot Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": false,
       "hasPO": true
@@ -791,6 +732,56 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Cotton Denim Dress Shirt - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -915,6 +906,16 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Army Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
       "recentRestock": false,
       "hasPO": true
@@ -946,6 +947,26 @@
     },
     {
       "name": "Heavy Knit Hoodie - Ash Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Quarter Zip - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Quarter Zip - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Zip Quarter Zip - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1101,16 +1122,6 @@
     },
     {
       "name": "Lightweight Knit Down Vest - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Wool Quarter Zip - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Wool Quarter Zip - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1541,16 +1552,6 @@
     },
     {
       "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Army Green",
       "recentRestock": false,
       "hasPO": true
     },
