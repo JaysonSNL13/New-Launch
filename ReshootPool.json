@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T11:18:23.493Z",
+  "lastUpdated": "2026-09-10T09:28:32.672Z",
   "count": 372,
   "products": [
     {
@@ -12,7 +12,7 @@
       "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "\"The Smokey\" Solid White With Olive Accents",
@@ -174,7 +174,7 @@
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "\"The Morrison\" Blue & White Mini Pattern",
@@ -186,13 +186,13 @@
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "\"The Springer\" Solid White",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-28"
     },
     {
       "name": "\"The Winslow\" Navy and Brown Check",
@@ -234,7 +234,7 @@
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-25"
     },
     {
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
@@ -288,13 +288,13 @@
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
@@ -318,7 +318,7 @@
       "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-11"
+      "restock": "2026-08-26"
     },
     {
       "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
@@ -483,84 +483,6 @@
       "restock": "2026-08-14"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-11"
-    },
-    {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": false,
       "hasPO": true
@@ -627,6 +549,16 @@
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -706,6 +638,26 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": false,
       "hasPO": true
@@ -771,6 +723,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": false,
       "hasPO": true
@@ -782,6 +739,21 @@
     },
     {
       "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -807,6 +779,16 @@
     },
     {
       "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
@@ -992,6 +974,11 @@
     },
     {
       "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
