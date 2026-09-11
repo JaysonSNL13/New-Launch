@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-11T09:29:06.022Z",
-  "count": 372,
+  "lastUpdated": "2026-09-11T11:06:47.041Z",
+  "count": 373,
   "products": [
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-28"
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot Print",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-28"
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-28"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-26"
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-08"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-08-25"
+    },
+    {
+      "name": "\"The Von\" Solid Black - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
     {
       "name": "3 Button Overcoat - Charcoal Herringbone",
       "recentRestock": true,
@@ -73,24 +157,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-09"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-08"
     },
     {
       "name": "Heavy Knit Hoodie - Black",
@@ -231,12 +297,6 @@
       "restock": "2026-08-27"
     },
     {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
       "name": "\"The Herbert\" Solid Pink",
       "recentRestock": true,
       "hasPO": true,
@@ -247,24 +307,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-08-26"
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
     },
     {
       "name": "\"The Winslow\" Navy and Brown Check",
@@ -301,12 +343,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-27"
-    },
-    {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
     },
     {
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
@@ -566,11 +602,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -591,6 +622,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": false,
       "hasPO": true
@@ -602,6 +638,16 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Low Top Sneaker - White & Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -626,7 +672,52 @@
       "hasPO": true
     },
     {
-      "name": "\"The Von\" Solid Black - Classic Fit",
+      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Crewneck Sweater - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Crewneck Sweater - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -641,7 +732,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "name": "Mid-Weight Ribbed Quarter Zip - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -721,97 +817,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jameson\" Mini Navy Dot Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Low Top Sneaker - White & Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -822,6 +828,21 @@
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quilted Hybrid Hooded Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1136,16 +1157,6 @@
       "hasPO": true
     },
     {
-      "name": "Lightweight Knit Down Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Lincoln'' Olive Cotton Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -1211,6 +1222,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
       "recentRestock": false,
       "hasPO": true
@@ -1252,11 +1268,6 @@
     },
     {
       "name": "Dress Socks - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1316,11 +1327,6 @@
       "hasPO": true
     },
     {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1332,6 +1338,11 @@
     },
     {
       "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink - Classic fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1626,6 +1637,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Jeans - Slate Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1732,11 +1748,6 @@
     },
     {
       "name": "Silk Tie - Solid Dark Plum",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1926,12 +1937,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Howard\" Solid Navy",
+      "name": "\"The Rocky'' Powder Blue with White Stripes",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Rocky'' Powder Blue with White Stripes",
+      "name": "Athletic fit Stretch Jeans - Navy",
       "recentRestock": false,
       "hasPO": true
     },
