@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T09:28:29.829Z",
-  "count": 373,
+  "lastUpdated": "2026-09-13T09:28:34.445Z",
+  "count": 370,
   "products": [
     {
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
@@ -523,48 +523,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-21"
-    },
-    {
-      "name": "\"The Dylan\" Sky Blue Pique Button Down",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "\"The Mark\" White Pique Button Down",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "\"The Grover'' Olive Pique Button Down",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-14"
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-14"
     },
     {
       "name": "\"The Matt\" Sky Blue Pique Polo",
@@ -1373,6 +1331,26 @@
     },
     {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
       "recentRestock": false,
       "hasPO": true
     },
