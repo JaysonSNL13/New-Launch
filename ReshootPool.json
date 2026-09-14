@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T09:28:29.934Z",
-  "count": 370,
+  "lastUpdated": "2026-09-14T11:17:25.696Z",
+  "count": 371,
   "products": [
     {
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
@@ -203,7 +203,7 @@
     {
       "name": "Heavy Knit Hoodie - Tan",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-09-02"
     },
     {
@@ -580,11 +580,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Lawrence'' Sport Shirt - Light Blue with Navy Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
       "recentRestock": false,
       "hasPO": true
@@ -655,12 +650,132 @@
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Brown",
+      "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Navy",
+      "name": "Branded No-Show Socks - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Suspenders",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Silk Bowtie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Pre-Tied Bow Tie - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Light Blue & Grey Cross Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy & White Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Navy with Mini Grey Diamond",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Sea Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sage Green Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Champagne Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Light Blue with Grey & White Stripes",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Light Blue Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester'' Pink Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -685,17 +800,22 @@
       "hasPO": true
     },
     {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Mid-Weight Ribbed Quarter Zip - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Mid-Weight Ribbed Quarter Zip - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Army Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -775,6 +895,16 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
@@ -815,97 +945,12 @@
       "hasPO": true
     },
     {
-      "name": "Branded No-Show Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Branded No-Show Socks - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Cotton Shirt Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Stone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Silk Bowtie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Pre-Tied Bow Tie - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Light Blue & Grey Cross Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Navy Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Navy & White Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy with Mini Grey Diamond",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Sea Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sage Green Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Champagne Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Light Blue with Grey & White Stripes",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Light Blue Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Army Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -970,27 +1015,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester'' Pink Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1120,11 +1145,6 @@
       "hasPO": true
     },
     {
-      "name": "Suspenders",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
@@ -1195,6 +1215,21 @@
       "hasPO": true
     },
     {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Vest - Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1226,6 +1261,21 @@
     },
     {
       "name": "Dress Socks - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1331,26 +1381,6 @@
     },
     {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1525,21 +1555,6 @@
       "hasPO": true
     },
     {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1586,21 +1601,6 @@
     },
     {
       "name": "\"The Kelce\" Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1696,11 +1696,6 @@
     },
     {
       "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1911,6 +1906,16 @@
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Dylan\" Sky Blue Pique Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Mark\" White Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
