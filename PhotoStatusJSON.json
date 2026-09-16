@@ -2318,7 +2318,7 @@
     "shootNote": ""
   },
   "SUIT|dress|Midnight Charcoal with Light Grey Windowpane|Suit — Midnight Charcoal with Light Grey Windowpane": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3630,8 +3630,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Brushed Mid-Weight Long Sleeve Crewneck - Black",
-      "at": "2026-09-16T11:12:50.065Z"
+      "action": "updated Suit — Midnight Charcoal with Light Grey Windowpane",
+      "at": "2026-09-16T11:13:00.635Z"
     }
   }
 }
