@@ -3534,7 +3534,7 @@
     "shootNote": ""
   },
   "ED2490|Brushed Mid-Weight Long Sleeve Crewneck - Black": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3630,8 +3630,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated \"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "at": "2026-09-16T11:12:12.412Z"
+      "action": "updated Brushed Mid-Weight Long Sleeve Crewneck - Black",
+      "at": "2026-09-16T11:12:50.065Z"
     }
   }
 }
