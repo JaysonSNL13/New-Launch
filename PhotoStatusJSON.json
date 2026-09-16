@@ -2622,7 +2622,7 @@
     "shootNote": ""
   },
   "AR7010|\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo": {
-    "shot": "Not Shot",
+    "shot": "Shot",
     "ppsConfirmed": false,
     "shootWith": "",
     "manualPps": false,
@@ -3630,8 +3630,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Brushed Mid-Weight Long Sleeve Crewneck - Olive",
-      "at": "2026-09-08T18:12:27.691Z"
+      "action": "updated \"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "at": "2026-09-16T11:12:00.906Z"
     }
   }
 }
