@@ -3864,9 +3864,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3913,10 +3913,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "TH3577|\"The Topper'' Navy Bengal Stripe": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Silk Tie - Navy Circular Geo",
-      "at": "2026-09-17T15:16:23.158Z"
+      "action": "updated Silk Tie - Solid Dark Tan",
+      "at": "2026-09-17T15:18:27.377Z"
     }
   }
 }
