@@ -3818,10 +3818,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "AR7011|\"The Frankfort'' Sport Shirt - Navy with White Plaid": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "PPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Lightweight Knit Polo - Charcoal Herringbone",
-      "at": "2026-09-17T15:13:58.937Z"
+      "action": "approved \"The Frankfort'' Sport Shirt - Navy with White Plaid",
+      "at": "2026-09-17T15:14:37.356Z"
     }
   }
 }
