@@ -2002,15 +2002,15 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Hold",
+    "talStatus": "Approved",
     "talSampleType": "",
     "talRecSize": "PPS",
     "talNote": "Wrong styling (color)",
-    "holdReason": "Dialing in sizing / sample for fit, not shoot",
+    "holdReason": "",
     "holdNote": "",
-    "heldAt": "1787855571276",
+    "heldAt": "",
     "heldBy": "",
-    "returnsAt": "1788460371276",
+    "returnsAt": "",
     "shootNote": ""
   },
   "ED2476|Mid-Weight Wool Quarter Zip - Navy": {
@@ -3820,8 +3820,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Silk Tie - Black with Lavender Geometric",
-      "at": "2026-09-17T15:13:58.240Z"
+      "action": "approved Lightweight Knit Polo - Charcoal Herringbone",
+      "at": "2026-09-17T15:13:58.937Z"
     }
   }
 }
