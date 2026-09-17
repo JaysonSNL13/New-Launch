@@ -3856,29 +3856,10 @@
     "returnsAt": "",
     "shootNote": ""
   },
-  "TH3577|\"The Topper'' Navy Bengal Stripe": {
-    "shot": "Not Shot",
-    "ppsConfirmed": false,
-    "shootWith": "",
-    "manualPps": false,
-    "manualTops": false,
-    "manualPpsSize": "",
-    "manualTopsSize": "",
-    "talStatus": "Approved",
-    "talSampleType": "",
-    "talRecSize": "PPS",
-    "talNote": "",
-    "holdReason": "",
-    "holdNote": "",
-    "heldAt": "",
-    "heldBy": "",
-    "returnsAt": "",
-    "shootNote": ""
-  },
   "_meta": {
     "lastUpdate": {
-      "action": "updated \"The Topper'' Navy Bengal Stripe",
-      "at": "2026-09-17T15:15:58.096Z"
+      "action": "updated \"The Holmes'' Light Blue and Grey Windowpane",
+      "at": "2026-09-17T15:16:01.396Z"
     }
   }
 }
