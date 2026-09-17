@@ -3674,9 +3674,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3837,10 +3837,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "AR7011|\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved \"The Frankfort'' Sport Shirt - Navy with White Plaid",
-      "at": "2026-09-17T15:14:37.356Z"
+      "action": "updated Lightweight Knit Polo - Charcoal Herringbone",
+      "at": "2026-09-17T15:15:53.976Z"
     }
   }
 }
