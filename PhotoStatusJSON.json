@@ -3771,6 +3771,44 @@
     "manualTopsSize": "",
     "talStatus": "Approved",
     "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "AR7011|\"The Eddie'' Sport Shirt - Maroon and Grey Big Gingham": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "TH3571|Silk Tie - Black with Lavender Geometric": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
     "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
@@ -3782,8 +3820,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Pocket Square - Solid Brown",
-      "at": "2026-09-17T15:13:57.494Z"
+      "action": "approved Silk Tie - Black with Lavender Geometric",
+      "at": "2026-09-17T15:13:58.240Z"
     }
   }
 }
