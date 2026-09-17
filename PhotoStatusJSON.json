@@ -3856,25 +3856,6 @@
     "returnsAt": "",
     "shootNote": ""
   },
-  "TH3571|Silk Tie - Solid Dark Tan": {
-    "shot": "Not Shot",
-    "ppsConfirmed": false,
-    "shootWith": "",
-    "manualPps": false,
-    "manualTops": false,
-    "manualPpsSize": "",
-    "manualTopsSize": "",
-    "talStatus": "Pending",
-    "talSampleType": "",
-    "talRecSize": "",
-    "talNote": "",
-    "holdReason": "",
-    "holdNote": "",
-    "heldAt": "",
-    "heldBy": "",
-    "returnsAt": "",
-    "shootNote": ""
-  },
   "_meta": {
     "lastUpdate": {
       "action": "updated Silk Tie - Mid Blue",
