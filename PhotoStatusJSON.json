@@ -3742,10 +3742,48 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "TH3571|Silk Tie - Burgundy & White Dash": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "PPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "TH3571|Silk Tie - Mid Blue": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "PPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Silk Tie - Navy Circular Geo",
-      "at": "2026-09-17T15:13:38.360Z"
+      "action": "approved Pocket Square - Solid Brown",
+      "at": "2026-09-17T15:13:57.494Z"
     }
   }
 }
