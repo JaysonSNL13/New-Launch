@@ -3904,7 +3904,7 @@
     "manualTopsSize": "",
     "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "PPS",
+    "talRecSize": "TOPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3921,9 +3921,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3934,8 +3934,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Silk Tie - Solid Dark Tan",
-      "at": "2026-09-17T15:18:27.377Z"
+      "action": "updated \"The Topper'' Navy Bengal Stripe",
+      "at": "2026-09-17T15:18:28.405Z"
     }
   }
 }
