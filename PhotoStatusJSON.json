@@ -3655,9 +3655,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3771,7 +3771,7 @@
     "manualTopsSize": "",
     "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "TOPS",
+    "talRecSize": "PPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -3856,10 +3856,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "TH3571|Silk Tie - Solid Dark Tan": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Silk Tie - Mid Blue",
-      "at": "2026-09-17T15:16:01.718Z"
+      "action": "updated Pocket Square - Solid Brown",
+      "at": "2026-09-17T15:16:20.318Z"
     }
   }
 }
