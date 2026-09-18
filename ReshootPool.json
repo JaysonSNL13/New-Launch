@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026-09-18T09:28:35.521Z",
+  "lastUpdated": "2026-09-18T11:04:06.465Z",
   "count": 372,
   "products": [
+    {
+      "name": "Low Top Sneaker - White & Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-17"
+    },
     {
       "name": "\"The Matt\" Sky Blue Pique Polo",
       "recentRestock": true,
@@ -929,11 +935,6 @@
       "hasPO": true
     },
     {
-      "name": "Low Top Sneaker - White & Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Classic Tuxedo Shoe - Black",
       "recentRestock": false,
       "hasPO": true
@@ -954,37 +955,7 @@
       "hasPO": true
     },
     {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1020,6 +991,36 @@
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Dark Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quarter Zip - Solid Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1534,6 +1535,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1545,11 +1551,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
       "recentRestock": false,
       "hasPO": true
     },
