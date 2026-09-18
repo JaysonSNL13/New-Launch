@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T10:43:12.178Z",
+  "lastUpdated": "2026-09-18T09:28:23.637Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 164
@@ -1150,7 +1150,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1173,7 +1173,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1201,7 +1201,7 @@
         "SL-CBD-ASTON-XXL"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1229,7 +1229,7 @@
         "SL-CBD-BRONCO-XXL"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1257,7 +1257,7 @@
         "SL-CBD-MONACO-XXL"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1285,7 +1285,7 @@
         "SL-JACKET-BRUSHEDBLACK-XXL"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1313,7 +1313,7 @@
         "SL-JACKET-BRUSHEDSTONE-XXL"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1341,7 +1341,7 @@
         "SL-JACKET-WOOLBOMBERBEIGE-XXL"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1364,7 +1364,7 @@
         "SL-PS-SOLIDBROWN"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1392,7 +1392,7 @@
         "SL-SPORTSHIRT-GRETZKY-XXL"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1420,7 +1420,7 @@
         "SL-SPORTSHIRT-PAYTON-XXL"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1448,7 +1448,7 @@
         "SL-SPORTSHIRT-RODGERS-XXL"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1476,7 +1476,7 @@
         "SL-VEST-006-48"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-24",
+      "bulkEtaDate": "2026-09-25",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
