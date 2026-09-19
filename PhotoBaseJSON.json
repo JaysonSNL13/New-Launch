@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T11:03:52.993Z",
+  "lastUpdated": "2026-09-19T09:28:19.080Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 164
@@ -1460,7 +1460,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-25",
+      "bulkEtaDate": "2026-09-26",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1483,7 +1483,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-25",
+      "bulkEtaDate": "2026-09-26",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1506,7 +1506,7 @@
         "SL-PS-SOLIDBROWN"
       ],
       "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-25",
+      "bulkEtaDate": "2026-09-26",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
@@ -1534,7 +1534,7 @@
         "SL-VEST-006-48"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-25",
+      "bulkEtaDate": "2026-09-26",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
