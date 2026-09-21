@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T09:28:56.569Z",
-  "count": 364,
+  "lastUpdated": "2026-09-21T10:54:33.980Z",
+  "count": 367,
   "products": [
     {
       "name": "Low Top Sneaker - White & Tan",
@@ -887,52 +887,7 @@
       "hasPO": true
     },
     {
-      "name": "Classic Tuxedo Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Shoe - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Low Top Sneaker - White Leather",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Paul'' Stone Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Onyx'' Charcoal Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -963,6 +918,21 @@
     },
     {
       "name": "Quarter Zip - Solid Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Quilted Hybrid Hooded Jacket - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1008,6 +978,16 @@
     },
     {
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Paul'' Stone Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Onyx'' Charcoal Button Down",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1207,6 +1187,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Kona'' Light Blue with Navy Dots",
       "recentRestock": false,
       "hasPO": true
@@ -1227,6 +1212,36 @@
       "hasPO": true
     },
     {
+      "name": "\"The Delancey'' Navy Gingham",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Irvington'' Green with White Polka Dot",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Sullivan'' Brown and Taupe Big Gingham",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Royal'' Light Grey Mini Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Midtown'' Dark Maroon Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Monroe'' Black Mini Lock",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1238,11 +1253,6 @@
     },
     {
       "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1347,6 +1357,46 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1382,32 +1432,32 @@
       "hasPO": true
     },
     {
-      "name": "\"The Delancey'' Navy Gingham",
+      "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Irvington'' Green with White Polka Dot",
+      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Sullivan'' Brown and Taupe Big Gingham",
+      "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Royal'' Light Grey Mini Check",
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Midtown'' Dark Maroon Windowpane",
+      "name": "Athletic Fit Stretch Tech Chino - Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Monroe'' Black Mini Lock",
+      "name": "Athletic Fit Stretch Tech Chino - White",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1488,46 +1538,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1917,11 +1927,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Howard\" Solid Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1963,6 +1968,16 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Pants - Grey & White Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Pants - Black Seersucker",
       "recentRestock": false,
       "hasPO": true
     }
