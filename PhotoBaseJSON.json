@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T09:28:19.850Z",
+  "lastUpdated": "2026-09-21T09:28:27.684Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 164
@@ -1453,52 +1453,6 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Sunglasses - Matte Black",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-BLACKSUNGLSS"
-      ],
-      "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-27",
-      "bulkEta": "End of September",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Sunglasses - Tortoise Shell",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-TORTOISESUNGLSS"
-      ],
-      "bulkExf": "2026-07-11",
-      "bulkEtaDate": "2026-09-27",
-      "bulkEta": "End of September",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "Quilted Hybrid Hooded Jacket - Black",
       "category": "Jackets",
       "poRef": "ED2453",
@@ -1525,29 +1479,6 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Pocket Square - Solid Brown",
-      "category": "Pocket Square",
-      "poRef": "TH3555",
-      "skus": [
-        "SL-PS-SOLIDBROWN"
-      ],
-      "bulkExf": "2026-08-25",
-      "bulkEtaDate": "2026-09-27",
-      "bulkEta": "End of September",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Lightweight Knit Down Vest - Black",
@@ -1606,6 +1537,75 @@
       "shotStatus": "Shot"
     },
     {
+      "parentName": "Sunglasses - Matte Black",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-BLACKSUNGLSS"
+      ],
+      "bulkExf": "2026-07-11",
+      "bulkEtaDate": "2026-09-28",
+      "bulkEta": "End of September",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Sunglasses - Tortoise Shell",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-TORTOISESUNGLSS"
+      ],
+      "bulkExf": "2026-07-11",
+      "bulkEtaDate": "2026-09-28",
+      "bulkEta": "End of September",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Pocket Square - Solid Brown",
+      "category": "Pocket Square",
+      "poRef": "TH3555",
+      "skus": [
+        "SL-PS-SOLIDBROWN"
+      ],
+      "bulkExf": "2026-08-25",
+      "bulkEtaDate": "2026-09-28",
+      "bulkEta": "End of September",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
       "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
       "category": "Vests",
       "poRef": "TH3520",
@@ -1618,7 +1618,7 @@
         "SL-VEST-006-48"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-09-27",
+      "bulkEtaDate": "2026-09-28",
       "bulkEta": "End of September",
       "shipment": "Air",
       "received": false,
