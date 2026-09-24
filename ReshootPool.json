@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T10:54:58.460Z",
-  "count": 368,
+  "lastUpdated": "2026-09-24T09:28:40.646Z",
+  "count": 366,
   "products": [
     {
       "name": "Brushed Cotton Shirt Jacket - Black",
@@ -849,60 +849,6 @@
       "restock": "2026-08-26"
     },
     {
-      "name": "Buttonless Sweater Polo - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Buttonless Sweater Polo - Light Tan",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Buttonless Sweater Polo - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Mock Turtleneck - Cream",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Mock Turtleneck - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-25"
-    },
-    {
       "name": "Quarter Zip - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -938,7 +884,37 @@
       "hasPO": true
     },
     {
+      "name": "Buttonless Sweater Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Buttonless Sweater Polo - Light Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Buttonless Sweater Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1044,6 +1020,11 @@
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
