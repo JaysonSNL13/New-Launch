@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-09-25T09:28:40.792Z",
-  "count": 358,
+  "lastUpdated": "2026-09-25T11:02:42.272Z",
+  "count": 370,
   "products": [
+    {
+      "name": "\"The Dylan\" Sky Blue Pique Button Down",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "\"The Mark\" White Pique Button Down",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "\"The Grover'' Olive Pique Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "Lightweight Knit Down Vest - Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "Quilted Hybrid Hooded Jacket - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-09-24"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-14"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
     {
       "name": "Quarter Zip - Heathered Grey",
       "recentRestock": true,
@@ -183,22 +231,10 @@
       "restock": "2026-09-16"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-14"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
@@ -867,46 +903,6 @@
       "restock": "2026-08-27"
     },
     {
-      "name": "\"The Dylan\" Sky Blue Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Mark\" White Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Grover'' Olive Pique Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Button Down Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Button Down Vest - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Cotton Quilted Jacket - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1437,6 +1433,16 @@
       "hasPO": true
     },
     {
+      "name": "Brushed Button Down Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Button Down Vest - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1483,6 +1489,11 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1543,11 +1554,6 @@
     },
     {
       "name": "Open Button Overcoat - Grey Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1852,7 +1858,67 @@
       "hasPO": true
     },
     {
-      "name": "#N/A",
+      "name": "Pocket Square - Maroon - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Navy - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Pink - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Blue Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Light Blue Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Pink Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Black Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Dark Brown Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Dark Olive Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Light Brown Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Purple Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Plum Edge Stitch - 12X12",
       "recentRestock": false,
       "hasPO": true
     },
