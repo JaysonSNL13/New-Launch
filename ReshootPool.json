@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T10:41:44.708Z",
+  "lastUpdated": "2026-09-25T09:28:40.792Z",
   "count": 358,
   "products": [
     {
@@ -30,13 +30,13 @@
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-26"
+      "restock": "2026-09-23"
     },
     {
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-26"
+      "restock": "2026-08-28"
     },
     {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
@@ -108,7 +108,7 @@
       "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-26"
+      "restock": "2026-09-22"
     },
     {
       "name": "\"The Springer\" Solid White - Classic Fit",
@@ -180,7 +180,7 @@
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-26"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
@@ -867,18 +867,6 @@
       "restock": "2026-08-27"
     },
     {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-26"
-    },
-    {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -964,7 +952,17 @@
       "hasPO": true
     },
     {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": false,
       "hasPO": true
     },
