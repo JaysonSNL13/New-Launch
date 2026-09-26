@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T11:02:42.272Z",
-  "count": 370,
+  "lastUpdated": "2026-09-26T09:28:42.236Z",
+  "count": 369,
   "products": [
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
@@ -162,7 +162,7 @@
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-27"
+      "restock": "2026-09-22"
     },
     {
       "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
@@ -384,13 +384,13 @@
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-27"
+      "restock": "2026-09-14"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-27"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
@@ -528,7 +528,7 @@
       "name": "The Solid White Tuxedo Shirt - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-27"
+      "restock": "2026-09-15"
     },
     {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
@@ -883,24 +883,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-27"
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-27"
-    },
-    {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-27"
     },
     {
       "name": "Brushed Cotton Quilted Jacket - Black",
@@ -1999,6 +1981,16 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     }
