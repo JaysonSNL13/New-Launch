@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T09:28:42.236Z",
-  "count": 369,
+  "lastUpdated": "2026-09-27T09:28:40.162Z",
+  "count": 366,
   "products": [
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
@@ -84,19 +84,19 @@
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-28"
+      "restock": "2026-09-23"
     },
     {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-28"
+      "restock": "2026-09-10"
     },
     {
       "name": "\"The Springer\" Solid White",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-28"
+      "restock": "2026-09-10"
     },
     {
       "name": "\"The Von\" Solid Black",
@@ -636,7 +636,7 @@
       "name": "\"The Briggs\" Solid White with Light Blue Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-08-28"
+      "restock": "2026-09-10"
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot Print",
@@ -807,84 +807,6 @@
       "restock": "2026-08-31"
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Winslow\" Navy and Brown Check",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-28"
-    },
-    {
-      "name": "\"The Kellen\" Light Blue Mini Patterned",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-08-28"
-    },
-    {
       "name": "Brushed Cotton Quilted Jacket - Black",
       "recentRestock": false,
       "hasPO": true
@@ -936,6 +858,11 @@
     },
     {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1340,6 +1267,21 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1430,6 +1372,21 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1476,6 +1433,11 @@
     },
     {
       "name": "\"The Howard\" Solid Navy - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1840,6 +1802,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - Maroon - 12X12",
       "recentRestock": false,
       "hasPO": true
@@ -1906,6 +1873,11 @@
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
       "recentRestock": false,
       "hasPO": true
     },
