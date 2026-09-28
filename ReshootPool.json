@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-28T09:30:13.889Z",
-  "count": 366,
+  "lastUpdated": "2026-09-28T11:07:22.157Z",
+  "count": 373,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-15"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-15"
+    },
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": true,
@@ -109,30 +133,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
     },
     {
       "name": "Brushed Cotton Shirt Jacket - Black",
@@ -832,11 +832,6 @@
       "hasPO": true
     },
     {
-      "name": "Black Circle Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
       "recentRestock": false,
       "hasPO": true
@@ -873,6 +868,41 @@
     },
     {
       "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Deep Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Knit Sweater Bomber - Taupe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Circle Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
@@ -923,36 +953,6 @@
     },
     {
       "name": "Pocket Square - Solid Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Knit Sweater Bomber - Taupe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1927,12 +1927,47 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Pants - Black Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Pants - Grey & White Seersucker",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Pants - Black Seersucker",
+      "name": "#N/A",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Short Sleeve Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Short Sleeve Button Down - Grey & White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Short Sleeve Button Down - Plum",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Polo - Army Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Polo - Navy",
       "recentRestock": false,
       "hasPO": true
     },
