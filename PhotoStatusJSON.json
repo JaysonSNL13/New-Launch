@@ -4122,29 +4122,10 @@
     "returnsAt": "",
     "shootNote": ""
   },
-  "EN8005|Dress Shoe - Dark Brown": {
-    "shot": "Not Shot",
-    "ppsConfirmed": false,
-    "shootWith": "",
-    "manualPps": false,
-    "manualTops": false,
-    "manualPpsSize": "",
-    "manualTopsSize": "",
-    "talStatus": "Approved",
-    "talSampleType": "",
-    "talRecSize": "TOPS",
-    "talNote": "",
-    "holdReason": "",
-    "holdNote": "",
-    "heldAt": "",
-    "heldBy": "",
-    "returnsAt": "",
-    "shootNote": ""
-  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Dress Shoe - Dark Brown",
-      "at": "2026-09-29T11:42:49.154Z"
+      "action": "approved Low Top Sneaker - White Leather",
+      "at": "2026-09-29T11:43:05.931Z"
     }
   }
 }
