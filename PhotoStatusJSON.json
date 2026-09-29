@@ -3951,10 +3951,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "TH3556|Silk Tie - Light Blue with Grey & White Stripes": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Silk Tie - Light Blue & Grey Cross Check",
-      "at": "2026-09-29T11:42:23.793Z"
+      "action": "approved Silk Tie - Light Blue with Grey & White Stripes",
+      "at": "2026-09-29T11:42:25.407Z"
     }
   }
 }
