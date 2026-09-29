@@ -2422,7 +2422,7 @@
     "manualTopsSize": "",
     "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "PPS",
+    "talRecSize": "TOPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -4149,9 +4149,9 @@
     "manualTops": false,
     "manualPpsSize": "",
     "manualTopsSize": "",
-    "talStatus": "Pending",
+    "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "",
+    "talRecSize": "TOPS",
     "talNote": "",
     "holdReason": "",
     "holdNote": "",
@@ -4162,8 +4162,8 @@
   },
   "_meta": {
     "lastUpdate": {
-      "action": "updated Brushed Button Down Vest - Grey",
-      "at": "2026-09-29T11:43:06.842Z"
+      "action": "updated Brushed Button Down Vest - Navy",
+      "at": "2026-09-29T11:43:08.117Z"
     }
   }
 }
