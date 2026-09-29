@@ -2403,7 +2403,7 @@
     "manualTopsSize": "",
     "talStatus": "Approved",
     "talSampleType": "",
-    "talRecSize": "PPS",
+    "talRecSize": "TOPS",
     "talNote": "Back Of Panel Logo - Not Live",
     "holdReason": "",
     "holdNote": "",
@@ -4122,10 +4122,48 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "EN8005|Dress Shoe - Dark Brown": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "EN8005|Dress Shoe - Black": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Low Top Sneaker - White Leather",
-      "at": "2026-09-29T11:43:05.931Z"
+      "action": "updated Brushed Button Down Vest - Grey",
+      "at": "2026-09-29T11:43:06.842Z"
     }
   }
 }
