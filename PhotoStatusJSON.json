@@ -4046,10 +4046,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "ED2472|Mock Turtleneck - Black": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Textured Knit Cashmere Polo - Navy",
-      "at": "2026-09-29T11:42:37.853Z"
+      "action": "approved Mock Turtleneck - Black",
+      "at": "2026-09-29T11:42:44.241Z"
     }
   }
 }
