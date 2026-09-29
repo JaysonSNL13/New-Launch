@@ -3970,10 +3970,48 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "TH3556|Silk Tie - Navy with Mini Grey Diamond": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "TH3556|Silk Tie - Sea Green": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Silk Tie - Light Blue with Grey & White Stripes",
-      "at": "2026-09-29T11:42:25.407Z"
+      "action": "approved Silk Tie - Sea Green",
+      "at": "2026-09-29T11:42:32.105Z"
     }
   }
 }
