@@ -4027,10 +4027,29 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "ED2484|Textured Knit Cashmere Polo - Navy": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Textured Knit Cashmere Polo - Charcoal",
-      "at": "2026-09-29T11:42:35.638Z"
+      "action": "approved Textured Knit Cashmere Polo - Navy",
+      "at": "2026-09-29T11:42:37.853Z"
     }
   }
 }
