@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-28T11:07:11.031Z",
+  "lastUpdated": "2026-09-29T09:28:17.347Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 190
+    "total": 192
   },
   "items": [
     {
@@ -2327,34 +2327,6 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "category": "Vests",
-      "poRef": "TH3520",
-      "skus": [
-        "SL-VEST-006-38",
-        "SL-VEST-006-40",
-        "SL-VEST-006-42",
-        "SL-VEST-006-44",
-        "SL-VEST-006-46",
-        "SL-VEST-006-48"
-      ],
-      "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-10-05",
-      "bulkEta": "Early October",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "Pocket Square - Solid Brown",
       "category": "Pocket Square",
       "poRef": "TH3555",
@@ -2376,6 +2348,34 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "category": "Vests",
+      "poRef": "TH3520",
+      "skus": [
+        "SL-VEST-006-38",
+        "SL-VEST-006-40",
+        "SL-VEST-006-42",
+        "SL-VEST-006-44",
+        "SL-VEST-006-46",
+        "SL-VEST-006-48"
+      ],
+      "bulkExf": "2026-08-15",
+      "bulkEtaDate": "2026-10-06",
+      "bulkEta": "Early October",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Performance Brushed Cotton Chino - Black",
@@ -5258,6 +5258,62 @@
       "bulkEtaDate": "2026-12-14",
       "bulkEta": "Mid December",
       "shipment": "Sea",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "\"The Fletcher'' Navy with Burgundy Windowpane",
+      "category": "Casual Button Down",
+      "poRef": "TH3587",
+      "skus": [
+        "SL-CBD-FLETCHER-3XL",
+        "SL-CBD-FLETCHER-L",
+        "SL-CBD-FLETCHER-M",
+        "SL-CBD-FLETCHER-S",
+        "SL-CBD-FLETCHER-XL",
+        "SL-CBD-FLETCHER-XXL"
+      ],
+      "bulkExf": "2026-12-01",
+      "bulkEtaDate": "2026-12-21",
+      "bulkEta": "Early Winter / Mid Winter",
+      "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "\"The Jagger'' Grey with Navy Big Gingham",
+      "category": "Casual Button Down",
+      "poRef": "TH3587",
+      "skus": [
+        "SL-CBD-JAGGER-3XL",
+        "SL-CBD-JAGGER-L",
+        "SL-CBD-JAGGER-M",
+        "SL-CBD-JAGGER-S",
+        "SL-CBD-JAGGER-XL",
+        "SL-CBD-JAGGER-XXL"
+      ],
+      "bulkExf": "2026-12-01",
+      "bulkEtaDate": "2026-12-21",
+      "bulkEta": "Early Winter / Mid Winter",
+      "shipment": "",
       "received": false,
       "landedDate": "",
       "ppsSize": "",
