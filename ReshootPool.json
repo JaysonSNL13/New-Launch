@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T11:07:22.157Z",
-  "count": 373,
+  "lastUpdated": "2026-09-29T09:28:26.457Z",
+  "count": 374,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
@@ -1937,7 +1937,12 @@
       "hasPO": true
     },
     {
-      "name": "#N/A",
+      "name": "\"The Fletcher'' Navy with Burgundy Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jagger'' Grey with Navy Big Gingham",
       "recentRestock": false,
       "hasPO": true
     },
