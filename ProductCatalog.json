@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T11:07:15.024Z",
-  "count": 1508,
+  "lastUpdated": "2026-09-29T09:28:20.244Z",
+  "count": 1510,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -633,6 +633,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Fletcher'' Navy with Burgundy Windowpane",
+      "category": "Casual Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Flight'' Blue Micro Grid Print",
       "category": "Polos",
       "poRef": "",
@@ -910,6 +916,12 @@
     },
     {
       "parentName": "\"The Jace\" Maroon Pique Button Down",
+      "category": "Casual Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Jagger'' Grey with Navy Big Gingham",
       "category": "Casual Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
