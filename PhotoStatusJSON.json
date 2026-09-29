@@ -4065,10 +4065,86 @@
     "returnsAt": "",
     "shootNote": ""
   },
+  "ED2472|Mock Turtleneck - Cream": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "EN8005|Classic Tuxedo Shoe - Black": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "EN8005|Low Top Sneaker - White Leather": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Pending",
+    "talSampleType": "",
+    "talRecSize": "",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
+  "EN8005|Dress Shoe - Dark Brown": {
+    "shot": "Not Shot",
+    "ppsConfirmed": false,
+    "shootWith": "",
+    "manualPps": false,
+    "manualTops": false,
+    "manualPpsSize": "",
+    "manualTopsSize": "",
+    "talStatus": "Approved",
+    "talSampleType": "",
+    "talRecSize": "TOPS",
+    "talNote": "",
+    "holdReason": "",
+    "holdNote": "",
+    "heldAt": "",
+    "heldBy": "",
+    "returnsAt": "",
+    "shootNote": ""
+  },
   "_meta": {
     "lastUpdate": {
-      "action": "approved Mock Turtleneck - Black",
-      "at": "2026-09-29T11:42:44.241Z"
+      "action": "approved Dress Shoe - Dark Brown",
+      "at": "2026-09-29T11:42:49.154Z"
     }
   }
 }
