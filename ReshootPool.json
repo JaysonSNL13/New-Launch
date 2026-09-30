@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T11:49:31.568Z",
+  "lastUpdated": "2026-09-30T09:29:36.355Z",
   "count": 380,
   "products": [
     {
@@ -793,18 +793,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-01"
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Heathered White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-31"
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-08-31"
     },
     {
       "name": "Sunglasses - Matte Black",
@@ -1623,6 +1611,16 @@
     },
     {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Heathered White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
       "recentRestock": false,
       "hasPO": true
     },
