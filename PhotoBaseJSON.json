@@ -1,94 +1,10 @@
 {
-  "lastUpdated": "2026-09-29T11:49:21.790Z",
+  "lastUpdated": "2026-09-30T09:28:32.783Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 192
+    "total": 189
   },
   "items": [
-    {
-      "parentName": "\"The Longshore'' Sport Shirt - Green and Grey Cross Hatch Windowpane",
-      "category": "Sport Shirt",
-      "poRef": "AR7010",
-      "skus": [
-        "SL-SPORTSHIRT-LONGSHORE-3XL",
-        "SL-SPORTSHIRT-LONGSHORE-L",
-        "SL-SPORTSHIRT-LONGSHORE-M",
-        "SL-SPORTSHIRT-LONGSHORE-S",
-        "SL-SPORTSHIRT-LONGSHORE-XL",
-        "SL-SPORTSHIRT-LONGSHORE-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-08-26",
-      "bulkEta": "End of August",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-08-26",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "\"The Wellington'' Sport Shirt - Light Olive and White Bengal Stripe",
-      "category": "Sport Shirt",
-      "poRef": "AR7010",
-      "skus": [
-        "SL-SPORTSHIRT-WELLINGTON-3XL",
-        "SL-SPORTSHIRT-WELLINGTON-L",
-        "SL-SPORTSHIRT-WELLINGTON-M",
-        "SL-SPORTSHIRT-WELLINGTON-S",
-        "SL-SPORTSHIRT-WELLINGTON-XL",
-        "SL-SPORTSHIRT-WELLINGTON-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-08-26",
-      "bulkEta": "End of August",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-08-26",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "\"The Wrigley'' Sport Shirt - Light Blue & White Wide Stripe",
-      "category": "Sport Shirt",
-      "poRef": "AR7010",
-      "skus": [
-        "SL-SPORTSHIRT-WRIGLEY-3XL",
-        "SL-SPORTSHIRT-WRIGLEY-L",
-        "SL-SPORTSHIRT-WRIGLEY-M",
-        "SL-SPORTSHIRT-WRIGLEY-S",
-        "SL-SPORTSHIRT-WRIGLEY-XL",
-        "SL-SPORTSHIRT-WRIGLEY-XXL"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-08-26",
-      "bulkEta": "End of August",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-08-26",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
     {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
       "category": "Short Blazers",
@@ -2362,7 +2278,7 @@
         "SL-VEST-006-48"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-10-06",
+      "bulkEtaDate": "2026-10-07",
       "bulkEta": "Early October",
       "shipment": "Air",
       "received": false,
