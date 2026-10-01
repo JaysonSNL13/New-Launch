@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T09:28:43.019Z",
-  "count": 380,
+  "lastUpdated": "2026-10-01T11:01:45.697Z",
+  "count": 381,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
@@ -866,37 +866,17 @@
       "hasPO": true
     },
     {
-      "name": "Perforated Leather Belt - Black",
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Perforated Leather Belt - Light Brown",
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Charcoal Olive",
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -976,12 +956,17 @@
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Matte Black",
+      "name": "Heavy Knit Crewneck - Deep Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Tortoise Shell",
+      "name": "Heavy Knit Crewneck - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Knit Sweater Bomber - Taupe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1017,36 +1002,6 @@
     },
     {
       "name": "Buttonless Sweater Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Knit Sweater Bomber - Taupe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1171,11 +1126,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tech Chino - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1202,6 +1152,11 @@
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1256,6 +1211,41 @@
       "hasPO": true
     },
     {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1267,6 +1257,16 @@
     },
     {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1566,51 +1566,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Lightweight Knit Polo - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
@@ -1766,6 +1721,51 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1842,6 +1842,11 @@
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Shawl Lapel",
       "recentRestock": false,
       "hasPO": true
     },
