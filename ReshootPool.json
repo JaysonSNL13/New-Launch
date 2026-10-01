@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T10:57:06.836Z",
+  "lastUpdated": "2026-10-01T09:28:43.019Z",
   "count": 380,
   "products": [
     {
@@ -771,30 +771,6 @@
       "restock": "2026-09-02"
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Olive",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-01"
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Stone",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-01"
-    },
-    {
-      "name": "Heavy Knit Crewneck - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-01"
-    },
-    {
-      "name": "Heavy Knit Crewneck - Tan",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-01"
-    },
-    {
       "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
@@ -871,6 +847,16 @@
     },
     {
       "name": "Pocket Square - Solid Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1071,6 +1057,16 @@
     },
     {
       "name": "Brushed Cotton Quilted Jacket - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Stone",
       "recentRestock": false,
       "hasPO": true
     },
