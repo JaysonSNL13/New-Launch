@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-10-02T09:28:22.568Z",
-  "count": 380,
+  "lastUpdated": "2026-10-02T09:55:52.732Z",
+  "count": 389,
   "products": [
+    {
+      "name": "\"The Paul'' Stone Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-01"
+    },
+    {
+      "name": "\"The Onyx'' Charcoal Button Down",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-01"
+    },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
@@ -947,26 +959,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Paul'' Stone Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Onyx'' Charcoal Button Down",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Buttonless Sweater Polo - Black",
       "recentRestock": false,
       "hasPO": true
@@ -978,6 +970,16 @@
     },
     {
       "name": "Buttonless Sweater Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1167,31 +1169,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Perforated Leather Belt - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1222,6 +1199,41 @@
       "hasPO": true
     },
     {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1242,12 +1254,12 @@
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Matte Black",
+      "name": "Lightweight Knit Polo - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Tortoise Shell",
+      "name": "Lightweight Knit Polo - Light Blue Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1512,6 +1524,21 @@
       "hasPO": true
     },
     {
+      "name": "Snapback Hat - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Snapback Hat - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Snapback Hat - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1543,16 +1570,6 @@
     },
     {
       "name": "Dress Socks - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Light Blue Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1993,6 +2010,36 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Navy",
       "recentRestock": false,
       "hasPO": true
     },
