@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T11:01:45.697Z",
-  "count": 381,
+  "lastUpdated": "2026-10-02T09:28:22.568Z",
+  "count": 380,
   "products": [
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
@@ -747,30 +747,6 @@
       "restock": "2026-09-03"
     },
     {
-      "name": "Tuxedo Studs (Set of 5)",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-02"
-    },
-    {
-      "name": "Black Square Cuff Links",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-02"
-    },
-    {
-      "name": "Black Knot Cuff Links",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-02"
-    },
-    {
-      "name": "Heavy Knit Hoodie - Tan",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-02"
-    },
-    {
       "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
@@ -1032,6 +1008,11 @@
     },
     {
       "name": "Heavy Knit Hoodie - Ash Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1607,6 +1588,16 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tuxedo Studs (Set of 5)",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Square Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
