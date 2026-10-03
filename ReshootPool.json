@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-02T09:55:52.732Z",
-  "count": 389,
+  "lastUpdated": "2026-10-03T09:28:33.127Z",
+  "count": 387,
   "products": [
     {
       "name": "\"The Paul'' Stone Button Down",
@@ -735,30 +735,6 @@
       "restock": "2026-09-09"
     },
     {
-      "name": "Heavy Knit Hoodie - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-03"
-    },
-    {
-      "name": "Heavy Knit Hoodie - Cream",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-03"
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-03"
-    },
-    {
-      "name": "Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-03"
-    },
-    {
       "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
@@ -835,6 +811,16 @@
     },
     {
       "name": "Pocket Square - Solid Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Cream",
       "recentRestock": false,
       "hasPO": true
     },
