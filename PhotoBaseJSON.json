@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T09:55:45.179Z",
+  "lastUpdated": "2026-10-03T09:28:21.300Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 189
@@ -2558,34 +2558,6 @@
       "shotStatus": "Shot"
     },
     {
-      "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "category": "Vests",
-      "poRef": "TH3520",
-      "skus": [
-        "SL-VEST-006-38",
-        "SL-VEST-006-40",
-        "SL-VEST-006-42",
-        "SL-VEST-006-44",
-        "SL-VEST-006-46",
-        "SL-VEST-006-48"
-      ],
-      "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-10-09",
-      "bulkEta": "Early October",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "\"The Founder'' Wide Black Stripe",
       "category": "Dress Shirt",
       "poRef": "TH3526",
@@ -2713,6 +2685,34 @@
       "bulkEtaDate": "2026-10-10",
       "bulkEta": "Mid Fall / Late Fall",
       "shipment": "",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "category": "Vests",
+      "poRef": "TH3520",
+      "skus": [
+        "SL-VEST-006-38",
+        "SL-VEST-006-40",
+        "SL-VEST-006-42",
+        "SL-VEST-006-44",
+        "SL-VEST-006-46",
+        "SL-VEST-006-48"
+      ],
+      "bulkExf": "2026-08-15",
+      "bulkEtaDate": "2026-10-10",
+      "bulkEta": "Early October",
+      "shipment": "Air",
       "received": false,
       "landedDate": "",
       "ppsSize": "",
