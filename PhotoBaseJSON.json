@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T09:28:46.266Z",
+  "lastUpdated": "2026-10-05T09:28:23.643Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 184
@@ -2598,7 +2598,7 @@
         "SL-VEST-006-48"
       ],
       "bulkExf": "2026-08-15",
-      "bulkEtaDate": "2026-10-11",
+      "bulkEtaDate": "2026-10-12",
       "bulkEta": "Mid October",
       "shipment": "Air",
       "received": false,
