@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-10-05T09:28:34.151Z",
+  "lastUpdated": "2026-10-05T11:09:48.872Z",
   "count": 387,
   "products": [
+    {
+      "name": "Heavy Knit Crewneck - Deep Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-02"
+    },
+    {
+      "name": "Heavy Knit Crewneck - Dark Brown",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-02"
+    },
+    {
+      "name": "Knit Sweater Bomber - Taupe",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-02"
+    },
+    {
+      "name": "Heavy Knit Hoodie - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-02"
+    },
+    {
+      "name": "Heavy Knit Hoodie - Cream",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-02"
+    },
     {
       "name": "\"The Paul'' Stone Button Down",
       "recentRestock": true,
@@ -735,36 +765,6 @@
       "restock": "2026-09-09"
     },
     {
-      "name": "Black Circle Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Pocket Square - White",
       "recentRestock": false,
       "hasPO": true
@@ -815,16 +815,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Hoodie - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Heavy Knit Crewneck - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -836,6 +826,16 @@
     },
     {
       "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
       "recentRestock": false,
       "hasPO": true
     },
@@ -865,6 +865,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Mykonos'' White and Blue Geo Prism Print",
       "recentRestock": false,
       "hasPO": true
@@ -876,11 +881,6 @@
     },
     {
       "name": "\"The Orr'' Black & Grey Abstract Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -930,21 +930,6 @@
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Crewneck - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Knit Sweater Bomber - Taupe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Buttonless Sweater Polo - Black",
       "recentRestock": false,
       "hasPO": true
@@ -970,12 +955,22 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Cotton Quilted Jacket - Black",
+      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Brushed Cotton Quilted Jacket - Charcoal",
+      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1061,6 +1056,16 @@
     },
     {
       "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Cotton Quilted Jacket - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Cotton Quilted Jacket - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1185,22 +1190,22 @@
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1271,6 +1276,41 @@
     },
     {
       "name": "Corduroy Harrington Jacket - Dark Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Black with Lavender Geometric",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Burgundy & White Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Khaki Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Navy Circular Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Navy, White, and Black Floral Dot",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Solid Dark Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Mid Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1385,6 +1425,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Casual Stretch Belt - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1410,37 +1455,7 @@
       "hasPO": true
     },
     {
-      "name": "Silk Tie - Black with Lavender Geometric",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Burgundy & White Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Khaki Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy Circular Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy, White, and Black Floral Dot",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Solid Dark Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Mid Blue",
+      "name": "\"The Javier\" Pale Blue - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1466,11 +1481,6 @@
     },
     {
       "name": "Open Button Overcoat - Grey Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Javier\" Pale Blue - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1761,11 +1771,6 @@
     },
     {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
     },
