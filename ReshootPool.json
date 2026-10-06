@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-06T09:28:28.983Z",
+  "lastUpdated": "2026-10-06T10:42:01.764Z",
   "count": 387,
   "products": [
+    {
+      "name": "Buttonless Sweater Polo - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "Buttonless Sweater Polo - Light Tan",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "Buttonless Sweater Polo - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-10"
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
     {
       "name": "Heavy Knit Crewneck - Deep Navy",
       "recentRestock": true,
@@ -147,12 +213,6 @@
       "restock": "2026-09-23"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
@@ -160,12 +220,6 @@
     },
     {
       "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-10"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-10"
@@ -675,12 +729,6 @@
       "restock": "2026-09-11"
     },
     {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-10"
-    },
-    {
       "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": true,
       "hasPO": true,
@@ -830,16 +878,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
       "recentRestock": false,
       "hasPO": true
@@ -851,21 +889,6 @@
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": false,
       "hasPO": true
     },
@@ -885,66 +908,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Light Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Buttonless Sweater Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -960,42 +923,22 @@
       "hasPO": true
     },
     {
-      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Olive",
+      "name": "Snapback Hat - Brown",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Textured Buttonless Long Sleeve Polo - Stone",
+      "name": "Snapback Hat - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Heavy Knit Hoodie - Deep Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Ash Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Hoodie - Tan",
+      "name": "Snapback Hat - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1020,16 +963,6 @@
       "hasPO": true
     },
     {
-      "name": "Waffle Patch Pocket Button Down - Heathered White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
@@ -1040,22 +973,12 @@
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Wool Quarter Zip - Cream",
+      "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Wool Quarter Zip - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Zip Quarter Zip - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
+      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1135,6 +1058,16 @@
       "hasPO": true
     },
     {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
@@ -1156,6 +1089,31 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Buttonless Long Sleeve Polo - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Deep Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Ash Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Hoodie - Tan",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1186,6 +1144,71 @@
     },
     {
       "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Quarter Zip - Cream",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Wool Quarter Zip - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Zip Quarter Zip - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Heavy Knit Zip Quarter Zip - Ash Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1245,12 +1268,27 @@
       "hasPO": true
     },
     {
+      "name": "Brushed Button Down Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Button Down Vest - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Lightweight Knit Polo - Charcoal Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Lightweight Knit Polo - Light Blue Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1390,12 +1428,7 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Button Down Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Button Down Vest - Grey",
+      "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1416,11 +1449,6 @@
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1520,21 +1548,6 @@
       "hasPO": true
     },
     {
-      "name": "Snapback Hat - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Snapback Hat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Snapback Hat - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1551,6 +1564,51 @@
     },
     {
       "name": "Suede Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1596,11 +1654,6 @@
     },
     {
       "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1721,51 +1774,6 @@
     },
     {
       "name": "Puffer Vest - Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey with White Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Brushed Walnut",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Dark Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey with White Chalk Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1965,6 +1973,36 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Shorts - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Seersucker Short Sleeve Button Down - Black",
       "recentRestock": false,
       "hasPO": true
@@ -2001,36 +2039,6 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Mid Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - Navy",
       "recentRestock": false,
       "hasPO": true
     },
