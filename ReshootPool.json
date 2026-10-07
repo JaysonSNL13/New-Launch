@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-07T09:30:39.518Z",
-  "count": 387,
+  "lastUpdated": "2026-10-07T10:41:38.885Z",
+  "count": 400,
   "products": [
+    {
+      "name": "Black Circle Cuff Links",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-14"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-14"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
     {
       "name": "Buttonless Sweater Polo - Black",
       "recentRestock": true,
@@ -477,19 +525,7 @@
       "restock": "2026-09-16"
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-16"
@@ -505,12 +541,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
@@ -557,7 +587,7 @@
     {
       "name": "Silk Pre-Tied Bow Tie - Black",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-09-15"
     },
     {
@@ -665,7 +695,7 @@
     {
       "name": "#N/A",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-09-15"
     },
     {
@@ -813,6 +843,11 @@
       "restock": "2026-09-09"
     },
     {
+      "name": "Pocket Square - White with Light Blue Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - White",
       "recentRestock": false,
       "hasPO": true
@@ -843,11 +878,6 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White with Light Blue Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Pocket Square - White With Ivory Edge Stitch",
       "recentRestock": false,
       "hasPO": true
@@ -873,22 +903,22 @@
       "hasPO": true
     },
     {
-      "name": "\"The Westfield'' Solid Sage Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
+      "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
     },
@@ -909,21 +939,6 @@
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Black Circle Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -963,16 +978,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Waffle Patch Pocket Button Down - Heathered White",
       "recentRestock": false,
       "hasPO": true
@@ -989,6 +994,36 @@
     },
     {
       "name": "Brushed Cotton Quilted Jacket - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1058,6 +1093,16 @@
       "hasPO": true
     },
     {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Melrose\" Light Purple Weave",
       "recentRestock": false,
       "hasPO": true
@@ -1114,36 +1159,6 @@
     },
     {
       "name": "Heavy Knit Hoodie - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1219,16 +1234,6 @@
     },
     {
       "name": "\"The Saugatuck'' Sport Shirt - Brown with White Diamond Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1428,6 +1433,11 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1568,6 +1578,31 @@
       "hasPO": true
     },
     {
+      "name": "Athletic fit Stretch Jeans - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Jeans - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Wool Pants - Dark Forest Green",
       "recentRestock": false,
       "hasPO": true
@@ -1609,21 +1644,6 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1848,6 +1868,31 @@
       "hasPO": true
     },
     {
+      "name": "Black Knot Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mother of Pearl Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Red Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy with White Dots Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Solid Dark Purple",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
@@ -1919,6 +1964,31 @@
     },
     {
       "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Pants - Heathered Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Cappuccino",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Forest Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2038,11 +2108,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Jeans - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "recentRestock": false,
       "hasPO": true
@@ -2069,6 +2134,11 @@
     },
     {
       "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - White",
       "recentRestock": false,
       "hasPO": true
     }
