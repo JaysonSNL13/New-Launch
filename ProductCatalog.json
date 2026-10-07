@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T10:41:55.846Z",
+  "lastUpdated": "2026-10-07T09:28:38.028Z",
   "count": 1510,
   "products": [
     {
@@ -5883,12 +5883,6 @@
       "sizes": "Size"
     },
     {
-      "parentName": "Patch Pocket Button Down - Army Green",
-      "category": "Patch Pocket Button Down",
-      "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
-    },
-    {
       "parentName": "Patch Pocket Button Down - Black",
       "category": "Patch Pocket Button Down",
       "poRef": "",
@@ -5920,6 +5914,12 @@
     },
     {
       "parentName": "Patch Pocket Button Down - Navy",
+      "category": "Patch Pocket Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Patch Pocket Button Down - Olive",
       "category": "Patch Pocket Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
