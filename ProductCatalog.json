@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T10:59:57.084Z",
+  "lastUpdated": "2026-10-09T09:29:00.466Z",
   "count": 1510,
   "products": [
     {
@@ -2290,7 +2290,7 @@
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Army Green Microcheck - Short",
-      "category": "Blazers",
+      "category": "Short Blazers",
       "poRef": "",
       "sizes": "48S, 38S, 40S, 42S, 44S, 46S"
     },
@@ -4920,7 +4920,7 @@
       "parentName": "Herringbone Field Jacket - Grey",
       "category": "Jackets",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, S, XL, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "Hooded Hybrid Suede Jacket - Black",
@@ -7020,7 +7020,7 @@
       "parentName": "The Archer'' Heathered Grey Ribbed Tipped Polo",
       "category": "Polos",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, S, XL, XS, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
       "parentName": "The Arko'' Steel Blue Long Sleeve Henley",
@@ -7698,7 +7698,7 @@
       "parentName": "The Hayes'' Brown with White Accents Ribbed Tipped Polo",
       "category": "Polos",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, S, XL, XS, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
       "parentName": "The Haywood'' Purple Pinstripe",
@@ -7848,7 +7848,7 @@
       "parentName": "The Kade'' Solid Black Ribbed Tipped Polo",
       "category": "Polos",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, S, XL, XS, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
       "parentName": "The Kennedy'' Blue and White Plaid",
