@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-10-08T11:00:04.274Z",
-  "count": 392,
+  "lastUpdated": "2026-10-09T09:30:03.719Z",
+  "count": 404,
   "products": [
+    {
+      "name": "Pocket Square - White",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - White With Blue Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - Pale Blue",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - White With Light Grey Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - White With Ivory Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - White With Yellow Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Pocket Square - Solid Brown",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Snapback Hat - Brown",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Snapback Hat - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Snapback Hat - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Heathered White",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
+    {
+      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-07"
+    },
     {
       "name": "Black Circle Cuff Links",
       "recentRestock": true,
@@ -813,36 +897,6 @@
       "restock": "2026-09-10"
     },
     {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-09"
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-09"
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Light Blue",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-09"
-    },
-    {
-      "name": "Cotton Denim Dress Shirt - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-09"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-09"
-    },
-    {
       "name": "Pocket Square - White with Light Blue Edge Stitch",
       "recentRestock": false,
       "hasPO": true
@@ -1153,6 +1207,16 @@
       "hasPO": true
     },
     {
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1329,6 +1393,11 @@
     },
     {
       "name": "Silk Tie - Mid Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
