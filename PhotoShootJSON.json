@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T11:22:13.325Z",
+  "lastUpdated": "2026-10-12T11:25:38.456Z",
   "generatedBy": "Claude scheduled run (photo-shoot-tracker-refresh) 2026-10-09 AM",
   "counts": {
     "blockers": 11,
@@ -9,7 +9,7 @@
     "waiting": 90
   },
   "coverage": {
-    "runAt": "2026-10-12T11:22:13.325Z",
+    "runAt": "2026-10-12T11:25:38.456Z",
     "baseStyles": 176,
     "feedStyles": 291,
     "posParsed": 32,
@@ -45,7 +45,8 @@
       "TH3594 Poly Spandex SSBD The Mercer, TH3584 tux blazers (prior list, low confidence)",
       "From threads (bucket unverified): TH3585 tux pants PPS approved/TOPS ETD 10/26; TH3560 TOPS approved 10/7; TH3542/TH3566 belts TOPS approved 10/7; TH3572 TOPS ETD 10/12; TAL6082 TOPS approved 9/7"
     ],
-    "baseRotationNote": "base 2026-10-12T11:15Z dropped ~13 POs added 10/9 (TH3557, ED2493, TH3548, ED2497, ED2506, ED2503, ED2492, TH3562, TAL6091, TH3609, TH3598, TH3605, ED2517, ED2512) - carried forward unchanged, not re-parsed"
+    "baseRotationNote": "base 2026-10-12T11:15Z dropped ~13 POs added 10/9 (TH3557, ED2493, TH3548, ED2497, ED2506, ED2503, ED2492, TH3562, TAL6091, TH3609, TH3598, TH3605, ED2517, ED2512) - carried forward unchanged, not re-parsed",
+    "manualFix": "TH3521 Olive needsConfirm cleared - Jayson confirmed Army Green->Olive rename 10/12"
   },
   "items": [
     {
@@ -19174,7 +19175,7 @@
       "topsConfidence": "high",
       "topsSizeBP": "Medium, Large, XXL",
       "topsVerify": "Check",
-      "sampleColor": "Army Green (still labeled Olive in vendor/QC records, lab dip Option B)",
+      "sampleColor": "Olive (renamed from Army Green 9/21 - same product/colour, confirmed by Jayson 10/12)",
       "sampleFabric": "55% Acrylic / 40% Polyester / 5% Spandex, bulk fabric",
       "substitute": false,
       "substituteNote": "",
@@ -19184,9 +19185,9 @@
       "pushedToProduction": false,
       "superseded": false,
       "referenceTop": false,
-      "notes": "Sampling copied from the 'Patch Pocket Button Down - Army Green' row (same product, renamed Olive 9/21). Tal 8/5 approved TOPS; PO fully approved in QC app 8/20. Credit request for the missed logo hook still open. PPS size set unreconciled (Tal asked S/M/L/XL, factory proposed S/M/L/2XL). | 10/9-10/10 bulk freight/admin only: sea SI125858 (17 ctns) ETD Shanghai 10/12, ETA LA 10/30. No sample change. Army Green->Olive reshoot vs re-key still open for Jayson.",
-      "needsConfirm": true,
-      "needsConfirmReason": "in base list, no sampling parsed under this name - rename of 'Army Green' (SKUs renamed Olive 9/21 per Sydney/Tanay); Army Green row is Shot. Confirm whether Olive needs a reshoot or just re-keying.",
+      "notes": "Sampling copied from the 'Patch Pocket Button Down - Army Green' row (same product, renamed Olive 9/21). Tal 8/5 approved TOPS; PO fully approved in QC app 8/20. Credit request for the missed logo hook still open. PPS size set unreconciled (Tal asked S/M/L/XL, factory proposed S/M/L/2XL). | 10/9-10/10 bulk freight/admin only: sea SI125858 (17 ctns) ETD Shanghai 10/12, ETA LA 10/30. No sample change. Army Green->Olive reshoot vs re-key still open for Jayson. | 10/12 Jayson confirmed: Army Green was renamed Olive (same product) - rename, not a new colour. Army Green row kept only as the Tal-map join key.",
+      "needsConfirm": false,
+      "needsConfirmReason": "",
       "isBlocker": false,
       "blockerReason": "",
       "lastActivityAt": "2026-10-10",
