@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T11:08:24.129Z",
-  "count": 403,
+  "lastUpdated": "2026-10-14T09:28:46.533Z",
+  "count": 400,
   "products": [
     {
       "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
@@ -276,13 +276,13 @@
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
@@ -456,7 +456,7 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
@@ -600,7 +600,7 @@
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
@@ -612,25 +612,25 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
@@ -768,7 +768,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-14"
+      "restock": "2026-09-16"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
@@ -945,48 +945,6 @@
       "restock": "2026-09-15"
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "\"The Jones\" Sport Shirt - White & Grey Check",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "Branded No-Show Socks - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "Branded No-Show Socks - White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-14"
-    },
-    {
-      "name": "Suspenders",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-14"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -1003,6 +961,11 @@
     },
     {
       "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1098,6 +1061,11 @@
     },
     {
       "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1628,6 +1596,16 @@
     },
     {
       "name": "Dress Socks - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
     },
