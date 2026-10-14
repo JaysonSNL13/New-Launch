@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-10-14T09:28:46.533Z",
-  "count": 400,
+  "lastUpdated": "2026-10-14T11:00:27.279Z",
+  "count": 401,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-13"
+    },
     {
       "name": "\"The Myrtle'' Sport Shirt - Navy and Light Brown Plaid",
       "recentRestock": true,
@@ -268,30 +328,6 @@
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-06"
@@ -759,18 +795,6 @@
       "restock": "2026-09-16"
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": true,
       "hasPO": true,
@@ -929,7 +953,7 @@
     {
       "name": "#N/A",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-09-15"
     },
     {
@@ -965,57 +989,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
+      "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1040,16 +1014,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Von\" Solid Black - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1061,11 +1025,6 @@
     },
     {
       "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1136,11 +1095,6 @@
     },
     {
       "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1246,6 +1200,51 @@
     },
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1490,6 +1489,16 @@
       "hasPO": true
     },
     {
+      "name": "Open Button Overcoat - Charcoal Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Brushed Brown & Taupe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1565,12 +1574,22 @@
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Grey Herringbone",
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Brushed Brown & Taupe",
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1651,26 +1670,6 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1790,6 +1789,11 @@
       "hasPO": true
     },
     {
+      "name": "Open Button Overcoat - Grey Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1870,16 +1874,6 @@
       "hasPO": true
     },
     {
-      "name": "Black Knot Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Mother of Pearl Cuff Links",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Red Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
@@ -1930,6 +1924,16 @@
       "hasPO": true
     },
     {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Howard\" Solid Navy",
       "recentRestock": false,
       "hasPO": true
@@ -1971,6 +1975,16 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Knot Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mother of Pearl Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2095,6 +2109,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Armstrong'' Olive Pique Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Kendric\" White Pique Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -2141,16 +2160,6 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
