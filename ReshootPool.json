@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T11:00:27.279Z",
-  "count": 401,
+  "lastUpdated": "2026-10-15T09:28:37.986Z",
+  "count": 399,
   "products": [
     {
       "name": "Athletic Fit Stretch Suit Pants - Black",
@@ -432,25 +432,25 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-15"
+      "restock": "2026-09-23"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-15"
+      "restock": "2026-09-23"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-15"
+      "restock": "2026-09-23"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-15"
+      "restock": "2026-09-23"
     },
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
@@ -582,7 +582,7 @@
       "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-15"
+      "restock": "2026-09-22"
     },
     {
       "name": "Classic Tuxedo Shoe - Black",
@@ -801,175 +801,42 @@
       "restock": "2026-09-16"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Black Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Black Silk Bowtie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Pre-Tied Bow Tie - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Tie - Light Blue & Grey Cross Check",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Navy Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Navy & White Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Tie - Navy with Mini Grey Diamond",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Tie - Dark Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Tie - Sea Green",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Sage Green Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Champagne Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Silk Tie - Light Blue with Grey & White Stripes",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Light Blue Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "\"The Winchester'' Pink Weave - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "name": "\"The Winchester'' Pink Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "#N/A",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
+      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-15"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1204,6 +1071,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
       "recentRestock": false,
       "hasPO": true
@@ -1329,12 +1201,32 @@
       "hasPO": true
     },
     {
+      "name": "Black Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Light Blue Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Silk Bowtie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Silk Tie - Pink, Purple, & White Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Silk Tie - Rose Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy & White Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1350,6 +1242,11 @@
     },
     {
       "name": "\"The Javier\" Pale Blue - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1549,6 +1446,21 @@
       "hasPO": true
     },
     {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Patch Pocket Button Down - Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1570,6 +1482,11 @@
     },
     {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1689,6 +1606,11 @@
       "hasPO": true
     },
     {
+      "name": "Navy Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Maroon Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
@@ -1699,7 +1621,32 @@
       "hasPO": true
     },
     {
+      "name": "Silk Tie - Navy with Mini Grey Diamond",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Light Blue with Grey & White Stripes",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Sea Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Purple with Silver Dots Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sage Green Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1809,6 +1756,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - Maroon - 12X12",
       "recentRestock": false,
       "hasPO": true
@@ -1870,6 +1822,11 @@
     },
     {
       "name": "Pocket Square - White with Plum Edge Stitch - 12X12",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Pre-Tied Bow Tie - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2145,6 +2102,11 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "#N/A",
       "recentRestock": false,
       "hasPO": true
     },
