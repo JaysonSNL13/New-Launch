@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-10-15T09:28:37.986Z",
-  "count": 399,
+  "lastUpdated": "2026-10-15T11:12:30.406Z",
+  "count": 438,
   "products": [
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-22"
+    },
+    {
+      "name": "\"The Von\" Solid Black - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
+    {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
+    {
+      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
     {
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
@@ -573,12 +603,6 @@
       "restock": "2026-09-22"
     },
     {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-22"
-    },
-    {
       "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
@@ -806,11 +830,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -861,6 +880,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Kona'' Light Blue with Navy Dots",
       "recentRestock": false,
       "hasPO": true
@@ -881,26 +905,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Von\" Solid Black - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Leonardo'' Solid White With Tortoise Shell Buttons - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
       "recentRestock": false,
       "hasPO": true
@@ -912,6 +916,16 @@
     },
     {
       "name": "3 Button Overcoat - Tan Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": false,
       "hasPO": true
     },
@@ -942,26 +956,6 @@
     },
     {
       "name": "Solid Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1011,6 +1005,16 @@
       "hasPO": true
     },
     {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": false,
       "hasPO": true
@@ -1042,6 +1046,61 @@
     },
     {
       "name": "Lightweight Knit Polo - Light Blue Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Button Down Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Button Down Vest - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Puffer Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Puffer Vest - Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Stretch Puffer Coat - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1091,62 +1150,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Westfield'' Solid Sage Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Button Down Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Button Down Vest - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Puffer Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Puffer Vest - Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Stretch Puffer Coat - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1591,6 +1595,46 @@
       "hasPO": true
     },
     {
+      "name": "\"The Christian\" Charcoal Double Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Devon\" Light Grey with White Mini Dot",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Garrett\" Burgundy Diamond Geo Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Goose\" Black and Navy Abstract Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Parsons\" Navy with White Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kellen\" Light Blue Mini Patterned",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rocky'' Powder Blue with White Stripes",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Tuxedo Studs (Set of 5)",
       "recentRestock": false,
       "hasPO": true
@@ -1891,17 +1935,32 @@
       "hasPO": true
     },
     {
-      "name": "\"The Howard\" Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Cameron\" Solid Ivory",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hampton\" White with Navy Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kirkway\" - Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Marco'' Solid White with Tortoise Shell Buttons",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Mercer\" Solid Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1916,6 +1975,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Pants - Heathered Forest Green",
       "recentRestock": false,
       "hasPO": true
@@ -1926,12 +1990,22 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Pants - Bronzed Brown Big Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1957,11 +2031,6 @@
     },
     {
       "name": "\"The Cabo'' Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Rocky'' Powder Blue with White Stripes",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2026,6 +2095,36 @@
       "hasPO": true
     },
     {
+      "name": "Wide Ribbed Knit Short Sleeve Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Wide Ribbed Knit Short Sleeve Button Down - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Wide Ribbed Knit Short Sleeve Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Two-Toned Knit Polo - Black and Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Two-Toned Knit Polo - Brown and Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Two-Toned Knit Polo - Light Grey and Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Seersucker Short Sleeve Button Down - Black",
       "recentRestock": false,
       "hasPO": true
@@ -2066,6 +2165,41 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Shorts - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Dark Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Sand",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Textured Knit Cashmere Polo - Dusty Mulberry",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Armstrong'' Olive Pique Short Sleeve Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -2091,6 +2225,66 @@
       "hasPO": true
     },
     {
+      "name": "Ribbed Knit Long Sleeve Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Ribbed Knit Long Sleeve Polo - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Knit Tipped Polo - Sage with White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Knit Tipped Polo - Sand with Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Knit Tipped Polo - Charcoal with Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Buttonless Polo - Burgundy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Lightweight Knit Buttonless Polo - Sand",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Ribbed Knit Short Sleeve Polo - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Ribbed Knit Short Sleeve Polo - Mid Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Ribbed Knit Short Sleeve Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Ribbed Knit Short Sleeve Polo - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Textured Knit Short Sleeve Button Down - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -2101,12 +2295,22 @@
       "hasPO": true
     },
     {
+      "name": "Textured Knit Short Sleeve Button Down - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Jeans - Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "#N/A",
+      "name": "Brushed Quarter Zip - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Quarter Zip - Espresso",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2122,11 +2326,6 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Shorts - White",
       "recentRestock": false,
       "hasPO": true
     }
