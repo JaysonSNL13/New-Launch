@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T09:28:29.336Z",
-  "count": 1510,
+  "lastUpdated": "2026-10-15T11:12:23.156Z",
+  "count": 1545,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -399,6 +399,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Christian\" Charcoal Double Pinstripe",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
       "category": "Dress Shirt",
       "poRef": "",
@@ -485,6 +491,12 @@
     {
       "parentName": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
       "category": "Sport Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Devon\" Light Grey with White Mini Dot",
+      "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -705,6 +717,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Garrett\" Burgundy Diamond Geo Print",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Gavin\" Navy, Red & White Plaid Casual Button Down",
       "category": "Casual Button Down",
       "poRef": "",
@@ -737,6 +755,12 @@
     {
       "parentName": "\"The Glenn'' Tan Buttonless Polo",
       "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Goose\" Black and Navy Abstract Houndstooth",
+      "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -1251,6 +1275,12 @@
       "sizes": "38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "\"The Mercer\" Solid Black",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Mercury\" Black Pique Polo",
       "category": "Polos",
       "poRef": "",
@@ -1451,6 +1481,12 @@
     {
       "parentName": "\"The Parkway\" White with Black Tipped Polo",
       "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Parsons\" Navy with White Mini Windowpane",
+      "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -2181,6 +2217,18 @@
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
+      "parentName": "Athletic Fit Shorts - Dark Brown",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Shorts - Dark Olive",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Athletic fit Shorts - Grey & White Seersucker",
       "category": "Shorts",
       "poRef": "",
@@ -2383,6 +2431,18 @@
       "category": "Short Blazers",
       "poRef": "",
       "sizes": "38S, 40S, 42S, 44S, 46S, 48S"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane",
+      "category": "Blazers",
+      "poRef": "",
+      "sizes": "36, 38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane - Short",
+      "category": "Short Blazers",
+      "poRef": "",
+      "sizes": "38S, 40S, 42S, 44S, 46S"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Brown & Black Seersucker",
@@ -3337,6 +3397,12 @@
       "category": "Dress Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Suit Pants - Bronzed Brown Big Windowpane",
+      "category": "Dress Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
@@ -4353,6 +4419,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Brushed Quarter Zip - Espresso",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Brushed Quarter Zip - Heathered Navy",
       "category": "Quarter Zips",
       "poRef": "",
@@ -4361,6 +4433,12 @@
     {
       "parentName": "Brushed Quarter Zip - Heathered Olive",
       "category": "Quarter Zips",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Brushed Quarter Zip - Stone",
+      "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -5031,6 +5109,24 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Knit Tipped Polo - Charcoal with Light Grey",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Knit Tipped Polo - Sage with White",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Knit Tipped Polo - Sand with Brown",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Knit Zip Jacket - Black",
       "category": "Jackets",
       "poRef": "",
@@ -5123,6 +5219,18 @@
     {
       "parentName": "Light Tan Plaid Open Button Overcoat",
       "category": "Overcoats",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Lightweight Knit Buttonless Polo - Burgundy",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Lightweight Knit Buttonless Polo - Sand",
+      "category": "Polos",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -6345,6 +6453,42 @@
       "sizes": "One Size"
     },
     {
+      "parentName": "Ribbed Knit Long Sleeve Polo - Black",
+      "category": "LS Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Ribbed Knit Long Sleeve Polo - Stone",
+      "category": "LS Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Ribbed Knit Short Sleeve Polo - Black",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Ribbed Knit Short Sleeve Polo - Mid Olive",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Ribbed Knit Short Sleeve Polo - Navy",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Ribbed Knit Short Sleeve Polo - Stone",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Sage Green Woven Silk Tie",
       "category": "Ties",
       "poRef": "",
@@ -6921,7 +7065,25 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Textured Knit Cashmere Polo - Brown",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Textured Knit Cashmere Polo - Charcoal",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Textured Knit Cashmere Polo - Dusty Mulberry",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Textured Knit Cashmere Polo - Grey",
       "category": "Polos",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
@@ -6939,7 +7101,19 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Textured Knit Cashmere Polo - White",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Textured Knit Short Sleeve Button Down - Black",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Textured Knit Short Sleeve Button Down - Charcoal",
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
@@ -8865,6 +9039,24 @@
       "sizes": "One Size"
     },
     {
+      "parentName": "Two-Toned Knit Polo - Black and Charcoal",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Two-Toned Knit Polo - Brown and Navy",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Two-Toned Knit Polo - Light Grey and Black",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Unstructured Corduroy Blazer - Dark Navy",
       "category": "Casual Blazers",
       "poRef": "",
@@ -9049,6 +9241,24 @@
       "category": "Ties",
       "poRef": "",
       "sizes": "One Size"
+    },
+    {
+      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Black",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Grey",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Navy",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "Winter Hat - Charcoal",
