@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T11:12:30.406Z",
-  "count": 438,
+  "lastUpdated": "2026-10-16T09:28:37.016Z",
+  "count": 417,
   "products": [
     {
       "name": "\"The Springer\" Solid White - Classic Fit",
@@ -36,7 +36,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-10-06"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
@@ -48,7 +48,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
@@ -66,19 +66,19 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-10-06"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-10-06"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
@@ -522,13 +522,13 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-09-24"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-16"
+      "restock": "2026-09-24"
     },
     {
       "name": "Quarter Zip - Heathered Grey",
@@ -639,193 +639,27 @@
       "restock": "2026-09-17"
     },
     {
-      "name": "\"The Matt\" Sky Blue Pique Polo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "\"The Noah\" White Pique Polo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "\"The Mercury\" Black Pique Polo",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Cream",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Brown",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Wool Crewneck Sweater - Tan",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Textured Tan with Olive Windowpane",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Oxford Blue Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Cream Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Light Grey Chalk Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Brown & Tan Windowpane",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Oxford Blue Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Cream Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Light Grey Chalk Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Brown & Tan Windowpane",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Textured Tan with Olive Windowpane",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-16"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1255,6 +1089,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
@@ -1390,6 +1229,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1401,6 +1245,11 @@
     },
     {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1486,6 +1335,11 @@
     },
     {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2151,6 +2005,16 @@
     },
     {
       "name": "Seersucker Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Matt\" Sky Blue Pique Polo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Noah\" White Pique Polo",
       "recentRestock": false,
       "hasPO": true
     },
