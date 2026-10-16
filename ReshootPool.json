@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-10-16T09:28:37.016Z",
-  "count": 417,
+  "lastUpdated": "2026-10-16T11:05:39.347Z",
+  "count": 425,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
     {
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
@@ -644,71 +686,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester'' Pink Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": false,
       "hasPO": true
@@ -739,17 +716,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
+      "name": "The Solid White Tuxedo Shirt",
       "recentRestock": false,
       "hasPO": true
     },
@@ -760,36 +727,6 @@
     },
     {
       "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -964,7 +901,22 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -985,6 +937,51 @@
     },
     {
       "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester'' Pink Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1095,6 +1092,16 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1799,6 +1806,21 @@
       "hasPO": true
     },
     {
+      "name": "Linen Dress Shirt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Dress Shirt - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Dress Shirt - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Hampton\" White with Navy Accents",
       "recentRestock": false,
       "hasPO": true
@@ -2029,6 +2051,16 @@
       "hasPO": true
     },
     {
+      "name": "\"The Keaton\" Dark Olive Pique Casual Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Sienna\" Light Pink Pique Casual Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Shorts - Dark Brown",
       "recentRestock": false,
       "hasPO": true
@@ -2190,6 +2222,21 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Short Sleeve Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Short Sleeve Button Down - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Short Sleeve Button Down - White",
       "recentRestock": false,
       "hasPO": true
     }
