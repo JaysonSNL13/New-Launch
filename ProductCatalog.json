@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T09:28:32.295Z",
-  "count": 1545,
+  "lastUpdated": "2026-10-16T11:05:33.513Z",
+  "count": 1553,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -1011,6 +1011,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Keaton\" Dark Olive Pique Casual Button Down",
+      "category": "Casual Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Kelce\" Solid Dark Olive Green",
       "category": "Dress Shirt",
       "poRef": "",
@@ -1747,6 +1753,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Sienna\" Light Pink Pique Casual Button Down",
+      "category": "Casual Button Down",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "\"The Silas\" Sport Shirt - Maroon Dot",
@@ -5327,6 +5339,42 @@
     {
       "parentName": "Limited Edition: Tan Double-Breasted Peacoat with Brown Fur",
       "category": "Overcoats",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Linen Dress Shirt - Brown",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Linen Dress Shirt - Navy",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Linen Dress Shirt - White",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Linen Short Sleeve Button Down - Navy",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Linen Short Sleeve Button Down - Olive",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Linen Short Sleeve Button Down - White",
+      "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
