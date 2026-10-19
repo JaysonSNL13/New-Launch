@@ -1,7 +1,97 @@
 {
-  "lastUpdated": "2026-10-19T09:28:49.817Z",
-  "count": 420,
+  "lastUpdated": "2026-10-19T10:52:04.880Z",
+  "count": 433,
   "products": [
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-09-23"
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Delancey'' Navy Gingham",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Irvington'' Green with White Polka Dot",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Sullivan'' Brown and Taupe Big Gingham",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Royal'' Light Grey Mini Check",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Midtown'' Dark Maroon Windowpane",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Monroe'' Black Mini Lock",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-16"
+    },
     {
       "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
       "recentRestock": true,
@@ -191,7 +281,7 @@
     {
       "name": "Pocket Square - White with Light Blue Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-08"
     },
     {
@@ -299,31 +389,31 @@
     {
       "name": "Pocket Square - White",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
       "name": "Pocket Square - Black",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
       "name": "Pocket Square - White With Blue Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
       "name": "Pocket Square - Pale Blue",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
       "name": "Pocket Square - Olive",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
@@ -335,7 +425,7 @@
     {
       "name": "Pocket Square - White With Ivory Edge Stitch",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-10-07"
     },
     {
@@ -429,18 +519,6 @@
       "restock": "2026-10-05"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
       "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
       "recentRestock": true,
       "hasPO": true,
@@ -454,12 +532,6 @@
     },
     {
       "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-05"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-05"
@@ -597,24 +669,6 @@
       "restock": "2026-09-23"
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
-    },
-    {
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": true,
       "hasPO": true,
@@ -686,21 +740,6 @@
       "hasPO": true
     },
     {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -716,36 +755,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Delancey'' Navy Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Irvington'' Green with White Polka Dot",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sullivan'' Brown and Taupe Big Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Royal'' Light Grey Mini Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Midtown'' Dark Maroon Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Monroe'' Black Mini Lock",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Sunglasses - Matte Black",
       "recentRestock": false,
       "hasPO": true
@@ -756,7 +765,17 @@
       "hasPO": true
     },
     {
-      "name": "\"The Jameson\" Mini Navy Dot Print",
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -852,21 +871,6 @@
     },
     {
       "name": "3 Button Overcoat - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1047,6 +1051,11 @@
     },
     {
       "name": "\"The Javier\" Pale Blue - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1326,6 +1335,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
       "recentRestock": false,
       "hasPO": true
@@ -1591,6 +1605,66 @@
       "hasPO": true
     },
     {
+      "name": "Pocket Square - Blue Gingham",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Business Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Light Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Olive Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Maroon Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Grey Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Pink Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Black Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Brown Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1632,6 +1706,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Jeans - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1731,7 +1810,17 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "name": "Performance Cotton Twill 5 Pocket Pant - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Cotton Twill 5 Pocket Pant - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1826,11 +1915,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Pants - Heathered Forest Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Cappuccino",
       "recentRestock": false,
       "hasPO": true
@@ -1841,17 +1925,22 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Pants - Heathered Forest Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Heathered Forest Green - Short",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
+      "name": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane - Short",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Bronzed Brown Big Windowpane - Short",
+      "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2016,11 +2105,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Jeans - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Keaton\" Dark Olive Pique Casual Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -2087,6 +2171,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2177,21 +2266,6 @@
     },
     {
       "name": "Brushed Quarter Zip - Espresso",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Performance Cotton Twill 5 Pocket Pant - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Performance Cotton Twill 5 Pocket Pant - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
       "recentRestock": false,
       "hasPO": true
     },
