@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T09:28:34.008Z",
-  "count": 1553,
+  "lastUpdated": "2026-10-20T11:18:20.330Z",
+  "count": 1560,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -589,6 +589,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Evander\" Cotton Dress Shirt - Blue and White Microcheck",
+      "category": "Casual Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "\"The Everest\" Winter-Weight Solid White",
@@ -1569,6 +1575,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Reagan\" Cotton Dress Shirt - Grey with White Stripe",
+      "category": "Casual Dress Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Renegade'' Sport Shirt - Black & Grey Mini Geo Print",
       "category": "Sport Shirt",
       "poRef": "",
@@ -1655,6 +1667,12 @@
     {
       "parentName": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
       "category": "Sport Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Rodney\" Cotton Dress Shirt - White with Blue Grid Check",
+      "category": "Casual Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -4413,6 +4431,18 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Brushed Mid-Weight Long Sleeve Henley - Black",
+      "category": "Henley",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Brushed Mid-Weight Long Sleeve Henley - White",
+      "category": "Henley",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "category": "SS Crewnecks",
       "poRef": "",
@@ -5344,21 +5374,21 @@
     },
     {
       "parentName": "Linen Dress Shirt - Brown",
-      "category": "Dress Shirt",
+      "category": "Casual Dress Shirt",
       "poRef": "",
-      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "Linen Dress Shirt - Navy",
-      "category": "Dress Shirt",
+      "category": "Casual Dress Shirt",
       "poRef": "",
-      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "Linen Dress Shirt - White",
-      "category": "Dress Shirt",
+      "category": "Casual Dress Shirt",
       "poRef": "",
-      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "Linen Short Sleeve Button Down - Navy",
@@ -6601,6 +6631,18 @@
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Seersucker Short Sleeve Button Down - White with Light Blue",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Seersucker Short Sleeve Button Down - White with Light Olive",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "Shirt Jacket - Black",
