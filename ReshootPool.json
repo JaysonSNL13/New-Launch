@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-10-21T09:29:54.790Z",
+  "lastUpdated": "2026-10-21T11:14:49.583Z",
   "count": 440,
   "products": [
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Lightweight Knit Polo - Charcoal Herringbone",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Lightweight Knit Polo - Light Blue Herringbone",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-13"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-06"
+    },
+    {
+      "name": "Casual Stretch Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Casual Stretch Belt - Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Casual Stretch Belt - Light Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-20"
+    },
+    {
+      "name": "Casual Stretch Belt - Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-20"
+    },
     {
       "name": "Performance Brushed Cotton Chino - Black",
       "recentRestock": true,
@@ -195,30 +279,6 @@
       "restock": "2026-10-06"
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-13"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-13"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-13"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
@@ -229,12 +289,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Charcoal",
@@ -754,27 +808,12 @@
       "hasPO": true
     },
     {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Lightweight Knit Polo - Light Blue Herringbone",
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -944,11 +983,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Kona'' Light Blue with Navy Dots",
       "recentRestock": false,
       "hasPO": true
@@ -965,31 +999,6 @@
     },
     {
       "name": "\"The Harrington'' Green with White & Black Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Light Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Casual Stretch Belt - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": false,
       "hasPO": true
     },
