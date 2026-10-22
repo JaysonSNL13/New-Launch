@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-10-22T09:28:45.064Z",
+  "lastUpdated": "2026-10-22T10:58:29.243Z",
   "count": 437,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-21"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-21"
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-21"
+    },
+    {
+      "name": "3 Button Overcoat - Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-21"
+    },
+    {
+      "name": "3 Button Overcoat - Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-21"
+    },
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
       "recentRestock": true,
@@ -758,16 +788,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Sunglasses - Matte Black",
       "recentRestock": false,
       "hasPO": true
@@ -779,21 +799,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
