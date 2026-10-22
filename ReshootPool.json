@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-21T11:14:49.583Z",
-  "count": 440,
+  "lastUpdated": "2026-10-22T09:28:45.064Z",
+  "count": 437,
   "products": [
     {
       "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
@@ -246,7 +246,7 @@
       "name": "\"The Springer\" Solid White - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-22"
+      "restock": "2026-10-14"
     },
     {
       "name": "\"The Von\" Solid Black - Classic Fit",
@@ -753,36 +753,6 @@
       "restock": "2026-09-23"
     },
     {
-      "name": "Brushed Cotton Shirt Jacket - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-22"
-    },
-    {
-      "name": "Brushed Cotton Shirt Jacket - Stone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-22"
-    },
-    {
-      "name": "\"The Ashford\" Midnight Short Sleeve Crewneck",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-22"
-    },
-    {
-      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-22"
-    },
-    {
-      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-22"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -924,6 +894,11 @@
     },
     {
       "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1884,6 +1859,11 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
