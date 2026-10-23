@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T09:28:43.937Z",
-  "count": 433,
+  "lastUpdated": "2026-10-23T10:57:06.250Z",
+  "count": 425,
   "products": [
     {
       "name": "Athletic Fit Stretch Suit Vest - Black",
@@ -17,19 +17,19 @@
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-10-21"
     },
     {
       "name": "3 Button Overcoat - Brown",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-10-21"
     },
     {
       "name": "3 Button Overcoat - Light Grey",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-10-21"
     },
     {
@@ -818,7 +818,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Westfield'' Solid Sage Green",
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -844,6 +849,66 @@
     },
     {
       "name": "Stretch Puffer Coat - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kona'' Light Blue with Navy Dots",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hoover'' Lilac and White Mini Check",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Founder'' Wide Black Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Harrington'' Green with White & Black Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Black with Lavender Geometric",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Burgundy & White Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Khaki Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Navy Circular Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Navy, White, and Black Floral Dot",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Solid Dark Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Mid Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -898,101 +963,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kona'' Light Blue with Navy Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Hoover'' Lilac and White Mini Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Founder'' Wide Black Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Harrington'' Green with White & Black Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Black with Lavender Geometric",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Burgundy & White Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Khaki Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy Circular Geo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy, White, and Black Floral Dot",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Solid Dark Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Mid Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Black Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
@@ -1023,6 +993,21 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1038,17 +1023,32 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Corduroy Harrington Jacket - Dark Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jameson\" Mini Navy Dot Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1078,12 +1078,37 @@
       "hasPO": true
     },
     {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "3 Button Overcoat - Tan Herringbone",
+      "name": "\"The Jameson\" Mini Navy Dot Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1133,21 +1158,6 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Suede Belt - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1173,11 +1183,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1198,11 +1203,6 @@
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Charcoal Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Open Button Overcoat - Brushed Brown & Taupe",
       "recentRestock": false,
       "hasPO": true
@@ -1219,6 +1219,116 @@
     },
     {
       "name": "Navy & Light Blue Knot Cuff Links",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Pink Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Black Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Brown Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Olive Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Light Brown Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Purple Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Plum Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1273,132 +1383,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Maroon - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Navy - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Pink - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Blue Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Light Blue Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Pink Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Black Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Dark Brown Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Dark Olive Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Light Brown Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Purple Edge Stitch - 12X12",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Plum Edge Stitch - 12X12",
+      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1633,47 +1618,12 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White With Dark Olive Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Pocket Square - White With Maroon Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Pocket Square - White With Dark Grey Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Pink Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Black Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Brown Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1974,6 +1924,16 @@
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
       "recentRestock": false,
       "hasPO": true
     },
