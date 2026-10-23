@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T10:58:29.243Z",
-  "count": 437,
+  "lastUpdated": "2026-10-23T09:28:43.937Z",
+  "count": 433,
   "products": [
     {
       "name": "Athletic Fit Stretch Suit Vest - Black",
@@ -144,13 +144,13 @@
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-10-16"
     },
     {
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-10-05"
     },
     {
       "name": "The Solid White Tuxedo Shirt",
@@ -162,13 +162,13 @@
       "name": "\"The Springer\" Solid White",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-10-16"
     },
     {
       "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-10-05"
     },
     {
       "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
@@ -186,7 +186,7 @@
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-10-16"
     },
     {
       "name": "\"The Peter\" Light Blue Weave",
@@ -684,25 +684,25 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-09-25"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-09-25"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-09-25"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-09-23"
+      "restock": "2026-09-25"
     },
     {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
@@ -751,36 +751,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-09-24"
-    },
-    {
-      "name": "Quarter Zip - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "Quarter Zip - Solid Dark Green",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "Quarter Zip - Solid Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "Quarter Zip - Solid Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-23"
-    },
-    {
-      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-23"
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
@@ -1074,6 +1044,11 @@
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
