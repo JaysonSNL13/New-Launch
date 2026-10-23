@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-23T09:28:22.126Z",
+  "lastUpdated": "2026-10-23T10:56:55.357Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 221
+    "total": 209
   },
   "items": [
     {
@@ -2981,19 +2981,14 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Open Button Overcoat - Charcoal Olive",
-      "category": "Overcoats",
-      "poRef": "TH3558",
+      "parentName": "Pocket Square - White With Purple Edge Stitch",
+      "category": "Pocket Square",
+      "poRef": "TH3588",
       "skus": [
-        "SL-CT-CHARCOALOLIVEOB-3XL",
-        "SL-CT-CHARCOALOLIVEOB-L",
-        "SL-CT-CHARCOALOLIVEOB-M",
-        "SL-CT-CHARCOALOLIVEOB-S",
-        "SL-CT-CHARCOALOLIVEOB-XL",
-        "SL-CT-CHARCOALOLIVEOB-XXL"
+        "SL-PS-PURPLEEDGE"
       ],
-      "bulkExf": "2026-10-23",
-      "bulkEtaDate": "2026-11-12",
+      "bulkExf": "2026-10-26",
+      "bulkEtaDate": "2026-11-15",
       "bulkEta": "Mid November",
       "shipment": "Air",
       "received": false,
@@ -3006,7 +3001,7 @@
       "topsLanded": false,
       "topsDisplay": "",
       "topsDate": "",
-      "shotStatus": "Shot"
+      "shotStatus": "Not Shot"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Olive",
@@ -3189,6 +3184,34 @@
       "shotStatus": "Not Shot"
     },
     {
+      "parentName": "Open Button Overcoat - Charcoal Olive",
+      "category": "Overcoats",
+      "poRef": "TH3558",
+      "skus": [
+        "SL-CT-CHARCOALOLIVEOB-3XL",
+        "SL-CT-CHARCOALOLIVEOB-L",
+        "SL-CT-CHARCOALOLIVEOB-M",
+        "SL-CT-CHARCOALOLIVEOB-S",
+        "SL-CT-CHARCOALOLIVEOB-XL",
+        "SL-CT-CHARCOALOLIVEOB-XXL"
+      ],
+      "bulkExf": "2026-10-28",
+      "bulkEtaDate": "2026-11-17",
+      "bulkEta": "Mid November",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
       "parentName": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
       "category": "Short Blazers",
       "poRef": "TH3540",
@@ -3230,305 +3253,6 @@
       "bulkEtaDate": "2026-11-17",
       "bulkEta": "Mid November",
       "shipment": "Sea",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - Maroon - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12MAROON"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - Navy - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12NAVY"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - Pink - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12PINK"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WHITE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Black Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WBKEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Blue Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WBEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Dark Brown Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WDBREDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Dark Olive Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WDOEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Light Blue Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WLBEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Light Brown Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WLBREDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Pink Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WPKEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Plum Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WPLEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Pocket Square - White with Purple Edge Stitch - 12X12",
-      "category": "Pocket Square",
-      "poRef": "TH3588",
-      "skus": [
-        "SL-PS-12WPUEDGE"
-      ],
-      "bulkExf": "2026-10-30",
-      "bulkEtaDate": "2026-11-19",
-      "bulkEta": "Late Fall / Early Winter",
-      "shipment": "",
       "received": false,
       "landedDate": "",
       "ppsSize": "",
