@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T10:57:06.250Z",
-  "count": 425,
+  "lastUpdated": "2026-10-24T09:28:32.524Z",
+  "count": 421,
   "products": [
     {
       "name": "Athletic Fit Stretch Suit Vest - Black",
@@ -705,54 +705,6 @@
       "restock": "2026-09-25"
     },
     {
-      "name": "\"The Dylan\" Sky Blue Pique Button Down",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "\"The Mark\" White Pique Button Down",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "\"The Grover'' Olive Pique Button Down",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "Lightweight Knit Down Vest - Olive",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "Quilted Hybrid Hooded Jacket - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-24"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-24"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -1058,6 +1010,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1079,6 +1036,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1924,6 +1886,16 @@
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Dylan\" Sky Blue Pique Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Mark\" White Pique Button Down",
       "recentRestock": false,
       "hasPO": true
     },
