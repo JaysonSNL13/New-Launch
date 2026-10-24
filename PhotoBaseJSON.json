@@ -1,56 +1,10 @@
 {
-  "lastUpdated": "2026-10-23T10:56:55.357Z",
+  "lastUpdated": "2026-10-24T09:28:21.191Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 209
+    "total": 207
   },
   "items": [
-    {
-      "parentName": "Branded No-Show Socks - Black",
-      "category": "Accessory",
-      "poRef": "ED2481",
-      "skus": [
-        "SL-SOCK-NOSHOW-BLACK"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-09-19",
-      "bulkEta": "Mid September",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-09-19",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
-    {
-      "parentName": "Branded No-Show Socks - White",
-      "category": "Accessory",
-      "poRef": "ED2481",
-      "skus": [
-        "SL-SOCK-NOSHOW-WHITE"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-09-19",
-      "bulkEta": "Mid September",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-09-19",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
     {
       "parentName": "\"The Westfield'' Solid Sage Green - Classic Fit",
       "category": "Classic Fit",
@@ -2152,52 +2106,6 @@
       "shotStatus": "Shot"
     },
     {
-      "parentName": "Sunglasses - Matte Black",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-BLACKSUNGLSS"
-      ],
-      "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-10-30",
-      "bulkEta": "End of October",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Sunglasses - Tortoise Shell",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-TORTOISESUNGLSS"
-      ],
-      "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-10-30",
-      "bulkEta": "End of October",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "\"The Founder'' Wide Black Stripe",
       "category": "Dress Shirt",
       "poRef": "TH3526",
@@ -2469,6 +2377,52 @@
       "topsDisplay": "",
       "topsDate": "",
       "shotStatus": "Not Shot"
+    },
+    {
+      "parentName": "Sunglasses - Matte Black",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-BLACKSUNGLSS"
+      ],
+      "bulkExf": "2026-09-30",
+      "bulkEtaDate": "2026-10-31",
+      "bulkEta": "End of October",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Sunglasses - Tortoise Shell",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-TORTOISESUNGLSS"
+      ],
+      "bulkExf": "2026-09-30",
+      "bulkEtaDate": "2026-10-31",
+      "bulkEta": "End of October",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
     },
     {
       "parentName": "Stretch Puffer Coat - Navy",
