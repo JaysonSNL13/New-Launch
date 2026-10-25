@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T09:28:32.524Z",
+  "lastUpdated": "2026-10-25T09:28:42.204Z",
   "count": 421,
   "products": [
     {
@@ -681,30 +681,6 @@
       "restock": "2026-10-01"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-25"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-25"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-25"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-09-25"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -950,6 +926,16 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Melrose\" Light Purple Weave",
       "recentRestock": false,
       "hasPO": true
@@ -976,6 +962,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black - Short",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1386,6 +1377,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Bamboo - Short",
       "recentRestock": false,
       "hasPO": true
     },
