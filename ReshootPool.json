@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-10-26T09:29:57.813Z",
+  "lastUpdated": "2026-10-26T11:09:32.987Z",
   "count": 421,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "3 Button Overcoat - Charcoal Herringbone",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "3 Button Overcoat - Tan Herringbone",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-23"
+    },
     {
       "name": "Athletic Fit Stretch Suit Vest - Black",
       "recentRestock": true,
@@ -696,66 +780,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Button Down Vest - Grey",
       "recentRestock": false,
       "hasPO": true
@@ -841,22 +865,12 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -971,26 +985,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Corduroy Harrington Jacket - Dark Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1076,27 +1070,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Topper'' Navy Bengal Stripe",
+      "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Richie'' Purple Mini Houndstooth",
+      "name": "Athletic Fit Stretch Jeans - Slate Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1121,6 +1100,26 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Grey Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Brushed Brown & Taupe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Mykonos'' White and Blue Geo Prism Print",
       "recentRestock": false,
       "hasPO": true
@@ -1132,31 +1131,6 @@
     },
     {
       "name": "\"The Orr'' Black & Grey Abstract Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Slate Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Brushed Brown & Taupe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1231,57 +1205,37 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - Maroon",
+      "name": "\"The Topper'' Navy Bengal Stripe",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Pocket Square - Navy",
+      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Pocket Square - Pink",
+      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White With Pink Edge Stitch",
+      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Pocket Square - White With Black Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Olive Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Light Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Purple Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Plum Edge Stitch",
+      "name": "\"The Richie'' Purple Mini Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1336,7 +1290,52 @@
       "hasPO": true
     },
     {
-      "name": "Open Button Overcoat - Charcoal Olive",
+      "name": "Pocket Square - Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Pink Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Black Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Brown Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Dark Olive Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Light Brown Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Purple Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Plum Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1417,6 +1416,26 @@
     },
     {
       "name": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1667,11 +1686,6 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Grey and Charcoal Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Grey Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
