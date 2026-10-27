@@ -1,41 +1,10 @@
 {
-  "lastUpdated": "2026-10-26T11:09:23.838Z",
+  "lastUpdated": "2026-10-27T09:28:27.373Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
-    "total": 181
+    "total": 180
   },
   "items": [
-    {
-      "parentName": "Low Top Sneaker - White & Tan",
-      "category": "Shoes",
-      "poRef": "EN8006",
-      "skus": [
-        "SL-SHOE-WHITETANSNEAKER-9",
-        "SL-SHOE-WHITETANSNEAKER-9.5",
-        "SL-SHOE-WHITETANSNEAKER-10",
-        "SL-SHOE-WHITETANSNEAKER-10.5",
-        "SL-SHOE-WHITETANSNEAKER-11",
-        "SL-SHOE-WHITETANSNEAKER-11.5",
-        "SL-SHOE-WHITETANSNEAKER-12",
-        "SL-SHOE-WHITETANSNEAKER-12.5",
-        "SL-SHOE-WHITETANSNEAKER-13"
-      ],
-      "bulkExf": "",
-      "bulkEtaDate": "2026-09-22",
-      "bulkEta": "End of September",
-      "shipment": "",
-      "received": true,
-      "landedDate": "2026-09-22",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Not Shot"
-    },
     {
       "parentName": "Classic Tuxedo Shoe - Black",
       "category": "Shoes",
@@ -1914,52 +1883,6 @@
       "shotStatus": "Shot"
     },
     {
-      "parentName": "Sunglasses - Matte Black",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-BLACKSUNGLSS"
-      ],
-      "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-02",
-      "bulkEta": "Early November",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
-      "parentName": "Sunglasses - Tortoise Shell",
-      "category": "Accessory",
-      "poRef": "TH3341",
-      "skus": [
-        "SL-ACCESSORY-TORTOISESUNGLSS"
-      ],
-      "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-02",
-      "bulkEta": "Early November",
-      "shipment": "Air",
-      "received": false,
-      "landedDate": "",
-      "ppsSize": "",
-      "ppsLanded": false,
-      "ppsDisplay": "",
-      "ppsDate": "",
-      "topsSize": "",
-      "topsLanded": false,
-      "topsDisplay": "",
-      "topsDate": "",
-      "shotStatus": "Shot"
-    },
-    {
       "parentName": "3 Button Peak Lapel Overcoat - Navy",
       "category": "Overcoats",
       "poRef": "KA8001",
@@ -2001,6 +1924,52 @@
       ],
       "bulkExf": "2026-10-13",
       "bulkEtaDate": "2026-11-02",
+      "bulkEta": "Early November",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Sunglasses - Matte Black",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-BLACKSUNGLSS"
+      ],
+      "bulkExf": "2026-09-30",
+      "bulkEtaDate": "2026-11-03",
+      "bulkEta": "Early November",
+      "shipment": "Air",
+      "received": false,
+      "landedDate": "",
+      "ppsSize": "",
+      "ppsLanded": false,
+      "ppsDisplay": "",
+      "ppsDate": "",
+      "topsSize": "",
+      "topsLanded": false,
+      "topsDisplay": "",
+      "topsDate": "",
+      "shotStatus": "Shot"
+    },
+    {
+      "parentName": "Sunglasses - Tortoise Shell",
+      "category": "Accessory",
+      "poRef": "TH3341",
+      "skus": [
+        "SL-ACCESSORY-TORTOISESUNGLSS"
+      ],
+      "bulkExf": "2026-09-30",
+      "bulkEtaDate": "2026-11-03",
       "bulkEta": "Early November",
       "shipment": "Air",
       "received": false,
