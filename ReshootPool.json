@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-10-28T09:29:34.099Z",
-  "count": 421,
+  "lastUpdated": "2026-10-28T10:57:07.008Z",
+  "count": 422,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-23"
+    },
     {
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": true,
@@ -288,18 +330,6 @@
       "name": "3 Button Overcoat - Tan Herringbone",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
       "restock": "2026-10-23"
     },
     {
@@ -975,31 +1005,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Button Down Vest - Grey",
       "recentRestock": false,
       "hasPO": true
@@ -1095,11 +1100,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1110,57 +1110,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Open Button Overcoat - Grey Herringbone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Brushed Brown & Taupe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Mykonos'' White and Blue Geo Prism Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sanders'' Linen Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Orr'' Black & Grey Abstract Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kelce\" Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Suede Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Suede Belt - Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1180,92 +1130,32 @@
       "hasPO": true
     },
     {
-      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
+      "name": "\"The Kelce'' Solid Dark Olive Green - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "name": "\"The Morrison\" Blue & White Mini Pattern",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "name": "\"The Kelce\" Solid Dark Olive Green",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "name": "Open Button Overcoat - Brushed Brown & Taupe",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "name": "Suede Belt - Black",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Topper'' Navy Bengal Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Richie'' Purple Mini Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Charcoal Olive",
+      "name": "Suede Belt - Brown",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1366,6 +1256,121 @@
     },
     {
       "name": "Pocket Square - White With Plum Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Mykonos'' White and Blue Geo Prism Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Sanders'' Linen Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Orr'' Black & Grey Abstract Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Topper'' Navy Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Richie'' Purple Mini Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1901,6 +1906,11 @@
     },
     {
       "name": "\"The Cabo'' Light Blue Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Bellamy\" Business Blue - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
