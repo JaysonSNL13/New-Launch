@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T10:56:50.742Z",
+  "lastUpdated": "2026-10-29T09:28:31.564Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 176
@@ -1875,7 +1875,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-04",
+      "bulkEtaDate": "2026-11-05",
       "bulkEta": "Early November",
       "shipment": "Air",
       "received": false,
@@ -1898,7 +1898,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-04",
+      "bulkEtaDate": "2026-11-05",
       "bulkEta": "Early November",
       "shipment": "Air",
       "received": false,
@@ -4181,7 +4181,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Black",
+      "parentName": "Wide Ribbed Lightweight Merino Short Sleeve Button Down - Black",
       "category": "SSBD",
       "poRef": "ED2511",
       "skus": [
@@ -4209,7 +4209,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Grey",
+      "parentName": "Wide Ribbed Lightweight Merino Short Sleeve Button Down - Grey",
       "category": "SSBD",
       "poRef": "ED2511",
       "skus": [
@@ -4237,7 +4237,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Wide Ribbed Knit Short Sleeve Button Down - Navy",
+      "parentName": "Wide Ribbed Lightweight Merino Short Sleeve Button Down - Navy",
       "category": "SSBD",
       "poRef": "ED2511",
       "skus": [
