@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T09:28:36.173Z",
-  "count": 1560,
+  "lastUpdated": "2026-10-29T11:13:01.339Z",
+  "count": 1562,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -2730,7 +2730,7 @@
       "parentName": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
       "category": "Short Blazers",
       "poRef": "",
-      "sizes": "38S, 40S, 42S, 44S, 46S"
+      "sizes": "38S, 40S, 42S, 44S, 46S, 48S"
     },
     {
       "parentName": "Athletic Fit Stretch Blazer - Heathered Midnight Navy",
@@ -4663,6 +4663,18 @@
       "category": "Accessory",
       "poRef": "",
       "sizes": "One Size"
+    },
+    {
+      "parentName": "Collared Sweater Bomber - Black and Charcoal",
+      "category": "Sweaters",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Collared Sweater Bomber - Tan and Cream",
+      "category": "Sweaters",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, XL, XXL, Small"
     },
     {
       "parentName": "Collared Zip Jacket - Light Khaki",
