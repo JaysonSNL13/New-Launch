@@ -1,7 +1,157 @@
 {
-  "lastUpdated": "2026-10-30T09:28:39.505Z",
+  "lastUpdated": "2026-10-30T10:58:28.370Z",
   "count": 424,
   "products": [
+    {
+      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
+    {
+      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Springer\" Solid White - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-14"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Winchester'' Pink Weave - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy - Short",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Melrose\" Light Purple Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "The Solid White Tuxedo Shirt",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Winchester\" Pink Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-05"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
     {
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
@@ -25,18 +175,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
@@ -81,12 +219,6 @@
       "restock": "2026-10-28"
     },
     {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": true,
       "hasPO": true,
@@ -97,24 +229,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-16"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Blue",
@@ -141,12 +255,6 @@
       "restock": "2026-10-23"
     },
     {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
       "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": true,
       "hasPO": true,
@@ -157,12 +265,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-05"
     },
     {
       "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
@@ -273,24 +375,6 @@
       "restock": "2026-10-26"
     },
     {
-      "name": "\"The Springer\" Solid White - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-14"
-    },
-    {
-      "name": "\"The Winchester'' Pink Weave - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Peter'' Light Blue Weave - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
@@ -303,25 +387,7 @@
       "restock": "2026-10-26"
     },
     {
-      "name": "The Solid White Tuxedo Shirt - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
       "name": "\"The Javier\" Pale Blue - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Brady'' Light Pink & Light Blue Mini Check - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid - Short",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-26"
@@ -555,30 +621,6 @@
       "restock": "2026-10-19"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-05"
-    },
-    {
-      "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-05"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-05"
-    },
-    {
       "name": "\"The Smokey\" Solid White With Olive Accents",
       "recentRestock": true,
       "hasPO": true,
@@ -670,12 +712,6 @@
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-14"
-    },
-    {
-      "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-14"
@@ -1056,36 +1092,6 @@
     },
     {
       "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Baxter'' Blue Mini Line Patterned Windowpane - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westfield'' Solid Sage Green - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose\" Light Purple Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Winchester\" Pink Weave",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1625,21 +1631,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Fletcher'' Navy with Burgundy Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1916,6 +1907,21 @@
     },
     {
       "name": "\"The Cabo'' Light Blue Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
