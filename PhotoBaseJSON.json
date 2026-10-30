@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T11:12:57.197Z",
+  "lastUpdated": "2026-10-30T09:28:28.151Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 178
@@ -1875,7 +1875,7 @@
         "SL-ACCESSORY-BLACKSUNGLSS"
       ],
       "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-05",
+      "bulkEtaDate": "2026-11-06",
       "bulkEta": "Early November",
       "shipment": "Air",
       "received": false,
@@ -1898,7 +1898,7 @@
         "SL-ACCESSORY-TORTOISESUNGLSS"
       ],
       "bulkExf": "2026-09-30",
-      "bulkEtaDate": "2026-11-05",
+      "bulkEtaDate": "2026-11-06",
       "bulkEta": "Early November",
       "shipment": "Air",
       "received": false,
@@ -2309,7 +2309,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "\"The Derby'' Sport Shirt - Stone and Tan Bengal Stripe",
+      "parentName": "\"The Derby\" Sport Shirt - Light Grey Striped Herringbone",
       "category": "Sport Shirt",
       "poRef": "AR7011",
       "skus": [
