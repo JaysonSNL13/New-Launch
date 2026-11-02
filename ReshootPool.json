@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-11-01T10:30:16.279Z",
-  "count": 419,
+  "lastUpdated": "2026-11-02T10:29:43.499Z",
+  "count": 432,
   "products": [
+    {
+      "name": "Sunglasses - Matte Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-30"
+    },
+    {
+      "name": "Sunglasses - Tortoise Shell",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-30"
+    },
     {
       "name": "\"The Briggs'' Solid White with Light Blue Accents - Classic Fit",
       "recentRestock": true,
@@ -1046,26 +1058,6 @@
       "hasPO": true
     },
     {
-      "name": "Sunglasses - Matte Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sunglasses - Tortoise Shell",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Double Breasted Peacoat - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1082,6 +1074,16 @@
     },
     {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Double Breasted Peacoat - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "3 Button Peak Lapel Overcoat - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1786,6 +1788,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The King\" Black and White Geo Prism Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Bayview\" Light Blue with Navy Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hunter\" Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Linen Dress Shirt - Brown",
       "recentRestock": false,
       "hasPO": true
@@ -1881,17 +1898,17 @@
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
+      "name": "\"The Ashen'' Solid Dark Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
+      "name": "\"The Winslow\" Navy and Brown Check",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
+      "name": "\"The Prescott\" Abstract Black and Grey Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1941,12 +1958,37 @@
       "hasPO": true
     },
     {
+      "name": "Stretch Linen Short - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Stretch Linen Short - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2267,6 +2309,31 @@
     },
     {
       "name": "Seersucker Short Sleeve Button Down - White with Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Southgate'\"Light Blue Abstract Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westwood\" Sage Prism Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Bellevue\" White with Purple Geo Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Seersucker Shorts - Tan Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Seersucker Shorts - Navy Mini Stripe",
       "recentRestock": false,
       "hasPO": true
     }
