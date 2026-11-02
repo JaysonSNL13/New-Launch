@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T10:28:31.179Z",
-  "count": 1562,
+  "lastUpdated": "2026-11-02T10:28:26.414Z",
+  "count": 1572,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -177,6 +177,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Bayview\" Light Blue with Navy Geo",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Beamer'' Pale Lavender With Faded Mini Check",
       "category": "Dress Shirt",
       "poRef": "",
@@ -205,6 +211,12 @@
       "category": "Classic Fit",
       "poRef": "",
       "sizes": "38, 40, 42, 44, 46, 48, 50, 52"
+    },
+    {
+      "parentName": "\"The Bellevue\" White with Purple Geo Print",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Belmont\" Light Blue Pinstripe",
@@ -921,6 +933,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Hunter\" Navy",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Iris\" Solid Light Lilac",
       "category": "Dress Shirt",
       "poRef": "",
@@ -1038,7 +1056,7 @@
       "parentName": "\"The Kellen\" Light Blue Mini Patterned",
       "category": "Dress Shirt",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL, XS"
     },
     {
       "parentName": "\"The Ken\" White & Light Blue Floral Print Polo",
@@ -1057,6 +1075,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The King\" Black and White Geo Prism Print",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "\"The Kirkway\" - Solid Sage Green",
@@ -1548,7 +1572,7 @@
       "parentName": "\"The Prescott\" Abstract Black and Grey Houndstooth",
       "category": "Dress Shirt",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL, XS"
     },
     {
       "parentName": "\"The Quick\" Navy on Navy Polo",
@@ -1809,6 +1833,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Southgate'\"Light Blue Abstract Dash",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Spencer\" Sport Shirt - Maroon, Navy, & White Plaid",
       "category": "Sport Shirt",
       "poRef": "",
@@ -2028,7 +2058,7 @@
       "parentName": "\"The Westfield'' Solid Sage Green",
       "category": "Dress Shirt",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL, XS"
     },
     {
       "parentName": "\"The Westfield'' Solid Sage Green - Classic Fit",
@@ -2041,6 +2071,12 @@
       "category": "SS Crewnecks",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Westwood\" Sage Prism Print",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Wilfred\" Sport Shirt - Blue & White Striped",
@@ -2064,7 +2100,7 @@
       "parentName": "\"The Winslow\" Navy and Brown Check",
       "category": "Dress Shirt",
       "poRef": "",
-      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+      "sizes": "3XL, Large, Medium, Small, XL, XXL, XS"
     },
     {
       "parentName": "\"The Woodland'' Solid Brown",
@@ -2200,6 +2236,18 @@
     },
     {
       "parentName": "Athletic Fit Pique Shorts - Navy",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Seersucker Shorts - Navy Mini Stripe",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Seersucker Shorts - Tan Mini Stripe",
       "category": "Shorts",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
@@ -6895,6 +6943,18 @@
       "category": "Jackets",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Stretch Linen Short - Navy",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Stretch Linen Short - Tan",
+      "category": "Shorts",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Stretch Puffer Coat - Navy",
