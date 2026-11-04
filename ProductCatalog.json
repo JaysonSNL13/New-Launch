@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T10:29:06.496Z",
-  "count": 1572,
+  "lastUpdated": "2026-11-04T11:48:30.532Z",
+  "count": 1583,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -555,6 +555,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Dominque\" Mid-Brown Bengal Stripe",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "\"The Drift'' Seafoam Floral Print",
       "category": "Polos",
       "poRef": "",
@@ -569,6 +575,12 @@
     {
       "parentName": "\"The Eddie'' Sport Shirt - Maroon and Grey Big Gingham",
       "category": "Sport Shirt",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Edgewood\" Black with Grey Geo Squares",
+      "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
@@ -1297,6 +1309,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The McKinney\" Army Green Mosaic",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
       "parentName": "\"The Melrose\" Light Purple Weave",
@@ -5469,6 +5487,42 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46"
+    },
+    {
+      "parentName": "Linen Stretch Split Suit Blazer - Tan",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Linen Stretch Split Suit Blazer - Tan - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46"
+    },
+    {
+      "parentName": "Linen Stretch Split Trouser - Mid Blue",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Linen Stretch Split Trouser - Tan",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Logo T-Shirt - Charcoal",
       "category": "SS Crewnecks",
       "poRef": "",
@@ -6244,6 +6298,18 @@
     },
     {
       "parentName": "Performance Brushed Cotton Chino - Navy",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Performance Cotton Twill 5 Pocket Pant - Brown",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Performance Cotton Twill 5 Pocket Pant - Light Grey",
       "category": "Casual Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
