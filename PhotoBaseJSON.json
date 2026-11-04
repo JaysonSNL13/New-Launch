@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T11:05:38.156Z",
+  "lastUpdated": "2026-11-04T10:29:00.776Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 183
@@ -1730,8 +1730,8 @@
         "SL-CT-BUTTONPEAKNVY-XXL"
       ],
       "bulkExf": "2026-10-13",
-      "bulkEtaDate": "2026-11-10",
-      "bulkEta": "Early November",
+      "bulkEtaDate": "2026-11-11",
+      "bulkEta": "Mid November",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
@@ -1758,8 +1758,8 @@
         "SL-CT-DBPEACOATGRY-XXL"
       ],
       "bulkExf": "2026-10-13",
-      "bulkEtaDate": "2026-11-10",
-      "bulkEta": "Early November",
+      "bulkEtaDate": "2026-11-11",
+      "bulkEta": "Mid November",
       "shipment": "Air",
       "received": false,
       "landedDate": "",
