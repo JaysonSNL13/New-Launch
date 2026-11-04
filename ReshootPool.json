@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-11-04T10:30:04.838Z",
-  "count": 429,
+  "lastUpdated": "2026-11-04T11:48:39.356Z",
+  "count": 440,
   "products": [
+    {
+      "name": "Double Breasted Peacoat - Grey",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-03"
+    },
+    {
+      "name": "3 Button Peak Lapel Overcoat - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-03"
+    },
     {
       "name": "Sunglasses - Matte Black",
       "recentRestock": true,
@@ -1022,6 +1034,16 @@
       "hasPO": true
     },
     {
+      "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Slate Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tech Chino - Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1038,26 +1060,6 @@
     },
     {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Double Breasted Peacoat - Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "3 Button Peak Lapel Overcoat - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Slate Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1362,6 +1364,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Derby\" Sport Shirt - Light Grey Striped Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
@@ -1498,6 +1505,31 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Topper'' Navy Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Richie'' Purple Mini Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1642,31 +1674,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Topper'' Navy Bengal Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cannes'' Light Blue Mosaic Micro Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Lionel'' Light Grey Mini Diamond Jacquard",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Holmes'' Light Blue and Grey Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Richie'' Purple Mini Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Black Knot Cuff Links",
       "recentRestock": false,
       "hasPO": true
@@ -1717,6 +1724,16 @@
       "hasPO": true
     },
     {
+      "name": "Performance Cotton Twill 5 Pocket Pant - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Performance Cotton Twill 5 Pocket Pant - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Performance Cotton Twill 5 Pocket Pant - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -1743,11 +1760,6 @@
     },
     {
       "name": "\"The Eddie'' Sport Shirt - Maroon and Grey Big Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Derby\" Sport Shirt - Light Grey Striped Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1873,6 +1885,21 @@
     },
     {
       "name": "\"The Cabo'' Light Blue Weave",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The McKinney\" Army Green Mosaic",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Edgewood\" Black with Grey Geo Squares",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Dominque\" Mid-Brown Bengal Stripe",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2278,6 +2305,36 @@
     },
     {
       "name": "Brushed Quarter Zip - Espresso",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Suit Blazer - Mid Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Suit Blazer - Tan - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Trouser - Mid Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Trouser - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Suit Blazer - Mid Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Linen Stretch Split Suit Blazer - Tan",
       "recentRestock": false,
       "hasPO": true
     },
