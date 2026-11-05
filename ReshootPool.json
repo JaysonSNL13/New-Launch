@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T11:48:39.356Z",
-  "count": 440,
+  "lastUpdated": "2026-11-05T10:28:55.694Z",
+  "count": 439,
   "products": [
     {
       "name": "Double Breasted Peacoat - Grey",
@@ -180,7 +180,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-06"
+      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
@@ -192,13 +192,13 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-06"
+      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-06"
+      "restock": "2026-10-13"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
@@ -594,7 +594,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-06"
+      "restock": "2026-10-13"
     },
     {
       "name": "Casual Stretch Belt - Black",
@@ -1005,30 +1005,6 @@
       "restock": "2026-10-07"
     },
     {
-      "name": "Black Circle Cuff Links",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Charcoal",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-06"
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-06"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -1070,6 +1046,11 @@
     },
     {
       "name": "Tuxedo Studs (Set of 5)",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Black Circle Cuff Links",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1265,6 +1246,16 @@
     },
     {
       "name": "\"The Orr'' Black & Grey Abstract Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
