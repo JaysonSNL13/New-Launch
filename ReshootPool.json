@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T10:28:55.694Z",
-  "count": 439,
+  "lastUpdated": "2026-11-05T11:25:11.513Z",
+  "count": 447,
   "products": [
     {
       "name": "Double Breasted Peacoat - Grey",
@@ -1130,6 +1130,16 @@
       "hasPO": true
     },
     {
+      "name": "Pocket Square - Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Navy Woven Silk Tie",
       "recentRestock": false,
       "hasPO": true
@@ -1176,16 +1186,6 @@
     },
     {
       "name": "Silk Tie - Solid Dark Plum",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1975,17 +1975,17 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Suit Vest - Heathered Navy",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2190,6 +2190,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Colton\" Navy & White Abstract",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Forbes\" Solid Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rosedale\" Deep Olive with Green Geo Squares",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
@@ -2290,16 +2305,6 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Quarter Zip - Stone",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Quarter Zip - Espresso",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Linen Stretch Split Suit Blazer - Mid Blue - Short",
       "recentRestock": false,
       "hasPO": true
@@ -2350,6 +2355,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Emerson\" Navy with White Floral",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Pacific\" Mid-Blue with White Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Parkwood\" White with Taupe Geo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Southgate'\"Light Blue Abstract Dash",
       "recentRestock": false,
       "hasPO": true
@@ -2361,6 +2381,26 @@
     },
     {
       "name": "\"The Bellevue\" White with Purple Geo Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Short Sleeve Button Down - Navy & Light Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Short Sleeve Button Down - Black & Brown Double Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Quarter Zip - Stone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Quarter Zip - Espresso",
       "recentRestock": false,
       "hasPO": true
     }
