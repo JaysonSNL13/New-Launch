@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T11:48:26.253Z",
+  "lastUpdated": "2026-11-05T10:28:34.592Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 194
@@ -4926,7 +4926,7 @@
     },
     {
       "parentName": "Brushed Quarter Zip - Espresso",
-      "category": "SSBD",
+      "category": "Quarter Zips",
       "poRef": "ED2496",
       "skus": [
         "SL-QZIP-BRUSHEDESPRESSO-3XL",
@@ -4954,7 +4954,7 @@
     },
     {
       "parentName": "Brushed Quarter Zip - Stone",
-      "category": "SSBD",
+      "category": "Quarter Zips",
       "poRef": "ED2496",
       "skus": [
         "SL-QZIP-BRUSHEDSTONE-3XL",
