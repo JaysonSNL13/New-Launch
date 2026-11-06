@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-11-06T10:29:14.322Z",
+  "lastUpdated": "2026-11-06T10:44:43.083Z",
   "count": 439,
   "products": [
+    {
+      "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-05"
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Slate Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-05"
+    },
     {
       "name": "Double Breasted Peacoat - Grey",
       "recentRestock": true,
@@ -922,16 +934,6 @@
     },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Slate Grey",
       "recentRestock": false,
       "hasPO": true
     },
