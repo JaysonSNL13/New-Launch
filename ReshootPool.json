@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T11:25:11.513Z",
-  "count": 447,
+  "lastUpdated": "2026-11-06T10:29:14.322Z",
+  "count": 439,
   "products": [
     {
       "name": "Double Breasted Peacoat - Grey",
@@ -921,90 +921,6 @@
       "restock": "2026-10-08"
     },
     {
-      "name": "Pocket Square - White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - White With Blue Edge Stitch",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - Olive",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - White With Light Grey Edge Stitch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - White With Ivory Edge Stitch",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - White With Yellow Edge Stitch",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Pocket Square - Solid Brown",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Snapback Hat - Brown",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Snapback Hat - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Snapback Hat - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Heathered White",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
-      "name": "Waffle Patch Pocket Button Down - Deep Espresso",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-07"
-    },
-    {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
@@ -1191,6 +1107,16 @@
     },
     {
       "name": "Pocket Square - Pink",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Blue Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1560,6 +1486,11 @@
       "hasPO": true
     },
     {
+      "name": "Pocket Square - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - Blue Gingham",
       "recentRestock": false,
       "hasPO": true
@@ -1575,12 +1506,27 @@
       "hasPO": true
     },
     {
+      "name": "Pocket Square - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - White With Maroon Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
     {
+      "name": "Pocket Square - Pale Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Pocket Square - White With Dark Grey Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White With Ivory Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
