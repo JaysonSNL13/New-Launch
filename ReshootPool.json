@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T10:44:43.083Z",
-  "count": 439,
+  "lastUpdated": "2026-11-07T10:28:39.784Z",
+  "count": 429,
   "products": [
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -804,13 +804,13 @@
       "name": "Heavy Knit Crewneck - Tan",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-10-08"
+      "restock": "2026-10-09"
     },
     {
       "name": "Heavy Knit Crewneck - Black",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-10-08"
+      "restock": "2026-10-09"
     },
     {
       "name": "Heavy Knit Zip Quarter Zip - Tan",
@@ -825,115 +825,37 @@
       "restock": "2026-10-09"
     },
     {
-      "name": "Pocket Square - White with Light Blue Edge Stitch",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Light Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Olive",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Textured Buttonless Long Sleeve Polo - Stone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Heavy Knit Hoodie - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Heavy Knit Hoodie - Cream",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
+      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Charcoal",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tech Chino - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Mid-Weight Wool Quarter Zip - Cream",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Mid-Weight Wool Quarter Zip - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Brushed Cotton Quilted Jacket - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Brushed Cotton Quilted Jacket - Charcoal",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-08"
-    },
-    {
-      "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1014,6 +936,11 @@
     },
     {
       "name": "Suede Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1119,6 +1046,11 @@
     },
     {
       "name": "Pocket Square - White With Blue Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Pocket Square - White with Light Blue Edge Stitch",
       "recentRestock": false,
       "hasPO": true
     },
