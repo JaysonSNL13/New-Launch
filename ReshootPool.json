@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-09T10:31:13.001Z",
-  "count": 422,
+  "lastUpdated": "2026-11-09T12:06:13.399Z",
+  "count": 427,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Olive",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-06"
+    },
     {
       "name": "Athletic fit Stretch Jeans - Black",
       "recentRestock": true,
@@ -788,41 +830,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tech Chino - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Light Khaki",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": false,
       "hasPO": true
@@ -868,21 +875,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kelce\" Solid Dark Olive Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Open Button Overcoat - Brushed Brown & Taupe",
       "recentRestock": false,
       "hasPO": true
@@ -894,6 +886,21 @@
     },
     {
       "name": "Suede Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Morrison\" Blue & White Mini Pattern",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kelce\" Solid Dark Olive Green",
       "recentRestock": false,
       "hasPO": true
     },
@@ -929,6 +936,46 @@
     },
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1143,32 +1190,7 @@
       "hasPO": true
     },
     {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1193,26 +1215,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1224,6 +1226,11 @@
     },
     {
       "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tech Chino - Mid Khaki",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1249,16 +1256,6 @@
     },
     {
       "name": "Branded No-Show Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cameron\" Solid Ivory",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1314,6 +1311,16 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cameron\" Solid Ivory",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1423,16 +1430,6 @@
       "hasPO": true
     },
     {
-      "name": "\"The Fletcher'' Navy with Burgundy Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Jagger'' Grey with Navy Big Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Stone Blue with Navy Windowpane",
       "recentRestock": false,
       "hasPO": true
@@ -1494,6 +1491,16 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Light Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fletcher'' Navy with Burgundy Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jagger'' Grey with Navy Big Gingham",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1793,6 +1800,21 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Shawl Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Solid Cream with White Shawl Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Double Breasted Solid Black with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Stretch Linen Short - Navy",
       "recentRestock": false,
       "hasPO": true
@@ -2024,6 +2046,16 @@
     },
     {
       "name": "\"The Deke'' Navy Pique Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Loveland\" Olive and Black Bengal Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hardy\" Brown with Light Brown Geo Squares",
       "recentRestock": false,
       "hasPO": true
     },
