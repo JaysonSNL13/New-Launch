@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T10:30:10.226Z",
-  "count": 1591,
+  "lastUpdated": "2026-11-09T12:06:01.559Z",
+  "count": 1593,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -855,6 +855,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Hardy\" Brown with Light Brown Geo Squares",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Harold\" Abstract Floral Print",
       "category": "SSBD",
       "poRef": "",
@@ -1261,6 +1267,12 @@
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Loveland\" Olive and Black Bengal Mini Stripe",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Luke\" Blue Mini Crown Check",
@@ -4158,7 +4170,7 @@
       "parentName": "Athletic Fit Stretch Tuxedo Jacket - Solid Cream with White Shawl Lapel",
       "category": "Tuxedo Jackets",
       "poRef": "",
-      "sizes": "38, 40, 42, 44, 46"
+      "sizes": "38, 40, 42, 44, 46, 48"
     },
     {
       "parentName": "Athletic Fit Stretch Tuxedo Jacket - Solid Hunter Green with Peak Lapel",
