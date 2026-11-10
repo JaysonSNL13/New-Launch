@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T12:06:01.559Z",
+  "lastUpdated": "2026-11-10T10:28:50.190Z",
   "count": 1593,
   "products": [
     {
@@ -3387,6 +3387,18 @@
       "sizes": "36, 38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "Athletic Fit Stretch Flat Front Linen Pants - Mid-Blue",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Flat Front Linen Pants - Tan",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "category": "Tuxedo Pants",
       "poRef": "",
@@ -3433,6 +3445,30 @@
       "category": "Denim",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Linen Blazer - Mid-Blue",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Linen Blazer - Mid-Blue - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Linen Blazer - Tan",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Linen Blazer - Tan - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46"
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Black Seersucker",
@@ -5533,42 +5569,6 @@
       "category": "SSBD",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
-    },
-    {
-      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue",
-      "category": "Casual Blazers",
-      "poRef": "",
-      "sizes": "38, 40, 42, 44, 46, 48"
-    },
-    {
-      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue - Short",
-      "category": "Casual Blazers",
-      "poRef": "",
-      "sizes": "38, 40, 42, 44, 46"
-    },
-    {
-      "parentName": "Linen Stretch Split Suit Blazer - Tan",
-      "category": "Casual Blazers",
-      "poRef": "",
-      "sizes": "38, 40, 42, 44, 46, 48"
-    },
-    {
-      "parentName": "Linen Stretch Split Suit Blazer - Tan - Short",
-      "category": "Casual Blazers",
-      "poRef": "",
-      "sizes": "38, 40, 42, 44, 46"
-    },
-    {
-      "parentName": "Linen Stretch Split Trouser - Mid Blue",
-      "category": "Casual Pants",
-      "poRef": "",
-      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
-    },
-    {
-      "parentName": "Linen Stretch Split Trouser - Tan",
-      "category": "Casual Pants",
-      "poRef": "",
-      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Logo T-Shirt - Charcoal",
