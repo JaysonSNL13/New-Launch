@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T12:05:56.798Z",
+  "lastUpdated": "2026-11-10T10:28:45.730Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 204
@@ -5177,7 +5177,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue",
+      "parentName": "Athletic Fit Stretch Linen Blazer - Mid-Blue",
       "category": "Casual Blazers",
       "poRef": "KA8006",
       "skus": [
@@ -5205,7 +5205,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Suit Blazer - Mid Blue - Short",
+      "parentName": "Athletic Fit Stretch Linen Blazer - Mid-Blue - Short",
       "category": "Casual Blazers",
       "poRef": "KA8008",
       "skus": [
@@ -5232,7 +5232,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Suit Blazer - Tan",
+      "parentName": "Athletic Fit Stretch Linen Blazer - Tan",
       "category": "Casual Blazers",
       "poRef": "KA8006",
       "skus": [
@@ -5260,7 +5260,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Suit Blazer - Tan - Short",
+      "parentName": "Athletic Fit Stretch Linen Blazer - Tan - Short",
       "category": "Casual Blazers",
       "poRef": "KA8008",
       "skus": [
@@ -5287,7 +5287,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Trouser - Mid Blue",
+      "parentName": "Athletic Fit Stretch Flat Front Linen Pants - Mid-Blue",
       "category": "Casual Pants",
       "poRef": "KA8007",
       "skus": [
@@ -5317,7 +5317,7 @@
       "shotStatus": "Not Shot"
     },
     {
-      "parentName": "Linen Stretch Split Trouser - Tan",
+      "parentName": "Athletic Fit Stretch Flat Front Linen Pants - Tan",
       "category": "Casual Pants",
       "poRef": "KA8007",
       "skus": [
