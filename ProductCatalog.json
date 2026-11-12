@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-12T10:28:16.096Z",
-  "count": 1593,
+  "lastUpdated": "2026-11-12T11:39:27.818Z",
+  "count": 1598,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -423,6 +423,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Cline\" White with Blue Abstract Dots",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Coastal'' Blue and Stone Big Check",
       "category": "SSBD",
       "poRef": "",
@@ -595,6 +601,12 @@
       "category": "Sport Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Eli\" Grey and White Abstract",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Elias\" Light Navy Windowpane",
@@ -975,6 +987,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Hurricane\" Navy with Light Blue Abstract Circles",
+      "category": "SSBD",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Iris\" Solid Light Lilac",
       "category": "Dress Shirt",
       "poRef": "",
@@ -1003,6 +1021,12 @@
       "category": "Casual Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Jackson\" White with Sky Blue Circles",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Jagger'' Grey with Navy Big Gingham",
@@ -1315,6 +1339,12 @@
       "category": "Casual Button Down",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Mateo\" Deep Burgundy Abstract Micro",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Matt\" Sky Blue Pique Polo",
