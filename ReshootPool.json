@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-11-12T10:28:21.766Z",
-  "count": 423,
+  "lastUpdated": "2026-11-12T11:39:34.651Z",
+  "count": 428,
   "products": [
+    {
+      "name": "Solid Leather Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Light Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Mid-Brown",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Solid Leather Belt - Dark Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Perforated Leather Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "Perforated Leather Belt - Light Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-15"
+    },
+    {
+      "name": "\"The Mykonos'' White and Blue Geo Prism Print",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-11"
+    },
+    {
+      "name": "\"The Sanders'' Linen Tan",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-11"
+    },
+    {
+      "name": "\"The Orr'' Black & Grey Abstract Dash",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-11"
+    },
     {
       "name": "Mid-Weight Ribbed Knit Crewneck Sweater - Cream",
       "recentRestock": true,
@@ -849,42 +903,6 @@
       "restock": "2026-10-15"
     },
     {
-      "name": "Perforated Leather Belt - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Perforated Leather Belt - Light Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Solid Leather Belt - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Solid Leather Belt - Dark Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Solid Leather Belt - Mid-Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Solid Leather Belt - Light Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
       "name": "Suede Belt - Black",
       "recentRestock": false,
       "hasPO": true
@@ -916,66 +934,6 @@
     },
     {
       "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Skyline'' Carolina Blue Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Legacy'' Dark Brown with White Dots",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Mykonos'' White and Blue Geo Prism Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sanders'' Linen Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Orr'' Black & Grey Abstract Dash",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1026,6 +984,46 @@
     },
     {
       "name": "Silk Tie - Solid Dark Plum",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Patch Pocket Button Down - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Skyline'' Carolina Blue Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Legacy'' Dark Brown with White Dots",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1081,6 +1079,11 @@
     },
     {
       "name": "Pocket Square - White With Plum Edge Stitch",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1300,6 +1303,16 @@
       "hasPO": true
     },
     {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cameron\" Solid Ivory",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Topper'' Navy Bengal Stripe",
       "recentRestock": false,
       "hasPO": true
@@ -1321,16 +1334,6 @@
     },
     {
       "name": "\"The Richie'' Purple Mini Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cameron\" Solid Ivory",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1575,6 +1578,11 @@
       "hasPO": true
     },
     {
+      "name": "\"The Derby\" Sport Shirt - Light Grey Striped Herringbone",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Renegade'' Sport Shirt - Black & Grey Mini Geo Print",
       "recentRestock": false,
       "hasPO": true
@@ -1586,11 +1594,6 @@
     },
     {
       "name": "\"The Eddie'' Sport Shirt - Maroon and Grey Big Gingham",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Derby\" Sport Shirt - Light Grey Striped Herringbone",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2241,6 +2244,31 @@
     },
     {
       "name": "\"The Bellevue\" White with Purple Geo Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Mateo\" Deep Burgundy Abstract Micro",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Jackson\" White with Sky Blue Circles",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Cline\" White with Blue Abstract Dots",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hurricane\" Navy with Light Blue Abstract Circles",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Eli\" Grey and White Abstract",
       "recentRestock": false,
       "hasPO": true
     },
