@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T11:39:27.818Z",
+  "lastUpdated": "2026-11-13T10:28:34.491Z",
   "count": 1598,
   "products": [
     {
@@ -3501,6 +3501,12 @@
       "sizes": "38, 40, 42, 44, 46"
     },
     {
+      "parentName": "Athletic Fit Stretch Pant Chino - Black",
+      "category": "Tech Pants",
+      "poRef": "",
+      "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Athletic Fit Stretch Pants - Black Seersucker",
       "category": "Casual Pants",
       "poRef": "",
@@ -4077,106 +4083,100 @@
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Black",
-      "category": "Tech Pants",
-      "poRef": "",
-      "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Tech Chino - Brown",
+      "parentName": "Athletic Fit Stretch Tech Pant - Brown",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Charcoal",
+      "parentName": "Athletic Fit Stretch Tech Pant - Charcoal",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Coral Pink",
+      "parentName": "Athletic Fit Stretch Tech Pant - Coral Pink",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Dark Khaki",
+      "parentName": "Athletic Fit Stretch Tech Pant - Dark Khaki",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Hunter Green",
+      "parentName": "Athletic Fit Stretch Tech Pant - Hunter Green",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Light Blue",
+      "parentName": "Athletic Fit Stretch Tech Pant - Light Blue",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Light Brown",
+      "parentName": "Athletic Fit Stretch Tech Pant - Light Brown",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Light Grey",
+      "parentName": "Athletic Fit Stretch Tech Pant - Light Grey",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Light Khaki",
+      "parentName": "Athletic Fit Stretch Tech Pant - Light Khaki",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Maroon",
+      "parentName": "Athletic Fit Stretch Tech Pant - Maroon",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Mid Khaki",
+      "parentName": "Athletic Fit Stretch Tech Pant - Mid Khaki",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Mint Green",
+      "parentName": "Athletic Fit Stretch Tech Pant - Mint Green",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Navy",
+      "parentName": "Athletic Fit Stretch Tech Pant - Navy",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - Olive",
+      "parentName": "Athletic Fit Stretch Tech Pant - Olive",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
-      "parentName": "Athletic Fit Stretch Tech Chino - White",
+      "parentName": "Athletic Fit Stretch Tech Pant - Slate Blue",
+      "category": "Tech Pants",
+      "poRef": "",
+      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Tech Pant - White",
       "category": "Tech Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40, 42"
-    },
-    {
-      "parentName": "Athletic Fit Stretch Tech Chinos - Slate Blue",
-      "category": "Tech Pants",
-      "poRef": "",
-      "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
