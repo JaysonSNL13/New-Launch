@@ -1,42 +1,186 @@
 {
-  "lastUpdated": "2026-11-13T10:28:43.307Z",
-  "count": 428,
+  "lastUpdated": "2026-11-14T10:28:29.085Z",
+  "count": 429,
   "products": [
+    {
+      "name": "Suede Belt - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Suede Belt - Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Peter\" Light Blue Weave",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Westfield'' Solid Sage Green",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-09"
+    },
+    {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Springer\" Solid White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-16"
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Pocket Square - Pink",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Blue Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White with Light Blue Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Pink Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Black Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Dark Brown Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Dark Olive Edge Stitch",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Light Brown Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Purple Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Pocket Square - White With Plum Edge Stitch",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-12"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-27"
+    },
+    {
+      "name": "Open Button Overcoat - Charcoal Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-12"
+    },
     {
       "name": "Solid Leather Belt - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "Solid Leather Belt - Light Brown",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "Solid Leather Belt - Mid-Brown",
       "recentRestock": true,
       "hasPO": false,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "Solid Leather Belt - Dark Brown",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "Perforated Leather Belt - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "Perforated Leather Belt - Light Brown",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-15"
+      "restock": "2026-11-11"
     },
     {
       "name": "\"The Mykonos'' White and Blue Geo Prism Print",
@@ -103,36 +247,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
     },
     {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
@@ -205,18 +319,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-11-09"
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot Print",
@@ -405,12 +507,6 @@
       "restock": "2026-10-29"
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
@@ -499,18 +595,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-23"
-    },
-    {
-      "name": "\"The Peter\" Light Blue Weave",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Westfield'' Solid Sage Green",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
     },
     {
       "name": "\"The Kona'' Light Blue with Navy Dots",
@@ -897,22 +981,6 @@
       "restock": "2026-10-16"
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-15"
-    },
-    {
-      "name": "Suede Belt - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Suede Belt - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1028,66 +1096,6 @@
       "hasPO": true
     },
     {
-      "name": "Pocket Square - Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Blue Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White with Light Blue Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Pink Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Black Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Dark Olive Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Light Brown Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Purple Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Pocket Square - White With Plum Edge Stitch",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Open Button Overcoat - Charcoal Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Olive",
       "recentRestock": false,
       "hasPO": true
@@ -1198,16 +1206,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tech Pant - Mid Khaki",
       "recentRestock": false,
       "hasPO": true
@@ -1249,6 +1247,16 @@
     },
     {
       "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1573,7 +1581,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1843,6 +1851,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Suit Vest - Heathered Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Suit Vest - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
@@ -2069,6 +2082,11 @@
     },
     {
       "name": "\"The Rosedale\" Deep Olive with Green Geo Squares",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Hartford\" Navy Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
