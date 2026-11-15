@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14T10:28:29.085Z",
-  "count": 429,
+  "lastUpdated": "2026-11-15T10:28:42.825Z",
+  "count": 423,
   "products": [
     {
       "name": "Suede Belt - Black",
@@ -18,13 +18,13 @@
       "name": "\"The Baxter\" Blue Mini Line Patterned Windowpane",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-26"
     },
     {
       "name": "\"The Peter\" Light Blue Weave",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-26"
     },
     {
       "name": "\"The Westfield'' Solid Sage Green",
@@ -48,19 +48,19 @@
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-28"
     },
     {
       "name": "\"The Springer\" Solid White",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-26"
     },
     {
       "name": "\"The Von\" Solid Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-29"
     },
     {
       "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
@@ -246,7 +246,7 @@
       "name": "\"The Javier\" Pale Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-29"
     },
     {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
@@ -270,13 +270,13 @@
       "name": "The Solid White Tuxedo Shirt",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-29"
     },
     {
       "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-16"
+      "restock": "2026-10-29"
     },
     {
       "name": "\"The Jameson\" Mini Navy Dot - Classic Fit",
@@ -939,48 +939,6 @@
       "restock": "2026-10-19"
     },
     {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Delancey'' Navy Gingham",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Irvington'' Green with White Polka Dot",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Sullivan'' Brown and Taupe Big Gingham",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Royal'' Light Grey Mini Check",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Midtown'' Dark Maroon Windowpane",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
-      "name": "\"The Monroe'' Black Mini Lock",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-16"
-    },
-    {
       "name": "Athletic Fit Stretch Jeans - Mid-Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1312,6 +1270,11 @@
     },
     {
       "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
       "recentRestock": false,
       "hasPO": true
     },
