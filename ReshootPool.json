@@ -1,7 +1,181 @@
 {
-  "lastUpdated": "2026-11-16T10:31:20.947Z",
-  "count": 423,
+  "lastUpdated": "2026-11-16T11:38:31.308Z",
+  "count": 433,
   "products": [
+    {
+      "name": "Athletic fit Stretch Jeans - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-05"
+    },
+    {
+      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "\"The Briggs\" Solid White with Light Blue Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-09"
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "\"The Javier\" Pale Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Von\" Solid Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-29"
+    },
+    {
+      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Black Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Navy Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Maroon Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Silk Tie - Hunter Green",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Light Blue Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Silk Tie - Navy with Mini Grey Diamond",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Silk Tie - Light Blue with Grey & White Stripes",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Silk Tie - Sea Green",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Purple with Silver Dots Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Silk Tie - Dark Brown",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Sage Green Woven Silk Tie",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Silk Tie - Rose Pink",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Silk Tie - Pink, Purple, & White Cross Check",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Silk Tie - Solid Dark Plum",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Black Silk Bowtie",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-26"
+    },
+    {
+      "name": "Patch Pocket Button Down - Navy",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Patch Pocket Button Down - Brown",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Patch Pocket Button Down - Black",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
+    {
+      "name": "Patch Pocket Button Down - Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-13"
+    },
     {
       "name": "Suede Belt - Black",
       "recentRestock": true,
@@ -33,18 +207,6 @@
       "restock": "2026-10-26"
     },
     {
-      "name": "\"The Brady\" Light Pink & Light Blue Mini check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Briggs\" Solid White with Light Blue Accents",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-11-09"
-    },
-    {
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
@@ -52,18 +214,6 @@
     },
     {
       "name": "\"The Springer\" Solid White",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "\"The Von\" Solid Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-29"
-    },
-    {
-      "name": "\"The Vance\" Springer Limited Edition with Shadow Grey Accents",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-26"
@@ -243,12 +393,6 @@
       "restock": "2026-11-10"
     },
     {
-      "name": "\"The Javier\" Pale Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-29"
-    },
-    {
       "name": "Brushed Mid-Weight Short Sleeve Crewneck - Black",
       "recentRestock": true,
       "hasPO": true,
@@ -268,12 +412,6 @@
     },
     {
       "name": "The Solid White Tuxedo Shirt",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-29"
-    },
-    {
-      "name": "\"The Leonardo\" Solid White With Tortoise Shell Buttons",
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-29"
@@ -385,12 +523,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-11-06"
-    },
-    {
-      "name": "Athletic fit Stretch Jeans - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-11-05"
     },
     {
       "name": "Athletic Fit Stretch Jeans - Slate Grey",
@@ -663,36 +795,6 @@
       "restock": "2026-10-26"
     },
     {
-      "name": "Black Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "Light Blue Woven Silk Tie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "Black Silk Bowtie",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "Silk Tie - Pink, Purple, & White Cross Check",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
-      "name": "Silk Tie - Rose Pink",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-26"
-    },
-    {
       "name": "Navy & White Woven Silk Tie",
       "recentRestock": true,
       "hasPO": false,
@@ -939,97 +1041,12 @@
       "restock": "2026-10-19"
     },
     {
-      "name": "Athletic Fit Stretch Jeans - Mid-Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sidney\" Light Blue, White & Navy Faded Check",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Herbert\" Solid Pink",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Navy Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Maroon Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Hunter Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Navy with Mini Grey Diamond",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Light Blue with Grey & White Stripes",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Sea Green",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Purple with Silver Dots Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Dark Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Sage Green Woven Silk Tie",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Silk Tie - Solid Dark Plum",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Brown",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Patch Pocket Button Down - Olive",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1114,6 +1131,21 @@
       "hasPO": true
     },
     {
+      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
@@ -1145,21 +1177,6 @@
     },
     {
       "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Gretzky'' Sport Shirt - Solid Pale Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Payton'' Sport Shirt - Solid Deep Sage",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Rodgers'' Sport Shirt - Maroon Mini Grid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1584,6 +1601,46 @@
       "hasPO": true
     },
     {
+      "name": "\"The Carlyle\" Blue Bengal Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Shelbourne\" Light Blue Mini Gingham",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Delano\" Brown Mini Lock",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Plaza\" Grey and Green Gingham",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Redford\" White with Black Plus Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Beverly\" Blue Mini Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Beaumont\" Grey Abstract Mini Dash",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Claridge\" Lilac Mid Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The King\" Black and White Geo Prism Print",
       "recentRestock": false,
       "hasPO": true
@@ -1870,6 +1927,16 @@
     },
     {
       "name": "Athletic Fit Shorts - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tech Ribbed Quarter Zip - Light Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tech Ribbed Quarter Zip - Black",
       "recentRestock": false,
       "hasPO": true
     },
