@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-16T10:29:17.985Z",
-  "count": 1599,
+  "lastUpdated": "2026-11-16T11:38:22.195Z",
+  "count": 1609,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -189,6 +189,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Beaumont\" Grey Abstract Mini Dash",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Beckett\" White with Abstract Dots",
       "category": "Polos",
       "poRef": "",
@@ -223,6 +229,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Beverly\" Blue Mini Dash",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Blitz\" Abstract Navy Lines",
@@ -387,6 +399,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
     },
     {
+      "parentName": "\"The Carlyle\" Blue Bengal Stripe",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Castle Rock\" Sky Blue Mini Houndstooth",
       "category": "Polos",
       "poRef": "",
@@ -415,6 +433,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Claridge\" Lilac Mid Stripe",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Cleveland'' White with Navy and Light Blue Mini Plaid",
@@ -505,6 +529,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XS, XXL"
+    },
+    {
+      "parentName": "\"The Delano\" Brown Mini Lock",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Delray\" Navy & Pink Cross Stitch",
@@ -1653,6 +1683,12 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "\"The Plaza\" Grey and Green Gingham",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
       "parentName": "\"The Portland'' Sport Shirt - Light Pink with Light Blue Mini Check",
       "category": "Sport Shirt",
       "poRef": "",
@@ -1693,6 +1729,12 @@
       "category": "Casual Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Redford\" White with Black Plus Print",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Renegade'' Sport Shirt - Black & Grey Mini Geo Print",
@@ -1879,6 +1921,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "\"The Shelbourne\" Light Blue Mini Gingham",
+      "category": "Dress Shirt",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "\"The Shore\" White with Tan Windowpane",
@@ -7309,6 +7357,18 @@
       "category": "Quarter Zips",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Tech Ribbed Quarter Zip - Black",
+      "category": "Quarter Zips",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
+    },
+    {
+      "parentName": "Tech Ribbed Quarter Zip - Light Olive",
+      "category": "Quarter Zips",
+      "poRef": "",
+      "sizes": "Small, Medium, Large, XL, XXL, 3XL"
     },
     {
       "parentName": "Tech Stretch Blazer - Charcoal Microcheck",
