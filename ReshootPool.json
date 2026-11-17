@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T10:31:11.483Z",
-  "count": 433,
+  "lastUpdated": "2026-11-17T11:23:45.470Z",
+  "count": 431,
   "products": [
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -1071,21 +1071,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
       "recentRestock": false,
       "hasPO": true
@@ -1127,6 +1112,21 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2216,6 +2216,16 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Seersucker Shorts - Tan Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Seersucker Shorts - Navy Mini Stripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Linen Blazer - Mid-Blue - Short",
       "recentRestock": false,
       "hasPO": true
@@ -2242,26 +2252,6 @@
     },
     {
       "name": "Athletic Fit Stretch Linen Blazer - Tan",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Seersucker Short Sleeve Button Down - White with Light Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Seersucker Short Sleeve Button Down - White with Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Seersucker Shorts - Tan Mini Stripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Seersucker Shorts - Navy Mini Stripe",
       "recentRestock": false,
       "hasPO": true
     },
