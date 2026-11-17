@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T11:38:22.195Z",
+  "lastUpdated": "2026-11-17T10:29:06.469Z",
   "count": 1609,
   "products": [
     {
@@ -3549,12 +3549,6 @@
       "sizes": "38, 40, 42, 44, 46"
     },
     {
-      "parentName": "Athletic Fit Stretch Pant Chino - Black",
-      "category": "Tech Pants",
-      "poRef": "",
-      "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
-    },
-    {
       "parentName": "Athletic Fit Stretch Pants - Black Seersucker",
       "category": "Casual Pants",
       "poRef": "",
@@ -4129,6 +4123,12 @@
       "category": "Dress Pants",
       "poRef": "",
       "sizes": "29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Tech Pant - Black",
+      "category": "Tech Pants",
+      "poRef": "",
+      "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Athletic Fit Stretch Tech Pant - Brown",
