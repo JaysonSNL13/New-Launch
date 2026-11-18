@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T10:31:46.205Z",
-  "count": 427,
+  "lastUpdated": "2026-11-18T11:12:40.208Z",
+  "count": 432,
   "products": [
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -1047,21 +1047,6 @@
       "hasPO": true
     },
     {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1122,6 +1107,46 @@
       "hasPO": true
     },
     {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Long Sleeve Crewneck - Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Charcoal",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Dress Socks - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - White",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Branded No-Show Socks - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
@@ -1168,31 +1193,6 @@
     },
     {
       "name": "Pocket Square - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Branded No-Show Socks - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Branded No-Show Socks - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2067,6 +2067,16 @@
       "hasPO": true
     },
     {
+      "name": "Mid-Weight Ribbed Quarter Zip - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Mid-Weight Ribbed Quarter Zip - Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Loveland\" Olive and Black Bengal Mini Stripe",
       "recentRestock": false,
       "hasPO": true
@@ -2188,6 +2198,21 @@
     },
     {
       "name": "Athletic fit Stretch Jeans - Light Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Shorts - Grey & White Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Navy & White Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Shorts - Black Seersucker",
       "recentRestock": false,
       "hasPO": true
     },
