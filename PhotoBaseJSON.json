@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T11:12:31.803Z",
+  "lastUpdated": "2026-11-19T10:28:41.127Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 206
@@ -1645,7 +1645,7 @@
         "SL-BLAZER-HOLIVE-48"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1674,7 +1674,7 @@
         "SL-BLAZER-WOOLGREYPLAID-48"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1703,7 +1703,7 @@
         "SL-BLAZER-NAVYBLKMICRO-48"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1734,7 +1734,7 @@
         "SL-PANT-HOLIVE-40"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1765,7 +1765,7 @@
         "SL-PANT-WOOLGREYPLAID-40"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1796,7 +1796,7 @@
         "SL-PANT-NAVYBLACKMICRO-40"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1823,7 +1823,7 @@
         "SL-BLAZER-WOOLGREYPLAID-46SHORT"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
@@ -1850,7 +1850,7 @@
         "SL-BLAZER-NAVYBLKMICRO-46SHORT"
       ],
       "bulkExf": "2026-09-18",
-      "bulkEtaDate": "2026-11-25",
+      "bulkEtaDate": "2026-11-26",
       "bulkEta": "End of November",
       "shipment": "Sea",
       "received": false,
