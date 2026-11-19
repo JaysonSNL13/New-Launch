@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T11:12:40.208Z",
-  "count": 432,
+  "lastUpdated": "2026-11-19T10:29:51.182Z",
+  "count": 427,
   "products": [
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -654,7 +654,7 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-20"
+      "restock": "2026-10-28"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
@@ -939,82 +939,9 @@
       "restock": "2026-10-21"
     },
     {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Sand",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Long Sleeve Textured Knit Cashmere Polo - Charcoal",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Lightweight Knit Polo - Charcoal Herringbone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Lightweight Knit Polo - Light Blue Herringbone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Casual Stretch Belt - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Casual Stretch Belt - Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Casual Stretch Belt - Light Brown",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
-    },
-    {
-      "name": "Casual Stretch Belt - Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-20"
+      "recentRestock": false,
+      "hasPO": true
     },
     {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
@@ -1163,6 +1090,21 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Blue - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1708,6 +1650,26 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Cappuccino Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Casual Stretch Belt - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Casual Stretch Belt - Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Casual Stretch Belt - Light Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Casual Stretch Belt - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
