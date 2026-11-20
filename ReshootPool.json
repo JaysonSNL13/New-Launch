@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-11-20T10:29:22.362Z",
-  "count": 425,
+  "lastUpdated": "2026-11-20T11:25:15.321Z",
+  "count": 426,
   "products": [
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
+    {
+      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
+      "recentRestock": true,
+      "hasPO": false,
+      "restock": "2026-11-19"
+    },
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
       "recentRestock": true,
@@ -950,46 +998,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Wool Pants - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Black Microcheck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Grey Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
       "recentRestock": false,
       "hasPO": true
@@ -1120,22 +1128,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Herbert\" Solid Pink - Classic fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1181,6 +1179,16 @@
     },
     {
       "name": "Athletic Fit Stretch Wool Blazer - Brushed Walnut",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Herbert\" Solid Pink - Classic fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1435,12 +1443,32 @@
       "hasPO": true
     },
     {
+      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Westport\" Black Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Performance Cotton Twill 5 Pocket Pant - Brown",
       "recentRestock": false,
       "hasPO": true
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Navy",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1456,26 +1484,6 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Brushed Mid-Weight Short Sleeve Crewneck - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Westport\" Black Short Sleeve Crewneck",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Taylor\" White Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1931,6 +1939,11 @@
     },
     {
       "name": "\"The Harden\" Navy Pique Polo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Light Blue Mini Houndstooth",
       "recentRestock": false,
       "hasPO": true
     },
