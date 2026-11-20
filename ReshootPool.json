@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T11:28:21.647Z",
-  "count": 428,
+  "lastUpdated": "2026-11-20T10:29:22.362Z",
+  "count": 425,
   "products": [
     {
       "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
@@ -915,36 +915,6 @@
       "restock": "2026-10-23"
     },
     {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-21"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-21"
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-21"
-    },
-    {
-      "name": "3 Button Overcoat - Brown",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-21"
-    },
-    {
-      "name": "3 Button Overcoat - Light Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-21"
-    },
-    {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
       "recentRestock": false,
       "hasPO": true
@@ -1076,6 +1046,16 @@
     },
     {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Navy",
       "recentRestock": false,
       "hasPO": true
     },
