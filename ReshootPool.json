@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21T10:30:28.692Z",
-  "count": 426,
+  "lastUpdated": "2026-11-22T10:28:48.694Z",
+  "count": 414,
   "products": [
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Olive",
@@ -678,7 +678,7 @@
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-23"
+      "restock": "2026-10-27"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
@@ -780,7 +780,7 @@
       "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-23"
+      "restock": "2026-10-27"
     },
     {
       "name": "\"The Kona'' Light Blue with Navy Dots",
@@ -889,78 +889,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-10-26"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Olive - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Latte",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Navy and Midnight Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Suit Pants - Charcoal with Ash Mini Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe - Short",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Latte",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Navy and Midnight Plaid",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "Athletic Fit Stretch Wool Blazer - Charcoal with Ash Mini Stripe",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "3 Button Overcoat - Charcoal Herringbone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
-    },
-    {
-      "name": "3 Button Overcoat - Tan Herringbone",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-23"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
