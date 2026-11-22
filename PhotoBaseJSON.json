@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T10:29:03.923Z",
+  "lastUpdated": "2026-11-22T10:28:34.168Z",
   "generatedBy": "buildPhotoBaseJSON (Apps Script) — pre-enrichment base",
   "counts": {
     "total": 204
@@ -1999,7 +1999,7 @@
         "SL-CREW-LSBRUSHEDBLACK-XXL"
       ],
       "bulkExf": "2026-10-31",
-      "bulkEtaDate": "2026-11-28",
+      "bulkEtaDate": "2026-11-29",
       "bulkEta": "End of November",
       "shipment": "Air",
       "received": false,
@@ -2027,7 +2027,7 @@
         "SL-CREW-LSBRUSHEDOLIVE-XXL"
       ],
       "bulkExf": "2026-10-31",
-      "bulkEtaDate": "2026-11-28",
+      "bulkEtaDate": "2026-11-29",
       "bulkEta": "End of November",
       "shipment": "Air",
       "received": false,
@@ -2055,7 +2055,7 @@
         "SL-CREW-LSBRUSHEDWHITE-XXL"
       ],
       "bulkExf": "2026-10-31",
-      "bulkEtaDate": "2026-11-28",
+      "bulkEtaDate": "2026-11-29",
       "bulkEta": "End of November",
       "shipment": "Air",
       "received": false,
