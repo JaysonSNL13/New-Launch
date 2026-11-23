@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-23T10:28:15.909Z",
-  "count": 1609,
+  "lastUpdated": "2026-11-23T11:48:55.921Z",
+  "count": 1610,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -1147,6 +1147,12 @@
       "category": "Dress Shirt",
       "poRef": "",
       "sizes": "3XL, Large, Medium, Small, XL, XXL, XS"
+    },
+    {
+      "parentName": "\"The Kellen\" Light Blue Mini Patterned - Classic Fit",
+      "category": "Classic Fit",
+      "poRef": "",
+      "sizes": "40, 42, 44, 46, 48"
     },
     {
       "parentName": "\"The Ken\" White & Light Blue Floral Print Polo",
