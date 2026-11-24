@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-11-24T10:31:18.341Z",
+  "lastUpdated": "2026-11-24T11:04:33.106Z",
   "count": 415,
   "products": [
+    {
+      "name": "Dress Socks - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Dress Socks - Charcoal",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Dress Socks - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Branded No-Show Socks - White",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Branded No-Show Socks - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-18"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Black",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Navy",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-10-28"
+    },
+    {
+      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
+      "recentRestock": true,
+      "hasPO": true,
+      "restock": "2026-11-23"
+    },
     {
       "name": "Brushed Mid-Weight Long Sleeve Crewneck - White",
       "recentRestock": true,
@@ -85,12 +181,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-11-19"
-    },
-    {
-      "name": "Athletic Fit Stretch Flat Front Waistband Tuxedo Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-11-18"
     },
     {
       "name": "Athletic fit Stretch Jeans - Black",
@@ -735,30 +825,6 @@
       "restock": "2026-10-27"
     },
     {
-      "name": "Athletic Fit Stretch Suit Pants - Black",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Navy",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
       "recentRestock": true,
       "hasPO": true,
@@ -927,31 +993,6 @@
       "restock": "2026-10-26"
     },
     {
-      "name": "Dress Socks - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Charcoal",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Dress Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Branded No-Show Socks - White",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Branded No-Show Socks - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
@@ -978,36 +1019,6 @@
     },
     {
       "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Light Blue",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Heathered Maroon",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Pants - Lightweight Heathered Bamboo",
       "recentRestock": false,
       "hasPO": true
     },
