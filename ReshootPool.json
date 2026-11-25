@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T10:28:31.370Z",
-  "count": 401,
+  "lastUpdated": "2026-11-25T11:50:33.906Z",
+  "count": 410,
   "products": [
     {
       "name": "Dress Socks - Navy",
@@ -23,13 +23,13 @@
     {
       "name": "Branded No-Show Socks - White",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-11-23"
     },
     {
       "name": "Branded No-Show Socks - Black",
       "recentRestock": true,
-      "hasPO": true,
+      "hasPO": false,
       "restock": "2026-11-23"
     },
     {
@@ -885,41 +885,6 @@
       "restock": "2026-10-27"
     },
     {
-      "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Athletic Fit Stretch Suit Vest - Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Howard\" Solid Navy - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Melrose'' Light Purple - Classic Fit",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Pocket Square - Maroon",
       "recentRestock": false,
       "hasPO": true
@@ -955,6 +920,26 @@
       "hasPO": true
     },
     {
+      "name": "Trimmer",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic fit Stretch Suit Vest - Blue Plaid",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Black",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Suit Vest - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Tuxedo Jacket - Black with Peak Lapel - SHORT",
       "recentRestock": false,
       "hasPO": true
@@ -965,32 +950,22 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
+      "name": "\"The Boylston\" Navy with White Polka Dots - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
+      "name": "\"The Howard\" Solid Navy - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Herbert\" Solid Pink - Classic fit",
+      "name": "\"The Melrose'' Light Purple - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "\"The Howard\" Solid Navy",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Smokey\" Solid White With Olive Accents",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Cameron\" Solid Ivory",
+      "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1020,6 +995,31 @@
       "hasPO": true
     },
     {
+      "name": "\"The Springer\" Limited Edition: White with Navy Accents - Classic Fit",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Howard\" Solid Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Smokey\" Solid White With Olive Accents",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Rocky'' Powder Blue with White Stripes",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
       "recentRestock": false,
       "hasPO": true
@@ -1040,12 +1040,12 @@
       "hasPO": true
     },
     {
-      "name": "\"The Rocky'' Powder Blue with White Stripes",
+      "name": "\"The Herbert\" Solid Pink - Classic fit",
       "recentRestock": false,
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey - Short",
+      "name": "Athletic Fit Stretch Tuxedo Jacket - Navy with Peak Lapel",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1200,32 +1200,7 @@
       "hasPO": true
     },
     {
-      "name": "\"The Christian\" Charcoal Double Pinstripe",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Devon\" Light Grey with White Mini Dot",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Garrett\" Burgundy Diamond Geo Print",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Goose\" Black and Navy Abstract Houndstooth",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Parsons\" Navy with White Mini Windowpane",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "\"The Kellen\" Light Blue Mini Patterned",
+      "name": "\"The Cameron\" Solid Ivory",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1300,6 +1275,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Sinclair\" Heathered Cream Short Sleeve Crewneck",
       "recentRestock": false,
       "hasPO": true
@@ -1311,6 +1291,36 @@
     },
     {
       "name": "\"The Taylor\" White Short Sleeve Crewneck",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Christian\" Charcoal Double Pinstripe",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Devon\" Light Grey with White Mini Dot",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Garrett\" Burgundy Diamond Geo Print",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Goose\" Black and Navy Abstract Houndstooth",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Parsons\" Navy with White Mini Windowpane",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "\"The Kellen\" Light Blue Mini Patterned",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1545,11 +1555,6 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon - Short",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "\"The Bellamy\" Business Blue - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -1715,16 +1720,6 @@
       "hasPO": true
     },
     {
-      "name": "Tech Ribbed Quarter Zip - Light Olive",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
-      "name": "Tech Ribbed Quarter Zip - Black",
-      "recentRestock": false,
-      "hasPO": true
-    },
-    {
       "name": "Wide Ribbed Lightweight Merino Short Sleeve Button Down - Black",
       "recentRestock": false,
       "hasPO": true
@@ -1876,6 +1871,16 @@
     },
     {
       "name": "\"The Deke'' Navy Pique Short Sleeve Button Down",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tech Ribbed Quarter Zip - Light Olive",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Tech Ribbed Quarter Zip - Black",
       "recentRestock": false,
       "hasPO": true
     },
@@ -2035,6 +2040,36 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Pants - Navy & White Mini Stripe Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Pants - Brown & White Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy & White Mini Stripe Seersucker - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & White Seersucker - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Navy & White Mini Stripe Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Brown & White Seersucker",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Athletic Fit Stretch Linen Blazer - Mid-Blue - Short",
       "recentRestock": false,
       "hasPO": true
@@ -2061,6 +2096,16 @@
     },
     {
       "name": "Athletic Fit Stretch Linen Blazer - Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Polo - Dark Brown",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Seersucker Polo - Light Grey",
       "recentRestock": false,
       "hasPO": true
     },
