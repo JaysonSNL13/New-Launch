@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T10:28:22.141Z",
-  "count": 1610,
+  "lastUpdated": "2026-11-25T11:50:27.010Z",
+  "count": 1619,
   "products": [
     {
       "parentName": "\"The Aaria\" Sport Shirt - Light Grey Bengal Stripe",
@@ -2691,6 +2691,18 @@
       "sizes": "38S, 40S, 42S, 44S, 46S"
     },
     {
+      "parentName": "Athletic Fit Stretch Blazer - Brown & White Seersucker",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Brown & White Seersucker - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "40, 42, 44"
+    },
+    {
       "parentName": "Athletic Fit Stretch Blazer - Brown Plaid",
       "category": "Blazers",
       "poRef": "",
@@ -3201,6 +3213,18 @@
       "sizes": "36, 38, 40, 42, 44, 46, 48"
     },
     {
+      "parentName": "Athletic Fit Stretch Blazer - Navy & White Mini Stripe Seersucker",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "38, 40, 42, 44, 46, 48"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Blazer - Navy & White Mini Stripe Seersucker - Short",
+      "category": "Casual Blazers",
+      "poRef": "",
+      "sizes": "40, 42, 44"
+    },
+    {
       "parentName": "Athletic Fit Stretch Blazer - Navy & White Pinstripe",
       "category": "Blazers",
       "poRef": "",
@@ -3567,6 +3591,12 @@
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
+      "parentName": "Athletic Fit Stretch Pants - Brown & White Seersucker",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
       "parentName": "Athletic Fit Stretch Pants - Grey & White Seersucker",
       "category": "Casual Pants",
       "poRef": "",
@@ -3607,6 +3637,12 @@
       "category": "Dress Pants",
       "poRef": "",
       "sizes": "28, 29, 30, 31, 32, 33, 34, 36, 38, 40"
+    },
+    {
+      "parentName": "Athletic Fit Stretch Pants - Navy & White Mini Stripe Seersucker",
+      "category": "Casual Pants",
+      "poRef": "",
+      "sizes": "30, 31, 32, 33, 34, 36, 38, 40"
     },
     {
       "parentName": "Athletic Fit Stretch Pants - Solid White",
@@ -6861,6 +6897,18 @@
       "sizes": "3XL, Large, Medium, Small, XL, XXL"
     },
     {
+      "parentName": "Seersucker Polo - Dark Brown",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
+      "parentName": "Seersucker Polo - Light Grey",
+      "category": "Polos",
+      "poRef": "",
+      "sizes": "3XL, Large, Medium, Small, XL, XXL"
+    },
+    {
       "parentName": "Seersucker Polo - Navy",
       "category": "Polos",
       "poRef": "",
@@ -9406,6 +9454,12 @@
     },
     {
       "parentName": "Travel Garment Bag",
+      "category": "Accessory",
+      "poRef": "",
+      "sizes": "One Size"
+    },
+    {
+      "parentName": "Trimmer",
       "category": "Accessory",
       "poRef": "",
       "sizes": "One Size"
