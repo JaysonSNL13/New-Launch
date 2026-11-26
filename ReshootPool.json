@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T14:47:36.318Z",
-  "count": 410,
+  "lastUpdated": "2026-11-26T11:47:55.620Z",
+  "count": 415,
   "products": [
     {
       "name": "Dress Socks - Navy",
@@ -269,25 +269,25 @@
     {
       "name": "Light Blue Woven Silk Tie",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
       "name": "Silk Tie - Navy with Mini Grey Diamond",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
       "name": "Silk Tie - Light Blue with Grey & White Stripes",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
       "name": "Silk Tie - Sea Green",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
@@ -305,13 +305,13 @@
     {
       "name": "Sage Green Woven Silk Tie",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
       "name": "Silk Tie - Rose Pink",
       "recentRestock": true,
-      "hasPO": false,
+      "hasPO": true,
       "restock": "2026-11-13"
     },
     {
@@ -468,7 +468,7 @@
       "name": "Athletic Fit Stretch Blazer - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-27"
+      "restock": "2026-10-29"
     },
     {
       "name": "Open Button Overcoat - Charcoal Olive",
@@ -804,7 +804,7 @@
       "name": "Athletic Fit Stretch Blazer - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-27"
+      "restock": "2026-10-29"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey",
@@ -822,7 +822,7 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-27"
+      "restock": "2026-10-29"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
@@ -859,30 +859,6 @@
       "recentRestock": true,
       "hasPO": false,
       "restock": "2026-10-28"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-27"
     },
     {
       "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
@@ -1060,6 +1036,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Bamboo",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "Performance Cotton Twill 5 Pocket Pant - Tan",
       "recentRestock": false,
       "hasPO": true
@@ -1071,6 +1052,11 @@
     },
     {
       "name": "Performance Cotton Twill 5 Pocket Pant - Navy",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Blue",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1210,6 +1196,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Dylan\" Sky Blue Pique Button Down",
       "recentRestock": false,
       "hasPO": true
@@ -1335,7 +1326,7 @@
       "hasPO": true
     },
     {
-      "name": "Athletic Fit Stretch Blazer - Heathered Maroon",
+      "name": "Athletic Fit Stretch Blazer - Blue Plaid",
       "recentRestock": false,
       "hasPO": true
     },
@@ -1820,6 +1811,11 @@
       "hasPO": true
     },
     {
+      "name": "Athletic Fit Stretch Blazer - Lightweight Heathered Light Grey",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
       "name": "\"The Morrison\" Blue & White Mini Pattern - Classic Fit",
       "recentRestock": false,
       "hasPO": true
@@ -2176,6 +2172,31 @@
     },
     {
       "name": "Trimmer",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Champagne Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Solid Dark Tan",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Mid Blue",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Navy & White Woven Silk Tie",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Silk Tie - Light Blue & Grey Cross Check",
       "recentRestock": false,
       "hasPO": true
     },
