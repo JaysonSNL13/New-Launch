@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-26T11:47:55.620Z",
-  "count": 415,
+  "lastUpdated": "2026-11-27T11:47:09.627Z",
+  "count": 410,
   "products": [
     {
       "name": "Dress Socks - Navy",
@@ -48,13 +48,13 @@
       "name": "Athletic Fit Stretch Suit Pants - Black",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-23"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Blue",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-23"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Heathered Grey",
@@ -72,13 +72,13 @@
       "name": "Athletic Fit Stretch Suit Pants - Heathered Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-23"
     },
     {
       "name": "Athletic Fit Stretch Suit Pants - Navy",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-23"
     },
     {
       "name": "Athletic Fit Suit Pants - Lightweight Heathered Light Grey",
@@ -390,13 +390,13 @@
       "name": "\"The Springer\" Limited Edition: White with Navy Accents",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-10-29"
     },
     {
       "name": "\"The Springer\" Solid White",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-09"
     },
     {
       "name": "Pocket Square - Pink",
@@ -642,7 +642,7 @@
       "name": "\"The Jameson\" Mini Navy Dot Print",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-09"
     },
     {
       "name": "\"The Morrison\" Blue & White Mini Pattern",
@@ -660,7 +660,7 @@
       "name": "\"The Watertown\" White & Light Blue Mini Windowpane",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-11-09"
     },
     {
       "name": "Athletic Fit Stretch Tech Pant - Black",
@@ -780,13 +780,13 @@
       "name": "Athletic Fit Stretch Blazer - Heathered Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-10-29"
     },
     {
       "name": "Athletic Fit Stretch Blazer - Navy - Short",
       "recentRestock": true,
       "hasPO": true,
-      "restock": "2026-10-28"
+      "restock": "2026-10-29"
     },
     {
       "name": "\"The Melrose\" Light Purple Weave",
@@ -823,42 +823,6 @@
       "recentRestock": true,
       "hasPO": true,
       "restock": "2026-10-29"
-    },
-    {
-      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
-      "recentRestock": true,
-      "hasPO": true,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Brushed Button Down Vest - Grey",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Brushed Button Down Vest - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Puffer Vest - Black",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Puffer Vest - Khaki",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-28"
-    },
-    {
-      "name": "Stretch Puffer Coat - Navy",
-      "recentRestock": true,
-      "hasPO": false,
-      "restock": "2026-10-28"
     },
     {
       "name": "\"The Fairway'' Abstract Grey and White Houndstooth",
@@ -1032,6 +996,11 @@
     },
     {
       "name": "Athletic Fit Stretch Blazer - Black - Short",
+      "recentRestock": false,
+      "hasPO": true
+    },
+    {
+      "name": "Athletic Fit Stretch Blazer - Heathered Grey - Short",
       "recentRestock": false,
       "hasPO": true
     },
